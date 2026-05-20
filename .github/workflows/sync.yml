@@ -1,4 +1,4 @@
-# .github/workflows/sync.yml
+# ..github/workflows/sync.yml
 name: Sync domain list
 
 on:
