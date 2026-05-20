@@ -1,7 +1,7 @@
 # NAME: SONY
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:48
+# UPDATED: 2026-05-20 12:57:53
 # DOMAIN-SUFFIX: 115
 # TOTAL: 115
 DOMAIN-SUFFIX,ginzasonypark.jp
@@ -99,7 +99,7 @@ DOMAIN-SUFFIX,sonybsc.com
 DOMAIN-SUFFIX,sonybuilding.jp
 DOMAIN-SUFFIX,sonyclassics.com
 DOMAIN-SUFFIX,sonydesign.com
-DOMAIN-SUFFIX,sonydna.com # Sony Digital Network Applications Inc.
+DOMAIN-SUFFIX,sonydna.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,sonyglobalsolutions.jp
 DOMAIN-SUFFIX,sonykigyo.jp
@@ -113,7 +113,7 @@ DOMAIN-SUFFIX,sonypicturesstudios.com
 DOMAIN-SUFFIX,sonypicturestelevision.com
 DOMAIN-SUFFIX,sonypicturestelevisiongames.com
 DOMAIN-SUFFIX,sonyprotechnosupport.co.jp
-DOMAIN-SUFFIX,sonystoragemedia.co.jp # Sony Storage Media Solutions Corporation
+DOMAIN-SUFFIX,sonystoragemedia.co.jp
 DOMAIN-SUFFIX,sonytc.co.jp
 DOMAIN-SUFFIX,sovec.net
 DOMAIN-SUFFIX,wheelpop.com

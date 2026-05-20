@@ -1,7 +1,7 @@
 # NAME: SBER
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:48
+# UPDATED: 2026-05-20 12:57:53
 # DOMAIN-SUFFIX: 91
 # DOMAIN: 6
 # TOTAL: 97
@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,bps-sberbank.by
 DOMAIN-SUFFIX,citydrive.ru
 DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,cloud.ru
-DOMAIN-SUFFIX,cloudru.cn # HK
+DOMAIN-SUFFIX,cloudru.cn
 DOMAIN-SUFFIX,cplsb.ru
 DOMAIN-SUFFIX,eaptechka.online
 DOMAIN-SUFFIX,eapteka.ru

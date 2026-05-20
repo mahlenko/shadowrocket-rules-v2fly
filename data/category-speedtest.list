@@ -1,7 +1,7 @@
 # NAME: CATEGORY-SPEEDTEST
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:47
+# UPDATED: 2026-05-20 12:57:52
 # DOMAIN-SUFFIX: 73
 # DOMAIN: 2
 # URL-REGEX: 1
@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,linkmeter.net
 DOMAIN-SUFFIX,measurementlab.net
 DOMAIN-SUFFIX,meter.net
 DOMAIN-SUFFIX,nperf.com
-DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk # HGC Global Communications 香港環電
+DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk
 DOMAIN-SUFFIX,ookla.com
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,open.cachefly.net

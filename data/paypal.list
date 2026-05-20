@@ -1,7 +1,7 @@
 # NAME: PAYPAL
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:48
+# UPDATED: 2026-05-20 12:57:53
 # DOMAIN-SUFFIX: 244
 # DOMAIN: 1
 # TOTAL: 245
@@ -243,7 +243,7 @@ DOMAIN-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com
 DOMAIN-SUFFIX,www-paypal.info
 DOMAIN-SUFFIX,www-paypal.us
 DOMAIN-SUFFIX,wwwxoom.com
-DOMAIN-SUFFIX,xn--bnq297cix3a.cn  # 易付通.cn
+DOMAIN-SUFFIX,xn--bnq297cix3a.cn
 DOMAIN-SUFFIX,xoom-experience.com
 DOMAIN-SUFFIX,xoom.com
 DOMAIN-SUFFIX,xoom.io

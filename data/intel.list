@@ -1,7 +1,7 @@
 # NAME: INTEL
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:48
+# UPDATED: 2026-05-20 12:57:53
 # DOMAIN-SUFFIX: 288
 # TOTAL: 288
 DOMAIN-SUFFIX,01.org
@@ -290,5 +290,5 @@ DOMAIN-SUFFIX,vokevr.com
 DOMAIN-SUFFIX,vpro.com
 DOMAIN-SUFFIX,vpro.net
 DOMAIN-SUFFIX,xeon.com
-DOMAIN-SUFFIX,xn--ztsq84g.cn # 奔腾.cn
+DOMAIN-SUFFIX,xn--ztsq84g.cn
 DOMAIN-SUFFIX,xscale.com

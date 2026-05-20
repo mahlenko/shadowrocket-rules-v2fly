@@ -1,7 +1,7 @@
 # NAME: TBANK-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:48
+# UPDATED: 2026-05-20 12:57:53
 # DOMAIN-SUFFIX: 110
 # DOMAIN: 2
 # TOTAL: 112
@@ -109,11 +109,11 @@ DOMAIN-SUFFIX,tmiaf.ru
 DOMAIN-SUFFIX,tpension.ru
 DOMAIN-SUFFIX,travel-tec.ru
 DOMAIN-SUFFIX,unidraw.io
-DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai # эра-инвестиций.рф
-DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai # фрод-рулетка.рф
-DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai # ит-каток.рф
+DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai
 DOMAIN-SUFFIX,xn--90aifd0az.shop
-DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf # тбизнес.рус
+DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
 DOMAIN-SUFFIX,xn--b1aechhj6bof8g5a.site
 DOMAIN-SUFFIX,xn--d1abkf4ap.fun
 DOMAIN-SUFFIX,xn--h1ao.site

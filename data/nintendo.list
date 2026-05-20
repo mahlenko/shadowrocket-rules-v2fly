@@ -1,7 +1,7 @@
 # NAME: NINTENDO
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:48
+# UPDATED: 2026-05-20 12:57:53
 # DOMAIN-SUFFIX: 124
 # TOTAL: 124
 DOMAIN-SUFFIX,100classicbooks.com
@@ -125,6 +125,6 @@ DOMAIN-SUFFIX,wiisportsresort.com
 DOMAIN-SUFFIX,wiiugamepad.com
 DOMAIN-SUFFIX,wiivc.net
 DOMAIN-SUFFIX,xenoblade.com
-DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn  # 神奇宝贝.cn
-DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net # 神奇宝贝.net
+DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
+DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,yoshisnewisland.com

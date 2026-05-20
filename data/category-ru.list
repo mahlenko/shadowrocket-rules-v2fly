@@ -1,7 +1,7 @@
 # NAME: CATEGORY-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:47
+# UPDATED: 2026-05-20 12:57:52
 # DOMAIN-SUFFIX: 1378
 # DOMAIN: 232
 # TOTAL: 1610
@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,2gis.tech
 DOMAIN-SUFFIX,2gis.tj
 DOMAIN-SUFFIX,2gis.uz
 DOMAIN-SUFFIX,2w.ru
-DOMAIN-SUFFIX,3ebra.net          # Zebra Net Bureau, web development agency
+DOMAIN-SUFFIX,3ebra.net
 DOMAIN-SUFFIX,4c.ru
 DOMAIN-SUFFIX,4epenaxa.com
 DOMAIN-SUFFIX,5ka.ru
@@ -84,7 +84,7 @@ DOMAIN,advert-api.wildberries.ru
 DOMAIN,advert-media-api.wb.ru
 DOMAIN,advert-media-api.wildberries.ru
 DOMAIN,advk.vk.ru
-DOMAIN-SUFFIX,adygeya.ru      # Republic of Adygea
+DOMAIN-SUFFIX,adygeya.ru
 DOMAIN-SUFFIX,afisha.ru
 DOMAIN,agency-adv.ozon.ru
 DOMAIN-SUFFIX,akbars.ru
@@ -97,10 +97,10 @@ DOMAIN-SUFFIX,alfadirect.ru
 DOMAIN-SUFFIX,algoritmika.org
 DOMAIN-SUFFIX,alt-ad.mail.ru
 DOMAIN,alt-r.my.com
-DOMAIN-SUFFIX,altai.ru        # Altai Territory
+DOMAIN-SUFFIX,altai.ru
 DOMAIN,amc.yandex.ru
 DOMAIN-SUFFIX,amediateka.ru
-DOMAIN-SUFFIX,amur.ru         # Amur Region
+DOMAIN-SUFFIX,amur.ru
 DOMAIN,an.mail.ru
 DOMAIN-SUFFIX,an.yandex.ru
 DOMAIN,analytics-adv.ozon.ru
@@ -136,12 +136,12 @@ DOMAIN-SUFFIX,appmetrica.yandex.ru
 DOMAIN-SUFFIX,appmetrica.yango.com
 DOMAIN-SUFFIX,appsmail.ru
 DOMAIN-SUFFIX,apptracer.ru
-DOMAIN-SUFFIX,apptrackpets.com   # Pet GPS tracker service (Yandex Cloud, reg.ru)
+DOMAIN-SUFFIX,apptrackpets.com
 DOMAIN,arenda.yandex.ru
-DOMAIN-SUFFIX,arkhangelsk.ru  # Arkhangelsk Region
+DOMAIN-SUFFIX,arkhangelsk.ru
 DOMAIN-SUFFIX,armgs.team
 DOMAIN-SUFFIX,asia-pay.ru
-DOMAIN-SUFFIX,astrakhan.ru    # Astrakhan Region
+DOMAIN-SUFFIX,astrakhan.ru
 DOMAIN-SUFFIX,at.ua
 DOMAIN-SUFFIX,atb.su
 DOMAIN-SUFFIX,atomyze.ru
@@ -172,7 +172,7 @@ DOMAIN-SUFFIX,bankermak.ru
 DOMAIN-SUFFIX,banki.ru
 DOMAIN-SUFFIX,bankline.ru
 DOMAIN-SUFFIX,bargipsy.com
-DOMAIN-SUFFIX,bashkiria.ru    # Republic of Bashkortostan
+DOMAIN-SUFFIX,bashkiria.ru
 DOMAIN-SUFFIX,bbr.ru
 DOMAIN-SUFFIX,bcs-bank.ru
 DOMAIN-SUFFIX,bcs.ru
@@ -183,13 +183,13 @@ DOMAIN-SUFFIX,beescrm.ru
 DOMAIN-SUFFIX,beget.com
 DOMAIN-SUFFIX,beget.ru
 DOMAIN,beginners-adv.ozon.ru
-DOMAIN-SUFFIX,belgorod.ru     # Belgorod Region
+DOMAIN-SUFFIX,belgorod.ru
 DOMAIN-SUFFIX,berizaryad.ru
 DOMAIN-SUFFIX,betboom.ru
 DOMAIN-SUFFIX,bfa.ru
 DOMAIN,bilet.nspk.ru
 DOMAIN-SUFFIX,bimsaas.ru
-DOMAIN-SUFFIX,bir.ru          # Birobidzhan City, Jewish Autonomous Region
+DOMAIN-SUFFIX,bir.ru
 DOMAIN-SUFFIX,bizmrg.com
 DOMAIN-SUFFIX,bk.ru
 DOMAIN-SUFFIX,bk6bba-resources.com
@@ -203,11 +203,11 @@ DOMAIN-SUFFIX,botmechanic.io
 DOMAIN-SUFFIX,bps-sberbank.by
 DOMAIN-SUFFIX,bristol.ru
 DOMAIN-SUFFIX,broker.ru
-DOMAIN-SUFFIX,bryansk.ru      # Bryansk Region
+DOMAIN-SUFFIX,bryansk.ru
 DOMAIN,bs.mail.ru
 DOMAIN-SUFFIX,bs.yandex.ru
 DOMAIN-SUFFIX,bspb.ru
-DOMAIN-SUFFIX,buryatia.ru     # Republic of Buryatia
+DOMAIN-SUFFIX,buryatia.ru
 DOMAIN-SUFFIX,cabconnect.org
 DOMAIN-SUFFIX,callbackkiller.com
 DOMAIN-SUFFIX,capitalt.ru
@@ -217,9 +217,9 @@ DOMAIN-SUFFIX,carrotquest-mail.io
 DOMAIN-SUFFIX,carrotquest.app
 DOMAIN-SUFFIX,carrotquest.io
 DOMAIN-SUFFIX,carrottrack.app
-DOMAIN-SUFFIX,cbg.ru          # Voronezh Region
+DOMAIN-SUFFIX,cbg.ru
 DOMAIN-SUFFIX,cbkiller.com
-DOMAIN-SUFFIX,cbr.ru          # Central Bank of Russia
+DOMAIN-SUFFIX,cbr.ru
 DOMAIN-SUFFIX,cdek.ru
 DOMAIN-SUFFIX,cdek.shopping
 DOMAIN-SUFFIX,cdn-tinkoff.ru
@@ -232,16 +232,16 @@ DOMAIN-SUFFIX,centraluniversity.ru
 DOMAIN-SUFFIX,ceosummit.ru
 DOMAIN-SUFFIX,cert-gib.com
 DOMAIN-SUFFIX,cert-gib.ru
-DOMAIN-SUFFIX,chel.ru         # Chelyabinsk Region
-DOMAIN-SUFFIX,chelyabinsk.ru  # Chelyabinsk Region
+DOMAIN-SUFFIX,chel.ru
+DOMAIN-SUFFIX,chelyabinsk.ru
 DOMAIN-SUFFIX,chipcore.com
 DOMAIN-SUFFIX,chipcore.ru
-DOMAIN-SUFFIX,chita.ru        # Chita City, Zabaykalsky Territory
+DOMAIN-SUFFIX,chita.ru
 DOMAIN-SUFFIX,chizhik.club
-DOMAIN-SUFFIX,chukotka.ru     # Chukotka Autonomous Area
-DOMAIN-SUFFIX,chuvashia.ru    # Chuvash Republic
+DOMAIN-SUFFIX,chukotka.ru
+DOMAIN-SUFFIX,chuvashia.ru
 DOMAIN-SUFFIX,ciciq.net
-DOMAIN-SUFFIX,cikrf.ru        # Central Electoral Commission of the Russian Federation
+DOMAIN-SUFFIX,cikrf.ru
 DOMAIN-SUFFIX,citydrive.ru
 DOMAIN-SUFFIX,clck.ru
 DOMAIN,clck.yandex.com
@@ -251,7 +251,7 @@ DOMAIN,clck.yango.com
 DOMAIN,click.rustore.ru
 DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,cloud.ru
-DOMAIN-SUFFIX,cloudru.cn # HK
+DOMAIN-SUFFIX,cloudru.cn
 DOMAIN-SUFFIX,clstorage.net
 DOMAIN-SUFFIX,clubx5.ru
 DOMAIN-SUFFIX,code-class.ru
@@ -271,7 +271,7 @@ DOMAIN-SUFFIX,counter.yandex.ru
 DOMAIN-SUFFIX,cplsb.ru
 DOMAIN-SUFFIX,credistory.ru
 DOMAIN-SUFFIX,credit-zenit.ru
-DOMAIN-SUFFIX,crimea.ru       # Republic of Crimea
+DOMAIN-SUFFIX,crimea.ru
 DOMAIN,crl.kaspersky.com
 DOMAIN-SUFFIX,cu.ru
 DOMAIN-SUFFIX,cups.online
@@ -279,7 +279,7 @@ DOMAIN-SUFFIX,custody.ru
 DOMAIN-SUFFIX,cxhub.ru
 DOMAIN-SUFFIX,cybercrimecon.com
 DOMAIN-SUFFIX,cybersport.ru
-DOMAIN-SUFFIX,dagestan.ru     # Republic of Dagestan
+DOMAIN-SUFFIX,dagestan.ru
 DOMAIN-SUFFIX,dahl.su
 DOMAIN-SUFFIX,dahlmessenger.com
 DOMAIN-SUFFIX,dashly.app
@@ -345,13 +345,13 @@ DOMAIN-SUFFIX,e.mindbox.ru
 DOMAIN-SUFFIX,e5.ru
 DOMAIN-SUFFIX,eaptechka.online
 DOMAIN-SUFFIX,eapteka.ru
-DOMAIN-SUFFIX,ebs.ru          # Unified Biometric System
+DOMAIN-SUFFIX,ebs.ru
 DOMAIN,edge.geo.kaspersky.com
 DOMAIN-SUFFIX,edu.ru
 DOMAIN,edu.tinkoff.ru
 DOMAIN,education.tbank.ru
 DOMAIN-SUFFIX,efin.ru
-DOMAIN-SUFFIX,ekburg.ru       # Ekaterinburg City, Sverdlovsk Region
+DOMAIN-SUFFIX,ekburg.ru
 DOMAIN-SUFFIX,elama.ru
 DOMAIN-SUFFIX,electronicsignature.ru
 DOMAIN-SUFFIX,eligens.cl
@@ -389,7 +389,7 @@ DOMAIN-SUFFIX,finuslugi.ru
 DOMAIN-SUFFIX,fivepost.ru
 DOMAIN-SUFFIX,fix-price.com
 DOMAIN-SUFFIX,flocktory.com
-DOMAIN-SUFFIX,flomni.com         # Omnichannel communications platform
+DOMAIN-SUFFIX,flomni.com
 DOMAIN-SUFFIX,fon.bet
 DOMAIN-SUFFIX,fon.promo
 DOMAIN-SUFFIX,forshtadt.ru
@@ -401,7 +401,7 @@ DOMAIN-SUFFIX,g-ib.us
 DOMAIN-SUFFIX,g.mindbox.ru
 DOMAIN-SUFFIX,gainstech.ru
 DOMAIN-SUFFIX,gamescup.ru
-DOMAIN-SUFFIX,gazfond-pn.ru      # Non-state pension fund GAZFOND pension savings
+DOMAIN-SUFFIX,gazfond-pn.ru
 DOMAIN-SUFFIX,gazprombank.com
 DOMAIN-SUFFIX,gazprombank.investments
 DOMAIN-SUFFIX,gazprombank.ru
@@ -431,13 +431,13 @@ DOMAIN-SUFFIX,goicq.org
 DOMAIN,google-analytics-suite.ozon.ru
 DOMAIN-SUFFIX,gorodpay.ru
 DOMAIN-SUFFIX,gosdolgi.ru
-DOMAIN-SUFFIX,goskey.ru       # GosKey - an electronic signature on a smartphone
+DOMAIN-SUFFIX,goskey.ru
 DOMAIN-SUFFIX,gosuslugi.ru
 DOMAIN-SUFFIX,goup.ai
 DOMAIN-SUFFIX,gov.ru
 DOMAIN-SUFFIX,government.ru
 DOMAIN-SUFFIX,gpb.ru
-DOMAIN-SUFFIX,grfc.ru         # General radio frequency center
+DOMAIN-SUFFIX,grfc.ru
 DOMAIN-SUFFIX,group-ib.ae
 DOMAIN-SUFFIX,group-ib.co.uk
 DOMAIN-SUFFIX,group-ib.com
@@ -449,7 +449,7 @@ DOMAIN-SUFFIX,group-ib.us
 DOMAIN-SUFFIX,groupib.ae
 DOMAIN-SUFFIX,groupib.sg
 DOMAIN-SUFFIX,groupib.us
-DOMAIN-SUFFIX,grozny.ru       # Grozny City, Chechen Republic
+DOMAIN-SUFFIX,grozny.ru
 DOMAIN-SUFFIX,gu-st.ru
 DOMAIN-SUFFIX,haicomdc.com
 DOMAIN-SUFFIX,haicomdc.ru
@@ -461,7 +461,7 @@ DOMAIN-SUFFIX,hh.ru
 DOMAIN-SUFFIX,hhcdn.ru
 DOMAIN-SUFFIX,homecredit.ru
 DOMAIN-SUFFIX,hrtek.ru
-DOMAIN-SUFFIX,i-ola.ru        # Yoshkar-Ola City, Republic of Mari El
+DOMAIN-SUFFIX,i-ola.ru
 DOMAIN-SUFFIX,ibamoscow.ru
 DOMAIN-SUFFIX,icq-download.com
 DOMAIN-SUFFIX,icq-mobile.com
@@ -516,19 +516,19 @@ DOMAIN,informer.yandex.ru
 DOMAIN-SUFFIX,inplat.ru
 DOMAIN-SUFFIX,insideok.ru
 DOMAIN-SUFFIX,internet.ru
-DOMAIN-SUFFIX,irk.ru          # Irkutsk Region
-DOMAIN-SUFFIX,irkutsk.ru      # Irkutsk Region
+DOMAIN-SUFFIX,irk.ru
+DOMAIN-SUFFIX,irkutsk.ru
 DOMAIN-SUFFIX,it-katok.ru
 DOMAIN-SUFFIX,it-picnic.ru
 DOMAIN-SUFFIX,it-piknik.ru
 DOMAIN-SUFFIX,it-territory.com
 DOMAIN-SUFFIX,itirex.ru
-DOMAIN-SUFFIX,ivanovo.ru      # Ivanovo Region
+DOMAIN-SUFFIX,ivanovo.ru
 DOMAIN-SUFFIX,ivi.ru
-DOMAIN-SUFFIX,izbirkom.ru     # Information on ongoing elections and referendums
-DOMAIN-SUFFIX,izhevsk.ru      # Izhevsk City, Republic of Udmurtia
-DOMAIN-SUFFIX,jamal.ru        # Yamal-Nenets Autonomous Area
-DOMAIN-SUFFIX,jar.ru          # Birobidzhan City, Jewish Autonomous Region
+DOMAIN-SUFFIX,izbirkom.ru
+DOMAIN-SUFFIX,izhevsk.ru
+DOMAIN-SUFFIX,jamal.ru
+DOMAIN-SUFFIX,jar.ru
 DOMAIN-SUFFIX,jfn.su
 DOMAIN-SUFFIX,jira-tcsbank.ru
 DOMAIN-SUFFIX,jivo.chat
@@ -551,10 +551,10 @@ DOMAIN-SUFFIX,jump.taxi
 DOMAIN-SUFFIX,jumpwork.ru
 DOMAIN-SUFFIX,justveryok.com
 DOMAIN-SUFFIX,jx5.ru
-DOMAIN-SUFFIX,kalmykia.ru     # Republic of Kalmykia
-DOMAIN-SUFFIX,kaluga.ru       # Kaluga Region
-DOMAIN-SUFFIX,kamchatka.ru    # Kamchatka Territory
-DOMAIN-SUFFIX,karelia.ru      # Republic of Karelia
+DOMAIN-SUFFIX,kalmykia.ru
+DOMAIN-SUFFIX,kaluga.ru
+DOMAIN-SUFFIX,kamchatka.ru
+DOMAIN-SUFFIX,karelia.ru
 DOMAIN-SUFFIX,karmahelp.ru
 DOMAIN-SUFFIX,karta-banka-rf.ru
 DOMAIN-SUFFIX,kaspersky-labs.com
@@ -593,36 +593,36 @@ DOMAIN-SUFFIX,kaspersky.ro
 DOMAIN-SUFFIX,kaspersky.rs
 DOMAIN-SUFFIX,kaspersky.ru
 DOMAIN-SUFFIX,kaspersky.se
-DOMAIN-SUFFIX,kazan.ru        # Kazan City, Republic of Tatarstan
+DOMAIN-SUFFIX,kazan.ru
 DOMAIN-SUFFIX,kazanexpress.ru
-DOMAIN-SUFFIX,kchr.ru         # Karachay-Cherkessia
-DOMAIN-SUFFIX,kemerovo.ru     # Kemerovo Region
+DOMAIN-SUFFIX,kchr.ru
+DOMAIN-SUFFIX,kemerovo.ru
 DOMAIN-SUFFIX,keyboardmen.com
 DOMAIN-SUFFIX,keyx5.ru
-DOMAIN-SUFFIX,khabarovsk.ru   # Khabarovsk Territory
-DOMAIN-SUFFIX,khakassia.ru    # Republic of Khakassia
-DOMAIN-SUFFIX,khv.ru          # Khabarovsk Territory
+DOMAIN-SUFFIX,khabarovsk.ru
+DOMAIN-SUFFIX,khakassia.ru
+DOMAIN-SUFFIX,khv.ru
 DOMAIN-SUFFIX,killercb.ru
-DOMAIN-SUFFIX,kinescopecdn.net   # Kinescope video hosting CDN
+DOMAIN-SUFFIX,kinescopecdn.net
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinorium.com
 DOMAIN-SUFFIX,kion.ru
-DOMAIN-SUFFIX,kirov.ru        # Kirov Region
+DOMAIN-SUFFIX,kirov.ru
 DOMAIN-SUFFIX,klinikabudzdorov.ru
 DOMAIN-SUFFIX,knightspeak.com
 DOMAIN-SUFFIX,koddobra.ru
-DOMAIN-SUFFIX,koenig.ru       # Kaliningrad Region
+DOMAIN-SUFFIX,koenig.ru
 DOMAIN-SUFFIX,kontur-inc.com
 DOMAIN-SUFFIX,kontur.host
 DOMAIN-SUFFIX,kontur.ru
 DOMAIN-SUFFIX,korona.com
 DOMAIN-SUFFIX,koshelek.app
-DOMAIN-SUFFIX,kostroma.ru     # Kostroma Region
-DOMAIN-SUFFIX,krasnodar.su    # Krasnodar Territory / Kuban
+DOMAIN-SUFFIX,kostroma.ru
+DOMAIN-SUFFIX,krasnodar.su
 DOMAIN-SUFFIX,krasnoeibeloe.ru
-DOMAIN-SUFFIX,krasnoyarsk.ru  # Krasnoyarsk Territory
-DOMAIN-SUFFIX,kremlin.ru      # Online representation of the President of Russia
+DOMAIN-SUFFIX,krasnoyarsk.ru
+DOMAIN-SUFFIX,kremlin.ru
 DOMAIN,ksn-cinfo-geo.kaspersky-labs.com
 DOMAIN,ksn-cinfo.geoksn.kaspersky.com
 DOMAIN,ksn-crypto-info-geo.kaspersky-labs.com
@@ -647,11 +647,11 @@ DOMAIN,ksn-url-geo.kaspersky-labs.com
 DOMAIN,ksn-url.geoksn.kaspersky.com
 DOMAIN,ksn-verdict-geo.kaspersky-labs.com
 DOMAIN,ksn-verdict.geoksn.kaspersky.com
-DOMAIN-SUFFIX,kuban.ru        # Krasnodar Territory / Kuban
+DOMAIN-SUFFIX,kuban.ru
 DOMAIN-SUFFIX,kubankredit.ru
 DOMAIN-SUFFIX,kuper.ru
-DOMAIN-SUFFIX,kurgan.ru       # Kurgan Region
-DOMAIN-SUFFIX,kursk.ru        # Kursk Region
+DOMAIN-SUFFIX,kurgan.ru
+DOMAIN-SUFFIX,kursk.ru
 DOMAIN-SUFFIX,lamoda.ru
 DOMAIN-SUFFIX,lenta.com
 DOMAIN-SUFFIX,lenta.tech
@@ -660,23 +660,23 @@ DOMAIN-SUFFIX,lifestyle-tec.ru
 DOMAIN-SUFFIX,ligadobra.ru
 DOMAIN-SUFFIX,ligastavok-csr.ru
 DOMAIN-SUFFIX,ligastavok.ru
-DOMAIN-SUFFIX,lipetsk.ru      # Lipetsk Region
+DOMAIN-SUFFIX,lipetsk.ru
 DOMAIN-SUFFIX,list.ru
-DOMAIN-SUFFIX,litres.ru          # E-book and audiobook service
+DOMAIN-SUFFIX,litres.ru
 DOMAIN-SUFFIX,lk.emias.mos.ru
 DOMAIN-SUFFIX,log.dzen.ru
 DOMAIN-SUFFIX,lovina.app
 DOMAIN,loyalnost-adv.ozon.ru
-DOMAIN-SUFFIX,magadan.ru      # Magadan Region
+DOMAIN-SUFFIX,magadan.ru
 DOMAIN-SUFFIX,magnit.com
 DOMAIN-SUFFIX,magnit.ru
 DOMAIN-SUFFIX,mail-carrotquest.io
 DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,mailicq.org
 DOMAIN-SUFFIX,malotogo.ru
-DOMAIN-SUFFIX,mari-el.ru      # Republic of Mari El
-DOMAIN-SUFFIX,mari.ru         # Republic of Mari El
-DOMAIN-SUFFIX,marine.ru       # Primorye Territory
+DOMAIN-SUFFIX,mari-el.ru
+DOMAIN-SUFFIX,mari.ru
+DOMAIN-SUFFIX,marine.ru
 DOMAIN,marketing-info.wildberries.ru
 DOMAIN,marketplace-sentry.wb.ru
 DOMAIN-SUFFIX,max-tcs.ru
@@ -700,7 +700,7 @@ DOMAIN-SUFFIX,megamarket.tech
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,meteofor.com
 DOMAIN-SUFFIX,meteofor.st
-DOMAIN-SUFFIX,meteoinfo.ru       # Hydrometeorological Center of Russia
+DOMAIN-SUFFIX,meteoinfo.ru
 DOMAIN-SUFFIX,meteum.ai
 DOMAIN,metrics.21-school.ru
 DOMAIN-SUFFIX,metrics.viqeo.tv
@@ -716,7 +716,7 @@ DOMAIN-SUFFIX,mgfn.ru
 DOMAIN-SUFFIX,mgfoms.ru
 DOMAIN-SUFFIX,mhcb.ru
 DOMAIN-SUFFIX,mhcbr.ru
-DOMAIN-SUFFIX,mil.ru          # Ministry of Defense of the Russian Federation
+DOMAIN-SUFFIX,mil.ru
 DOMAIN-SUFFIX,mind-box.ru
 DOMAIN-SUFFIX,mindbox-notifications.ru
 DOMAIN-SUFFIX,mindbox.cloud
@@ -735,16 +735,16 @@ DOMAIN-SUFFIX,mnogolososya.ru
 DOMAIN-SUFFIX,mobile-bb.com
 DOMAIN-SUFFIX,mobile-icq.com
 DOMAIN-SUFFIX,mobileicq.com
-DOMAIN-SUFFIX,moex.com   # Moscow Stock Exchange
-DOMAIN-SUFFIX,mordovia.ru     # Republic of Mordovi
+DOMAIN-SUFFIX,moex.com
+DOMAIN-SUFFIX,mordovia.ru
 DOMAIN-SUFFIX,more.tv
-DOMAIN-SUFFIX,mos.ru          # Moscow
+DOMAIN-SUFFIX,mos.ru
 DOMAIN,mos.transport.vtb.ru
 DOMAIN-SUFFIX,moscow
 DOMAIN-SUFFIX,mosgorzdrav.ru
 DOMAIN-SUFFIX,mosmetro.ru
 DOMAIN-SUFFIX,mosmetro.tech
-DOMAIN-SUFFIX,mosreg.ru       # Moscow Region
+DOMAIN-SUFFIX,mosreg.ru
 DOMAIN-SUFFIX,movika.com
 DOMAIN-SUFFIX,mp.world
 DOMAIN-SUFFIX,mpgw-my.com
@@ -758,7 +758,7 @@ DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mtsbank.ru
 DOMAIN-SUFFIX,mtsdengi.ru
 DOMAIN-SUFFIX,mtsmedia.ru
-DOMAIN-SUFFIX,murmansk.ru     # Murmansk Region
+DOMAIN-SUFFIX,murmansk.ru
 DOMAIN,mvideo.edna.io
 DOMAIN-SUFFIX,mvideo.ru
 DOMAIN-SUFFIX,mvk.com
@@ -776,22 +776,22 @@ DOMAIN-SUFFIX,myoffice.ru
 DOMAIN-SUFFIX,myoffice.team
 DOMAIN-SUFFIX,myspar.ru
 DOMAIN-SUFFIX,mytopf.com
-DOMAIN-SUFFIX,mytrk.link # block might break something, needs further investigation
-DOMAIN-SUFFIX,nalchik.ru      # Nalchik City, Kabardino-Balkarian Republic
-DOMAIN-SUFFIX,nalog.ru        # Federal Tax Service
+DOMAIN-SUFFIX,mytrk.link
+DOMAIN-SUFFIX,nalchik.ru
+DOMAIN-SUFFIX,nalog.ru
 DOMAIN-SUFFIX,narod.ru
 DOMAIN-SUFFIX,naydex.net
 DOMAIN-SUFFIX,nbki.ru
 DOMAIN-SUFFIX,neon.click
 DOMAIN-SUFFIX,netmonet.co
 DOMAIN,new-adv.ozon.ru
-DOMAIN-SUFFIX,ngenix.net         # NGENIX is a Russian provider of acceleration and security services for public web resources
-DOMAIN-SUFFIX,nn.ru           # Nizhny Novgorod Region
+DOMAIN-SUFFIX,ngenix.net
+DOMAIN-SUFFIX,nn.ru
 DOMAIN-SUFFIX,noosferabank.ru
 DOMAIN-SUFFIX,notik.ru
-DOMAIN-SUFFIX,nov.ru          # Novgorod Region
-DOMAIN-SUFFIX,novosibirsk.ru  # Novosibirsk Region
-DOMAIN-SUFFIX,nsk.ru          # Novosibirsk Region
+DOMAIN-SUFFIX,nov.ru
+DOMAIN-SUFFIX,novosibirsk.ru
+DOMAIN-SUFFIX,nsk.ru
 DOMAIN-SUFFIX,nspk.ru
 DOMAIN-SUFFIX,o-courier.ru
 DOMAIN-SUFFIX,o3.ru
@@ -809,7 +809,7 @@ DOMAIN-SUFFIX,odnoklassniki.eu
 DOMAIN-SUFFIX,odnoklassniki.lv
 DOMAIN-SUFFIX,odnoklassniki.ru
 DOMAIN-SUFFIX,odnoklassniki.tj
-DOMAIN-SUFFIX,ognihome.com       # OGNI HOME resident portal
+DOMAIN-SUFFIX,ognihome.com
 DOMAIN-SUFFIX,ok.me
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okcdn.ru
@@ -819,12 +819,12 @@ DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,okl.lt
 DOMAIN-SUFFIX,okolo.app
 DOMAIN-SUFFIX,oktech.ru
-DOMAIN-SUFFIX,omsk.ru         # Omsk Region
+DOMAIN-SUFFIX,omsk.ru
 DOMAIN-SUFFIX,on-media.ru
 DOMAIN-SUFFIX,oneme.ru
 DOMAIN-SUFFIX,onlyjobs.ru
-DOMAIN-SUFFIX,orb.ru          # Orenburg Region
-DOMAIN-SUFFIX,oryol.ru        # Orel Region
+DOMAIN-SUFFIX,orb.ru
+DOMAIN-SUFFIX,oryol.ru
 DOMAIN-SUFFIX,oskelly.co
 DOMAIN-SUFFIX,oskelly.ru
 DOMAIN-SUFFIX,ostrovok.ru
@@ -886,10 +886,10 @@ DOMAIN-SUFFIX,payecom.ru
 DOMAIN-SUFFIX,payment.ru
 DOMAIN-SUFFIX,paywb.com
 DOMAIN-SUFFIX,paywb.ru
-DOMAIN-SUFFIX,penza.ru        # Penza Region
+DOMAIN-SUFFIX,penza.ru
 DOMAIN-SUFFIX,perekrestok.com
 DOMAIN-SUFFIX,perekrestok.ru
-DOMAIN-SUFFIX,perm.ru         # Perm Territory
+DOMAIN-SUFFIX,perm.ru
 DOMAIN-SUFFIX,phoenix-ca.ru
 DOMAIN,pixel.rustore.ru
 DOMAIN,pixel.yandex.com
@@ -897,11 +897,11 @@ DOMAIN-SUFFIX,pixonic.com
 DOMAIN-SUFFIX,planetazdorovo.ru
 DOMAIN-SUFFIX,platiecom.ru
 DOMAIN-SUFFIX,playfamily.ru
-DOMAIN-SUFFIX,pochta.ru          # Russian post
-DOMAIN-SUFFIX,pochtabank.ru #subsidiary
+DOMAIN-SUFFIX,pochta.ru
+DOMAIN-SUFFIX,pochtabank.ru
 DOMAIN,podorozhnik.spb.ru
 DOMAIN-SUFFIX,polyclinika.ru
-DOMAIN-SUFFIX,ponyexpress.ru     # Courier delivery service
+DOMAIN-SUFFIX,ponyexpress.ru
 DOMAIN-SUFFIX,popmechanic.io
 DOMAIN-SUFFIX,popmechanic.ru
 DOMAIN-SUFFIX,premier.one
@@ -910,20 +910,20 @@ DOMAIN-SUFFIX,private-banking.ru
 DOMAIN-SUFFIX,prod-my.games
 DOMAIN-SUFFIX,prodcontest.com
 DOMAIN,prodvizhenie-adv.ozon.ru
-DOMAIN-SUFFIX,promodj.com # Electronic music and DJ community platform
+DOMAIN-SUFFIX,promodj.com
 DOMAIN-SUFFIX,prvbank.ru
 DOMAIN-SUFFIX,psb-ocenka.ru
 DOMAIN-SUFFIX,psb.ru
 DOMAIN-SUFFIX,psbank.ru
-DOMAIN-SUFFIX,psk             # Pskov's local TLD
-DOMAIN-SUFFIX,psk.ru          # Pskov Region
+DOMAIN-SUFFIX,psk
+DOMAIN-SUFFIX,psk.ru
 DOMAIN-SUFFIX,pskb.ru
-DOMAIN-SUFFIX,pskov.ru        # Pskov Region
-DOMAIN-SUFFIX,ptz.ru          # Petrozavodsk City, Republic of Karelia
+DOMAIN-SUFFIX,pskov.ru
+DOMAIN-SUFFIX,ptz.ru
 DOMAIN-SUFFIX,pushgrow.io
 DOMAIN-SUFFIX,pvubank.com
 DOMAIN-SUFFIX,pz.help
-DOMAIN-SUFFIX,qms.ru             # Russian internet speed testing service
+DOMAIN-SUFFIX,qms.ru
 DOMAIN,questions-adv.ozon.ru
 DOMAIN-SUFFIX,quizlink.ru
 DOMAIN-SUFFIX,r.mail.ru
@@ -949,9 +949,9 @@ DOMAIN-SUFFIX,restnproducts.ru
 DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,restream.ru
 DOMAIN-SUFFIX,rf-sim-mobile.ru
-DOMAIN-SUFFIX,rkomi.ru        # Republic of Komi
+DOMAIN-SUFFIX,rkomi.ru
 DOMAIN-SUFFIX,rncoluminis.ru
-DOMAIN-SUFFIX,rnd.ru          # Rostov-on-Don City, Rostov Region
+DOMAIN-SUFFIX,rnd.ru
 DOMAIN-SUFFIX,rocketozon.by
 DOMAIN-SUFFIX,roistat.com
 DOMAIN-SUFFIX,rosbank-auto.ru
@@ -968,7 +968,7 @@ DOMAIN,rs.mail.ru
 DOMAIN-SUFFIX,rshb.ru
 DOMAIN-SUFFIX,rt.ru
 DOMAIN-SUFFIX,rtbcdn.ru
-DOMAIN-SUFFIX,rteam.tech   # IT company owned by RT's parent org (ANO TV-Novosti)
+DOMAIN-SUFFIX,rteam.tech
 DOMAIN-SUFFIX,ru
 DOMAIN-SUFFIX,ru.ccb.com
 DOMAIN-SUFFIX,ru.com
@@ -988,7 +988,7 @@ DOMAIN-SUFFIX,rwb.ru
 DOMAIN-SUFFIX,rwbautomation.ru
 DOMAIN-SUFFIX,rwbautomation.tech
 DOMAIN-SUFFIX,rwbgeo.ru
-DOMAIN-SUFFIX,ryazan.ru       # Ryazan Region
+DOMAIN-SUFFIX,ryazan.ru
 DOMAIN-SUFFIX,rzd-bonus.ru
 DOMAIN-SUFFIX,rzd.ru
 DOMAIN-SUFFIX,s.mindbox.ru
@@ -1015,10 +1015,10 @@ DOMAIN,s19.upd.kaspersky.com
 DOMAIN-SUFFIX,saas-support.com
 DOMAIN-SUFFIX,safeliner.tech
 DOMAIN-SUFFIX,sage-observability.tech
-DOMAIN-SUFFIX,sakhalin.ru     # Sakhalin Region
-DOMAIN-SUFFIX,samara.ru       # Samara Region
+DOMAIN-SUFFIX,sakhalin.ru
+DOMAIN-SUFFIX,samara.ru
 DOMAIN-SUFFIX,samokat.ru
-DOMAIN-SUFFIX,saratov.ru      # Saratov Region
+DOMAIN-SUFFIX,saratov.ru
 DOMAIN-SUFFIX,sayeasy.eu
 DOMAIN-SUFFIX,sber-bank.by
 DOMAIN-SUFFIX,sber.pro
@@ -1079,16 +1079,16 @@ DOMAIN,sentry.x5.ru
 DOMAIN-SUFFIX,servercore.com
 DOMAIN-SUFFIX,servercore.live
 DOMAIN-SUFFIX,setka.ru
-DOMAIN-SUFFIX,sevastopol.ru   # Sevastopol
+DOMAIN-SUFFIX,sevastopol.ru
 DOMAIN-SUFFIX,sferum-dev.ru
 DOMAIN-SUFFIX,sferum.ru
 DOMAIN-SUFFIX,sgcheck.ru
 DOMAIN-SUFFIX,shedevrum.ai
-DOMAIN-SUFFIX,shop-rt.com  # RT merchandise store
-DOMAIN-SUFFIX,simbirsk.ru     # Ulyanovsk Region
+DOMAIN-SUFFIX,shop-rt.com
+DOMAIN-SUFFIX,simbirsk.ru
 DOMAIN-SUFFIX,sinara.ru
 DOMAIN-SUFFIX,sistema-capital.com
-DOMAIN-SUFFIX,skbx.pro # Probably a CDN
+DOMAIN-SUFFIX,skbx.pro
 DOMAIN-SUFFIX,skillbox.pro
 DOMAIN-SUFFIX,skillbox.ru
 DOMAIN-SUFFIX,skillfactory.ru
@@ -1099,7 +1099,7 @@ DOMAIN-SUFFIX,slc.tl
 DOMAIN-SUFFIX,smailru.net
 DOMAIN-SUFFIX,smartmed.pro
 DOMAIN-SUFFIX,smbcr-bank.ru
-DOMAIN-SUFFIX,smolensk.ru     # Smolensk Region
+DOMAIN-SUFFIX,smolensk.ru
 DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,sokolov.io
 DOMAIN-SUFFIX,sokolov.ru
@@ -1112,11 +1112,11 @@ DOMAIN-SUFFIX,spasibo.market
 DOMAIN-SUFFIX,spasibobonus.ru
 DOMAIN-SUFFIX,spasibosb.ru
 DOMAIN-SUFFIX,spasibosberbank.ru
-DOMAIN-SUFFIX,spb.ru          # St. Petersburg
+DOMAIN-SUFFIX,spb.ru
 DOMAIN-SUFFIX,sportmail.ru
-DOMAIN-SUFFIX,spvb.ru    # Saint-Petersburg Stock Exchange
+DOMAIN-SUFFIX,spvb.ru
 DOMAIN,srch-telemeter10.g.smailru.net
-DOMAIN-SUFFIX,srv-hub.org        # Website buider
+DOMAIN-SUFFIX,srv-hub.org
 DOMAIN-SUFFIX,ssb.msk.ru
 DOMAIN,st-ok-pts.cdn-vk.ru
 DOMAIN,st-ok.cdn-vk.ru
@@ -1129,15 +1129,15 @@ DOMAIN,stats.dev.telega.info
 DOMAIN,stats.rustore.ru
 DOMAIN,stats.telega.info
 DOMAIN,stats.vk-portal.net
-DOMAIN-SUFFIX,stavropol.ru    # Stavropol Territory
-DOMAIN-SUFFIX,stv.ru          # Stavropol Territory
+DOMAIN-SUFFIX,stavropol.ru
+DOMAIN-SUFFIX,stv.ru
 DOMAIN-SUFFIX,su
 DOMAIN-SUFFIX,summerstage.ru
 DOMAIN-SUFFIX,summitceo.ru
 DOMAIN-SUFFIX,support-uber.com
-DOMAIN-SUFFIX,surgut.ru       # Khanty-Mansi Autonomous Area – Yugra
+DOMAIN-SUFFIX,surgut.ru
 DOMAIN-SUFFIX,sushiwok.ru
-DOMAIN-SUFFIX,swentr.site  # RT mirror domain
+DOMAIN-SUFFIX,swentr.site
 DOMAIN-SUFFIX,t-access.ru
 DOMAIN-SUFFIX,t-bank-app.ru
 DOMAIN-SUFFIX,t-bank-app.su
@@ -1162,11 +1162,11 @@ DOMAIN-SUFFIX,t-technologies.ru
 DOMAIN-SUFFIX,t-tolk.ru
 DOMAIN-SUFFIX,t.finance
 DOMAIN,t.mail.ru
-DOMAIN-SUFFIX,t1.cloud           # Russian cloud storage provider
+DOMAIN-SUFFIX,t1.cloud
 DOMAIN-SUFFIX,t2.ru
 DOMAIN-SUFFIX,tagbank.ru
 DOMAIN-SUFFIX,talantix.ru
-DOMAIN-SUFFIX,tambov.ru       # Tambov Region
+DOMAIN-SUFFIX,tambov.ru
 DOMAIN-SUFFIX,tamtam.chat
 DOMAIN-SUFFIX,tarantool.io
 DOMAIN-SUFFIX,tarantoolplus.ru
@@ -1175,13 +1175,13 @@ DOMAIN,target.vk.com
 DOMAIN-SUFFIX,target.vk.ru
 DOMAIN-SUFFIX,targetads.io
 DOMAIN-SUFFIX,tatar
-DOMAIN-SUFFIX,tatarstan.ru    # Republic of Tatarstan
+DOMAIN-SUFFIX,tatarstan.ru
 DOMAIN-SUFFIX,tatsotsbank.ru
 DOMAIN,taxi.yandex.ru
 DOMAIN-SUFFIX,taxiaid.org
 DOMAIN-SUFFIX,taxiguru.org
 DOMAIN-SUFFIX,taxitax.org
-DOMAIN-SUFFIX,taxsee.com         # Taxi for business (self-employed drivers)
+DOMAIN-SUFFIX,taxsee.com
 DOMAIN-SUFFIX,tb-esim.ru
 DOMAIN-SUFFIX,tbank-online.com
 DOMAIN-SUFFIX,tbank.ru
@@ -1218,8 +1218,8 @@ DOMAIN-SUFFIX,tkbbank.ru
 DOMAIN-SUFFIX,tmiaf.ru
 DOMAIN-SUFFIX,tochka-tech.com
 DOMAIN-SUFFIX,tochka.com
-DOMAIN-SUFFIX,tom.ru          # Tomsk Region
-DOMAIN-SUFFIX,tomsk.ru        # Tomsk Region
+DOMAIN-SUFFIX,tom.ru
+DOMAIN-SUFFIX,tomsk.ru
 DOMAIN-SUFFIX,top-fwz1.mail.ru
 DOMAIN,top-staging.mail.ru
 DOMAIN-SUFFIX,tpension.ru
@@ -1229,18 +1229,18 @@ DOMAIN-SUFFIX,tracker.my.com
 DOMAIN,transport.mos.ru
 DOMAIN-SUFFIX,travel-tec.ru
 DOMAIN-SUFFIX,trbcdn.net
-DOMAIN-SUFFIX,tsaritsyn.ru    # Volgograd Region
-DOMAIN-SUFFIX,tsk.ru          # Tomsk Region
-DOMAIN-SUFFIX,tula.ru         # Tula Region
+DOMAIN-SUFFIX,tsaritsyn.ru
+DOMAIN-SUFFIX,tsk.ru
+DOMAIN-SUFFIX,tula.ru
 DOMAIN-SUFFIX,turbopages.org
 DOMAIN-SUFFIX,tusco.ru
 DOMAIN-SUFFIX,tutu.ru
-DOMAIN-SUFFIX,tuva.ru         # Republic of Tuva
-DOMAIN-SUFFIX,tver.ru         # Tver Region
+DOMAIN-SUFFIX,tuva.ru
+DOMAIN-SUFFIX,tver.ru
 DOMAIN-SUFFIX,tvigle.ru
 DOMAIN-SUFFIX,tvoyodbo.online
 DOMAIN-SUFFIX,twcstorage.ru
-DOMAIN-SUFFIX,tyumen.ru       # Tyumen Region
+DOMAIN-SUFFIX,tyumen.ru
 DOMAIN-SUFFIX,ubs.com
 DOMAIN-SUFFIX,uchi.ru
 DOMAIN-SUFFIX,ucoz.ae
@@ -1268,8 +1268,8 @@ DOMAIN-SUFFIX,ucozmail.com
 DOMAIN-SUFFIX,ucozmedia.com
 DOMAIN-SUFFIX,ucozmedia.ru
 DOMAIN-SUFFIX,ucoztemplates.com
-DOMAIN-SUFFIX,udm.ru          # Republic of Udmurtia
-DOMAIN-SUFFIX,udmurtia.ru     # Republic of Udmurtia
+DOMAIN-SUFFIX,udm.ru
+DOMAIN-SUFFIX,udmurtia.ru
 DOMAIN-SUFFIX,uguide.ru
 DOMAIN-SUFFIX,uguide.su
 DOMAIN-SUFFIX,ukit.ai
@@ -1277,7 +1277,7 @@ DOMAIN-SUFFIX,ukit.com
 DOMAIN-SUFFIX,ukit.group
 DOMAIN-SUFFIX,ukit.me
 DOMAIN-SUFFIX,ukoz.ru
-DOMAIN-SUFFIX,ulan-ude.ru     # Ulan-Ude City, Republic of Buryatia
+DOMAIN-SUFFIX,ulan-ude.ru
 DOMAIN-SUFFIX,uma.media
 DOMAIN-SUFFIX,umschool.net
 DOMAIN-SUFFIX,uni.rest
@@ -1350,17 +1350,17 @@ DOMAIN-SUFFIX,vkusnoitochka.ru
 DOMAIN-SUFFIX,vkusvill.ru
 DOMAIN-SUFFIX,vkvideo.ru
 DOMAIN-SUFFIX,vkworkspace.kz
-DOMAIN-SUFFIX,vl.ru           # Vladivostok City, Primorye Territory
-DOMAIN-SUFFIX,vladikavkaz.ru  # Vladikavkaz City, Republic of North Ossetia-Alania
-DOMAIN-SUFFIX,vladimir.ru     # Vladimir Region
-DOMAIN-SUFFIX,vladivostok.ru  # Vladivostok City, Primorye Territory
+DOMAIN-SUFFIX,vl.ru
+DOMAIN-SUFFIX,vladikavkaz.ru
+DOMAIN-SUFFIX,vladimir.ru
+DOMAIN-SUFFIX,vladivostok.ru
 DOMAIN-SUFFIX,vlb100.ru
-DOMAIN-SUFFIX,vlg.ru          # Volgograd Region
+DOMAIN-SUFFIX,vlg.ru
 DOMAIN-SUFFIX,vmailru.net
-DOMAIN-SUFFIX,volgograd.ru    # Volgograd Region
-DOMAIN-SUFFIX,vologda.ru      # Vologda Region
-DOMAIN-SUFFIX,voronezh.ru     # Voronezh Region
-DOMAIN-SUFFIX,vrn.ru          # Voronezh Region
+DOMAIN-SUFFIX,volgograd.ru
+DOMAIN-SUFFIX,vologda.ru
+DOMAIN-SUFFIX,voronezh.ru
+DOMAIN-SUFFIX,vrn.ru
 DOMAIN-SUFFIX,vscale.blog
 DOMAIN-SUFFIX,vscale.io
 DOMAIN-SUFFIX,vscale.ru
@@ -1369,7 +1369,7 @@ DOMAIN-SUFFIX,vtb-direct.com
 DOMAIN-SUFFIX,vtb-grants.fut.ru
 DOMAIN-SUFFIX,vtb.ru
 DOMAIN-SUFFIX,vtbglobalperspectives.com
-DOMAIN-SUFFIX,vyatka.ru       # Kirov Region
+DOMAIN-SUFFIX,vyatka.ru
 DOMAIN-SUFFIX,waildberies.ru
 DOMAIN-SUFFIX,waldberies.ru
 DOMAIN-SUFFIX,waldberis.ru
@@ -1486,43 +1486,43 @@ DOMAIN,xapi.ozon.kz
 DOMAIN,xapi.ozon.ru
 DOMAIN,xapi.ozonru.me
 DOMAIN-SUFFIX,xmail.ru
-DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com        # ай-си-кью.com
-DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com    # аська-скачать.com
-DOMAIN-SUFFIX,xn----7sbabae2a0bnvtsfr4loc.com # аська-бесплатная.com
-DOMAIN-SUFFIX,xn----7sbbab6bregnh7b8if5b.com  # мобильная-аська.com
-DOMAIN-SUFFIX,xn----7sbbamm1bv2bh7i.com       # агент-аська.com
-DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai # эра-инвестиций.рф
-DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai # озон-доставка.рф
-DOMAIN-SUFFIX,xn----8sbaroledu6bi7j.com       # клиент-аська.com
-DOMAIN-SUFFIX,xn----8sbeoy5bze.com            # в-аське.com
-DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai # фрод-рулетка.рф
-DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai # ит-каток.рф
-DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai # ёта.рф
-DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai # озондоставка.рф
-DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai # вайлдберриз.рф
-DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai  # вайлдберис.рф
-DOMAIN-SUFFIX,xn--80acgfbsl1azdqr.xn--p1ai # екатеринбург.рф / Ekaterinburg City, Sverdlovsk Region
+DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com
+DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com
+DOMAIN-SUFFIX,xn----7sbabae2a0bnvtsfr4loc.com
+DOMAIN-SUFFIX,xn----7sbbab6bregnh7b8if5b.com
+DOMAIN-SUFFIX,xn----7sbbamm1bv2bh7i.com
+DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbaroledu6bi7j.com
+DOMAIN-SUFFIX,xn----8sbeoy5bze.com
+DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai
+DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai
+DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai
+DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
+DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
+DOMAIN-SUFFIX,xn--80acgfbsl1azdqr.xn--p1ai
 DOMAIN-SUFFIX,xn--80adxhks
-DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai  # ета.рф
-DOMAIN-SUFFIX,xn--80ajghhoc2aj1c8b.xn--p1ai # Honest Sign - State Labeling System
-DOMAIN-SUFFIX,xn--80aqcf7a6do.com             # айсикью.com
-DOMAIN-SUFFIX,xn--80arpq.xn--p1ai  # йота.рф
+DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai
+DOMAIN-SUFFIX,xn--80ajghhoc2aj1c8b.xn--p1ai
+DOMAIN-SUFFIX,xn--80aqcf7a6do.com
+DOMAIN-SUFFIX,xn--80arpq.xn--p1ai
 DOMAIN-SUFFIX,xn--80asehdb
-DOMAIN-SUFFIX,xn--80asgb.xn--p1ai # майл.рф
+DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
 DOMAIN-SUFFIX,xn--80aswg
-DOMAIN-SUFFIX,xn--90ab.com # вб.com
-DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai # энвибокс.рф
+DOMAIN-SUFFIX,xn--90ab.com
+DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai
 DOMAIN-SUFFIX,xn--90aifd0az.shop
-DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf # тбизнес.рус
+DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
 DOMAIN-SUFFIX,xn--b1aechhj6bof8g5a.site
-DOMAIN-SUFFIX,xn--b1afabzvcegckfhg.xn--p1ai # Military Registration Register
+DOMAIN-SUFFIX,xn--b1afabzvcegckfhg.xn--p1ai
 DOMAIN-SUFFIX,xn--c1avg
 DOMAIN-SUFFIX,xn--d1abkf4ap.fun
 DOMAIN-SUFFIX,xn--d1acj3b
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,xn--d1aqf.xn--p1ai
-DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais # озонрокет.бел
-DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai # мейл.рф
+DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
+DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
 DOMAIN-SUFFIX,xn--h1ao.site
 DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
@@ -1532,8 +1532,8 @@ DOMAIN-SUFFIX,ya.ru
 DOMAIN-SUFFIX,yabs.yandex.ru
 DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yaklass.ru
-DOMAIN-SUFFIX,yakutia.ru      # Republic of Yakutia
-DOMAIN-SUFFIX,yamal.ru        # Yamal-Nenets Autonomous Area
+DOMAIN-SUFFIX,yakutia.ru
+DOMAIN-SUFFIX,yamal.ru
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,yandex-bank.net
 DOMAIN-SUFFIX,yandex-metrica.ru
@@ -1595,7 +1595,7 @@ DOMAIN-SUFFIX,yango.qa
 DOMAIN-SUFFIX,yango.taxi
 DOMAIN-SUFFIX,yango.tech
 DOMAIN-SUFFIX,yangofellowship.com
-DOMAIN-SUFFIX,yaroslavl.ru    # Yaroslavl Region
+DOMAIN-SUFFIX,yaroslavl.ru
 DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yastatic-net.ru
 DOMAIN-SUFFIX,yastatic.net
@@ -1606,10 +1606,10 @@ DOMAIN-SUFFIX,yota.ru
 DOMAIN-SUFFIX,yotagamer.ru
 DOMAIN-SUFFIX,youla.io
 DOMAIN-SUFFIX,youla.ru
-DOMAIN-SUFFIX,yourgood.app       # CRM for small business
-DOMAIN-SUFFIX,yuzhno-sakhalinsk.ru # Yuzhno-Sakhalinsk City, Sakhalin Region
+DOMAIN-SUFFIX,yourgood.app
+DOMAIN-SUFFIX,yuzhno-sakhalinsk.ru
 DOMAIN-SUFFIX,zarplata.ru
-DOMAIN-SUFFIX,zdrav10.ru      # Republic of Karelia
+DOMAIN-SUFFIX,zdrav10.ru
 DOMAIN-SUFFIX,zenit-card.ru
 DOMAIN-SUFFIX,zenit.ru
 DOMAIN-SUFFIX,ziraatbank.ru

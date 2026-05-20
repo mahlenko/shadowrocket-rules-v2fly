@@ -1,7 +1,7 @@
 # NAME: APPLE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:46
+# UPDATED: 2026-05-20 12:57:51
 # DOMAIN-SUFFIX: 1536
 # DOMAIN: 242
 # TOTAL: 1778
@@ -221,8 +221,8 @@ DOMAIN-SUFFIX,apple.tt
 DOMAIN-SUFFIX,apple.tw
 DOMAIN-SUFFIX,apple.uk
 DOMAIN-SUFFIX,apple.us
-DOMAIN-SUFFIX,apple.xn--czr694b # apple.商标
-DOMAIN-SUFFIX,apple.xn--fiqs8s # apple.中国
+DOMAIN-SUFFIX,apple.xn--czr694b
+DOMAIN-SUFFIX,apple.xn--fiqs8s
 DOMAIN-SUFFIX,apple.xyz
 DOMAIN-SUFFIX,appleaccount.net
 DOMAIN-SUFFIX,appleafrica.com
@@ -1180,7 +1180,7 @@ DOMAIN,inappcheck-lb.itunes-apple.com.akadns.net
 DOMAIN,inappcheck.itunes.apple.com
 DOMAIN-SUFFIX,incentivetravelgifts.com
 DOMAIN-SUFFIX,indiaipad.com
-DOMAIN,ingest.apple-studies.com  # 采集心率、运动、听力等传感器数据，以及用户填报的研究问卷，将其加密后上传至 Apple 后端
+DOMAIN,ingest.apple-studies.com
 DOMAIN,init-kt.apple.com
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net
 DOMAIN,init-p01md.apple.com
@@ -1770,16 +1770,16 @@ DOMAIN-SUFFIX,wwwipodlounge.com
 DOMAIN-SUFFIX,wwwitunes.com
 DOMAIN-SUFFIX,wwwlapple.com
 DOMAIN-SUFFIX,wwwmacbookair.com
-DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn  # 苹果商店.cn
-DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn  # 苹果中国.cn
-DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e # 苹果中国.网店
-DOMAIN-SUFFIX,xn--gtvq61aiijy0b.xn--hxt814e # 苹果电脑.网店
-DOMAIN-SUFFIX,xn--gtvz22d.wang # 苹果.wang
-DOMAIN-SUFFIX,xn--gtvz22d.xn--hxt814e # 苹果.网店
-DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b # 苹果店.商标
-DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e # 苹果手机.网店
-DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn  # 苹果专卖店.cn
-DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e # 苹果保修.网店
+DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn
+DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn
+DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e
+DOMAIN-SUFFIX,xn--gtvq61aiijy0b.xn--hxt814e
+DOMAIN-SUFFIX,xn--gtvz22d.wang
+DOMAIN-SUFFIX,xn--gtvz22d.xn--hxt814e
+DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b
+DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e
+DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
+DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e
 DOMAIN-SUFFIX,xp.apple.com
 DOMAIN,xp.apple.com
 DOMAIN-SUFFIX,yourmonsterbeats.com

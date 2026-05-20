@@ -1,8 +1,8 @@
 # NAME: HITUN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:48
+# UPDATED: 2026-05-20 12:57:53
 # DOMAIN-SUFFIX: 2
 # TOTAL: 2
 DOMAIN-SUFFIX,hitun.io
-DOMAIN-SUFFIX,xn--90wwvt03e.com # 海豚湾.com
+DOMAIN-SUFFIX,xn--90wwvt03e.com

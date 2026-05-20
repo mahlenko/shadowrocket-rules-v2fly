@@ -1,7 +1,7 @@
 # NAME: CATEGORY-MEDIA-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:47
+# UPDATED: 2026-05-20 12:57:52
 # DOMAIN-SUFFIX: 320
 # DOMAIN: 1
 # TOTAL: 321
@@ -86,7 +86,7 @@ DOMAIN-SUFFIX,daheapp.com
 DOMAIN-SUFFIX,dahebao.cn
 DOMAIN-SUFFIX,danjuanfunds.com
 DOMAIN-SUFFIX,dgtle.com
-DOMAIN-SUFFIX,dianzhenkeji.com # 河南广电融媒
+DOMAIN-SUFFIX,dianzhenkeji.com
 DOMAIN-SUFFIX,donews.com
 DOMAIN-SUFFIX,dutenews.com
 DOMAIN-SUFFIX,dzh.com.cn
@@ -116,7 +116,7 @@ DOMAIN-SUFFIX,gw.com.cn
 DOMAIN-SUFFIX,hexin.cn
 DOMAIN-SUFFIX,hexin.com.cn
 DOMAIN-SUFFIX,hexun.com
-DOMAIN-SUFFIX,hndt.com # 河南广播网
+DOMAIN-SUFFIX,hndt.com
 DOMAIN-SUFFIX,hntv.tv
 DOMAIN-SUFFIX,huanqiu.com
 DOMAIN-SUFFIX,huanqiucdn.cn
@@ -295,11 +295,11 @@ DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,xinhuaxmt.com
 DOMAIN-SUFFIX,xinyan.cn
 DOMAIN-SUFFIX,xkb.com.cn
-DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn # 中国广播电视总台.cn
-DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s # 中国广播电视总台.中国
-DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn # 中央广播电视总台.cn
-DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn # 国家广播电视总台.cn
-DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s # 国家广播电视总台.中国
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
+DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
 DOMAIN-SUFFIX,xueqiu.com
 DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,ycwb.com

@@ -1,7 +1,7 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:48
+# UPDATED: 2026-05-20 12:57:53
 # DOMAIN-SUFFIX: 23621
 # DOMAIN: 1372
 # URL-REGEX: 161
@@ -180,7 +180,7 @@ DOMAIN-SUFFIX,1111mode.xyz
 DOMAIN-SUFFIX,1111modpo.info
 DOMAIN-SUFFIX,112263.com
 DOMAIN-SUFFIX,114av.xyz
-DOMAIN-SUFFIX,114bank.co.jp  # 株式会社百十四銀行
+DOMAIN-SUFFIX,114bank.co.jp
 DOMAIN-SUFFIX,119474.xyz
 DOMAIN-SUFFIX,11jav.com
 DOMAIN-SUFFIX,123-hp.com
@@ -587,7 +587,7 @@ DOMAIN-SUFFIX,75m.co
 DOMAIN-SUFFIX,7719.me
 DOMAIN-SUFFIX,777tv.net
 DOMAIN-SUFFIX,777xporn.com
-DOMAIN-SUFFIX,77bank.co.jp  # 株式会社七十七銀行
+DOMAIN-SUFFIX,77bank.co.jp
 DOMAIN-SUFFIX,77maott.com
 DOMAIN-SUFFIX,7mm.tv
 DOMAIN-SUFFIX,7mmtv.sx
@@ -599,7 +599,7 @@ DOMAIN-SUFFIX,8008206616.com
 DOMAIN-SUFFIX,8111y.top
 DOMAIN-SUFFIX,81jia.tv
 DOMAIN-SUFFIX,81tower.com
-DOMAIN-SUFFIX,82bank.co.jp  # 株式会社八十二銀行
+DOMAIN-SUFFIX,82bank.co.jp
 DOMAIN-SUFFIX,82mvmv.com
 DOMAIN-SUFFIX,85tube.com
 DOMAIN-SUFFIX,8664av.com
@@ -703,7 +703,7 @@ URL-REGEX,^hses[1-7]?\.akamaized\.net$
 URL-REGEX,^images(-\d)?\.gog-statics\.com$
 URL-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 URL-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-DOMAIN-SUFFIX,a-bank.jp  # 株式会社青森銀行
+DOMAIN-SUFFIX,a-bank.jp
 DOMAIN-SUFFIX,a-hentai.tv
 DOMAIN-SUFFIX,a-msedge.net
 DOMAIN-SUFFIX,a-teenz.com
@@ -725,7 +725,7 @@ DOMAIN-SUFFIX,aaagradeheadphones.com
 DOMAIN-SUFFIX,aaapp.cyou
 DOMAIN-SUFFIX,aabb1802.com
 DOMAIN-SUFFIX,aabb1803.com
-DOMAIN-SUFFIX,aacrjournals.org # AACR 美国癌症研究学会
+DOMAIN-SUFFIX,aacrjournals.org
 DOMAIN-SUFFIX,aadmv.com
 DOMAIN-SUFFIX,aadrm.cn
 DOMAIN-SUFFIX,aadrm.com
@@ -781,9 +781,9 @@ DOMAIN-SUFFIX,absolutewhores.com
 DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,ac.ir
 DOMAIN-SUFFIX,ac.uk
-DOMAIN-SUFFIX,academic.eb.com # Britannica Academic
+DOMAIN-SUFFIX,academic.eb.com
 DOMAIN-SUFFIX,academynetriders.com
-DOMAIN-SUFFIX,acaric.co.jp # 株式会社アカリク
+DOMAIN-SUFFIX,acaric.co.jp
 DOMAIN-SUFFIX,acasadasbrasileirinhas.com.br
 DOMAIN-SUFFIX,accbusiness.com
 DOMAIN-SUFFIX,accdn.com.cn
@@ -1191,7 +1191,7 @@ DOMAIN-SUFFIX,aga-expo.com
 DOMAIN-SUFFIX,agag.tw
 DOMAIN-SUFFIX,agdbank.com
 DOMAIN-SUFFIX,age.tv
-DOMAIN-SUFFIX,agedm.app # app
+DOMAIN-SUFFIX,agedm.app
 DOMAIN-SUFFIX,agedm.org
 DOMAIN-SUFFIX,agedm.tv
 DOMAIN-SUFFIX,agefans.com
@@ -1203,7 +1203,7 @@ DOMAIN-SUFFIX,aggresmart.com
 DOMAIN-SUFFIX,agrd.eu
 DOMAIN-SUFFIX,agrd.io
 DOMAIN-SUFFIX,agri-bank.com
-DOMAIN-SUFFIX,agu.org # American Geophysical Union
+DOMAIN-SUFFIX,agu.org
 DOMAIN-SUFFIX,agzy1.com
 DOMAIN-SUFFIX,ah-me.com
 DOMAIN-SUFFIX,ahcathyxxx.com
@@ -1228,12 +1228,12 @@ DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,ai7995.site
 DOMAIN-SUFFIX,ai91porn.cc
-DOMAIN-SUFFIX,aiaa.org # AIAA 美国航空航天学会
+DOMAIN-SUFFIX,aiaa.org
 DOMAIN-SUFFIX,aiasahi.jp
 DOMAIN-SUFFIX,aicode.googleapis.com
 DOMAIN-SUFFIX,aida.googleapis.com
 DOMAIN-SUFFIX,aimei133.com
-DOMAIN-SUFFIX,aimsciences.org # AIMS 美国科学数学协会期刊库
+DOMAIN-SUFFIX,aimsciences.org
 DOMAIN-SUFFIX,aipa553.com
 DOMAIN-SUFFIX,air-nike-shoes.com
 DOMAIN-SUFFIX,air-watch.com
@@ -1460,7 +1460,7 @@ DOMAIN-SUFFIX,akbars.ru
 DOMAIN-SUFFIX,akcdn.com.cn
 DOMAIN-SUFFIX,akiba-online.com
 DOMAIN-SUFFIX,akiba-souken.com
-DOMAIN-SUFFIX,akita-bank.co.jp  # 株式会社秋田銀行
+DOMAIN-SUFFIX,akita-bank.co.jp
 DOMAIN-SUFFIX,akstat.io
 DOMAIN-SUFFIX,akthelp.com
 DOMAIN-SUFFIX,albagals.com
@@ -1471,7 +1471,7 @@ DOMAIN-SUFFIX,alefbank.com
 DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,alexafund.cn
 DOMAIN-SUFFIX,alexafund.com.cn
-DOMAIN-SUFFIX,alexanderstreet.com # Alexander Street
+DOMAIN-SUFFIX,alexanderstreet.com
 DOMAIN-SUFFIX,alfa.me
 DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,alfabank.ru
@@ -1611,7 +1611,7 @@ DOMAIN-SUFFIX,alphabet.us
 DOMAIN-SUFFIX,alphabetfinance.net
 DOMAIN-SUFFIX,alphaporno.com
 DOMAIN-SUFFIX,alphassl.com
-DOMAIN-SUFFIX,alphaxiv.org # alphaXiv
+DOMAIN-SUFFIX,alphaxiv.org
 DOMAIN-SUFFIX,alphera-finance.co.in
 DOMAIN-SUFFIX,alphera-finance.com.hk
 DOMAIN-SUFFIX,alphera-finance.in
@@ -1810,7 +1810,7 @@ DOMAIN-SUFFIX,amcplus.com
 DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,amd.com.cn
 DOMAIN-SUFFIX,amdfanstore.com
-DOMAIN-SUFFIX,amdigital.co.uk # Adam Matthew Digital 历史与文化珍稀史料数据库集成
+DOMAIN-SUFFIX,amdigital.co.uk
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,amebame.com
 DOMAIN-SUFFIX,amebaownd.com
@@ -1846,7 +1846,7 @@ DOMAIN-SUFFIX,amplifyframework.com
 DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
 DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,ams.org # 美国数学学会
+DOMAIN-SUFFIX,ams.org
 DOMAIN-SUFFIX,ams02.space
 DOMAIN-SUFFIX,ams2.test-ipv6.com
 DOMAIN-SUFFIX,amsterdamhotescort.com
@@ -1901,7 +1901,7 @@ DOMAIN-SUFFIX,analytics.vpc.duolingo.com
 DOMAIN,analytics.wildberries.ru
 DOMAIN-SUFFIX,analytictech.com
 DOMAIN-SUFFIX,anandtech.com
-DOMAIN-SUFFIX,anatomy.tv # digital human anatomy and physiology content
+DOMAIN-SUFFIX,anatomy.tv
 DOMAIN-SUFFIX,anb.org
 DOMAIN-SUFFIX,ancensored.com
 DOMAIN-SUFFIX,android
@@ -1923,7 +1923,7 @@ DOMAIN-SUFFIX,anfutong.com.cn
 DOMAIN-SUFFIX,angel-gto.com
 DOMAIN-SUFFIX,angelbeats.jp
 DOMAIN-SUFFIX,angelweb.jp
-DOMAIN,angle.com.tw # 元照出版
+DOMAIN,angle.com.tw
 DOMAIN-SUFFIX,angulardart.org
 DOMAIN-SUFFIX,anibooru.com
 DOMAIN-SUFFIX,anidom.com
@@ -2003,7 +2003,7 @@ DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,aorus.com
 DOMAIN-SUFFIX,aoruszone.cn
 DOMAIN-SUFFIX,aoxx69.net
-DOMAIN-SUFFIX,aozorabank.co.jp      # 株式会社あおぞら銀行
+DOMAIN-SUFFIX,aozorabank.co.jp
 DOMAIN-SUFFIX,ap.org
 DOMAIN-SUFFIX,ap0le.com
 DOMAIN-SUFFIX,apa.org
@@ -2218,8 +2218,8 @@ DOMAIN-SUFFIX,apple.tt
 DOMAIN-SUFFIX,apple.tw
 DOMAIN-SUFFIX,apple.uk
 DOMAIN-SUFFIX,apple.us
-DOMAIN-SUFFIX,apple.xn--czr694b # apple.商标
-DOMAIN-SUFFIX,apple.xn--fiqs8s # apple.中国
+DOMAIN-SUFFIX,apple.xn--czr694b
+DOMAIN-SUFFIX,apple.xn--fiqs8s
 DOMAIN-SUFFIX,apple.xyz
 DOMAIN-SUFFIX,appleaccount.net
 DOMAIN-SUFFIX,appleafrica.com
@@ -2462,7 +2462,7 @@ DOMAIN-SUFFIX,appule.com
 DOMAIN-SUFFIX,appye.com
 DOMAIN-SUFFIX,appyq.com
 DOMAIN-SUFFIX,apress.com
-DOMAIN-SUFFIX,aps.org # American Physical Society Sites
+DOMAIN-SUFFIX,aps.org
 DOMAIN-SUFFIX,aptdn.net
 DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,apture.com
@@ -2527,7 +2527,7 @@ DOMAIN-SUFFIX,artnudegalleries.com
 DOMAIN-SUFFIX,artoferotica.info
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,artstationmedia.com
-DOMAIN-SUFFIX,artstor.org # ARTstor Digital Library 艺术图像数据库
+DOMAIN-SUFFIX,artstor.org
 DOMAIN-SUFFIX,artstorm.com
 DOMAIN-SUFFIX,arxiv.org
 DOMAIN-SUFFIX,arzon.jp
@@ -2539,7 +2539,7 @@ DOMAIN-SUFFIX,asahi.com
 DOMAIN-SUFFIX,asahicom.jp
 DOMAIN,asahishimbun.sc.omtrdc.net
 DOMAIN-SUFFIX,asakonet.co.jp
-DOMAIN-SUFFIX,ascelibrary.org # American Society of Civil Engineers 美国土木工程师学会
+DOMAIN-SUFFIX,ascelibrary.org
 DOMAIN-SUFFIX,asebay.com
 DOMAIN-SUFFIX,asexdoll.com
 DOMAIN-SUFFIX,asextube.net
@@ -2547,7 +2547,7 @@ DOMAIN-SUFFIX,asfiovnxocqpcry.com.cn
 DOMAIN-SUFFIX,asha.org
 DOMAIN-SUFFIX,ashemaletube.com
 DOMAIN-SUFFIX,ashemaletv.com
-DOMAIN-SUFFIX,ashikagabank.co.jp  # 株式会社足利銀行
+DOMAIN-SUFFIX,ashikagabank.co.jp
 DOMAIN-SUFFIX,ashleysageellison.com
 DOMAIN-SUFFIX,asia-pay.ru
 DOMAIN-SUFFIX,asiacrazy.xyz
@@ -2581,18 +2581,18 @@ DOMAIN-SUFFIX,askfacebook.net
 DOMAIN-SUFFIX,askfacebook.org
 DOMAIN-SUFFIX,asknudes.com
 DOMAIN-SUFFIX,askubuntu.com
-DOMAIN-SUFFIX,asm.org # The American Society for Microbiology 美国微生物学会
-DOMAIN-SUFFIX,asme.org # American Society of Mechanical Engineers 美国机械工程师学会
+DOMAIN-SUFFIX,asm.org
+DOMAIN-SUFFIX,asme.org
 DOMAIN-SUFFIX,asmhentai.com
-DOMAIN-SUFFIX,asminternational.org # ASM 材料信息协会
+DOMAIN-SUFFIX,asminternational.org
 DOMAIN-SUFFIX,asmr.gay
 DOMAIN-SUFFIX,asmrbuluo.com
-DOMAIN-SUFFIX,asn-online.org # ASN 美国肾脏病学会期刊
+DOMAIN-SUFFIX,asn-online.org
 DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,asp-cc.com
 DOMAIN-SUFFIX,asp.net
-DOMAIN-SUFFIX,aspbjournals.org # ASPB 美国植物生物学家学会全文期刊库
-DOMAIN-SUFFIX,aspenpublishing.com # ASPEN Digital Library 法律
+DOMAIN-SUFFIX,aspbjournals.org
+DOMAIN-SUFFIX,aspenpublishing.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,asproex.com
 DOMAIN-SUFFIX,asproexapi.com
@@ -2607,7 +2607,7 @@ DOMAIN-SUFFIX,assoass.com
 DOMAIN-SUFFIX,assoc-amazon.cn
 DOMAIN-SUFFIX,associates-amazon.com
 DOMAIN-SUFFIX,assylum.com
-DOMAIN-SUFFIX,astm.org # ASTM 美国材料与试验协会
+DOMAIN-SUFFIX,astm.org
 DOMAIN-SUFFIX,asto.re
 DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,asus.com.cn
@@ -2945,7 +2945,7 @@ DOMAIN-SUFFIX,avxhm.is
 DOMAIN-SUFFIX,avxhm.se
 DOMAIN-SUFFIX,avxlive.icu
 DOMAIN-SUFFIX,avxxc.com
-DOMAIN-SUFFIX,awabank.co.jp  # 株式会社阿波銀行
+DOMAIN-SUFFIX,awabank.co.jp
 DOMAIN-SUFFIX,awayoutgame.com
 DOMAIN-SUFFIX,aweencore.com
 DOMAIN-SUFFIX,awempire.com
@@ -3571,7 +3571,7 @@ DOMAIN-SUFFIX,beautifulandbusty.com
 DOMAIN-SUFFIX,beautyandthebeastmusical.co.uk
 DOMAIN-SUFFIX,beautyescortsamsterdam.com
 DOMAIN-SUFFIX,bebepremium3.com.bo
-DOMAIN,beck-online.beck.de # Beck-Online数据库
+DOMAIN,beck-online.beck.de
 DOMAIN-SUFFIX,becomeindex.com
 DOMAIN-SUFFIX,beddit.tv
 DOMAIN-SUFFIX,bedstegratisporno.com
@@ -3845,9 +3845,9 @@ DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,bingx.com
 DOMAIN-SUFFIX,binoculus.com
 DOMAIN-SUFFIX,bintray.com
-DOMAIN-SUFFIX,biologists.com # COB期刊
-DOMAIN-SUFFIX,biomedcentral.com # BMC
-DOMAIN-SUFFIX,bioone.org # BioOne
+DOMAIN-SUFFIX,biologists.com
+DOMAIN-SUFFIX,biomedcentral.com
+DOMAIN-SUFFIX,bioone.org
 DOMAIN-SUFFIX,bioporno.com
 DOMAIN-SUFFIX,biorxiv.org
 DOMAIN-SUFFIX,bioware.com
@@ -3893,7 +3893,7 @@ DOMAIN-SUFFIX,bizmrg.com
 DOMAIN-SUFFIX,bizographics.com
 DOMAIN,bj1.api.bing.com
 DOMAIN-SUFFIX,bjini.cc
-DOMAIN-SUFFIX,bk.mufg.jp  # 株式会社三菱東京UFJ銀行
+DOMAIN-SUFFIX,bk.mufg.jp
 DOMAIN-SUFFIX,bk.ru
 DOMAIN-SUFFIX,bkkdown.site
 DOMAIN-SUFFIX,blackamateurfuck.com
@@ -4045,8 +4045,8 @@ DOMAIN-SUFFIX,bloombergtv.mn
 DOMAIN-SUFFIX,bloombergvault.com
 DOMAIN-SUFFIX,bloombergview.com
 DOMAIN-SUFFIX,bloommicroventures.com
-DOMAIN-SUFFIX,bloomsburycollections.com # Bloomsbury Publishing
-DOMAIN-SUFFIX,bloomsburydesignlibrary.com # BLOOMSBURY Design Library 工业设计图书馆
+DOMAIN-SUFFIX,bloomsburycollections.com
+DOMAIN-SUFFIX,bloomsburydesignlibrary.com
 DOMAIN-SUFFIX,blowjobit.com
 DOMAIN-SUFFIX,blowjobqueens.net
 DOMAIN-SUFFIX,blox.com
@@ -4078,7 +4078,7 @@ DOMAIN,blznav.akamaized.net
 DOMAIN-SUFFIX,bm-bank.ru
 DOMAIN-SUFFIX,bmi.ir
 DOMAIN-SUFFIX,bmia.org
-DOMAIN-SUFFIX,bmj.com # BMJ 英国医学会期刊
+DOMAIN-SUFFIX,bmj.com
 DOMAIN-SUFFIX,bml.info
 DOMAIN-SUFFIX,bmw
 DOMAIN-SUFFIX,bmw-abudhabi.com
@@ -4494,7 +4494,7 @@ DOMAIN-SUFFIX,bodgirls.com
 DOMAIN-SUFFIX,bodyandsoul.com.au
 DOMAIN-SUFFIX,bodyfluids-jav.com
 DOMAIN-SUFFIX,bohemia.net
-DOMAIN-SUFFIX,boj.or.jp  # 日本銀行
+DOMAIN-SUFFIX,boj.or.jp
 DOMAIN-SUFFIX,bokep.net
 DOMAIN-SUFFIX,bokepseks.org
 DOMAIN-SUFFIX,bokepvidz.com
@@ -4534,7 +4534,7 @@ DOMAIN-SUFFIX,booksc.xyz
 DOMAIN-SUFFIX,bookshome.info
 DOMAIN-SUFFIX,bookshome.net
 DOMAIN-SUFFIX,bookshome.world
-DOMAIN-SUFFIX,booksinprint.com # Global Books In Print
+DOMAIN-SUFFIX,booksinprint.com
 DOMAIN-SUFFIX,bookstagram.com
 DOMAIN-SUFFIX,booloo.com
 DOMAIN-SUFFIX,boom.ru
@@ -4636,7 +4636,7 @@ DOMAIN-SUFFIX,breakdown.me
 DOMAIN-SUFFIX,breasthealthinfo.com
 DOMAIN-SUFFIX,breath-takers.com
 DOMAIN-SUFFIX,breitbart.com
-DOMAIN-SUFFIX,brepolis.net # Brepolis系列数据库
+DOMAIN-SUFFIX,brepolis.net
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,brewmp.com
 DOMAIN-SUFFIX,briantreepayments.net
@@ -4716,7 +4716,7 @@ DOMAIN-SUFFIX,brourou.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
-DOMAIN-SUFFIX,browser.kagi.com # Orion Browser
+DOMAIN-SUFFIX,browser.kagi.com
 DOMAIN-SUFFIX,browser.run
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,brutalbdsmtube.com
@@ -4850,7 +4850,7 @@ DOMAIN-SUFFIX,buyshoponly.com
 DOMAIN-SUFFIX,buzzardflapper.com
 DOMAIN-SUFFIX,buzzav.com
 DOMAIN-SUFFIX,buzzsprout.com
-DOMAIN-SUFFIX,bvdinfo.com # BvD系列数据库（Bank Focus、Osiris、ORBIS、Orbis Intellectual Property、Zephyr、EIU Countrydata）
+DOMAIN-SUFFIX,bvdinfo.com
 DOMAIN-SUFFIX,bwbx.io
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,bwh8.net
@@ -4913,7 +4913,7 @@ DOMAIN-SUFFIX,cai21.xyz
 DOMAIN-SUFFIX,caice.com
 DOMAIN-SUFFIX,caijinglengyan.com
 DOMAIN-SUFFIX,caime.xyz
-DOMAIN-SUFFIX,cairn.info # Cairn 法语数据库
+DOMAIN-SUFFIX,cairn.info
 DOMAIN-SUFFIX,cairnspost.com.au
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,calgon.at
@@ -5066,7 +5066,7 @@ DOMAIN-SUFFIX,canonproprinters.com
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,canvastatus.com
 DOMAIN-SUFFIX,capitalgames.com
-DOMAIN-SUFFIX,capitaliq.com # Capital IQ
+DOMAIN-SUFFIX,capitaliq.com
 DOMAIN-SUFFIX,capitalt.ru
 DOMAIN-SUFFIX,capturingreality.com
 DOMAIN-SUFFIX,carbon.com
@@ -5100,7 +5100,7 @@ DOMAIN-SUFFIX,cartoonscity.com
 DOMAIN-SUFFIX,cartoonsexfantazy.com
 DOMAIN-SUFFIX,cartoontube.com
 DOMAIN-SUFFIX,cartoonville.net
-DOMAIN-SUFFIX,cas.org # American Chemical Society
+DOMAIN-SUFFIX,cas.org
 DOMAIN-SUFFIX,cash.app
 DOMAIN-SUFFIX,cash2.com
 DOMAIN-SUFFIX,cashback69.com
@@ -5174,7 +5174,7 @@ DOMAIN-SUFFIX,ccav69.info
 DOMAIN-SUFFIX,ccav69.me
 DOMAIN-SUFFIX,ccav691api.com
 DOMAIN-SUFFIX,ccavb.tv
-DOMAIN-SUFFIX,ccdc.cam.ac.uk # The Cambridge Structural Database
+DOMAIN-SUFFIX,ccdc.cam.ac.uk
 DOMAIN-SUFFIX,cciernslabs.com
 DOMAIN-SUFFIX,cciesecuritylabs.com
 DOMAIN-SUFFIX,ccievoicelabs.com
@@ -5228,7 +5228,7 @@ DOMAIN,cds.apple.com.akadns.net
 DOMAIN,cdsassets.apple.com
 DOMAIN-SUFFIX,cebay.com
 DOMAIN-SUFFIX,cegid-cloud.cn
-DOMAIN-SUFFIX,ceicdata.com # CEIC 经济数据库
+DOMAIN-SUFFIX,ceicdata.com
 DOMAIN-SUFFIX,celebforum.co
 DOMAIN-SUFFIX,celebgramme.com
 DOMAIN-SUFFIX,celebmasta.live
@@ -5377,8 +5377,8 @@ DOMAIN-SUFFIX,cheerwholesale.us
 DOMAIN-SUFFIX,chef.io
 DOMAIN-SUFFIX,chegg.com
 DOMAIN-SUFFIX,cheggcdn.com
-DOMAIN-SUFFIX,chemequations.com # 线上化学方程式！
-DOMAIN-SUFFIX,chemnetbase.com # CRC Handbook of Chemistry and Physics
+DOMAIN-SUFFIX,chemequations.com
+DOMAIN-SUFFIX,chemnetbase.com
 DOMAIN-SUFFIX,chengjuanseo.com
 DOMAIN-SUFFIX,chengrendouyin-app.com
 DOMAIN-SUFFIX,chengrenshipin-app.com
@@ -5391,8 +5391,8 @@ DOMAIN-SUFFIX,cherrypanpan.com
 DOMAIN-SUFFIX,cherrypimps.com
 DOMAIN-SUFFIX,cherrypornhd.com
 DOMAIN-SUFFIX,chianxv.buzz
-DOMAIN-SUFFIX,chibabank.co.jp  # 株式会社千葉銀行
-DOMAIN-SUFFIX,chibakogyo-bank.co.jp  # 株式会社千葉興業銀行
+DOMAIN-SUFFIX,chibabank.co.jp
+DOMAIN-SUFFIX,chibakogyo-bank.co.jp
 DOMAIN-SUFFIX,chicagolandbmw.com
 DOMAIN-SUFFIX,chicksonblackdicks.com
 DOMAIN-SUFFIX,chickstagram.com
@@ -5401,7 +5401,7 @@ DOMAIN-SUFFIX,chid.com.mm
 DOMAIN-SUFFIX,chihair-straightener.com
 DOMAIN-SUFFIX,chii.in
 DOMAIN-SUFFIX,chikiporn.com
-DOMAIN-SUFFIX,chikubank.co.jp  # 株式会社筑邦銀行
+DOMAIN-SUFFIX,chikubank.co.jp
 DOMAIN-SUFFIX,chillingo.com
 DOMAIN-SUFFIX,chimeforchange.org
 DOMAIN-SUFFIX,china-autodesk.com
@@ -5450,7 +5450,7 @@ DOMAIN-SUFFIX,cht.com.tw
 DOMAIN-SUFFIX,chtf.org.tw
 DOMAIN-SUFFIX,chuangb15.xyz
 DOMAIN-SUFFIX,chubbypornonly.com
-DOMAIN-SUFFIX,chugokubank.co.jp  # 株式会社中国銀行
+DOMAIN-SUFFIX,chugokubank.co.jp
 DOMAIN-SUFFIX,chuneo.xyz
 DOMAIN-SUFFIX,chunja19.net
 DOMAIN-SUFFIX,chunkbase.com
@@ -5520,7 +5520,7 @@ DOMAIN-SUFFIX,cispaletter.com
 DOMAIN-SUFFIX,cispaletter.org
 DOMAIN-SUFFIX,citas-para-mayoresde50.ec
 DOMAIN-SUFFIX,citasecuador.com
-DOMAIN-SUFFIX,citibank.co.jp        # シティバンク銀行株式会社
+DOMAIN-SUFFIX,citibank.co.jp
 DOMAIN-SUFFIX,citizenlab.ca
 DOMAIN-SUFFIX,citizenlab.org
 DOMAIN-SUFFIX,citrixandautodesk.com
@@ -5691,7 +5691,7 @@ DOMAIN-SUFFIX,cloudlock.com
 DOMAIN-SUFFIX,cloudn.me
 DOMAIN-SUFFIX,cloudproxy.app
 DOMAIN-SUFFIX,cloudrobotics.com
-DOMAIN-SUFFIX,cloudru.cn # HK
+DOMAIN-SUFFIX,cloudru.cn
 DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,cloudvolumes.com
 DOMAIN-SUFFIX,cloudyzgirl.com
@@ -6219,7 +6219,7 @@ DOMAIN-SUFFIX,daftsex.com
 DOMAIN-SUFFIX,dagfs.com
 DOMAIN-SUFFIX,dahl.su
 DOMAIN-SUFFIX,dahlmessenger.com
-DOMAIN-SUFFIX,daiichibank.co.jp  # 株式会社第四銀行
+DOMAIN-SUFFIX,daiichibank.co.jp
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,dailybasis.com
 DOMAIN-SUFFIX,dailym.ai
@@ -6273,8 +6273,8 @@ DOMAIN-SUFFIX,dastanhisexy.cc
 DOMAIN-SUFFIX,dat.foundation
 DOMAIN-SUFFIX,data-tscbank.ru
 DOMAIN-SUFFIX,data.com
-DOMAIN,databank.worldbank.org # World DataBank 世界经济学数据库
-DOMAIN,database.asahi.com # 朝日新闻数据库（闻藏II Visual）
+DOMAIN,databank.worldbank.org
+DOMAIN,database.asahi.com
 DOMAIN-SUFFIX,datacloudmy.com
 DOMAIN-SUFFIX,dataframeworks.com
 DOMAIN-SUFFIX,dataliberation.org
@@ -6694,7 +6694,7 @@ DOMAIN-SUFFIX,diddykongracing.com
 DOMAIN-SUFFIX,didilist.com
 DOMAIN-SUFFIX,dierectv.com
 DOMAIN-SUFFIX,dify.ai
-DOMAIN-SUFFIX,digicert-cn.com # Not in Chinese Mainland
+DOMAIN-SUFFIX,digicert-cn.com
 DOMAIN-SUFFIX,digicert-validation.com
 DOMAIN-SUFFIX,digicert.cn
 DOMAIN-SUFFIX,digicert.co.jp
@@ -6929,7 +6929,7 @@ DOMAIN-SUFFIX,dkk37.com
 DOMAIN-SUFFIX,dkr.com
 DOMAIN-SUFFIX,dkrecttv.com
 DOMAIN-SUFFIX,dl-iphone.com
-DOMAIN,dl.begellhouse.com # Begell Digital Library
+DOMAIN,dl.begellhouse.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN,dl.dell.com
 DOMAIN,dl.google.com
@@ -6946,7 +6946,7 @@ DOMAIN-SUFFIX,dlercloud.org
 DOMAIN-SUFFIX,dleris.best
 DOMAIN-SUFFIX,dlfacebook.com
 DOMAIN,dlgarenanow-a.akamaihd.net
-DOMAIN-SUFFIX,dlib.eastview.com # Cambridge Archive Editions Online 剑桥档案编研
+DOMAIN-SUFFIX,dlib.eastview.com
 DOMAIN,dlmobilegarena-a.akamaihd.net
 DOMAIN-SUFFIX,dln1.ncdn.ec
 DOMAIN-SUFFIX,dlsite.com
@@ -7641,7 +7641,7 @@ DOMAIN-SUFFIX,ebonythots.com
 DOMAIN-SUFFIX,ebonywebcamhub.com
 DOMAIN-SUFFIX,eboobstore.com
 DOMAIN-SUFFIX,ebookforipad.com
-DOMAIN-SUFFIX,ebsco.com # EBSCO 检索平台
+DOMAIN-SUFFIX,ebsco.com
 DOMAIN-SUFFIX,ebscohost.com
 DOMAIN-SUFFIX,ebuyer.com
 DOMAIN-SUFFIX,ebuyheadphones.com
@@ -7733,7 +7733,7 @@ DOMAIN-SUFFIX,elephanttubenew.com
 DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,elgaronline.com
-DOMAIN,elib.maruzen.co.jp # Maruzen e-Book Library（MEL）
+DOMAIN,elib.maruzen.co.jp
 DOMAIN-SUFFIX,elifesciences.org
 DOMAIN-SUFFIX,eligens.cl
 DOMAIN-SUFFIX,eligens.com.br
@@ -7774,7 +7774,7 @@ DOMAIN-SUFFIX,emblstatic.net
 DOMAIN-SUFFIX,embs.org
 DOMAIN-SUFFIX,emc.com
 DOMAIN-SUFFIX,emcs.org
-DOMAIN-SUFFIX,emerald.com # Emerald 管理学期刊库、工程学期刊库、电子书
+DOMAIN-SUFFIX,emerald.com
 DOMAIN-SUFFIX,emergingsolutions.com
 DOMAIN,emoi-cncdn.bing.com
 DOMAIN-SUFFIX,emojipedia.org
@@ -7782,7 +7782,7 @@ DOMAIN-SUFFIX,emome.net
 DOMAIN-SUFFIX,empero-right.mom
 DOMAIN-SUFFIX,empflix.com
 DOMAIN-SUFFIX,empornium.site
-DOMAIN-SUFFIX,ems-ph.org # European Mathematical Society Publishing House
+DOMAIN-SUFFIX,ems-ph.org
 DOMAIN-SUFFIX,enablementadobe.com
 DOMAIN-SUFFIX,enanyang.my
 DOMAIN-SUFFIX,enbank.ir
@@ -8068,7 +8068,7 @@ DOMAIN-SUFFIX,etwealth.com
 DOMAIN-SUFFIX,eu-consumer-empowerment.com
 DOMAIN-SUFFIX,eubluecardvisa.com
 DOMAIN-SUFFIX,eueuropeansustainabledesign.net
-DOMAIN-SUFFIX,eurekaselect.com # Bentham Science期刊库
+DOMAIN-SUFFIX,eurekaselect.com
 DOMAIN-SUFFIX,eurobabeindex.com
 DOMAIN-SUFFIX,eurocodesoftware.com
 DOMAIN-SUFFIX,eurogirlsescort.com
@@ -8409,7 +8409,7 @@ DOMAIN-SUFFIX,facnbook.com
 DOMAIN-SUFFIX,facrbook.com
 DOMAIN-SUFFIX,factograph.info
 DOMAIN-SUFFIX,factwire.org
-DOMAIN-SUFFIX,facultyopinions.com # Faculty Opinions
+DOMAIN-SUFFIX,facultyopinions.com
 DOMAIN-SUFFIX,facvebook.com
 DOMAIN-SUFFIX,facwebook.com
 DOMAIN-SUFFIX,facxebook.com
@@ -8823,7 +8823,7 @@ DOMAIN-SUFFIX,firstgynexam.com
 DOMAIN-SUFFIX,firstns.cc
 DOMAIN-SUFFIX,firstpelvicexam.com
 DOMAIN-SUFFIX,firstprivatebank.com.mm
-DOMAIN,firstsearch.oclc.org # OCLC FirstSearch
+DOMAIN,firstsearch.oclc.org
 DOMAIN-SUFFIX,fishmpegs.com
 DOMAIN-SUFFIX,fitbit.com
 DOMAIN-SUFFIX,fitgirl-repacks.site
@@ -9285,8 +9285,8 @@ DOMAIN-SUFFIX,fuckvideos.biz
 DOMAIN-SUFFIX,fuhouse.club
 DOMAIN-SUFFIX,fujinkoron.jp
 DOMAIN-SUFFIX,fujossy.jp
-DOMAIN-SUFFIX,fukuibank.co.jp  # 株式会社福井銀行
-DOMAIN-SUFFIX,fukuokabank.co.jp  # 株式会社福岡銀行
+DOMAIN-SUFFIX,fukuibank.co.jp
+DOMAIN-SUFFIX,fukuokabank.co.jp
 DOMAIN-SUFFIX,fukzr1.cc
 DOMAIN-SUFFIX,fulanax.com
 DOMAIN-SUFFIX,fuli-wangzhan.com
@@ -9311,7 +9311,7 @@ DOMAIN-SUFFIX,fundingrates.xyz
 DOMAIN-SUFFIX,fundpaypal.com
 DOMAIN-SUFFIX,fundraisingwithfacebook.com
 DOMAIN-SUFFIX,fundsupermart.com
-DOMAIN-SUFFIX,funimation.com # funimation
+DOMAIN-SUFFIX,funimation.com
 DOMAIN-SUFFIX,funnyfacebook.org
 DOMAIN-SUFFIX,funnyordie.com
 DOMAIN-SUFFIX,funshemale.com
@@ -9384,8 +9384,8 @@ DOMAIN-SUFFIX,gainstech.ru
 DOMAIN-SUFFIX,gaito.xyz
 DOMAIN-SUFFIX,galaxyappstore.com
 DOMAIN-SUFFIX,galaxymobile.jp
-DOMAIN-SUFFIX,gale.com # Gale 平台
-DOMAIN-SUFFIX,galegroup.com # Gale 平台
+DOMAIN-SUFFIX,gale.com
+DOMAIN-SUFFIX,galegroup.com
 DOMAIN-SUFFIX,gallery-dump.club
 DOMAIN-SUFFIX,galleryarchives.com
 DOMAIN-SUFFIX,gamboporn.com
@@ -9583,7 +9583,7 @@ DOMAIN-SUFFIX,gentoo.org
 DOMAIN-SUFFIX,geobasket.ru
 DOMAIN-SUFFIX,geodesummit.com
 DOMAIN-SUFFIX,geogebra.org
-DOMAIN-SUFFIX,geolytics.com # Time Series Research Package（美国人口普查数据库）
+DOMAIN-SUFFIX,geolytics.com
 DOMAIN-SUFFIX,geoport.com
 DOMAIN-SUFFIX,geospatialimaging.com
 DOMAIN-SUFFIX,geospatialinfo.com
@@ -9677,7 +9677,7 @@ DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ggsel.com
 DOMAIN-SUFFIX,ggsel.net
-DOMAIN-SUFFIX,ggsrv.com # Gale 平台
+DOMAIN-SUFFIX,ggsrv.com
 DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghbi.ir
 DOMAIN-SUFFIX,ghcr.io
@@ -9780,7 +9780,7 @@ DOMAIN-SUFFIX,glamourtits.com
 DOMAIN-SUFFIX,glasamerike.net
 DOMAIN-SUFFIX,gle
 DOMAIN-SUFFIX,gleline.com
-DOMAIN-SUFFIX,global-sci.org # Global Science Press GSP电子期刊
+DOMAIN-SUFFIX,global-sci.org
 DOMAIN-SUFFIX,global-studio.gmo
 DOMAIN-SUFFIX,globaledu.org
 DOMAIN-SUFFIX,globalriskregulator.com
@@ -9897,7 +9897,7 @@ DOMAIN-SUFFIX,gogo-load.com
 DOMAIN-SUFFIX,gogoanime.vc
 DOMAIN-SUFFIX,gogoanime.wiki
 DOMAIN-SUFFIX,gogoanime3.co
-DOMAIN-SUFFIX,gogocdn.net # image hosting site
+DOMAIN-SUFFIX,gogocdn.net
 DOMAIN-SUFFIX,gogole.com
 DOMAIN-SUFFIX,gogotaku.info
 DOMAIN-SUFFIX,gohentai.net
@@ -10392,7 +10392,7 @@ DOMAIN-SUFFIX,guifw.xyz
 DOMAIN-SUFFIX,guim.co.uk
 DOMAIN-SUFFIX,guimcode.co.uk
 DOMAIN-SUFFIX,gumtree.sg
-DOMAIN-SUFFIX,gunmabank.co.jp  # 株式会社群馬銀行
+DOMAIN-SUFFIX,gunmabank.co.jp
 DOMAIN-SUFFIX,guo.media
 DOMAIN-SUFFIX,guochantube.com
 DOMAIN-SUFFIX,guochanw.life
@@ -10485,7 +10485,7 @@ DOMAIN-SUFFIX,hanime.xxx
 DOMAIN-SUFFIX,hanime.xyz
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,hanr-bao.mom
-DOMAIN-SUFFIX,hanzhen.xmulib.org # 厦门大学汉珍数位
+DOMAIN-SUFFIX,hanzhen.xmulib.org
 DOMAIN-SUFFIX,hao21.xyz
 DOMAIN-SUFFIX,hao62.xyz
 DOMAIN-SUFFIX,haori888.com
@@ -10655,7 +10655,7 @@ DOMAIN-SUFFIX,heiguab.top
 DOMAIN-SUFFIX,heijidi.life
 DOMAIN-SUFFIX,heiliao.com
 DOMAIN-SUFFIX,heiliao88.com
-DOMAIN-SUFFIX,heinonline.org # HeinOnline 法律全文数据库
+DOMAIN-SUFFIX,heinonline.org
 DOMAIN-SUFFIX,heise360181.buzz
 DOMAIN-SUFFIX,heise360182.buzz
 DOMAIN-SUFFIX,helixstudios.net
@@ -10876,8 +10876,8 @@ DOMAIN-SUFFIX,highbolt.net
 DOMAIN-SUFFIX,highdefinitionbeatsbydre.com
 DOMAIN-SUFFIX,highporn.net
 DOMAIN-SUFFIX,hightopnikes.com
-DOMAIN-SUFFIX,highwirepress.com # HighWire Press 电子期刊
-DOMAIN-SUFFIX,higobank.co.jp  # 株式会社肥後銀行
+DOMAIN-SUFFIX,highwirepress.com
+DOMAIN-SUFFIX,higobank.co.jp
 DOMAIN-SUFFIX,hihigv.com
 DOMAIN-SUFFIX,hikosen.co.jp
 DOMAIN-SUFFIX,hilostripper.com
@@ -10890,7 +10890,7 @@ DOMAIN-SUFFIX,hipaa6020.com
 DOMAIN-SUFFIX,hiporn.net
 DOMAIN-SUFFIX,hippyhillscomix.com
 DOMAIN-SUFFIX,hipzoom.net
-DOMAIN-SUFFIX,hiroshimabank.co.jp  # 株式会社広島銀行
+DOMAIN-SUFFIX,hiroshimabank.co.jp
 DOMAIN-SUFFIX,historyofdota.com
 DOMAIN-SUFFIX,historyofdota.net
 DOMAIN-SUFFIX,historyofdota.org
@@ -10953,10 +10953,10 @@ DOMAIN-SUFFIX,hochi.news
 DOMAIN-SUFFIX,hochu.tv
 DOMAIN-SUFFIX,hoes.com
 DOMAIN-SUFFIX,hoge.7jp.info
-DOMAIN-SUFFIX,hokkoku.co.jp  # 株式会社北國銀行
-DOMAIN-SUFFIX,hokuetsubank.co.jp  # 株式会社北越銀行
-DOMAIN-SUFFIX,hokutobank.co.jp  # 株式会社北都銀行
-DOMAIN-SUFFIX,hokuyobank.co.jp  # 株式会社北海道銀行
+DOMAIN-SUFFIX,hokkoku.co.jp
+DOMAIN-SUFFIX,hokuetsubank.co.jp
+DOMAIN-SUFFIX,hokutobank.co.jp
+DOMAIN-SUFFIX,hokuyobank.co.jp
 DOMAIN-SUFFIX,holaporno.xxx
 DOMAIN-SUFFIX,holdemstripem.com
 DOMAIN-SUFFIX,holloporn.com
@@ -11048,7 +11048,7 @@ DOMAIN-SUFFIX,hotamateurblowjobs.com
 DOMAIN-SUFFIX,hotasianbabes.com
 DOMAIN-SUFFIX,hotbeatsonsale.com
 DOMAIN-SUFFIX,hotcandyland.com
-DOMAIN-SUFFIX,hotcrp.com # HotCRP Conference Management Software
+DOMAIN-SUFFIX,hotcrp.com
 DOMAIN-SUFFIX,hotcuckoldwife.com
 DOMAIN-SUFFIX,hotcumporn.com
 DOMAIN-SUFFIX,hotel-reviewn.com
@@ -11414,7 +11414,7 @@ DOMAIN-SUFFIX,hwslabs.com
 DOMAIN-SUFFIX,hxcsxs.pro
 DOMAIN-SUFFIX,hxdoll.com
 DOMAIN-SUFFIX,hxxn12.top
-DOMAIN-SUFFIX,hyakugo.co.jp  # 株式会社百五銀行
+DOMAIN-SUFFIX,hyakugo.co.jp
 DOMAIN-SUFFIX,hydrogenaud.io
 DOMAIN-SUFFIX,hyper.is
 DOMAIN-SUFFIX,hyperdreams.com
@@ -11488,7 +11488,7 @@ DOMAIN-SUFFIX,icegay.tv
 DOMAIN-SUFFIX,icegaytube.tv
 DOMAIN-SUFFIX,iceporn.com
 DOMAIN-SUFFIX,iceporncasting.com
-DOMAIN-SUFFIX,icevirtuallibrary.com # 英国土木工程师学会 ICE Virtual Library
+DOMAIN-SUFFIX,icevirtuallibrary.com
 DOMAIN-SUFFIX,ichat.co.in
 DOMAIN-SUFFIX,ichigocandy.com
 DOMAIN-SUFFIX,ichineseporn.com
@@ -11578,7 +11578,7 @@ DOMAIN-SUFFIX,icqsystems.com
 DOMAIN-SUFFIX,icqtoday.com
 DOMAIN-SUFFIX,icqtutor.com
 DOMAIN-SUFFIX,icqvideo.com
-DOMAIN-SUFFIX,icsd.fiz-karlsruhe.de # Inorganic Crystal Structure Database
+DOMAIN-SUFFIX,icsd.fiz-karlsruhe.de
 DOMAIN-SUFFIX,icuminside.com
 DOMAIN-SUFFIX,id.ru
 DOMAIN-SUFFIX,idarkdoll.com
@@ -11663,7 +11663,7 @@ DOMAIN-SUFFIX,igayporn.tv
 DOMAIN-SUFFIX,igcc.jp
 DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,igetnaughty.com
-DOMAIN-SUFFIX,igi-global.com # IGI Global 平台
+DOMAIN-SUFFIX,igi-global.com
 DOMAIN-SUFFIX,igkbroker.com
 DOMAIN-SUFFIX,ign.com
 DOMAIN-SUFFIX,ign.jp
@@ -11674,7 +11674,7 @@ DOMAIN-SUFFIX,igniteseurope.com
 DOMAIN-SUFFIX,igoogle.com
 DOMAIN-SUFFIX,igoshopping.net
 DOMAIN-SUFFIX,igotpornpics.com
-DOMAIN-SUFFIX,igpublish.com # iG Publishing电子图书
+DOMAIN-SUFFIX,igpublish.com
 DOMAIN-SUFFIX,igsonar.com
 DOMAIN-SUFFIX,igtv.com
 DOMAIN-SUFFIX,ihsd-mp4.pics
@@ -11775,7 +11775,7 @@ DOMAIN-SUFFIX,ikea.si
 DOMAIN-SUFFIX,ikea.sk
 DOMAIN-SUFFIX,ikea.ua
 DOMAIN-SUFFIX,ikea.us
-DOMAIN-SUFFIX,ikedashinsen.co.jp  # 株式会社池田泉州銀行
+DOMAIN-SUFFIX,ikedashinsen.co.jp
 DOMAIN-SUFFIX,ikids.com
 DOMAIN-SUFFIX,iknowthatgirl.com
 DOMAIN-SUFFIX,ilecture.co.nz
@@ -11858,7 +11858,7 @@ DOMAIN-SUFFIX,imgurinc.com
 DOMAIN-SUFFIX,imhentai.xxx
 DOMAIN-SUFFIX,imilfs.com
 DOMAIN-SUFFIX,imlive.com
-DOMAIN-SUFFIX,immersivetranslate.com # 沉浸式翻译 (国际版)
+DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,immidio.com
 DOMAIN-SUFFIX,immoral.jp
 DOMAIN-SUFFIX,immxd.com
@@ -11877,7 +11877,7 @@ DOMAIN-SUFFIX,imperiodefamosas.com
 DOMAIN-SUFFIX,impermium.com
 DOMAIN-SUFFIX,imstagram.com
 DOMAIN-SUFFIX,imtagram.com
-DOMAIN-SUFFIX,imtintl.com # 沉浸式翻译 (国际版)
+DOMAIN-SUFFIX,imtintl.com
 DOMAIN-SUFFIX,imzog.com
 DOMAIN-SUFFIX,inaporn.com
 DOMAIN,inappcheck-cn.itunes-apple.com.akadns.net
@@ -11935,7 +11935,7 @@ DOMAIN-SUFFIX,infrapedia.com
 DOMAIN-SUFFIX,infraworks.com
 DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,ingads.com
-DOMAIN,ingest.apple-studies.com  # 采集心率、运动、听力等传感器数据，以及用户填报的研究问卷，将其加密后上传至 Apple 后端
+DOMAIN,ingest.apple-studies.com
 DOMAIN-SUFFIX,ingka-dt.cn
 DOMAIN-SUFFIX,ingka-internal.cn
 DOMAIN-SUFFIX,ingka-system.cn
@@ -12546,9 +12546,9 @@ DOMAIN-SUFFIX,iwantavnow.com
 DOMAIN-SUFFIX,iwantgalleries.com
 DOMAIN-SUFFIX,iwantmature.com
 DOMAIN-SUFFIX,iwantporn.net
-DOMAIN-SUFFIX,iwaponline.com # IWA(国际水协会) 电子期刊
+DOMAIN-SUFFIX,iwaponline.com
 DOMAIN-SUFFIX,iwara.tv
-DOMAIN-SUFFIX,iwatebank.co.jp  # 株式会社岩手銀行
+DOMAIN-SUFFIX,iwatebank.co.jp
 DOMAIN-SUFFIX,iwork.com
 DOMAIN-SUFFIX,iwork.se
 DOMAIN-SUFFIX,iwork.wang
@@ -12559,7 +12559,7 @@ DOMAIN-SUFFIX,ixsystems.com
 DOMAIN-SUFFIX,ixxx.com
 DOMAIN-SUFFIX,iyalc.com
 DOMAIN-SUFFIX,iyf.tv
-DOMAIN-SUFFIX,iyobank.co.jp  # 株式会社伊予銀行
+DOMAIN-SUFFIX,iyobank.co.jp
 DOMAIN-SUFFIX,iza.ne.jp
 DOMAIN-SUFFIX,izatcloud.net
 DOMAIN,izattime.qcomgeo2.com
@@ -12589,7 +12589,7 @@ DOMAIN-SUFFIX,japanesebeauties.one
 DOMAIN-SUFFIX,japanesegirlspictures.com
 DOMAIN-SUFFIX,japaneselovelygirl.com
 DOMAIN-SUFFIX,japanfist.org
-DOMAIN-SUFFIX,japanknowledge.com # Japan Knowledge Lib（日本知识库）数据库
+DOMAIN-SUFFIX,japanknowledge.com
 DOMAIN-SUFFIX,japanporn.tv
 DOMAIN-SUFFIX,japanxxxfilms.com
 DOMAIN-SUFFIX,japon-girls.com
@@ -12755,7 +12755,7 @@ DOMAIN-SUFFIX,javynow.com
 DOMAIN-SUFFIX,jayspov.net
 DOMAIN-SUFFIX,jb.gg
 DOMAIN-SUFFIX,jb22.lol
-DOMAIN-SUFFIX,jbe-platform.com # e-content platform of John Benjamins Publishing Company
+DOMAIN-SUFFIX,jbe-platform.com
 DOMAIN-SUFFIX,jburl.top
 DOMAIN-SUFFIX,jc11.tw
 DOMAIN-SUFFIX,jdav-css.shop
@@ -12789,7 +12789,7 @@ DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-SUFFIX,jetfuelapp.com
 DOMAIN-SUFFIX,jetfuelapps.com
-DOMAIN-SUFFIX,jfc.go.jp             # 日本政策金融公庫
+DOMAIN-SUFFIX,jfc.go.jp
 DOMAIN-SUFFIX,jfengtime.com
 DOMAIN-SUFFIX,jfn.su
 DOMAIN-SUFFIX,jfrog.com
@@ -12801,7 +12801,7 @@ DOMAIN-SUFFIX,jiaochuanba25.buzz
 DOMAIN-SUFFIX,jiaochuanba26.buzz
 DOMAIN-SUFFIX,jiayoulu.com
 DOMAIN-SUFFIX,jibemobile.com
-DOMAIN-SUFFIX,jibunbank.co.jp       # 株式会社じぶん銀行
+DOMAIN-SUFFIX,jibunbank.co.jp
 DOMAIN-SUFFIX,jieav.com
 DOMAIN-SUFFIX,jijiji.ca
 DOMAIN-SUFFIX,jilhub.com
@@ -12915,10 +12915,10 @@ DOMAIN-SUFFIX,jove.com
 DOMAIN-SUFFIX,joyclub.de
 DOMAIN-SUFFIX,joyjoy.net
 DOMAIN-SUFFIX,joylovedolls.com
-DOMAIN-SUFFIX,joyobank.co.jp  # 株式会社常陽銀行
+DOMAIN-SUFFIX,joyobank.co.jp
 DOMAIN-SUFFIX,joyourself.com
 DOMAIN-SUFFIX,joysporn.com
-DOMAIN-SUFFIX,jp-bank.japanpost.jp  # 株式会社ゆうちょ銀行
+DOMAIN-SUFFIX,jp-bank.japanpost.jp
 DOMAIN-SUFFIX,jpav.us
 DOMAIN-SUFFIX,jpavcom.com
 DOMAIN-SUFFIX,jpbabe.com
@@ -12939,7 +12939,7 @@ DOMAIN-SUFFIX,jsatmobile.com
 DOMAIN-SUFFIX,jsbridgestone.com
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,jstage.jst.go.jp # Japan Science and Technology Information Aggregator, Electronic, J-STAGE (日本Free Access学术期刊)
+DOMAIN-SUFFIX,jstage.jst.go.jp
 DOMAIN-SUFFIX,jstor.org
 DOMAIN-SUFFIX,jstv51.com
 DOMAIN-SUFFIX,jstv52.com
@@ -12950,7 +12950,7 @@ DOMAIN-SUFFIX,jtube.space
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,judeporn.com
 DOMAIN-SUFFIX,juggsjoy.com
-DOMAIN-SUFFIX,juhachibank.co.jp  # 株式会社十八銀行
+DOMAIN-SUFFIX,juhachibank.co.jp
 DOMAIN-SUFFIX,juiceced.xyz
 DOMAIN-SUFFIX,juicytwink.com
 DOMAIN-SUFFIX,jules.google
@@ -12961,7 +12961,7 @@ DOMAIN-SUFFIX,juliamovies.com
 DOMAIN-SUFFIX,jump.taxi
 DOMAIN-SUFFIX,jumpwork.ru
 DOMAIN-SUFFIX,jupyter.org
-DOMAIN-SUFFIX,juroku.co.jp  # 株式会社十六銀行
+DOMAIN-SUFFIX,juroku.co.jp
 DOMAIN-SUFFIX,jusmynote.wordpress.com
 DOMAIN-SUFFIX,just-do-it.cn
 DOMAIN-SUFFIX,just.xxx
@@ -13008,7 +13008,7 @@ DOMAIN-SUFFIX,kaggle.com
 DOMAIN-SUFFIX,kaggle.io
 DOMAIN-SUFFIX,kaggle.net
 DOMAIN-SUFFIX,kaggleusercontent.com
-DOMAIN-SUFFIX,kagobank.co.jp  # 株式会社鹿児島銀行
+DOMAIN-SUFFIX,kagobank.co.jp
 DOMAIN-SUFFIX,kaipoke.jp
 DOMAIN-SUFFIX,kairakudoujin.net
 DOMAIN-SUFFIX,kakao.co.kr
@@ -13208,7 +13208,7 @@ DOMAIN-SUFFIX,kingstagram.com
 DOMAIN-SUFFIX,kinguno.xyz
 DOMAIN-SUFFIX,kink.com
 DOMAIN-SUFFIX,kinkbook.com
-DOMAIN-SUFFIX,kinki.co.jp  # 株式会社近畿大阪銀行
+DOMAIN-SUFFIX,kinki.co.jp
 DOMAIN-SUFFIX,kinklive.com
 DOMAIN-SUFFIX,kinkoid.com
 DOMAIN-SUFFIX,kinkyfamily.com
@@ -13226,10 +13226,10 @@ DOMAIN-SUFFIX,kismia.com
 DOMAIN-SUFFIX,kisscos.net
 DOMAIN-SUFFIX,kissjav.com
 DOMAIN-SUFFIX,kissjav.li
-DOMAIN-SUFFIX,kitakyushubank.co.jp  # 株式会社北九州銀行
+DOMAIN-SUFFIX,kitakyushubank.co.jp
 DOMAIN-SUFFIX,kiwi.jp
 DOMAIN-SUFFIX,kiwibrowser.com
-DOMAIN-SUFFIX,kiyobank.co.jp  # 株式会社紀陽銀行
+DOMAIN-SUFFIX,kiyobank.co.jp
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,kkbox.com
 DOMAIN-SUFFIX,kkbox.com.tw
@@ -13338,7 +13338,7 @@ DOMAIN-SUFFIX,kubeapps.com
 DOMAIN-SUFFIX,kubernetes.io
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kucoin.plus
-DOMAIN-SUFFIX,kuke.com # KUKE数字音乐图书馆
+DOMAIN-SUFFIX,kuke.com
 DOMAIN-SUFFIX,kum.com
 DOMAIN-SUFFIX,kumagai.com
 DOMAIN-SUFFIX,kumapon.jp
@@ -13354,7 +13354,7 @@ DOMAIN-SUFFIX,kyodo-d.jp
 DOMAIN-SUFFIX,kyodoimages.jp
 DOMAIN-SUFFIX,kyodonews.jp
 DOMAIN-SUFFIX,kyodonews.net
-DOMAIN-SUFFIX,kyotobank.co.jp  # 株式会社京都銀行
+DOMAIN-SUFFIX,kyotobank.co.jp
 DOMAIN-SUFFIX,kyurem.com
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
 DOMAIN-SUFFIX,l-0005.l-msedge.net
@@ -13408,7 +13408,7 @@ DOMAIN-SUFFIX,launchpadlibrarian.com
 DOMAIN-SUFFIX,launchpadlibrarian.net
 DOMAIN-SUFFIX,launchpadlibrarian.org
 DOMAIN-SUFFIX,lavteam.org
-DOMAIN-SUFFIX,lawdata.com.tw # 台湾月旦知识库
+DOMAIN-SUFFIX,lawdata.com.tw
 DOMAIN-SUFFIX,laxd.com
 DOMAIN,lazer.ppy.sh
 DOMAIN-SUFFIX,lazymike.com
@@ -13482,7 +13482,7 @@ DOMAIN-SUFFIX,levelsex.com
 DOMAIN-SUFFIX,lewdthots.com
 DOMAIN-SUFFIX,lewdvrgames.com
 DOMAIN-SUFFIX,lewdweb.net
-DOMAIN-SUFFIX,lexisnexis.com # Lexis 法律全文数据库
+DOMAIN-SUFFIX,lexisnexis.com
 DOMAIN-SUFFIX,lexuemei.com
 DOMAIN-SUFFIX,lezpoo.com
 DOMAIN-SUFFIX,lfai.foundation
@@ -13591,7 +13591,7 @@ DOMAIN-SUFFIX,list.ru
 DOMAIN-SUFFIX,listenbrainz.org
 DOMAIN-SUFFIX,listinganalytics.net
 DOMAIN-SUFFIX,litbus-anime.com
-DOMAIN-SUFFIX,literatumonline.com # Wiley Online Library
+DOMAIN-SUFFIX,literatumonline.com
 DOMAIN-SUFFIX,literotica.com
 DOMAIN-SUFFIX,littleasians.com
 DOMAIN-SUFFIX,littlesexdolls.com
@@ -14446,7 +14446,7 @@ DOMAIN-SUFFIX,miaomwu.com
 DOMAIN-SUFFIX,miaopa.net
 DOMAIN-SUFFIX,micb.gov.mm
 DOMAIN-SUFFIX,michill.jp
-DOMAIN-SUFFIX,michinokubank.co.jp  # 株式会社みちのく銀行
+DOMAIN-SUFFIX,michinokubank.co.jp
 DOMAIN-SUFFIX,mickey.tv
 DOMAIN-SUFFIX,mickybells.com
 DOMAIN-SUFFIX,micoach.com
@@ -14578,7 +14578,7 @@ DOMAIN-SUFFIX,micstl.com
 DOMAIN-SUFFIX,midatlanticbmwmotorcycles.com
 DOMAIN-SUFFIX,midentsolutions.com
 DOMAIN-SUFFIX,midoushe.com
-DOMAIN-SUFFIX,mie.co.jp  # 株式会社三重銀行
+DOMAIN-SUFFIX,mie.co.jp
 DOMAIN-SUFFIX,miexnoviadesnuda.com
 DOMAIN-SUFFIX,mihomeone.info
 DOMAIN-SUFFIX,miitomo.com
@@ -14951,8 +14951,8 @@ DOMAIN-SUFFIX,mixi.jp
 DOMAIN-SUFFIX,mixi.net
 DOMAIN-SUFFIX,mixmaturesex.com
 DOMAIN-SUFFIX,mixvintagesex.com
-DOMAIN-SUFFIX,miyazakibank.co.jp  # 株式会社宮崎銀行
-DOMAIN-SUFFIX,mizuhobank.co.jp  # 株式会社みずほ銀行
+DOMAIN-SUFFIX,miyazakibank.co.jp
+DOMAIN-SUFFIX,mizuhobank.co.jp
 DOMAIN-SUFFIX,mjv-art.org
 DOMAIN-SUFFIX,mk.shrimpia.network
 DOMAIN-SUFFIX,mk.yopo.work
@@ -15327,11 +15327,11 @@ DOMAIN-SUFFIX,muncloud.dog
 DOMAIN-SUFFIX,mundomais.com.br
 DOMAIN-SUFFIX,muramura.tv
 DOMAIN-SUFFIX,muryouav.net
-DOMAIN-SUFFIX,musashinobank.co.jp  # 株式会社武蔵野銀行
+DOMAIN-SUFFIX,musashinobank.co.jp
 DOMAIN-SUFFIX,muscache.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musclegirlflix.com
-DOMAIN,muse.jhu.edu # Project MUSE
+DOMAIN,muse.jhu.edu
 DOMAIN-SUFFIX,mushroomtrack.com
 DOMAIN-SUFFIX,mushymush.tv
 DOMAIN,music.apple.com
@@ -15534,7 +15534,7 @@ DOMAIN-SUFFIX,mytimesplus.co.uk
 DOMAIN-SUFFIX,mytokenapi.com
 DOMAIN-SUFFIX,mytopf.com
 DOMAIN-SUFFIX,mytrannycams.com
-DOMAIN-SUFFIX,mytrk.link # block might break something, needs further investigation
+DOMAIN-SUFFIX,mytrk.link
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,myvisaluxuryhotels.com
 DOMAIN-SUFFIX,myvodafone.com.au
@@ -15583,7 +15583,7 @@ DOMAIN-SUFFIX,namemybeats.com
 DOMAIN-SUFFIX,namethatporn.com
 DOMAIN-SUFFIX,namethatpornad.com
 DOMAIN-SUFFIX,nan-net.com
-DOMAIN-SUFFIX,nantobank.co.jp  # 株式会社南都銀行
+DOMAIN-SUFFIX,nantobank.co.jp
 DOMAIN-SUFFIX,naoconto.com
 DOMAIN-SUFFIX,napiszex.com
 DOMAIN-SUFFIX,narod.ru
@@ -15902,7 +15902,7 @@ DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,night.livedoor.biz
 DOMAIN-SUFFIX,nightclub.eu
 DOMAIN-SUFFIX,nights.fun
-DOMAIN-SUFFIX,nii.ac.jp # CiNii学术信息导航
+DOMAIN-SUFFIX,nii.ac.jp
 DOMAIN-SUFFIX,nijiclamp.com
 DOMAIN-SUFFIX,nijidoujin.com
 DOMAIN-SUFFIX,nijie.info
@@ -15931,7 +15931,7 @@ DOMAIN-SUFFIX,nike.hk
 DOMAIN-SUFFIX,nike.host
 DOMAIN-SUFFIX,nike.shop
 DOMAIN-SUFFIX,nike.us
-DOMAIN-SUFFIX,nike.xn--hxt814e # nike.网店
+DOMAIN-SUFFIX,nike.xn--hxt814e
 DOMAIN-SUFFIX,nike0594.com
 DOMAIN-SUFFIX,nike23.com
 DOMAIN-SUFFIX,nikeadidas.com
@@ -16132,7 +16132,7 @@ DOMAIN-SUFFIX,nintendoswitchtogether.com
 DOMAIN-SUFFIX,nintendowii.com
 DOMAIN-SUFFIX,niosii.com
 DOMAIN-SUFFIX,niosii.net
-DOMAIN-SUFFIX,nishinipponbank.co.jp  # 株式会社西日本シティ銀行
+DOMAIN-SUFFIX,nishinipponbank.co.jp
 DOMAIN-SUFFIX,nist.gov
 DOMAIN-SUFFIX,niuc2.com
 DOMAIN-SUFFIX,nivod.tv
@@ -16151,7 +16151,7 @@ DOMAIN-SUFFIX,nlt-media.com
 DOMAIN-SUFFIX,nmbmw.com
 DOMAIN-SUFFIX,nna.jp
 DOMAIN-SUFFIX,noc.syosetu.com
-DOMAIN-SUFFIX,nochubank.or.jp       # 農林中央金庫
+DOMAIN-SUFFIX,nochubank.or.jp
 DOMAIN-SUFFIX,nodeget.com
 DOMAIN-SUFFIX,nodeimage.com
 DOMAIN-SUFFIX,nodejs.org
@@ -16512,7 +16512,7 @@ DOMAIN-SUFFIX,ocbmwdealers.com
 DOMAIN-SUFFIX,ocourier.ru
 DOMAIN-SUFFIX,ocsp-certum.com
 DOMAIN,ocsp-lb.apple.com.akadns.net
-DOMAIN-SUFFIX,ocsp-responder.com # Yandex
+DOMAIN-SUFFIX,ocsp-responder.com
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.microsoft.com
 DOMAIN,ocsp.pki.goog
@@ -16545,7 +16545,7 @@ DOMAIN-SUFFIX,odnoklassniki.lv
 DOMAIN-SUFFIX,odnoklassniki.ru
 DOMAIN-SUFFIX,odnoklassniki.tj
 DOMAIN-SUFFIX,odysee.com
-DOMAIN-SUFFIX,oecd-ilibrary.org # Organisation for Economic Co-operation and Development
+DOMAIN-SUFFIX,oecd-ilibrary.org
 DOMAIN-SUFFIX,oed.com
 DOMAIN-SUFFIX,oekakiskey.com
 DOMAIN,oemsoc.download.prss.microsoft.com
@@ -16573,7 +16573,7 @@ DOMAIN-SUFFIX,offrezdesipods.com
 DOMAIN-SUFFIX,offworldindustries.com
 DOMAIN-SUFFIX,offworldindustries.net
 DOMAIN-SUFFIX,ofiii.com
-DOMAIN-SUFFIX,ogakikyoritsu.co.jp  # 株式会社大垣共立銀行
+DOMAIN-SUFFIX,ogakikyoritsu.co.jp
 DOMAIN-SUFFIX,ogameblog.com
 DOMAIN-SUFFIX,oghost.com.br
 DOMAIN-SUFFIX,oglobo.com.br
@@ -16587,7 +16587,7 @@ DOMAIN-SUFFIX,ohsexfilm.com
 DOMAIN-SUFFIX,ohsexotube.com
 DOMAIN-SUFFIX,ohyeah1080.com
 DOMAIN-SUFFIX,oiobbs.com
-DOMAIN-SUFFIX,oitabank.co.jp  # 株式会社大分銀行
+DOMAIN-SUFFIX,oitabank.co.jp
 DOMAIN-SUFFIX,ok.me
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,ok.xxx
@@ -16596,7 +16596,7 @@ DOMAIN-SUFFIX,okazudouga.blog.jp
 DOMAIN-SUFFIX,okazudouga.tokyo
 DOMAIN-SUFFIX,okcdn.ru
 DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,okinawabank.co.jp  # 株式会社沖縄銀行
+DOMAIN-SUFFIX,okinawabank.co.jp
 DOMAIN-SUFFIX,okiwine.jp
 DOMAIN-SUFFIX,okkisokuho.com
 DOMAIN-SUFFIX,okko.sport
@@ -16763,7 +16763,7 @@ DOMAIN-SUFFIX,openmaps.org
 DOMAIN-SUFFIX,openreality.com
 DOMAIN-SUFFIX,openrec.tv
 DOMAIN-SUFFIX,openresty.org
-DOMAIN-SUFFIX,openreview.net # OpenReview
+DOMAIN-SUFFIX,openreview.net
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,opensource.guide
@@ -16793,7 +16793,7 @@ DOMAIN-SUFFIX,oppai-doga.info
 DOMAIN-SUFFIX,oppainorakuen.com
 DOMAIN-SUFFIX,optanedifference.com
 DOMAIN-SUFFIX,opte.org
-DOMAIN-SUFFIX,optica.org # OSA 美国光学学会全文数据库
+DOMAIN-SUFFIX,optica.org
 DOMAIN-SUFFIX,opticore.com
 DOMAIN-SUFFIX,opticsforthecloud.net
 DOMAIN-SUFFIX,optifine.net
@@ -16834,7 +16834,7 @@ DOMAIN-SUFFIX,orthotics-cadcam.com
 DOMAIN-SUFFIX,osaipo.jp
 DOMAIN-SUFFIX,osakamotion.net
 DOMAIN-SUFFIX,osano.com
-DOMAIN-SUFFIX,osapublishing.org # OSA
+DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,oscdn.apple.com
 DOMAIN,oscdn.apple.com
 DOMAIN,oscdn.origin-apple.com.akadns.net
@@ -17218,7 +17218,7 @@ DOMAIN-SUFFIX,paypalsurvey.com
 DOMAIN-SUFFIX,paypalx.com
 DOMAIN-SUFFIX,paypaly.com
 DOMAIN-SUFFIX,paypass.net
-DOMAIN-SUFFIX,paypay-bank.co.jp     # 株式会社PayPay銀行
+DOMAIN-SUFFIX,paypay-bank.co.jp
 DOMAIN-SUFFIX,payppal.com
 DOMAIN-SUFFIX,payroll.com
 DOMAIN-SUFFIX,payserve.com
@@ -17613,9 +17613,9 @@ DOMAIN-SUFFIX,pm.me
 DOMAIN-SUFFIX,pmatehunter.com
 DOMAIN-SUFFIX,pmem.org
 DOMAIN-SUFFIX,pmem.us
-DOMAIN-SUFFIX,pnas.org # Proceedings of the National Academy of Sciences of the United States of America 美国科学院报
+DOMAIN-SUFFIX,pnas.org
 DOMAIN-SUFFIX,pobl-content.com
-DOMAIN-SUFFIX,pochtabank.ru #subsidiary
+DOMAIN-SUFFIX,pochtabank.ru
 DOMAIN-SUFFIX,pocketbiketrader.com
 DOMAIN-SUFFIX,pocketcasts.com
 DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
@@ -18193,7 +18193,7 @@ DOMAIN-SUFFIX,projectapex.com
 DOMAIN-SUFFIX,projectara.com
 DOMAIN-SUFFIX,projectbaseline.com
 DOMAIN-SUFFIX,projectcircuitbreaker.com
-DOMAIN-SUFFIX,projecteuclid.org # Project Euclid Mathematics and Statistics Online
+DOMAIN-SUFFIX,projecteuclid.org
 DOMAIN-SUFFIX,projectjav.com
 DOMAIN-SUFFIX,projectmurphy.net
 DOMAIN-SUFFIX,projectpoint.com
@@ -18202,7 +18202,7 @@ DOMAIN-SUFFIX,projectsangam.com
 DOMAIN-SUFFIX,projectshoreline.com
 DOMAIN-SUFFIX,projectvasari.com
 DOMAIN-SUFFIX,projectvoyeur.com
-DOMAIN-SUFFIX,promodj.com # Electronic music and DJ community platform
+DOMAIN-SUFFIX,promodj.com
 DOMAIN-SUFFIX,promonsterbeatsbydre.com
 DOMAIN-SUFFIX,pron.guru
 DOMAIN-SUFFIX,property.com.au
@@ -18487,7 +18487,7 @@ DOMAIN-SUFFIX,radiyoyacuvoa.com
 DOMAIN-SUFFIX,raiffeisen-media.ru
 DOMAIN-SUFFIX,raiffeisen.ru
 DOMAIN-SUFFIX,rajwaphq.com
-DOMAIN-SUFFIX,rakuten-bank.co.jp    # 株式会社楽天銀行
+DOMAIN-SUFFIX,rakuten-bank.co.jp
 DOMAIN-SUFFIX,rakuten-static.com
 DOMAIN-SUFFIX,rakuten.ca
 DOMAIN-SUFFIX,rakuten.co.jp
@@ -18763,7 +18763,7 @@ DOMAIN-SUFFIX,researchkit.tv
 DOMAIN-SUFFIX,resella.jp
 DOMAIN-SUFFIX,resellablue.com
 DOMAIN,reserve-prime.apple.com
-DOMAIN-SUFFIX,resonabank.co.jp  # 株式会社りそな銀行
+DOMAIN-SUFFIX,resonabank.co.jp
 DOMAIN-SUFFIX,resoubanana.buzz
 DOMAIN-SUFFIX,resoubang.buzz
 DOMAIN-SUFFIX,respawnbyrazer.com
@@ -19014,7 +19014,7 @@ DOMAIN-SUFFIX,rwbautomation.ru
 DOMAIN-SUFFIX,rwbautomation.tech
 DOMAIN-SUFFIX,rwbgeo.ru
 DOMAIN-SUFFIX,ryokoyomiuri.co.jp
-DOMAIN-SUFFIX,ryukyubank.co.jp  # 株式会社琉球銀行
+DOMAIN-SUFFIX,ryukyubank.co.jp
 DOMAIN-SUFFIX,rzr.to
 DOMAIN-SUFFIX,s-bid.rmp.rakuten.com
 DOMAIN-SUFFIX,s-bluemix.net
@@ -19078,14 +19078,14 @@ DOMAIN,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,safechat.com
 DOMAIN-SUFFIX,safeliner.tech
 DOMAIN-SUFFIX,saffrontech.com
-DOMAIN-SUFFIX,sagabank.co.jp  # 株式会社佐賀銀行
+DOMAIN-SUFFIX,sagabank.co.jp
 DOMAIN-SUFFIX,sage-observability.tech
 DOMAIN-SUFFIX,sagemaker.com.cn
 DOMAIN-SUFFIX,sagepub.com
 DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,sahabatsetiasmartone.com
 DOMAIN-SUFFIX,saiganak.com
-DOMAIN-SUFFIX,saitama-resona.co.jp  # 株式会社埼玉りそな銀行
+DOMAIN-SUFFIX,saitama-resona.co.jp
 DOMAIN-SUFFIX,sakuralive.com
 DOMAIN-SUFFIX,sale-nikeshoes.com
 DOMAIN-SUFFIX,salebeatslasteststyle4you.com
@@ -19136,7 +19136,7 @@ DOMAIN-SUFFIX,sandisk.in
 DOMAIN-SUFFIX,sandisk.it
 DOMAIN-SUFFIX,sandisk.nl
 DOMAIN-SUFFIX,sandisk.sg
-DOMAIN-SUFFIX,saninbank.co.jp  # 株式会社山陰合同銀行
+DOMAIN-SUFFIX,saninbank.co.jp
 DOMAIN-SUFFIX,sanjesh.org
 DOMAIN-SUFFIX,sankakuapi.com
 DOMAIN-SUFFIX,sankakucomplex.com
@@ -19215,7 +19215,7 @@ DOMAIN-SUFFIX,sbertech.ru
 DOMAIN-SUFFIX,sbertroika.ru
 DOMAIN-SUFFIX,sbgkstv.shop
 DOMAIN-SUFFIX,sbibankllc.ru
-DOMAIN-SUFFIX,sbishinseibank.co.jp  # SBI新生銀行
+DOMAIN-SUFFIX,sbishinseibank.co.jp
 DOMAIN-SUFFIX,sbitravelcard.com
 DOMAIN-SUFFIX,sbnation.com
 DOMAIN-SUFFIX,sbrf.ru
@@ -19513,7 +19513,7 @@ DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,setka.ru
 DOMAIN-SUFFIX,setn.com
 DOMAIN-SUFFIX,settv.com.tw
-DOMAIN-SUFFIX,sevenbank.co.jp       # 株式会社セブン銀行
+DOMAIN-SUFFIX,sevenbank.co.jp
 DOMAIN-SUFFIX,severeporn.com
 DOMAIN-SUFFIX,severreal.org
 DOMAIN-SUFFIX,sevgikurtulmaz.com
@@ -19775,12 +19775,12 @@ DOMAIN-SUFFIX,shesfreaky.com
 DOMAIN-SUFFIX,sheshaft.com
 DOMAIN-SUFFIX,shibashuwu.net
 DOMAIN-SUFFIX,shields.io
-DOMAIN-SUFFIX,shigagin.co.jp  # 株式会社滋賀銀行
-DOMAIN-SUFFIX,shikokubank.co.jp  # 株式会社四国銀行
+DOMAIN-SUFFIX,shigagin.co.jp
+DOMAIN-SUFFIX,shikokubank.co.jp
 DOMAIN-SUFFIX,shikorina.net
-DOMAIN-SUFFIX,shimizubank.co.jp  # 株式会社清水銀行
+DOMAIN-SUFFIX,shimizubank.co.jp
 DOMAIN-SUFFIX,shinhangmc.com
-DOMAIN-SUFFIX,shinwabank.co.jp  # 株式会社親和銀行
+DOMAIN-SUFFIX,shinwabank.co.jp
 DOMAIN-SUFFIX,shireyishunjian.com
 DOMAIN-SUFFIX,shiroutoav.net
 DOMAIN-SUFFIX,shishijump001.com
@@ -19789,12 +19789,12 @@ DOMAIN-SUFFIX,shit-porn.net
 DOMAIN-SUFFIX,shithd.com
 DOMAIN-SUFFIX,shitjav.com
 DOMAIN-SUFFIX,shittytube.com
-DOMAIN-SUFFIX,shizuokabank.co.jp  # 株式会社静岡銀行
+DOMAIN-SUFFIX,shizuokabank.co.jp
 DOMAIN-SUFFIX,shockingmovies.com
 DOMAIN-SUFFIX,shoers.com
 DOMAIN-SUFFIX,shoestop2.com
-DOMAIN-SUFFIX,shokochukin.co.jp     # 商工組合中央金庫
-DOMAIN-SUFFIX,shonai.co.jp  # 株式会社荘内銀行
+DOMAIN-SUFFIX,shokochukin.co.jp
+DOMAIN-SUFFIX,shonai.co.jp
 DOMAIN-SUFFIX,shooshtime.com
 DOMAIN-SUFFIX,shop-headphones.net
 DOMAIN-SUFFIX,shop-pro.jp
@@ -19875,11 +19875,11 @@ DOMAIN-SUFFIX,shwebank.com
 DOMAIN-SUFFIX,shymysex.com
 DOMAIN-SUFFIX,shywifeswap.com
 DOMAIN,si.cdn.dell.com
-DOMAIN-SUFFIX,siam.org # Society for Industry and Applied Mathematics 美国工业和应用数学学会
+DOMAIN-SUFFIX,siam.org
 DOMAIN-SUFFIX,sibreal.org
 DOMAIN-SUFFIX,siege-amazon.com
 DOMAIN-SUFFIX,sifangclub.com
-DOMAIN-SUFFIX,sigcomm.org # the Association for Computing Machinery's Special Interest Group on Data Communications
+DOMAIN-SUFFIX,sigcomm.org
 DOMAIN-SUFFIX,sigmoidoscopeexam.com
 DOMAIN-SUFFIX,sign.new
 DOMAIN-SUFFIX,signal.art
@@ -19892,7 +19892,7 @@ DOMAIN-SUFFIX,signalbar.com
 DOMAIN-SUFFIX,signalprocessingsociety.org
 DOMAIN-SUFFIX,signalr.net
 DOMAIN-SUFFIX,signalusers.org
-DOMAIN-SUFFIX,sigops.org # the Association for Computing Machinery's Special Interest Group on Operating Systems
+DOMAIN-SUFFIX,sigops.org
 DOMAIN-SUFFIX,sigopt.com
 DOMAIN-SUFFIX,sih-db.com
 DOMAIN-SUFFIX,sih.app
@@ -19901,7 +19901,7 @@ DOMAIN-SUFFIX,silicagame.com
 DOMAIN-SUFFIX,silicon-mobility.com
 DOMAIN-SUFFIX,siliconmobility.com
 DOMAIN-SUFFIX,silkengirl.com
-DOMAIN-SUFFIX,silverchair-cdn.com # https://global.oup.com/academic/news/silverchair-announcement
+DOMAIN-SUFFIX,silverchair-cdn.com
 DOMAIN-SUFFIX,silversluts.com
 DOMAIN-SUFFIX,simcity-buildit.com
 DOMAIN-SUFFIX,simcity.com
@@ -19963,7 +19963,7 @@ DOMAIN-SUFFIX,sixte.st
 DOMAIN-SUFFIX,sjcollect.com
 DOMAIN-SUFFIX,sjhsp1.buzz
 DOMAIN-SUFFIX,skate2.com
-DOMAIN-SUFFIX,skbx.pro # Probably a CDN
+DOMAIN-SUFFIX,skbx.pro
 DOMAIN-SUFFIX,skebetter.com
 DOMAIN-SUFFIX,sketchbookdesigner.com
 DOMAIN-SUFFIX,sketchbookmobile.com
@@ -20059,9 +20059,9 @@ DOMAIN-SUFFIX,smartonesolutions.hk
 DOMAIN-SUFFIX,smartstream.ne.jp
 DOMAIN-SUFFIX,smartthings.com
 DOMAIN-SUFFIX,smashed.xxx
-DOMAIN-SUFFIX,smbc.co.jp  # 株式会社三井住友銀行
+DOMAIN-SUFFIX,smbc.co.jp
 DOMAIN-SUFFIX,smbcr-bank.ru
-DOMAIN-SUFFIX,smbctb.co.jp          # SMBC信託銀行株式会社
+DOMAIN-SUFFIX,smbctb.co.jp
 DOMAIN-SUFFIX,smedevelopmentbank.com.mm
 DOMAIN-SUFFIX,smmsp.xyz
 DOMAIN-SUFFIX,smokinmovies.com
@@ -20069,7 +20069,7 @@ DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN,smp-device-content.apple.com
 DOMAIN-SUFFIX,smplace.com
 DOMAIN-SUFFIX,smpte.org
-DOMAIN-SUFFIX,smtb.jp               # 株式会社三井住友信託銀行
+DOMAIN-SUFFIX,smtb.jp
 DOMAIN-SUFFIX,smutcam.com
 DOMAIN-SUFFIX,smutcams.com
 DOMAIN-SUFFIX,smutindia.com
@@ -20233,13 +20233,13 @@ DOMAIN-SUFFIX,sony.se
 DOMAIN-SUFFIX,sony.si
 DOMAIN-SUFFIX,sony.sk
 DOMAIN-SUFFIX,sony.ua
-DOMAIN-SUFFIX,sonybank.jp           # ソニーバンク株式会社
+DOMAIN-SUFFIX,sonybank.jp
 DOMAIN-SUFFIX,sonybo.co.jp
 DOMAIN-SUFFIX,sonybsc.com
 DOMAIN-SUFFIX,sonybuilding.jp
 DOMAIN-SUFFIX,sonyclassics.com
 DOMAIN-SUFFIX,sonydesign.com
-DOMAIN-SUFFIX,sonydna.com # Sony Digital Network Applications Inc.
+DOMAIN-SUFFIX,sonydna.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,sonyglobalsolutions.jp
 DOMAIN-SUFFIX,sonykigyo.jp
@@ -20253,7 +20253,7 @@ DOMAIN-SUFFIX,sonypicturesstudios.com
 DOMAIN-SUFFIX,sonypicturestelevision.com
 DOMAIN-SUFFIX,sonypicturestelevisiongames.com
 DOMAIN-SUFFIX,sonyprotechnosupport.co.jp
-DOMAIN-SUFFIX,sonystoragemedia.co.jp # Sony Storage Media Solutions Corporation
+DOMAIN-SUFFIX,sonystoragemedia.co.jp
 DOMAIN-SUFFIX,sonytc.co.jp
 DOMAIN-SUFFIX,soolakhi.com
 DOMAIN-SUFFIX,soooyinfor.lol
@@ -20799,7 +20799,7 @@ DOMAIN-SUFFIX,surflite.co
 DOMAIN-SUFFIX,surflite.net
 DOMAIN-SUFFIX,suruga-ya.com
 DOMAIN-SUFFIX,suruga-ya.jp
-DOMAIN-SUFFIX,surugabank.co.jp  # 株式会社スルガ銀行
+DOMAIN-SUFFIX,surugabank.co.jp
 DOMAIN-SUFFIX,sushi.ski
 DOMAIN-SUFFIX,susiewildin.com
 DOMAIN-SUFFIX,sustainablebuildingstudio.com
@@ -20990,7 +20990,7 @@ DOMAIN-SUFFIX,taipeitimes.com
 DOMAIN-SUFFIX,taiwanadultexpo.com
 DOMAIN-SUFFIX,taiwannews.com.tw
 DOMAIN-SUFFIX,taiwansex.tw
-DOMAIN-SUFFIX,tajimabank.co.jp  # 株式会社但馬銀行
+DOMAIN-SUFFIX,tajimabank.co.jp
 DOMAIN-SUFFIX,take2games.com
 DOMAIN-SUFFIX,takegoto.com
 DOMAIN-SUFFIX,takens.tw
@@ -21422,7 +21422,7 @@ DOMAIN-SUFFIX,tiava1.com
 DOMAIN-SUFFIX,tiaz.site
 DOMAIN-SUFFIX,tiberiumalliances.com
 DOMAIN-SUFFIX,tiburon.com
-DOMAIN-SUFFIX,tickdata.com # Tick Data-Futures and Indices Historical Data
+DOMAIN-SUFFIX,tickdata.com
 DOMAIN-SUFFIX,tictoc.video
 DOMAIN-SUFFIX,tidal.com
 DOMAIN-SUFFIX,tidalhifi.com
@@ -21555,12 +21555,12 @@ DOMAIN-SUFFIX,tnaflix.com
 DOMAIN-SUFFIX,tnatryouts.com
 DOMAIN-SUFFIX,tnntoday.com
 DOMAIN-SUFFIX,tnt-ea.com
-DOMAIN-SUFFIX,tochigibank.co.jp     # 株式会社栃木銀行
+DOMAIN-SUFFIX,tochigibank.co.jp
 DOMAIN-SUFFIX,tochka-tech.com
 DOMAIN-SUFFIX,tochka.com
 DOMAIN-SUFFIX,toget.com.tw
-DOMAIN-SUFFIX,tohobank.co.jp  # 株式会社東邦銀行
-DOMAIN-SUFFIX,tohoku-bank.co.jp  # 株式会社東北銀行
+DOMAIN-SUFFIX,tohobank.co.jp
+DOMAIN-SUFFIX,tohoku-bank.co.jp
 DOMAIN-SUFFIX,tokyo-hot.com
 DOMAIN-SUFFIX,tokyo-sports.co.jp
 DOMAIN-SUFFIX,tokyo-tosho.net
@@ -21571,7 +21571,7 @@ DOMAIN-SUFFIX,tokyoporns.com
 DOMAIN-SUFFIX,tokyotosho.info
 DOMAIN-SUFFIX,tokyotosho.se
 DOMAIN-SUFFIX,tomatespodres.com
-DOMAIN-SUFFIX,tomibank.co.jp  # 株式会社東京都民銀行
+DOMAIN-SUFFIX,tomibank.co.jp
 DOMAIN-SUFFIX,tomonews.net
 DOMAIN-SUFFIX,tomsguide.com
 DOMAIN-SUFFIX,ton.org
@@ -21636,9 +21636,9 @@ DOMAIN-SUFFIX,torrentkitty.tv
 DOMAIN-SUFFIX,torrindex.net
 DOMAIN-SUFFIX,tospo-keiba.jp
 DOMAIN-SUFFIX,tospotify.com
-DOMAIN-SUFFIX,totalmateria.com # Total Materia
+DOMAIN-SUFFIX,totalmateria.com
 DOMAIN-SUFFIX,totoleak.com
-DOMAIN-SUFFIX,tottoribank.co.jp  # 株式会社鳥取銀行
+DOMAIN-SUFFIX,tottoribank.co.jp
 DOMAIN-SUFFIX,touchid.tv
 DOMAIN-SUFFIX,touchid.wang
 DOMAIN-SUFFIX,touchsmartpc.com
@@ -21656,7 +21656,7 @@ DOMAIN-SUFFIX,toxinzoo.sbs
 DOMAIN-SUFFIX,toy-cadcam.com
 DOMAIN-SUFFIX,toy-people.com
 DOMAIN-SUFFIX,toycadcam.com
-DOMAIN-SUFFIX,toyobank.co.jp  # 株式会社富山銀行
+DOMAIN-SUFFIX,toyobank.co.jp
 DOMAIN,tp.louisvuitton.com
 DOMAIN-SUFFIX,tpension.ru
 DOMAIN-SUFFIX,tpornstars.com
@@ -21789,7 +21789,7 @@ DOMAIN-SUFFIX,tsplines.com
 DOMAIN-SUFFIX,tsquare.tv
 DOMAIN-SUFFIX,tssp.best
 DOMAIN-SUFFIX,tsthai.com
-DOMAIN-SUFFIX,tsukubabank.co.jp  # 株式会社筑波銀行
+DOMAIN-SUFFIX,tsukubabank.co.jp
 DOMAIN-SUFFIX,tsumino.com
 DOMAIN-SUFFIX,tsundora.com
 DOMAIN-SUFFIX,tsuradou.noonvob.com
@@ -22164,7 +22164,7 @@ DOMAIN-SUFFIX,usaco.org
 DOMAIN-SUFFIX,usatoday.com
 DOMAIN-SUFFIX,usatodaynetworkservice.com
 DOMAIN-SUFFIX,uselessjunk.com
-DOMAIN-SUFFIX,usenix.org # USENIX: The Advanced Computing Systems Association
+DOMAIN-SUFFIX,usenix.org
 DOMAIN-SUFFIX,useplannr.com
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,userapi.ru
@@ -23109,7 +23109,7 @@ DOMAIN-SUFFIX,vrpornranked.com
 DOMAIN-SUFFIX,vrsexgames.biz
 DOMAIN-SUFFIX,vrsmash.com
 DOMAIN-SUFFIX,vrsumo.com
-DOMAIN-SUFFIX,vrv.co # vrv
+DOMAIN-SUFFIX,vrv.co
 DOMAIN,vs-cmaf-push-uk-live.akamaized.net
 DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
 DOMAIN,vs-hls-push-uk-live.akamaized.net
@@ -23671,7 +23671,7 @@ DOMAIN-SUFFIX,wp-themes.com
 DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,wpewebkit.org
 DOMAIN-SUFFIX,wpvip.com
-DOMAIN,wrds-www.wharton.upenn.edu # Compustat 财务与价格数据库
+DOMAIN,wrds-www.wharton.upenn.edu
 DOMAIN-SUFFIX,wrenchead.com
 DOMAIN-SUFFIX,ws-blau.com
 DOMAIN-SUFFIX,ws-tcg.com
@@ -23854,7 +23854,7 @@ DOMAIN-SUFFIX,x-artvideo.net
 DOMAIN-SUFFIX,x-caprice.com
 DOMAIN-SUFFIX,x-fetish.org
 DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,x.co # GoDaddy URL Shortener
+DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,x.org
@@ -24008,17 +24008,17 @@ DOMAIN-SUFFIX,xmbsyj.top
 DOMAIN-SUFFIX,xmforever.rest
 DOMAIN-SUFFIX,xmissy.nl
 DOMAIN-SUFFIX,xmoviesforyou.com
-DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com        # ай-си-кью.com
-DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com    # аська-скачать.com
-DOMAIN-SUFFIX,xn----7sbabae2a0bnvtsfr4loc.com # аська-бесплатная.com
-DOMAIN-SUFFIX,xn----7sbbab6bregnh7b8if5b.com  # мобильная-аська.com
-DOMAIN-SUFFIX,xn----7sbbamm1bv2bh7i.com       # агент-аська.com
-DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai # эра-инвестиций.рф
-DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai # озон-доставка.рф
-DOMAIN-SUFFIX,xn----8sbaroledu6bi7j.com       # клиент-аська.com
-DOMAIN-SUFFIX,xn----8sbeoy5bze.com            # в-аське.com
-DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai # фрод-рулетка.рф
-DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai # ит-каток.рф
+DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com
+DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com
+DOMAIN-SUFFIX,xn----7sbabae2a0bnvtsfr4loc.com
+DOMAIN-SUFFIX,xn----7sbbab6bregnh7b8if5b.com
+DOMAIN-SUFFIX,xn----7sbbamm1bv2bh7i.com
+DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbaroledu6bi7j.com
+DOMAIN-SUFFIX,xn----8sbeoy5bze.com
+DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai
 DOMAIN-SUFFIX,xn--096-4g6em5t.com
 DOMAIN-SUFFIX,xn--201-4g6em5t.com
 DOMAIN-SUFFIX,xn--202-4g6em5t.com
@@ -24026,91 +24026,91 @@ DOMAIN-SUFFIX,xn--203-4g6em5t.com
 DOMAIN-SUFFIX,xn--204-4g6em5t.com
 DOMAIN-SUFFIX,xn--205-4g6em5t.com
 DOMAIN-SUFFIX,xn--2vxsp6vi4j.com
-DOMAIN-SUFFIX,xn--3et96bj49ahpq.com # 巴特菲尔.com
-DOMAIN-SUFFIX,xn--4vq475g.com # 益倍.com
-DOMAIN-SUFFIX,xn--4vq477m.com # 逸倍.com
-DOMAIN-SUFFIX,xn--6eup7j.com # 惠普.com
-DOMAIN-SUFFIX,xn--6eup7j.net # 惠普.net
-DOMAIN-SUFFIX,xn--74q035i.xn--hxt814e # 耐克.网店
+DOMAIN-SUFFIX,xn--3et96bj49ahpq.com
+DOMAIN-SUFFIX,xn--4vq475g.com
+DOMAIN-SUFFIX,xn--4vq477m.com
+DOMAIN-SUFFIX,xn--6eup7j.com
+DOMAIN-SUFFIX,xn--6eup7j.net
+DOMAIN-SUFFIX,xn--74q035i.xn--hxt814e
 DOMAIN-SUFFIX,xn--74q434dwff.com
 DOMAIN-SUFFIX,xn--74q434dwff.net
-DOMAIN-SUFFIX,xn--7hv594h.com # 易钡.com
-DOMAIN-SUFFIX,xn--7hvy28f.cn  # 易贝.cn
-DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai # ёта.рф
-DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai # озондоставка.рф
-DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai # вайлдберриз.рф
-DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai  # вайлдберис.рф
-DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai  # ета.рф
-DOMAIN-SUFFIX,xn--80aqcf7a6do.com             # айсикью.com
-DOMAIN-SUFFIX,xn--80arpq.xn--p1ai  # йота.рф
-DOMAIN-SUFFIX,xn--80asgb.xn--p1ai # майл.рф
+DOMAIN-SUFFIX,xn--7hv594h.com
+DOMAIN-SUFFIX,xn--7hvy28f.cn
+DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai
+DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai
+DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
+DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
+DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai
+DOMAIN-SUFFIX,xn--80aqcf7a6do.com
+DOMAIN-SUFFIX,xn--80arpq.xn--p1ai
+DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
 DOMAIN-SUFFIX,xn--8uq428d76d.tokyo
-DOMAIN-SUFFIX,xn--90ab.com # вб.com
-DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai # энвибокс.рф
+DOMAIN-SUFFIX,xn--90ab.com
+DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai
 DOMAIN-SUFFIX,xn--90aifd0az.shop
-DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf # тбизнес.рус
-DOMAIN-SUFFIX,xn--90wwvt03e.com # 海豚湾.com
-DOMAIN-SUFFIX,xn--9kr7l.com       # 古博.com
-DOMAIN-SUFFIX,xn--9trs65b.com     # 咕果.com
+DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
+DOMAIN-SUFFIX,xn--90wwvt03e.com
+DOMAIN-SUFFIX,xn--9kr7l.com
+DOMAIN-SUFFIX,xn--9trs65b.com
 DOMAIN-SUFFIX,xn--av-o44ep1d.com
 DOMAIN-SUFFIX,xn--b1aechhj6bof8g5a.site
-DOMAIN-SUFFIX,xn--bnq297cix3a.cn  # 易付通.cn
+DOMAIN-SUFFIX,xn--bnq297cix3a.cn
 DOMAIN-SUFFIX,xn--cck4d8b3009a.com
 DOMAIN-SUFFIX,xn--cckwcxetd
 DOMAIN-SUFFIX,xn--cg4bki
-DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn  # 苹果商店.cn
+DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn
 DOMAIN-SUFFIX,xn--d1abkf4ap.fun
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,xn--d1aqf.xn--p1ai
-DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com # 很有精神.com
-DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais # озонрокет.бел
-DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai # мейл.рф
-DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn  # 苹果中国.cn
-DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e # 苹果中国.网店
+DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com
+DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
+DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
+DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn
+DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e
 DOMAIN-SUFFIX,xn--flw351e
-DOMAIN-SUFFIX,xn--flw351e.com     # 谷歌.com
-DOMAIN-SUFFIX,xn--ggle-55da.com   # gооgle.com
+DOMAIN-SUFFIX,xn--flw351e.com
+DOMAIN-SUFFIX,xn--ggle-55da.com
 DOMAIN-SUFFIX,xn--gmq348bujlxrb.com
 DOMAIN-SUFFIX,xn--gmq92kd2rm1kx34a.com
-DOMAIN-SUFFIX,xn--gogl-0nd52e.com # gοoglе.com
-DOMAIN-SUFFIX,xn--gogl-1nd42e.com # goοglе.com
-DOMAIN-SUFFIX,xn--gtvq61aiijy0b.xn--hxt814e # 苹果电脑.网店
-DOMAIN-SUFFIX,xn--gtvz22d.wang # 苹果.wang
-DOMAIN-SUFFIX,xn--gtvz22d.xn--hxt814e # 苹果.网店
+DOMAIN-SUFFIX,xn--gogl-0nd52e.com
+DOMAIN-SUFFIX,xn--gogl-1nd42e.com
+DOMAIN-SUFFIX,xn--gtvq61aiijy0b.xn--hxt814e
+DOMAIN-SUFFIX,xn--gtvz22d.wang
+DOMAIN-SUFFIX,xn--gtvz22d.xn--hxt814e
 DOMAIN-SUFFIX,xn--h1ao.site
-DOMAIN-SUFFIX,xn--hb4aw0g.com # 逸钡.com
+DOMAIN-SUFFIX,xn--hb4aw0g.com
 DOMAIN-SUFFIX,xn--hckl3e1e8a8ajin0czf.net
 DOMAIN-SUFFIX,xn--hhr917d3fecva.xyz
-DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b # 苹果店.商标
+DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b
 DOMAIN-SUFFIX,xn--jlq480n2rg
-DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e # 苹果手机.网店
-DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn  # 神奇宝贝.cn
-DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net # 神奇宝贝.net
+DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e
+DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
+DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,xn--mtswd61ejxq.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn  # 苹果专卖店.cn
-DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c # はじめよう.みんな
-DOMAIN-SUFFIX,xn--pearsonenespaol-brb.com # pearsonenespañol.com
-DOMAIN-SUFFIX,xn--q41am8x.com # 藝鋇.com
+DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
+DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
+DOMAIN-SUFFIX,xn--pearsonenespaol-brb.com
+DOMAIN-SUFFIX,xn--q41am8x.com
 DOMAIN-SUFFIX,xn--qcka1pmc
-DOMAIN-SUFFIX,xn--qoq462m.com # 伊贝.com
+DOMAIN-SUFFIX,xn--qoq462m.com
 DOMAIN-SUFFIX,xn--r8jwklh769h2mc880dk1o431a.com
 DOMAIN-SUFFIX,xn--r8jwklh769hk43amcfoyl3z3a.com
-DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e # 苹果保修.网店
+DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e
 DOMAIN-SUFFIX,xn--sgt856gbjl.cc
 DOMAIN-SUFFIX,xn--sjqr38j.com
-DOMAIN-SUFFIX,xn--tkry91n.com # 半額.com
-DOMAIN-SUFFIX,xn--ubt498knmf.com # 客集齐.com
+DOMAIN-SUFFIX,xn--tkry91n.com
+DOMAIN-SUFFIX,xn--ubt498knmf.com
 DOMAIN-SUFFIX,xn--uis17aj9kmuf.com
 DOMAIN-SUFFIX,xn--urs05q.jp
 DOMAIN-SUFFIX,xn--x-qeu1ji09tzlg.biz
 DOMAIN-SUFFIX,xn--x-qeu1ji09tzlg.net
-DOMAIN-SUFFIX,xn--xsq421m.com # 依贝.com
-DOMAIN-SUFFIX,xn--xsq605n.com # 依鋇.com
-DOMAIN-SUFFIX,xn--xsq959n.com # 依钡.com
-DOMAIN-SUFFIX,xn--yf1at58a.com # 艺钡.com
-DOMAIN-SUFFIX,xn--yt8h.la #📙.la
-DOMAIN-SUFFIX,xn--ztsq84g.cn # 奔腾.cn
+DOMAIN-SUFFIX,xn--xsq421m.com
+DOMAIN-SUFFIX,xn--xsq605n.com
+DOMAIN-SUFFIX,xn--xsq959n.com
+DOMAIN-SUFFIX,xn--yf1at58a.com
+DOMAIN-SUFFIX,xn--yt8h.la
+DOMAIN-SUFFIX,xn--ztsq84g.cn
 DOMAIN-SUFFIX,xnalgas.com
 DOMAIN-SUFFIX,xnertv.shop
 DOMAIN-SUFFIX,xnostars.com
@@ -24552,9 +24552,9 @@ DOMAIN-SUFFIX,yahoosandbox.com
 DOMAIN-SUFFIX,yahoosportsbook.com
 DOMAIN-SUFFIX,yaklass.ru
 DOMAIN-SUFFIX,yale.edu
-DOMAIN-SUFFIX,yamagatabank.co.jp  # 株式会社山形銀行
-DOMAIN-SUFFIX,yamaguchibank.co.jp  # 株式会社山口銀行
-DOMAIN-SUFFIX,yamanashibank.co.jp  # 株式会社山梨中央銀行
+DOMAIN-SUFFIX,yamagatabank.co.jp
+DOMAIN-SUFFIX,yamaguchibank.co.jp
+DOMAIN-SUFFIX,yamanashibank.co.jp
 DOMAIN-SUFFIX,yamaxun
 DOMAIN-SUFFIX,yamaxun.cn
 DOMAIN-SUFFIX,yamaxun.com
@@ -24684,7 +24684,7 @@ DOMAIN-SUFFIX,yo-star.com
 DOMAIN-SUFFIX,yo1health.com
 DOMAIN-SUFFIX,yogalayout.com
 DOMAIN-SUFFIX,yogify.com
-DOMAIN-SUFFIX,yokohamabank.co.jp  # 株式会社横浜銀行
+DOMAIN-SUFFIX,yokohamabank.co.jp
 DOMAIN-SUFFIX,yomabank.com
 DOMAIN-SUFFIX,yomikyo.or.jp
 DOMAIN-SUFFIX,yomilogi.com

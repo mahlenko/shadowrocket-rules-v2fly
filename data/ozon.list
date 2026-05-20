@@ -1,7 +1,7 @@
 # NAME: OZON
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:48
+# UPDATED: 2026-05-20 12:57:53
 # DOMAIN-SUFFIX: 42
 # DOMAIN: 18
 # TOTAL: 60
@@ -62,6 +62,6 @@ DOMAIN,xapi.ozon.com.kz
 DOMAIN,xapi.ozon.kz
 DOMAIN,xapi.ozon.ru
 DOMAIN,xapi.ozonru.me
-DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai # озон-доставка.рф
-DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai # озондоставка.рф
-DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais # озонрокет.бел
+DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai
+DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai
+DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais

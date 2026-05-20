@@ -1,7 +1,7 @@
 # NAME: CATEGORY-ECOMMERCE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:47
+# UPDATED: 2026-05-20 12:57:52
 # DOMAIN-SUFFIX: 1231
 # DOMAIN: 37
 # TOTAL: 1268
@@ -818,7 +818,7 @@ DOMAIN-SUFFIX,nike.hk
 DOMAIN-SUFFIX,nike.host
 DOMAIN-SUFFIX,nike.shop
 DOMAIN-SUFFIX,nike.us
-DOMAIN-SUFFIX,nike.xn--hxt814e # nike.网店
+DOMAIN-SUFFIX,nike.xn--hxt814e
 DOMAIN-SUFFIX,nike0594.com
 DOMAIN-SUFFIX,nike23.com
 DOMAIN-SUFFIX,nikeadidas.com
@@ -1250,26 +1250,26 @@ DOMAIN,xapi.ozon.kz
 DOMAIN,xapi.ozon.ru
 DOMAIN,xapi.ozonru.me
 DOMAIN-SUFFIX,xindelu.com
-DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai # озон-доставка.рф
-DOMAIN-SUFFIX,xn--3et96bj49ahpq.com # 巴特菲尔.com
-DOMAIN-SUFFIX,xn--4vq475g.com # 益倍.com
-DOMAIN-SUFFIX,xn--4vq477m.com # 逸倍.com
-DOMAIN-SUFFIX,xn--74q035i.xn--hxt814e # 耐克.网店
-DOMAIN-SUFFIX,xn--7hv594h.com # 易钡.com
-DOMAIN-SUFFIX,xn--7hvy28f.cn  # 易贝.cn
-DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai # озондоставка.рф
-DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai # вайлдберриз.рф
-DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai  # вайлдберис.рф
-DOMAIN-SUFFIX,xn--90ab.com # вб.com
-DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais # озонрокет.бел
-DOMAIN-SUFFIX,xn--hb4aw0g.com # 逸钡.com
-DOMAIN-SUFFIX,xn--q41am8x.com # 藝鋇.com
-DOMAIN-SUFFIX,xn--qoq462m.com # 伊贝.com
-DOMAIN-SUFFIX,xn--tkry91n.com # 半額.com
-DOMAIN-SUFFIX,xn--ubt498knmf.com # 客集齐.com
-DOMAIN-SUFFIX,xn--xsq421m.com # 依贝.com
-DOMAIN-SUFFIX,xn--xsq605n.com # 依鋇.com
-DOMAIN-SUFFIX,xn--xsq959n.com # 依钡.com
-DOMAIN-SUFFIX,xn--yf1at58a.com # 艺钡.com
+DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai
+DOMAIN-SUFFIX,xn--3et96bj49ahpq.com
+DOMAIN-SUFFIX,xn--4vq475g.com
+DOMAIN-SUFFIX,xn--4vq477m.com
+DOMAIN-SUFFIX,xn--74q035i.xn--hxt814e
+DOMAIN-SUFFIX,xn--7hv594h.com
+DOMAIN-SUFFIX,xn--7hvy28f.cn
+DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai
+DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
+DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
+DOMAIN-SUFFIX,xn--90ab.com
+DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
+DOMAIN-SUFFIX,xn--hb4aw0g.com
+DOMAIN-SUFFIX,xn--q41am8x.com
+DOMAIN-SUFFIX,xn--qoq462m.com
+DOMAIN-SUFFIX,xn--tkry91n.com
+DOMAIN-SUFFIX,xn--ubt498knmf.com
+DOMAIN-SUFFIX,xn--xsq421m.com
+DOMAIN-SUFFIX,xn--xsq605n.com
+DOMAIN-SUFFIX,xn--xsq959n.com
+DOMAIN-SUFFIX,xn--yf1at58a.com
 DOMAIN-SUFFIX,xxbay.com
 DOMAIN-SUFFIX,yibei.org

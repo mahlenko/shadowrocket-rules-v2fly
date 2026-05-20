@@ -1,7 +1,7 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:47
+# UPDATED: 2026-05-20 12:57:52
 # DOMAIN-SUFFIX: 7556
 # DOMAIN: 955
 # URL-REGEX: 6
@@ -765,8 +765,8 @@ DOMAIN-SUFFIX,apple.tt
 DOMAIN-SUFFIX,apple.tw
 DOMAIN-SUFFIX,apple.uk
 DOMAIN-SUFFIX,apple.us
-DOMAIN-SUFFIX,apple.xn--czr694b # apple.商标
-DOMAIN-SUFFIX,apple.xn--fiqs8s # apple.中国
+DOMAIN-SUFFIX,apple.xn--czr694b
+DOMAIN-SUFFIX,apple.xn--fiqs8s
 DOMAIN-SUFFIX,apple.xyz
 DOMAIN-SUFFIX,appleaccount.net
 DOMAIN-SUFFIX,appleafrica.com
@@ -4532,7 +4532,7 @@ DOMAIN-SUFFIX,infoq.jp
 DOMAIN,informer.yandex.ru
 DOMAIN-SUFFIX,infraworks.com
 DOMAIN-SUFFIX,ingads.com
-DOMAIN,ingest.apple-studies.com  # 采集心率、运动、听力等传感器数据，以及用户填报的研究问卷，将其加密后上传至 Apple 后端
+DOMAIN,ingest.apple-studies.com
 DOMAIN,init-kt.apple.com
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net
 DOMAIN,init-p01md.apple.com
@@ -5867,7 +5867,7 @@ DOMAIN-SUFFIX,mysdn.com
 DOMAIN-SUFFIX,mysdn.info
 DOMAIN-SUFFIX,mysdn.net
 DOMAIN-SUFFIX,mytopf.com
-DOMAIN-SUFFIX,mytrk.link # block might break something, needs further investigation
+DOMAIN-SUFFIX,mytrk.link
 DOMAIN,myvs.download.prss.microsoft.com
 DOMAIN-SUFFIX,mzl.la
 DOMAIN-SUFFIX,mzstatic.com
@@ -6915,7 +6915,7 @@ DOMAIN-SUFFIX,simulationsquad.com
 DOMAIN-SUFFIX,siport.com
 DOMAIN-SUFFIX,siri.com
 DOMAIN-SUFFIX,site.com
-DOMAIN-SUFFIX,skbx.pro # Probably a CDN
+DOMAIN-SUFFIX,skbx.pro
 DOMAIN-SUFFIX,sketchbookdesigner.com
 DOMAIN-SUFFIX,sketchbookmobile.com
 DOMAIN-SUFFIX,sketchbooknews.com
@@ -7070,7 +7070,7 @@ DOMAIN-SUFFIX,sonybsc.com
 DOMAIN-SUFFIX,sonybuilding.jp
 DOMAIN-SUFFIX,sonyclassics.com
 DOMAIN-SUFFIX,sonydesign.com
-DOMAIN-SUFFIX,sonydna.com # Sony Digital Network Applications Inc.
+DOMAIN-SUFFIX,sonydna.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,sonyglobalsolutions.jp
 DOMAIN-SUFFIX,sonykigyo.jp
@@ -7084,7 +7084,7 @@ DOMAIN-SUFFIX,sonypicturesstudios.com
 DOMAIN-SUFFIX,sonypicturestelevision.com
 DOMAIN-SUFFIX,sonypicturestelevisiongames.com
 DOMAIN-SUFFIX,sonyprotechnosupport.co.jp
-DOMAIN-SUFFIX,sonystoragemedia.co.jp # Sony Storage Media Solutions Corporation
+DOMAIN-SUFFIX,sonystoragemedia.co.jp
 DOMAIN-SUFFIX,sonytc.co.jp
 DOMAIN-SUFFIX,soso7778.com
 DOMAIN-SUFFIX,sourcecraft.dev
@@ -7986,7 +7986,7 @@ DOMAIN-SUFFIX,wwwitunes.com
 DOMAIN-SUFFIX,wwwlapple.com
 DOMAIN-SUFFIX,wwwmacbookair.com
 DOMAIN-SUFFIX,wwwmfacebook.com
-DOMAIN-SUFFIX,x.co # GoDaddy URL Shortener
+DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,x.team
 DOMAIN-SUFFIX,xamarin.com
@@ -8015,49 +8015,49 @@ DOMAIN-SUFFIX,xbx.lv
 DOMAIN-SUFFIX,xeon.com
 DOMAIN-SUFFIX,xlstudio.com
 DOMAIN-SUFFIX,xmail.ru
-DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com        # ай-си-кью.com
-DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com    # аська-скачать.com
-DOMAIN-SUFFIX,xn----7sbabae2a0bnvtsfr4loc.com # аська-бесплатная.com
-DOMAIN-SUFFIX,xn----7sbbab6bregnh7b8if5b.com  # мобильная-аська.com
-DOMAIN-SUFFIX,xn----7sbbamm1bv2bh7i.com       # агент-аська.com
-DOMAIN-SUFFIX,xn----8sbaroledu6bi7j.com       # клиент-аська.com
-DOMAIN-SUFFIX,xn----8sbeoy5bze.com            # в-аське.com
-DOMAIN-SUFFIX,xn--6eup7j.com # 惠普.com
-DOMAIN-SUFFIX,xn--6eup7j.net # 惠普.net
+DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com
+DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com
+DOMAIN-SUFFIX,xn----7sbabae2a0bnvtsfr4loc.com
+DOMAIN-SUFFIX,xn----7sbbab6bregnh7b8if5b.com
+DOMAIN-SUFFIX,xn----7sbbamm1bv2bh7i.com
+DOMAIN-SUFFIX,xn----8sbaroledu6bi7j.com
+DOMAIN-SUFFIX,xn----8sbeoy5bze.com
+DOMAIN-SUFFIX,xn--6eup7j.com
+DOMAIN-SUFFIX,xn--6eup7j.net
 DOMAIN-SUFFIX,xn--74q434dwff.com
 DOMAIN-SUFFIX,xn--74q434dwff.net
-DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai # ёта.рф
-DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai  # ета.рф
-DOMAIN-SUFFIX,xn--80aqcf7a6do.com             # айсикью.com
-DOMAIN-SUFFIX,xn--80arpq.xn--p1ai  # йота.рф
-DOMAIN-SUFFIX,xn--80asgb.xn--p1ai # майл.рф
-DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai # энвибокс.рф
-DOMAIN-SUFFIX,xn--9kr7l.com       # 古博.com
-DOMAIN-SUFFIX,xn--9trs65b.com     # 咕果.com
+DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai
+DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai
+DOMAIN-SUFFIX,xn--80aqcf7a6do.com
+DOMAIN-SUFFIX,xn--80arpq.xn--p1ai
+DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
+DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai
+DOMAIN-SUFFIX,xn--9kr7l.com
+DOMAIN-SUFFIX,xn--9trs65b.com
 DOMAIN-SUFFIX,xn--cckwcxetd
 DOMAIN-SUFFIX,xn--cg4bki
-DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn  # 苹果商店.cn
+DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
-DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai # мейл.рф
-DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn  # 苹果中国.cn
-DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e # 苹果中国.网店
+DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
+DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn
+DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e
 DOMAIN-SUFFIX,xn--flw351e
-DOMAIN-SUFFIX,xn--flw351e.com     # 谷歌.com
-DOMAIN-SUFFIX,xn--ggle-55da.com   # gооgle.com
-DOMAIN-SUFFIX,xn--gogl-0nd52e.com # gοoglе.com
-DOMAIN-SUFFIX,xn--gogl-1nd42e.com # goοglе.com
-DOMAIN-SUFFIX,xn--gtvq61aiijy0b.xn--hxt814e # 苹果电脑.网店
-DOMAIN-SUFFIX,xn--gtvz22d.wang # 苹果.wang
-DOMAIN-SUFFIX,xn--gtvz22d.xn--hxt814e # 苹果.网店
-DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b # 苹果店.商标
+DOMAIN-SUFFIX,xn--flw351e.com
+DOMAIN-SUFFIX,xn--ggle-55da.com
+DOMAIN-SUFFIX,xn--gogl-0nd52e.com
+DOMAIN-SUFFIX,xn--gogl-1nd42e.com
+DOMAIN-SUFFIX,xn--gtvq61aiijy0b.xn--hxt814e
+DOMAIN-SUFFIX,xn--gtvz22d.wang
+DOMAIN-SUFFIX,xn--gtvz22d.xn--hxt814e
+DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b
 DOMAIN-SUFFIX,xn--jlq480n2rg
-DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e # 苹果手机.网店
+DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn  # 苹果专卖店.cn
-DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c # はじめよう.みんな
+DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
+DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
 DOMAIN-SUFFIX,xn--qcka1pmc
-DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e # 苹果保修.网店
-DOMAIN-SUFFIX,xn--ztsq84g.cn # 奔腾.cn
+DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e
+DOMAIN-SUFFIX,xn--ztsq84g.cn
 DOMAIN-SUFFIX,xo.com
 DOMAIN-SUFFIX,xp.apple.com
 DOMAIN,xp.apple.com

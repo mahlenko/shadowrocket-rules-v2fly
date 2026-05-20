@@ -1,7 +1,7 @@
 # NAME: GOOGLE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:48
+# UPDATED: 2026-05-20 12:57:53
 # DOMAIN-SUFFIX: 874
 # DOMAIN: 233
 # URL-REGEX: 2
@@ -931,15 +931,15 @@ DOMAIN,www.pxcc.com
 DOMAIN,www.recaptcha.net
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,x.team
-DOMAIN-SUFFIX,xn--9kr7l.com       # 古博.com
-DOMAIN-SUFFIX,xn--9trs65b.com     # 咕果.com
+DOMAIN-SUFFIX,xn--9kr7l.com
+DOMAIN-SUFFIX,xn--9trs65b.com
 DOMAIN-SUFFIX,xn--flw351e
-DOMAIN-SUFFIX,xn--flw351e.com     # 谷歌.com
-DOMAIN-SUFFIX,xn--ggle-55da.com   # gооgle.com
-DOMAIN-SUFFIX,xn--gogl-0nd52e.com # gοoglе.com
-DOMAIN-SUFFIX,xn--gogl-1nd42e.com # goοglе.com
+DOMAIN-SUFFIX,xn--flw351e.com
+DOMAIN-SUFFIX,xn--ggle-55da.com
+DOMAIN-SUFFIX,xn--gogl-0nd52e.com
+DOMAIN-SUFFIX,xn--gogl-1nd42e.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c # はじめよう.みんな
+DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
 DOMAIN-SUFFIX,xn--qcka1pmc
 DOMAIN-SUFFIX,xplr.co
 DOMAIN-SUFFIX,youtu.be

@@ -1,7 +1,7 @@
 # NAME: NIKE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:48
+# UPDATED: 2026-05-20 12:57:53
 # DOMAIN-SUFFIX: 196
 # TOTAL: 196
 DOMAIN-SUFFIX,air-nike-shoes.com
@@ -50,7 +50,7 @@ DOMAIN-SUFFIX,nike.hk
 DOMAIN-SUFFIX,nike.host
 DOMAIN-SUFFIX,nike.shop
 DOMAIN-SUFFIX,nike.us
-DOMAIN-SUFFIX,nike.xn--hxt814e # nike.网店
+DOMAIN-SUFFIX,nike.xn--hxt814e
 DOMAIN-SUFFIX,nike0594.com
 DOMAIN-SUFFIX,nike23.com
 DOMAIN-SUFFIX,nikeadidas.com
@@ -199,4 +199,4 @@ DOMAIN-SUFFIX,swoosh.tv
 DOMAIN-SUFFIX,thedailysnkr.com
 DOMAIN-SUFFIX,verygoodnike.com
 DOMAIN-SUFFIX,womensnikeshox.com
-DOMAIN-SUFFIX,xn--74q035i.xn--hxt814e # 耐克.网店
+DOMAIN-SUFFIX,xn--74q035i.xn--hxt814e

@@ -1,7 +1,7 @@
 # NAME: MAILRU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:48
+# UPDATED: 2026-05-20 12:57:53
 # DOMAIN-SUFFIX: 248
 # DOMAIN: 48
 # TOTAL: 296
@@ -149,7 +149,7 @@ DOMAIN-SUFFIX,my.games
 DOMAIN-SUFFIX,myadx.net
 DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,mytopf.com
-DOMAIN-SUFFIX,mytrk.link # block might break something, needs further investigation
+DOMAIN-SUFFIX,mytrk.link
 DOMAIN-SUFFIX,odkl.ru
 DOMAIN-SUFFIX,odnoklasniki.by
 DOMAIN-SUFFIX,odnoklasniki.ua
@@ -191,7 +191,7 @@ DOMAIN,sentry.rustore.ru
 DOMAIN,sentry.viqeo.tv
 DOMAIN-SUFFIX,sferum-dev.ru
 DOMAIN-SUFFIX,sferum.ru
-DOMAIN-SUFFIX,skbx.pro # Probably a CDN
+DOMAIN-SUFFIX,skbx.pro
 DOMAIN-SUFFIX,skillbox.pro
 DOMAIN-SUFFIX,skillbox.ru
 DOMAIN-SUFFIX,skillfactory.ru
@@ -286,16 +286,16 @@ DOMAIN-SUFFIX,vkworkspace.kz
 DOMAIN-SUFFIX,vmailru.net
 DOMAIN,whiteline.mail.ru
 DOMAIN-SUFFIX,xmail.ru
-DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com        # ай-си-кью.com
-DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com    # аська-скачать.com
-DOMAIN-SUFFIX,xn----7sbabae2a0bnvtsfr4loc.com # аська-бесплатная.com
-DOMAIN-SUFFIX,xn----7sbbab6bregnh7b8if5b.com  # мобильная-аська.com
-DOMAIN-SUFFIX,xn----7sbbamm1bv2bh7i.com       # агент-аська.com
-DOMAIN-SUFFIX,xn----8sbaroledu6bi7j.com       # клиент-аська.com
-DOMAIN-SUFFIX,xn----8sbeoy5bze.com            # в-аське.com
-DOMAIN-SUFFIX,xn--80aqcf7a6do.com             # айсикью.com
-DOMAIN-SUFFIX,xn--80asgb.xn--p1ai # майл.рф
-DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai # мейл.рф
+DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com
+DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com
+DOMAIN-SUFFIX,xn----7sbabae2a0bnvtsfr4loc.com
+DOMAIN-SUFFIX,xn----7sbbab6bregnh7b8if5b.com
+DOMAIN-SUFFIX,xn----7sbbamm1bv2bh7i.com
+DOMAIN-SUFFIX,xn----8sbaroledu6bi7j.com
+DOMAIN-SUFFIX,xn----8sbeoy5bze.com
+DOMAIN-SUFFIX,xn--80aqcf7a6do.com
+DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
+DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
 DOMAIN,xray.mail.ru
 DOMAIN-SUFFIX,yaklass.ru
 DOMAIN-SUFFIX,yclients.com

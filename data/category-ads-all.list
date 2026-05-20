@@ -1,7 +1,7 @@
 # NAME: CATEGORY-ADS-ALL
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:47
+# UPDATED: 2026-05-20 12:57:51
 # DOMAIN-SUFFIX: 7862
 # DOMAIN: 920
 # URL-REGEX: 9
@@ -522,17 +522,17 @@ DOMAIN-SUFFIX,adwordsexpress.com
 DOMAIN-SUFFIX,adx.36kr.com
 DOMAIN-SUFFIX,adx.xiaodutv.com
 DOMAIN-SUFFIX,adxprtz.com
-DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com               #中东-阿布扎比-OP5
+DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com
 DOMAIN-SUFFIX,ae-rus.net
 DOMAIN-SUFFIX,aeasyshop.com
 DOMAIN-SUFFIX,aedns.ru
 DOMAIN-SUFFIX,aeplatform.ru
 DOMAIN-SUFFIX,aestatic.net
 DOMAIN-SUFFIX,aesworkshops.com
-DOMAIN-SUFFIX,af-east-201.myhuaweicloud.com           #非洲-内罗毕二零一
-DOMAIN-SUFFIX,af-north-1.myhuaweicloud.com            #非洲-开罗
-DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com            #非洲-约翰内斯堡
-DOMAIN-SUFFIX,af-west-202.myhuaweicloud.com           #非洲-拉各斯二零一
+DOMAIN-SUFFIX,af-east-201.myhuaweicloud.com
+DOMAIN-SUFFIX,af-north-1.myhuaweicloud.com
+DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com
+DOMAIN-SUFFIX,af-west-202.myhuaweicloud.com
 DOMAIN-SUFFIX,afd.baidu.com
 DOMAIN-SUFFIX,afdconf.baidu.com
 DOMAIN-SUFFIX,afisha.ru
@@ -828,15 +828,15 @@ DOMAIN,aod-ssl.itunes.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN-SUFFIX,aodahl.com
 DOMAIN-SUFFIX,aokwholesale.net
-DOMAIN-SUFFIX,ap-northeast-201.myhuaweicloud.com      #亚太-东京二零一
-DOMAIN-SUFFIX,ap-southeast-1.myhuaweicloud.com        #中国-香港
-DOMAIN-SUFFIX,ap-southeast-2.myhuaweicloud.com        #亚太-曼谷
-DOMAIN-SUFFIX,ap-southeast-201.myhuaweicloud.com      #亚太-雅加达二零一
-DOMAIN-SUFFIX,ap-southeast-202.myhuaweicloud.com      #亚太-马尼拉二零一
-DOMAIN-SUFFIX,ap-southeast-203.myhuaweicloud.com      #亚太-吉隆坡二零一
-DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com        #亚太-新加坡
-DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com        #亚太-雅加达
-DOMAIN-SUFFIX,ap-southeast-5.myhuaweicloud.com        #亚太-马尼拉
+DOMAIN-SUFFIX,ap-northeast-201.myhuaweicloud.com
+DOMAIN-SUFFIX,ap-southeast-1.myhuaweicloud.com
+DOMAIN-SUFFIX,ap-southeast-2.myhuaweicloud.com
+DOMAIN-SUFFIX,ap-southeast-201.myhuaweicloud.com
+DOMAIN-SUFFIX,ap-southeast-202.myhuaweicloud.com
+DOMAIN-SUFFIX,ap-southeast-203.myhuaweicloud.com
+DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com
+DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com
+DOMAIN-SUFFIX,ap-southeast-5.myhuaweicloud.com
 DOMAIN-SUFFIX,ap0le.com
 DOMAIN-SUFFIX,apcdns.net
 DOMAIN-SUFFIX,api-adservices.apple.com
@@ -1018,8 +1018,8 @@ DOMAIN-SUFFIX,apple.tw
 DOMAIN-SUFFIX,apple.uk
 DOMAIN-SUFFIX,apple.us
 DOMAIN-SUFFIX,apple.www.letv.com
-DOMAIN-SUFFIX,apple.xn--czr694b # apple.商标
-DOMAIN-SUFFIX,apple.xn--fiqs8s # apple.中国
+DOMAIN-SUFFIX,apple.xn--czr694b
+DOMAIN-SUFFIX,apple.xn--fiqs8s
 DOMAIN-SUFFIX,apple.xyz
 DOMAIN-SUFFIX,appleaccount.net
 DOMAIN-SUFFIX,appleafrica.com
@@ -1255,10 +1255,10 @@ DOMAIN-SUFFIX,area120.com
 DOMAIN-SUFFIX,aria.ms
 DOMAIN-SUFFIX,ark.letv.com
 DOMAIN-SUFFIX,armgs.team
-DOMAIN-SUFFIX,as-south-0.myhuaweicloud.com            #亚太-新加坡-OP1
-DOMAIN-SUFFIX,as-south-201.myhuaweicloud.com          #亚洲-班加罗尔二零一
-DOMAIN-SUFFIX,as-south-205.myhuaweicloud.com          #亚洲-伊斯兰堡二零一
-DOMAIN-SUFFIX,as-south-207.myhuaweicloud.com          #亚洲-德里二零一
+DOMAIN-SUFFIX,as-south-0.myhuaweicloud.com
+DOMAIN-SUFFIX,as-south-201.myhuaweicloud.com
+DOMAIN-SUFFIX,as-south-205.myhuaweicloud.com
+DOMAIN-SUFFIX,as-south-207.myhuaweicloud.com
 DOMAIN-SUFFIX,asczwa.com
 DOMAIN-SUFFIX,asczxcefsv.com
 DOMAIN-SUFFIX,asfiovnxocqpcry.com.cn
@@ -2117,7 +2117,7 @@ DOMAIN-SUFFIX,c.mi.com
 DOMAIN,c.pki.goog
 DOMAIN-SUFFIX,c.sayhi.360.cn
 DOMAIN-SUFFIX,c.uaa.iqiyi.com
-DOMAIN-SUFFIX,ca-east-201.myhuaweicloud.com           #加拿大-多伦多二零一
+DOMAIN-SUFFIX,ca-east-201.myhuaweicloud.com
 DOMAIN-SUFFIX,cabconnect.org
 DOMAIN,cache-management-prod.google.com
 DOMAIN,cache.pack.google.com
@@ -2526,7 +2526,7 @@ DOMAIN-SUFFIX,cloudproxy.app
 DOMAIN-SUFFIX,cloudpush.iqiyi.com
 DOMAIN-SUFFIX,cloudquanzhou.com
 DOMAIN-SUFFIX,cloudrobotics.com
-DOMAIN-SUFFIX,cloudru.cn # HK
+DOMAIN-SUFFIX,cloudru.cn
 DOMAIN-SUFFIX,cloudsanya.com
 DOMAIN-SUFFIX,cloudshanghai.com
 DOMAIN-SUFFIX,cloudshaoyang.com
@@ -3140,13 +3140,13 @@ DOMAIN-SUFFIX,espnqa.com
 DOMAIN-SUFFIX,etao.com
 DOMAIN-SUFFIX,etheadphones.com
 DOMAIN-SUFFIX,etradebook.ru
-DOMAIN-SUFFIX,eu-central-201.myhuaweicloud.com        #欧洲-法兰克福二零一
-DOMAIN-SUFFIX,eu-central-202.myhuaweicloud.com        #欧洲-华沙二零一
-DOMAIN-SUFFIX,eu-north-201.myhuaweicloud.com          #欧洲-斯德哥尔摩二零一
-DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com             #欧洲-巴黎
-DOMAIN-SUFFIX,eu-west-1.myhuaweicloud.com             #欧洲-阿姆斯特丹-OP1
-DOMAIN-SUFFIX,eu-west-101.myhuaweicloud.com           #欧洲-都柏林
-DOMAIN-SUFFIX,eu-west-201.myhuaweicloud.com           #欧洲-纽波特二零一
+DOMAIN-SUFFIX,eu-central-201.myhuaweicloud.com
+DOMAIN-SUFFIX,eu-central-202.myhuaweicloud.com
+DOMAIN-SUFFIX,eu-north-201.myhuaweicloud.com
+DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com
+DOMAIN-SUFFIX,eu-west-1.myhuaweicloud.com
+DOMAIN-SUFFIX,eu-west-101.myhuaweicloud.com
+DOMAIN-SUFFIX,eu-west-201.myhuaweicloud.com
 DOMAIN-SUFFIX,euads-o.api.leiniao.com
 DOMAIN-SUFFIX,euroipad.com
 DOMAIN-SUFFIX,evt.mxplay.com
@@ -4603,7 +4603,7 @@ DOMAIN-SUFFIX,incentivetravelgifts.com
 DOMAIN-SUFFIX,indiaipad.com
 DOMAIN,informer.yandex.ru
 DOMAIN-SUFFIX,ingads.com
-DOMAIN,ingest.apple-studies.com  # 采集心率、运动、听力等传感器数据，以及用户填报的研究问卷，将其加密后上传至 Apple 后端
+DOMAIN,ingest.apple-studies.com
 DOMAIN,init-kt.apple.com
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net
 DOMAIN,init-p01md.apple.com
@@ -5161,9 +5161,9 @@ DOMAIN-SUFFIX,kwaizt.com
 DOMAIN-SUFFIX,kwimgs.com
 DOMAIN-SUFFIX,kych5.com
 DOMAIN-SUFFIX,l-msedge.net
-DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com            #拉美-墨西哥城二
-DOMAIN-SUFFIX,la-north-205.myhuaweicloud.com          #拉美-巴拿马城二零一
-DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com            #拉美-圣地亚哥
+DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com
+DOMAIN-SUFFIX,la-north-205.myhuaweicloud.com
+DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,labs.google.com
 DOMAIN-SUFFIX,labycore.cn
@@ -5443,10 +5443,10 @@ DOMAIN-SUFFIX,mcs.st
 DOMAIN-SUFFIX,mdeer.com
 DOMAIN-SUFFIX,mdialog.com
 DOMAIN-SUFFIX,mdt.qq.com
-DOMAIN-SUFFIX,me-east-1.myhuaweicloud.com             #中东-利雅得
-DOMAIN-SUFFIX,me-east-205.myhuaweicloud.com           #中东-迪拜二零一
-DOMAIN-SUFFIX,me-east-208.myhuaweicloud.com           #中东-伊斯坦布尔二零一
-DOMAIN-SUFFIX,me-east-209.myhuaweicloud.com           #中东-利雅得二零一
+DOMAIN-SUFFIX,me-east-1.myhuaweicloud.com
+DOMAIN-SUFFIX,me-east-205.myhuaweicloud.com
+DOMAIN-SUFFIX,me-east-208.myhuaweicloud.com
+DOMAIN-SUFFIX,me-east-209.myhuaweicloud.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,media-imdb.com
@@ -5858,7 +5858,7 @@ DOMAIN,mwf-service.akamaized.net
 DOMAIN-SUFFIX,mxbc.com
 DOMAIN-SUFFIX,mxbc.net
 DOMAIN-SUFFIX,mxhichina.com
-DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com      #亚太-吉隆坡-OP6
+DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com
 DOMAIN-SUFFIX,my-manager-account.com
 DOMAIN-SUFFIX,my.com
 DOMAIN-SUFFIX,my.games
@@ -5904,13 +5904,13 @@ DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,mypikpak.net
 DOMAIN-SUFFIX,myquark.cn
 DOMAIN-SUFFIX,mytopf.com
-DOMAIN-SUFFIX,mytrk.link # block might break something, needs further investigation
+DOMAIN-SUFFIX,mytrk.link
 DOMAIN,myvs.download.prss.microsoft.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,n.cn
 DOMAIN-SUFFIX,n0vadesktop.com
-DOMAIN-SUFFIX,na-east-0.myhuaweicloud.com             #北美-亚特兰大
-DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com           #拉美-墨西哥城一
+DOMAIN-SUFFIX,na-east-0.myhuaweicloud.com
+DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com
 DOMAIN,na1r.services.adobe.com
 DOMAIN-SUFFIX,nagcloudcs.com
 DOMAIN-SUFFIX,najva.com
@@ -6118,7 +6118,7 @@ DOMAIN-SUFFIX,onmschina.cn
 DOMAIN-SUFFIX,onsalekey.com
 DOMAIN-SUFFIX,onsaletrend.com
 DOMAIN,ood.opsource.net
-DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk # HGC Global Communications 香港環電
+DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk
 DOMAIN-SUFFIX,ookla.com
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,oortgslb.com
@@ -6656,9 +6656,9 @@ DOMAIN,rtlog3-applog.fqnovel.com
 DOMAIN,rtlog5-applog-hl.fqnovel.com
 DOMAIN,rtlog5-applog.fqnovel.com
 DOMAIN-SUFFIX,rtx.com.cn
-DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com           #俄罗斯-莫斯科-OP4
-DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com        #俄罗斯-莫斯科二
-DOMAIN-SUFFIX,ru-northwest-201.myhuaweicloud.com      #俄罗斯-莫斯科二零一
+DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com
+DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com
+DOMAIN-SUFFIX,ru-northwest-201.myhuaweicloud.com
 DOMAIN-SUFFIX,ruhub.tv
 DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,russiandesigncup.ru
@@ -6688,7 +6688,7 @@ DOMAIN,s3.mzstatic.com
 DOMAIN,s4.mzstatic.com
 DOMAIN-SUFFIX,s4yxaqyq95.com
 DOMAIN,s5.mzstatic.com
-DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com           #拉美-圣保罗一
+DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com
 DOMAIN-SUFFIX,sa.sina.cn
 DOMAIN-SUFFIX,saasops.tech
 DOMAIN-SUFFIX,sabavision.com
@@ -6948,7 +6948,7 @@ DOMAIN-SUFFIX,sinf-test.net
 DOMAIN-SUFFIX,sinf.net
 DOMAIN-SUFFIX,sinflb.net
 DOMAIN-SUFFIX,siri.com
-DOMAIN-SUFFIX,skbx.pro # Probably a CDN
+DOMAIN-SUFFIX,skbx.pro
 DOMAIN-SUFFIX,skillbox.pro
 DOMAIN-SUFFIX,skillbox.ru
 DOMAIN-SUFFIX,skillfactory.ru
@@ -7369,7 +7369,7 @@ DOMAIN-SUFFIX,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,tr-test-ali.net
 DOMAIN-SUFFIX,tr-test.net
 DOMAIN-SUFFIX,tr-testboe.net
-DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com             #土耳其-伊斯坦布尔
+DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN,tracing-http.megamarket.tech
 DOMAIN-SUFFIX,track.lc.quark.cn
@@ -7487,7 +7487,7 @@ DOMAIN,upp.itunes.apple.com
 DOMAIN-SUFFIX,uranus.sogou.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN-SUFFIX,urlqh.cn
-DOMAIN-SUFFIX,us-east-1.myhuaweicloud.com             #北美-亚特兰大-废弃
+DOMAIN-SUFFIX,us-east-1.myhuaweicloud.com
 DOMAIN-SUFFIX,us.weibo.com
 DOMAIN-SUFFIX,usa-beatsbydreheadphonesonsale.net
 DOMAIN-SUFFIX,useplannr.com
@@ -8210,53 +8210,53 @@ DOMAIN-SUFFIX,xjietiao.com
 DOMAIN-SUFFIX,xjoycity.com
 DOMAIN-SUFFIX,xmail.ru
 DOMAIN-SUFFIX,xmcdn.com
-DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com        # ай-си-кью.com
-DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com    # аська-скачать.com
-DOMAIN-SUFFIX,xn----7sbabae2a0bnvtsfr4loc.com # аська-бесплатная.com
-DOMAIN-SUFFIX,xn----7sbbab6bregnh7b8if5b.com  # мобильная-аська.com
-DOMAIN-SUFFIX,xn----7sbbamm1bv2bh7i.com       # агент-аська.com
-DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai # озон-доставка.рф
-DOMAIN-SUFFIX,xn----8sbaroledu6bi7j.com       # клиент-аська.com
-DOMAIN-SUFFIX,xn----8sbeoy5bze.com            # в-аське.com
-DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai # озондоставка.рф
-DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai # вайлдберриз.рф
-DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai  # вайлдберис.рф
-DOMAIN-SUFFIX,xn--80aqcf7a6do.com             # айсикью.com
-DOMAIN-SUFFIX,xn--80asgb.xn--p1ai # майл.рф
-DOMAIN-SUFFIX,xn--90ab.com # вб.com
-DOMAIN-SUFFIX,xn--9kr7l.com       # 古博.com
-DOMAIN-SUFFIX,xn--9trs65b.com     # 咕果.com
+DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com
+DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com
+DOMAIN-SUFFIX,xn----7sbabae2a0bnvtsfr4loc.com
+DOMAIN-SUFFIX,xn----7sbbab6bregnh7b8if5b.com
+DOMAIN-SUFFIX,xn----7sbbamm1bv2bh7i.com
+DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbaroledu6bi7j.com
+DOMAIN-SUFFIX,xn----8sbeoy5bze.com
+DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai
+DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
+DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
+DOMAIN-SUFFIX,xn--80aqcf7a6do.com
+DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
+DOMAIN-SUFFIX,xn--90ab.com
+DOMAIN-SUFFIX,xn--9kr7l.com
+DOMAIN-SUFFIX,xn--9trs65b.com
 DOMAIN-SUFFIX,xn--cckwcxetd
 DOMAIN-SUFFIX,xn--cg4bki
-DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn  # 苹果商店.cn
+DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
-DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais # озонрокет.бел
-DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai # мейл.рф
-DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn # 中国广播电视总台.cn
-DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s # 中国广播电视总台.中国
-DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn # 中央广播电视总台.cn
-DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn  # 苹果中国.cn
-DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e # 苹果中国.网店
+DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
+DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
+DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn
+DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn
+DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e
 DOMAIN-SUFFIX,xn--flw351e
-DOMAIN-SUFFIX,xn--flw351e.com     # 谷歌.com
-DOMAIN-SUFFIX,xn--ggle-55da.com   # gооgle.com
-DOMAIN-SUFFIX,xn--gogl-0nd52e.com # gοoglе.com
-DOMAIN-SUFFIX,xn--gogl-1nd42e.com # goοglе.com
-DOMAIN-SUFFIX,xn--gtvq61aiijy0b.xn--hxt814e # 苹果电脑.网店
-DOMAIN-SUFFIX,xn--gtvz22d.wang # 苹果.wang
-DOMAIN-SUFFIX,xn--gtvz22d.xn--hxt814e # 苹果.网店
-DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b # 苹果店.商标
+DOMAIN-SUFFIX,xn--flw351e.com
+DOMAIN-SUFFIX,xn--ggle-55da.com
+DOMAIN-SUFFIX,xn--gogl-0nd52e.com
+DOMAIN-SUFFIX,xn--gogl-1nd42e.com
+DOMAIN-SUFFIX,xn--gtvq61aiijy0b.xn--hxt814e
+DOMAIN-SUFFIX,xn--gtvz22d.wang
+DOMAIN-SUFFIX,xn--gtvz22d.xn--hxt814e
+DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b
 DOMAIN-SUFFIX,xn--jlq480n2rg
-DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn # 国家广播电视总台.cn
-DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s # 国家广播电视总台.中国
-DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e # 苹果手机.网店
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
+DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn  # 苹果专卖店.cn
-DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn #碧蓝幻想.cn
-DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c # はじめよう.みんな
+DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
+DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn
+DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
 DOMAIN-SUFFIX,xn--qcka1pmc
 DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s
-DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e # 苹果保修.网店
+DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e
 DOMAIN-SUFFIX,xp.apple.com
 DOMAIN,xp.apple.com
 DOMAIN-SUFFIX,xplr.co

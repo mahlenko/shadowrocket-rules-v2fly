@@ -1,7 +1,7 @@
 # NAME: HP
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:48
+# UPDATED: 2026-05-20 12:57:53
 # DOMAIN-SUFFIX: 157
 # DOMAIN: 1
 # TOTAL: 158
@@ -161,5 +161,5 @@ DOMAIN-SUFFIX,touchsmartpc.net
 DOMAIN-SUFFIX,touchsmartpc.org
 DOMAIN-SUFFIX,workstations.tv
 DOMAIN-SUFFIX,www8-hp.com
-DOMAIN-SUFFIX,xn--6eup7j.com # 惠普.com
-DOMAIN-SUFFIX,xn--6eup7j.net # 惠普.net
+DOMAIN-SUFFIX,xn--6eup7j.com
+DOMAIN-SUFFIX,xn--6eup7j.net

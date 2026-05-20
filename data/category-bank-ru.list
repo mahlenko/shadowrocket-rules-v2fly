@@ -1,7 +1,7 @@
 # NAME: CATEGORY-BANK-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:50:47
+# UPDATED: 2026-05-20 12:57:51
 # DOMAIN-SUFFIX: 299
 # DOMAIN: 8
 # TOTAL: 307
@@ -65,7 +65,7 @@ DOMAIN-SUFFIX,centraluniversity.ru
 DOMAIN-SUFFIX,citydrive.ru
 DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,cloud.ru
-DOMAIN-SUFFIX,cloudru.cn # HK
+DOMAIN-SUFFIX,cloudru.cn
 DOMAIN-SUFFIX,codeseason.by
 DOMAIN-SUFFIX,commerzbank.ru
 DOMAIN-SUFFIX,cplsb.ru
@@ -162,7 +162,7 @@ DOMAIN-SUFFIX,payment.ru
 DOMAIN-SUFFIX,phoenix-ca.ru
 DOMAIN-SUFFIX,platiecom.ru
 DOMAIN-SUFFIX,playfamily.ru
-DOMAIN-SUFFIX,pochtabank.ru #subsidiary
+DOMAIN-SUFFIX,pochtabank.ru
 DOMAIN-SUFFIX,primbank.ru
 DOMAIN-SUFFIX,private-banking.ru
 DOMAIN-SUFFIX,prodcontest.com
@@ -297,11 +297,11 @@ DOMAIN-SUFFIX,vtb-grants.fut.ru
 DOMAIN-SUFFIX,vtb.ru
 DOMAIN-SUFFIX,vtbglobalperspectives.com
 DOMAIN-SUFFIX,westernunion.ru
-DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai # эра-инвестиций.рф
-DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai # фрод-рулетка.рф
-DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai # ит-каток.рф
+DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai
 DOMAIN-SUFFIX,xn--90aifd0az.shop
-DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf # тбизнес.рус
+DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
 DOMAIN-SUFFIX,xn--b1aechhj6bof8g5a.site
 DOMAIN-SUFFIX,xn--d1abkf4ap.fun
 DOMAIN-SUFFIX,xn--d1aqf.xn--p1ai
