@@ -1,0 +1,10 @@
+# NAME: NEXON
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 15:38:47
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,nexon.co.jp
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,nexon.io
+DOMAIN-SUFFIX,nexoncdn.co.kr
