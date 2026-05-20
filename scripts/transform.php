@@ -64,11 +64,17 @@ class DomainListTransformer
 
     private function transformRule(string $line): ?string
     {
+        // Убираем inline-комментарии: "domain:foo.com #comment" → "domain:foo.com"
+        $line = trim(preg_replace('/#.*$/', '', $line));
+        if ($line === '') {
+            return null;
+        }
+
         return match (true) {
             str_starts_with($line, 'domain:') => 'DOMAIN-SUFFIX,' . substr($line, 7),
-            str_starts_with($line, 'full:')   => 'DOMAIN,'        . substr($line, 5),
+            str_starts_with($line, 'full:') => 'DOMAIN,'        . substr($line, 5),
             str_starts_with($line, 'regexp:') => 'URL-REGEX,'     . $this->convertRegex(substr($line, 7)),
-            default                           => 'DOMAIN-SUFFIX,' . $line,
+            default => 'DOMAIN-SUFFIX,' . $line,
         };
     }
 
