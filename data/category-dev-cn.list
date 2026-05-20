@@ -1,4 +1,31 @@
+# NAME: CATEGORY-DEV-CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 28
+# TOTAL: 28
 DOMAIN-SUFFIX,aardio.com
+DOMAIN-SUFFIX,include:aixcoder
+DOMAIN-SUFFIX,include:apifox
+DOMAIN-SUFFIX,include:apipost
+DOMAIN-SUFFIX,include:baltamatica
+DOMAIN-SUFFIX,include:cnblogs
+DOMAIN-SUFFIX,include:csdn
+DOMAIN-SUFFIX,include:deepin
+DOMAIN-SUFFIX,include:gitee
+DOMAIN-SUFFIX,include:goproxy
+DOMAIN-SUFFIX,include:huawei-dev
+DOMAIN-SUFFIX,include:juejin
+DOMAIN-SUFFIX,include:kuaiyikeji
+DOMAIN-SUFFIX,include:oschina
+DOMAIN-SUFFIX,include:pgyer
+DOMAIN-SUFFIX,include:pingcap
+DOMAIN-SUFFIX,include:rubychina
+DOMAIN-SUFFIX,include:segmentfault
+DOMAIN-SUFFIX,include:sxl
+DOMAIN-SUFFIX,include:tencent-dev
+DOMAIN-SUFFIX,include:ubuntukylin
+DOMAIN-SUFFIX,include:unitychina
 DOMAIN-SUFFIX,jinrishici.com
 DOMAIN-SUFFIX,kaihong.com
 DOMAIN-SUFFIX,openvela.com

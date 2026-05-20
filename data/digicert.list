@@ -1,17 +1,26 @@
-DOMAIN-SUFFIX,dcocsp.cn @cn
+# NAME: DIGICERT
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 20
+# TOTAL: 20
+DOMAIN-SUFFIX,dcocsp.cn
 DOMAIN-SUFFIX,digicert-cn.com # Not in Chinese Mainland
 DOMAIN-SUFFIX,digicert-validation.com
-DOMAIN-SUFFIX,digicert.cn @cn
+DOMAIN-SUFFIX,digicert.cn
 DOMAIN-SUFFIX,digicert.co.jp
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,digicert.eu
 DOMAIN-SUFFIX,digitalcertvalidation.com
 DOMAIN-SUFFIX,freessl.com
 DOMAIN-SUFFIX,geotrust.com
+DOMAIN-SUFFIX,include:cybertrust
+DOMAIN-SUFFIX,include:symantec-pki
+DOMAIN-SUFFIX,include:verisign-pki
+DOMAIN-SUFFIX,omniroot.com
+DOMAIN-SUFFIX,public-trust.com
+DOMAIN-SUFFIX,quovadisglobal.com
 DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-SUFFIX,thawte.com
 DOMAIN-SUFFIX,thawte.de
 DOMAIN-SUFFIX,thawte.fr
-DOMAIN-SUFFIX,quovadisglobal.com
-DOMAIN-SUFFIX,public-trust.com
-DOMAIN-SUFFIX,omniroot.com

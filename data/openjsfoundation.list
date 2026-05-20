@@ -1,1 +1,12 @@
+# NAME: OPENJSFOUNDATION
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+DOMAIN-SUFFIX,include:amp
+DOMAIN-SUFFIX,include:electron
+DOMAIN-SUFFIX,include:jquery
+DOMAIN-SUFFIX,include:mocha
+DOMAIN-SUFFIX,include:nodejs
 DOMAIN-SUFFIX,openjsf.org

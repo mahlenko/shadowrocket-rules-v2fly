@@ -1,5 +1,19 @@
+# NAME: MINDBOX
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 15
+# DOMAIN: 7
+# TOTAL: 22
+DOMAIN,api-js.mindbox.ru
+DOMAIN,api-ru.mindbox.cloud
+DOMAIN,api-staging.mindbox.ru
+DOMAIN,api.mindbox.cloud
+DOMAIN,api.mindbox.ru
 DOMAIN-SUFFIX,botmechanic.io
 DOMAIN-SUFFIX,ceosummit.ru
+DOMAIN-SUFFIX,e.mindbox.ru
+DOMAIN-SUFFIX,g.mindbox.ru
 DOMAIN-SUFFIX,mind-box.ru
 DOMAIN-SUFFIX,mindbox-notifications.ru
 DOMAIN-SUFFIX,mindbox.cloud
@@ -9,14 +23,7 @@ DOMAIN-SUFFIX,mindbox.site
 DOMAIN-SUFFIX,mindbox.so
 DOMAIN-SUFFIX,popmechanic.io
 DOMAIN-SUFFIX,popmechanic.ru
+DOMAIN-SUFFIX,s.mindbox.ru
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
 DOMAIN-SUFFIX,summitceo.ru
-DOMAIN-SUFFIX,e.mindbox.ru @ads
-DOMAIN-SUFFIX,g.mindbox.ru @ads
-DOMAIN-SUFFIX,s.mindbox.ru @ads
-DOMAIN,api-js.mindbox.ru @ads
-DOMAIN,api-ru.mindbox.cloud @ads
-DOMAIN,api-staging.mindbox.ru @ads
-DOMAIN,api.mindbox.cloud @ads
-DOMAIN,api.mindbox.ru @ads
-DOMAIN,sentry.mindbox.ru @ads
-DOMAIN,sentry.popmechanic.ru @ads

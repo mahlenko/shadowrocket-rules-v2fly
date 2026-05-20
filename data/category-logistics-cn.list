@@ -1,1 +1,18 @@
+# NAME: CATEGORY-LOGISTICS-CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
 DOMAIN-SUFFIX,guoocang.com
+DOMAIN-SUFFIX,include:800best
+DOMAIN-SUFFIX,include:cainiao
+DOMAIN-SUFFIX,include:deppon
+DOMAIN-SUFFIX,include:fcbox
+DOMAIN-SUFFIX,include:jtexpress
+DOMAIN-SUFFIX,include:kuaidi100
+DOMAIN-SUFFIX,include:sf-express
+DOMAIN-SUFFIX,include:sto-express
+DOMAIN-SUFFIX,include:yto-express
+DOMAIN-SUFFIX,include:yundaex
+DOMAIN-SUFFIX,include:zto-express

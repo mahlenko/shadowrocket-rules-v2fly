@@ -1,4 +1,11 @@
-DOMAIN-SUFFIX,dell
+# NAME: DELL
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 209
+# DOMAIN: 27
+# TOTAL: 236
+DOMAIN,afcs.dell.com
 DOMAIN-SUFFIX,alienware.ae
 DOMAIN-SUFFIX,alienware.at
 DOMAIN-SUFFIX,alienware.be
@@ -36,9 +43,15 @@ DOMAIN-SUFFIX,alienware.ps
 DOMAIN-SUFFIX,alienware.ro
 DOMAIN-SUFFIX,alienware.se
 DOMAIN-SUFFIX,alienware.us
+DOMAIN,clientperipherals.dell.com
+DOMAIN,customization-cdn.dell.com
+DOMAIN-SUFFIX,dataframeworks.com
+DOMAIN,dds.dell.com
 DOMAIN-SUFFIX,del.com
 DOMAIN-SUFFIX,del.com.br
-DOMAIN-SUFFIX,dell-brand.com @cn
+DOMAIN-SUFFIX,dell
+DOMAIN-SUFFIX,dell-alw.com
+DOMAIN-SUFFIX,dell-brand.com
 DOMAIN-SUFFIX,dell.ac
 DOMAIN-SUFFIX,dell.am
 DOMAIN-SUFFIX,dell.at
@@ -75,7 +88,7 @@ DOMAIN-SUFFIX,dell.com.bo
 DOMAIN-SUFFIX,dell.com.br
 DOMAIN-SUFFIX,dell.com.bs
 DOMAIN-SUFFIX,dell.com.bz
-DOMAIN-SUFFIX,dell.com.cn @cn
+DOMAIN-SUFFIX,dell.com.cn
 DOMAIN-SUFFIX,dell.com.co
 DOMAIN-SUFFIX,dell.com.cy
 DOMAIN-SUFFIX,dell.com.dm
@@ -149,6 +162,7 @@ DOMAIN-SUFFIX,dell.ma
 DOMAIN-SUFFIX,dell.mq
 DOMAIN-SUFFIX,dell.mu
 DOMAIN-SUFFIX,dell.mw
+DOMAIN,dell.my.site.com
 DOMAIN-SUFFIX,dell.net
 DOMAIN-SUFFIX,dell.ng
 DOMAIN-SUFFIX,dell.nl
@@ -177,8 +191,6 @@ DOMAIN-SUFFIX,dell.ug
 DOMAIN-SUFFIX,dell.uz
 DOMAIN-SUFFIX,dell.vg
 DOMAIN-SUFFIX,dell.vn
-DOMAIN-SUFFIX,dataframeworks.com
-DOMAIN-SUFFIX,dell-alw.com @cn
 DOMAIN-SUFFIX,dellcdn.com
 DOMAIN-SUFFIX,dellcommunity.com
 DOMAIN-SUFFIX,dellcomunidade.com
@@ -186,9 +198,9 @@ DOMAIN-SUFFIX,dellcustomerservice.com
 DOMAIN-SUFFIX,delldesignsystem.com
 DOMAIN-SUFFIX,delldrivers.com
 DOMAIN-SUFFIX,dellemc.com
-DOMAIN-SUFFIX,dellemc.com.cn @cn
+DOMAIN-SUFFIX,dellemc.com.cn
 DOMAIN-SUFFIX,dellemcevents.com
-DOMAIN-SUFFIX,dellmobile.cn @cn
+DOMAIN-SUFFIX,dellmobile.cn
 DOMAIN-SUFFIX,delloutlet.com
 DOMAIN-SUFFIX,dellpoweredge.com
 DOMAIN-SUFFIX,dellpowersolutions.com
@@ -197,40 +209,35 @@ DOMAIN-SUFFIX,dellprinter.com
 DOMAIN-SUFFIX,dellsupportcenter.com
 DOMAIN-SUFFIX,delltechcenter.com
 DOMAIN-SUFFIX,delltechnologies.com
-DOMAIN-SUFFIX,delltechnologies.com.cn @cn
+DOMAIN-SUFFIX,delltechnologies.com.cn
 DOMAIN-SUFFIX,delltechnologiescapital.com
 DOMAIN-SUFFIX,delltechnologiesworld.com
+DOMAIN,dl.dell.com
+DOMAIN,ea2cn-dev-outlet.dell.com
+DOMAIN,ea2cn-prod-outlet.dell.com
+DOMAIN,ea2cn-staging-outlet.dell.com
 DOMAIN-SUFFIX,earthdell.com
 DOMAIN-SUFFIX,emc.com
-DOMAIN-SUFFIX,platform.dell.com @cn
+DOMAIN,fcs.dell.com
+DOMAIN,fta.dell.com
+DOMAIN,ftaapj.dell.com
+DOMAIN,ftaemea.dell.com
+DOMAIN,ftasitapj.dell.com
+DOMAIN,gbxgateway-dev.dell.com
+DOMAIN,gbxgateway.dell.com
+DOMAIN,i.dell.com
+DOMAIN,nexus.dell.com
+DOMAIN,p.cdn.persaas.dell.com
+DOMAIN-SUFFIX,platform.dell.com
+DOMAIN,scene7-cdn.dell.com
 DOMAIN-SUFFIX,shopalienware.com
+DOMAIN,si.cdn.dell.com
+DOMAIN,sm.dell.com
+DOMAIN,snp.cdn.dell.com
+DOMAIN,snpi.dell.com
 DOMAIN-SUFFIX,solutionstation.com
 DOMAIN-SUFFIX,studiodell.com
+DOMAIN,supportassist.dell.com
 DOMAIN-SUFFIX,vce.com
-DOMAIN,dell.my.site.com
-DOMAIN,afcs.dell.com @cn
-DOMAIN,clientperipherals.dell.com @cn
-DOMAIN,customization-cdn.dell.com @cn
-DOMAIN,dds.dell.com @cn
-DOMAIN,dl.dell.com @cn
-DOMAIN,ea2cn-dev-outlet.dell.com @cn
-DOMAIN,ea2cn-prod-outlet.dell.com @cn
-DOMAIN,ea2cn-staging-outlet.dell.com @cn
-DOMAIN,fcs.dell.com @cn
-DOMAIN,fta.dell.com @cn
-DOMAIN,ftaapj.dell.com @cn
-DOMAIN,ftaemea.dell.com @cn
-DOMAIN,ftasitapj.dell.com @cn
-DOMAIN,gbxgateway-dev.dell.com @cn
-DOMAIN,gbxgateway.dell.com @cn
-DOMAIN,i.dell.com @cn
-DOMAIN,nexus.dell.com @cn
-DOMAIN,p.cdn.persaas.dell.com @cn
-DOMAIN,scene7-cdn.dell.com @cn
-DOMAIN,si.cdn.dell.com @cn
-DOMAIN,sm.dell.com @cn
-DOMAIN,snp.cdn.dell.com @cn
-DOMAIN,snpi.dell.com @cn
-DOMAIN,supportassist.dell.com @cn
-DOMAIN,www-csb.dell.com @cn
-DOMAIN,www.dell.com @cn
+DOMAIN,www-csb.dell.com
+DOMAIN,www.dell.com

@@ -1,4 +1,10 @@
-DOMAIN-SUFFIX,cici.com @!cn
-DOMAIN-SUFFIX,ciciai.com @!cn
-DOMAIN-SUFFIX,ciciaicdn.com @!cn
-DOMAIN-SUFFIX,dola.com @!cn
+# NAME: DOLA
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,dola.com

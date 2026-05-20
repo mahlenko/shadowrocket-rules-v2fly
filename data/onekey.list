@@ -1,4 +1,11 @@
+# NAME: ONEKEY
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 3
+# DOMAIN: 1
+# TOTAL: 4
 DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN-SUFFIX,onekey.so
-DOMAIN-SUFFIX,onekeycn.com
 DOMAIN,onekey.zendesk.com
+DOMAIN-SUFFIX,onekeycn.com

@@ -1,1 +1,12 @@
-
+# NAME: CATEGORY-NETDISK-!CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+DOMAIN-SUFFIX,include:dropbox
+DOMAIN-SUFFIX,include:mega
+DOMAIN-SUFFIX,include:onedrive
+DOMAIN-SUFFIX,include:pikpak
+DOMAIN-SUFFIX,include:terabox
+DOMAIN-SUFFIX,include:usersdrive

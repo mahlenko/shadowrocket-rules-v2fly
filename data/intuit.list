@@ -1,7 +1,13 @@
-DOMAIN-SUFFIX,intuit
+# NAME: INTUIT
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 35
+# TOTAL: 35
 DOMAIN-SUFFIX,creditkarma.com
 DOMAIN-SUFFIX,gopayment.com
 DOMAIN-SUFFIX,gopayments.com
+DOMAIN-SUFFIX,intuit
 DOMAIN-SUFFIX,intuit-gopayment.com
 DOMAIN-SUFFIX,intuit.ca
 DOMAIN-SUFFIX,intuit.co.uk

@@ -1,5 +1,9 @@
-DOMAIN-SUFFIX,bilicomic.com
-DOMAIN-SUFFIX,bilicomics.com
+# NAME: BILIBILI
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 32
+# TOTAL: 32
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,animetamashi.cn
@@ -19,12 +23,16 @@ DOMAIN-SUFFIX,bilibili.cc
 DOMAIN-SUFFIX,bilibili.cn
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.net
-DOMAIN-SUFFIX,bilibili.tv @!cn
+DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,bilibilipay.cn
 DOMAIN-SUFFIX,bilibilipay.com
+DOMAIN-SUFFIX,bilicomic.com
+DOMAIN-SUFFIX,bilicomics.com
 DOMAIN-SUFFIX,biligo.com
-DOMAIN-SUFFIX,biliintl.com @!cn
-DOMAIN-SUFFIX,dreamcast.hk @!cn
+DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,dreamcast.hk
 DOMAIN-SUFFIX,huasheng.cn
 DOMAIN-SUFFIX,im9.com
+DOMAIN-SUFFIX,include:bilibili-cdn
+DOMAIN-SUFFIX,include:bilibili-game
 DOMAIN-SUFFIX,yo9.com

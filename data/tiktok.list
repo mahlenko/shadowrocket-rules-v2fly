@@ -1,37 +1,44 @@
-DOMAIN-SUFFIX,bytedapm.com @!cn
-DOMAIN-SUFFIX,byteoversea.com @!cn
-DOMAIN-SUFFIX,muscdn.com @!cn
-DOMAIN-SUFFIX,musical.ly @!cn
-DOMAIN-SUFFIX,tik-tokapi.com @!cn
-DOMAIN-SUFFIX,tiktok-minis.com @!cn
-DOMAIN-SUFFIX,tiktok-row.net @!cn
-DOMAIN-SUFFIX,tiktok.com @!cn
-DOMAIN-SUFFIX,tiktokcdn-eu.com @!cn
-DOMAIN-SUFFIX,tiktokcdn-us.com @!cn
-DOMAIN-SUFFIX,tiktokcdn.com @!cn
-DOMAIN-SUFFIX,tiktokd.net @!cn
-DOMAIN-SUFFIX,tiktokd.org @!cn
-DOMAIN-SUFFIX,tiktokeu-cdn.com @!cn
-DOMAIN-SUFFIX,tiktokglobalshopv.com @!cn
-DOMAIN-SUFFIX,tiktokminis.us @!cn
-DOMAIN-SUFFIX,tiktokrow-cdn.com @!cn
-DOMAIN-SUFFIX,tiktokv.com @!cn
-DOMAIN-SUFFIX,tiktokv.eu @!cn
-DOMAIN-SUFFIX,tiktokv.us @!cn
-DOMAIN-SUFFIX,tiktokw.eu @!cn
-DOMAIN-SUFFIX,tiktokw.us @!cn
-DOMAIN-SUFFIX,ttcdn-us.com @!cn
-DOMAIN-SUFFIX,ttlivecdn.com @!cn
-DOMAIN-SUFFIX,ttoverseaus.net @!cn
-DOMAIN-SUFFIX,ttwstatic.com @!cn
-DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net @!cn
-DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net @!cn
-DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net @!cn
-DOMAIN-SUFFIX,tiktokv.com.edgekey.net @!cn
-DOMAIN-SUFFIX,tiktokv.com.edgesuite.net @!cn
-DOMAIN,p16-tiktokcdn-com.akamaized.net @!cn
-DOMAIN,roovza-launches.appsflyersdk.com @!cn
-DOMAIN,roovza.inapps.appsflyersdk.com @!cn
-DOMAIN,roovza.launches.appsflyersdk.com @!cn
-DOMAIN,roovza.skadsdk.appsflyersdk.com @!cn
-DOMAIN-SUFFIX,analytics.tiktok.com @!cn @ads
+# NAME: TIKTOK
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:54
+# DOMAIN-SUFFIX: 32
+# DOMAIN: 5
+# TOTAL: 37
+DOMAIN-SUFFIX,analytics.tiktok.com
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN,roovza-launches.appsflyersdk.com
+DOMAIN,roovza.inapps.appsflyersdk.com
+DOMAIN,roovza.launches.appsflyersdk.com
+DOMAIN,roovza.skadsdk.appsflyersdk.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok-minis.com
+DOMAIN-SUFFIX,tiktok-row.net
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn-eu.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
+DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokd.net
+DOMAIN-SUFFIX,tiktokd.org
+DOMAIN-SUFFIX,tiktokeu-cdn.com
+DOMAIN-SUFFIX,tiktokglobalshopv.com
+DOMAIN-SUFFIX,tiktokminis.us
+DOMAIN-SUFFIX,tiktokrow-cdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokv.com.edgekey.net
+DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokv.eu
+DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokw.eu
+DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,ttcdn-us.com
+DOMAIN-SUFFIX,ttlivecdn.com
+DOMAIN-SUFFIX,ttoverseaus.net
+DOMAIN-SUFFIX,ttwstatic.com

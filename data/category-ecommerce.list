@@ -1,5 +1,44 @@
+# NAME: CATEGORY-ECOMMERCE
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 38
+# TOTAL: 38
 DOMAIN-SUFFIX,axbdoll.com.tw
 DOMAIN-SUFFIX,i69.com.tw
+DOMAIN-SUFFIX,include:adidas
+DOMAIN-SUFFIX,include:airbnb
+DOMAIN-SUFFIX,include:bestbuy
+DOMAIN-SUFFIX,include:booking
+DOMAIN-SUFFIX,include:books
+DOMAIN-SUFFIX,include:category-ecommerce-ru
+DOMAIN-SUFFIX,include:costco
+DOMAIN-SUFFIX,include:coupang
+DOMAIN-SUFFIX,include:craigslist
+DOMAIN-SUFFIX,include:dmm
+DOMAIN-SUFFIX,include:ebay
+DOMAIN-SUFFIX,include:ebuyer
+DOMAIN-SUFFIX,include:farfetch
+DOMAIN-SUFFIX,include:ggsel
+DOMAIN-SUFFIX,include:gucci
+DOMAIN-SUFFIX,include:hm
+DOMAIN-SUFFIX,include:homedepot
+DOMAIN-SUFFIX,include:ikea
+DOMAIN-SUFFIX,include:miniso
+DOMAIN-SUFFIX,include:momo
+DOMAIN-SUFFIX,include:muji
+DOMAIN-SUFFIX,include:nike
+DOMAIN-SUFFIX,include:nordstrom
+DOMAIN-SUFFIX,include:pchome
+DOMAIN-SUFFIX,include:rakuten
+DOMAIN-SUFFIX,include:ruten
+DOMAIN-SUFFIX,include:shopee
+DOMAIN-SUFFIX,include:shopify
+DOMAIN-SUFFIX,include:suruga-ya
+DOMAIN-SUFFIX,include:target
+DOMAIN-SUFFIX,include:technogym
+DOMAIN-SUFFIX,include:walmart
+DOMAIN-SUFFIX,include:wish
 DOMAIN-SUFFIX,pornhubapparel.com
 DOMAIN-SUFFIX,readmoo.com
 DOMAIN-SUFFIX,redino.tw

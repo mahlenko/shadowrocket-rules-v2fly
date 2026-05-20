@@ -1,3 +1,9 @@
+# NAME: CMB
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 22
+# TOTAL: 22
 DOMAIN-SUFFIX,8008205555.cn
 DOMAIN-SUFFIX,8008205555.com
 DOMAIN-SUFFIX,cignacmb-ipmi.com
@@ -7,16 +13,16 @@ DOMAIN-SUFFIX,cmb-leasing.com
 DOMAIN-SUFFIX,cmbchina.biz
 DOMAIN-SUFFIX,cmbchina.cn
 DOMAIN-SUFFIX,cmbchina.com
-DOMAIN-SUFFIX,cmbi.com.hk @!cn
+DOMAIN-SUFFIX,cmbi.com.hk
 DOMAIN-SUFFIX,cmbimg.cn
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,cmbt.cn
 DOMAIN-SUFFIX,cmbuat.com
 DOMAIN-SUFFIX,cmburl.cn
-DOMAIN-SUFFIX,cmbwinglungbank.com @!cn
+DOMAIN-SUFFIX,cmbwinglungbank.com
 DOMAIN-SUFFIX,cmf.biz
 DOMAIN-SUFFIX,cmf.ltd
 DOMAIN-SUFFIX,cmfchina.com
 DOMAIN-SUFFIX,cmfunds.cn
-DOMAIN-SUFFIX,test-cignacmb.com
 DOMAIN-SUFFIX,joying.com
+DOMAIN-SUFFIX,test-cignacmb.com

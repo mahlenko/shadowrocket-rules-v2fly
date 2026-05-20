@@ -1,3 +1,15 @@
+# NAME: KUAISHOU
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 22
+# DOMAIN: 2
+# TOTAL: 24
+DOMAIN-SUFFIX,adbkwai.com
+DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,e.kuaishou.cn
+DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN-SUFFIX,ecukwai.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,inkuai.com
@@ -12,13 +24,8 @@ DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,kwaicdn.com
 DOMAIN-SUFFIX,kwaizt.com
 DOMAIN-SUFFIX,kwimgs.com
+DOMAIN,log-sdk.gifshow.com
 DOMAIN-SUFFIX,viviv.com
+DOMAIN,wlog.kuaishou.com
 DOMAIN-SUFFIX,wsukwai.com
 DOMAIN-SUFFIX,yximgs.com
-DOMAIN-SUFFIX,adbkwai.com @ads
-DOMAIN-SUFFIX,adkwai.com @ads
-DOMAIN-SUFFIX,adukwai.com @ads
-DOMAIN-SUFFIX,e.kuaishou.cn @ads
-DOMAIN-SUFFIX,e.kuaishou.com @ads
-DOMAIN,log-sdk.gifshow.com @ads
-DOMAIN,wlog.kuaishou.com @ads

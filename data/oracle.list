@@ -1,9 +1,17 @@
-DOMAIN-SUFFIX,oracle
+# NAME: ORACLE
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 15
+# TOTAL: 15
 DOMAIN-SUFFIX,ateam-oracle.com
 DOMAIN-SUFFIX,bronto.com
 DOMAIN-SUFFIX,covid19-rx.org
 DOMAIN-SUFFIX,covid19rx.org
 DOMAIN-SUFFIX,custhelp.com
+DOMAIN-SUFFIX,include:addthis
+DOMAIN-SUFFIX,include:java
+DOMAIN-SUFFIX,oracle
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,oraclefoundation.org

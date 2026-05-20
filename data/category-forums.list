@@ -1,12 +1,39 @@
-DOMAIN,bbs.boingboing.net
+# NAME: CATEGORY-FORUMS
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 34
+# DOMAIN: 1
+# TOTAL: 35
 DOMAIN-SUFFIX,18p2p.com
 DOMAIN-SUFFIX,8chan.moe
 DOMAIN-SUFFIX,avsforum.com
+DOMAIN,bbs.boingboing.net
 DOMAIN-SUFFIX,disp.cc
 DOMAIN-SUFFIX,doom9.org
 DOMAIN-SUFFIX,eyny.com
 DOMAIN-SUFFIX,gab.com
 DOMAIN-SUFFIX,hydrogenaud.io
+DOMAIN-SUFFIX,include:4chan
+DOMAIN-SUFFIX,include:5ch
+DOMAIN-SUFFIX,include:6park
+DOMAIN-SUFFIX,include:ck101
+DOMAIN-SUFFIX,include:dcard
+DOMAIN-SUFFIX,include:dslreports
+DOMAIN-SUFFIX,include:dzen
+DOMAIN-SUFFIX,include:habr
+DOMAIN-SUFFIX,include:hkgolden
+DOMAIN-SUFFIX,include:lihkg
+DOMAIN-SUFFIX,include:linuxdo
+DOMAIN-SUFFIX,include:mobile01
+DOMAIN-SUFFIX,include:nodeseek
+DOMAIN-SUFFIX,include:pixnet
+DOMAIN-SUFFIX,include:ptt
+DOMAIN-SUFFIX,include:quora
+DOMAIN-SUFFIX,include:reddit
+DOMAIN-SUFFIX,include:rutracker
+DOMAIN-SUFFIX,include:soyjakparty
+DOMAIN-SUFFIX,include:xda
 DOMAIN-SUFFIX,mewe.com
 DOMAIN-SUFFIX,parler.com
 DOMAIN-SUFFIX,pincong.rocks

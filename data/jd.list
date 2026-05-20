@@ -1,3 +1,9 @@
+# NAME: JD
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 240
+# TOTAL: 240
 DOMAIN-SUFFIX,1huizhan.com
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,300hu.com
@@ -8,8 +14,11 @@ DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,360buyinternational.com
 DOMAIN-SUFFIX,360top.com
 DOMAIN-SUFFIX,7fresh.com
+DOMAIN-SUFFIX,ads-union.jd.com
+DOMAIN-SUFFIX,ads.union.jd.com
 DOMAIN-SUFFIX,baitiao.com
 DOMAIN-SUFFIX,blackdragon.com
+DOMAIN-SUFFIX,c-nfa.jd.com
 DOMAIN-SUFFIX,caiyu.com
 DOMAIN-SUFFIX,chicalot.cn
 DOMAIN-SUFFIX,chinabank.com.cn
@@ -88,10 +97,15 @@ DOMAIN-SUFFIX,cloudyuncheng.com
 DOMAIN-SUFFIX,cloudyuxi.com
 DOMAIN-SUFFIX,cloudzhongshan.com
 DOMAIN-SUFFIX,cloudzhuhai.com
+DOMAIN-SUFFIX,cps.360buy.com
 DOMAIN-SUFFIX,dao123.com
 DOMAIN-SUFFIX,duiou.com.cn
+DOMAIN-SUFFIX,duolabao.com
+DOMAIN-SUFFIX,gia.jd.com
 DOMAIN-SUFFIX,goselling.com
 DOMAIN-SUFFIX,healthjd.com
+DOMAIN-SUFFIX,imdada.cn
+DOMAIN-SUFFIX,img-x.jd.com
 DOMAIN-SUFFIX,isvjcloud.com
 DOMAIN-SUFFIX,isvjd.com
 DOMAIN-SUFFIX,jcloud-cache.com
@@ -132,12 +146,12 @@ DOMAIN-SUFFIX,jd-ex.com
 DOMAIN-SUFFIX,jd-ex.com.cn
 DOMAIN-SUFFIX,jd-ex.net
 DOMAIN-SUFFIX,jd.cn
-DOMAIN-SUFFIX,jd.co.th @!cn
+DOMAIN-SUFFIX,jd.co.th
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,jd.com.cn
-DOMAIN-SUFFIX,jd.hk @!cn
-DOMAIN-SUFFIX,jd.id @!cn
-DOMAIN-SUFFIX,jd.ru @!cn
+DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jd.id
+DOMAIN-SUFFIX,jd.ru
 DOMAIN-SUFFIX,jd.shop
 DOMAIN-SUFFIX,jdbusiness.com
 DOMAIN-SUFFIX,jdcache.com
@@ -200,6 +214,7 @@ DOMAIN-SUFFIX,jingxi.com
 DOMAIN-SUFFIX,jkcsjd.com
 DOMAIN-SUFFIX,joybuy.com
 DOMAIN-SUFFIX,joybuy.es
+DOMAIN-SUFFIX,jzt.jd.com
 DOMAIN-SUFFIX,linglonglife.com
 DOMAIN-SUFFIX,logiseasy.com
 DOMAIN-SUFFIX,mayshijia.com
@@ -208,11 +223,12 @@ DOMAIN-SUFFIX,missjia.net
 DOMAIN-SUFFIX,ocwms.com
 DOMAIN-SUFFIX,paidaojia.cn
 DOMAIN-SUFFIX,paipai.com
-DOMAIN-SUFFIX,prestodb.net.cn
 DOMAIN-SUFFIX,prestodb-china.com
+DOMAIN-SUFFIX,prestodb.net.cn
 DOMAIN-SUFFIX,qianxun.com
 DOMAIN-SUFFIX,qingzhouip.com
 DOMAIN-SUFFIX,sgsic.com
+DOMAIN-SUFFIX,stat.m.jd.com
 DOMAIN-SUFFIX,toplife.com
 DOMAIN-SUFFIX,vg.com
 DOMAIN-SUFFIX,vipmro.com
@@ -228,13 +244,3 @@ DOMAIN-SUFFIX,yihaodian.com
 DOMAIN-SUFFIX,yihaodianimg.com
 DOMAIN-SUFFIX,yiyaojd.com
 DOMAIN-SUFFIX,yizhitou.com
-DOMAIN-SUFFIX,imdada.cn
-DOMAIN-SUFFIX,duolabao.com
-DOMAIN-SUFFIX,ads-union.jd.com @ads
-DOMAIN-SUFFIX,ads.union.jd.com @ads
-DOMAIN-SUFFIX,c-nfa.jd.com @ads
-DOMAIN-SUFFIX,cps.360buy.com @ads
-DOMAIN-SUFFIX,gia.jd.com @ads
-DOMAIN-SUFFIX,img-x.jd.com @ads
-DOMAIN-SUFFIX,jzt.jd.com @ads
-DOMAIN-SUFFIX,stat.m.jd.com @ads

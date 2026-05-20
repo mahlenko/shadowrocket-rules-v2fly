@@ -1,3 +1,9 @@
+# NAME: IKEA
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 95
+# TOTAL: 95
 DOMAIN-SUFFIX,ikea.ae
 DOMAIN-SUFFIX,ikea.at
 DOMAIN-SUFFIX,ikea.au
@@ -7,7 +13,7 @@ DOMAIN-SUFFIX,ikea.bh
 DOMAIN-SUFFIX,ikea.ca
 DOMAIN-SUFFIX,ikea.ch
 DOMAIN-SUFFIX,ikea.cl
-DOMAIN-SUFFIX,ikea.cn @cn
+DOMAIN-SUFFIX,ikea.cn
 DOMAIN-SUFFIX,ikea.co.at
 DOMAIN-SUFFIX,ikea.co.ca
 DOMAIN-SUFFIX,ikea.co.de
@@ -20,6 +26,7 @@ DOMAIN-SUFFIX,ikea.co.ph
 DOMAIN-SUFFIX,ikea.co.pl
 DOMAIN-SUFFIX,ikea.co.th
 DOMAIN-SUFFIX,ikea.co.uk
+DOMAIN-SUFFIX,ikea.com
 DOMAIN-SUFFIX,ikea.com.au
 DOMAIN-SUFFIX,ikea.com.cy
 DOMAIN-SUFFIX,ikea.com.de
@@ -68,6 +75,7 @@ DOMAIN-SUFFIX,ikea.lv
 DOMAIN-SUFFIX,ikea.ma
 DOMAIN-SUFFIX,ikea.mx
 DOMAIN-SUFFIX,ikea.my
+DOMAIN-SUFFIX,ikea.net
 DOMAIN-SUFFIX,ikea.nl
 DOMAIN-SUFFIX,ikea.no
 DOMAIN-SUFFIX,ikea.om
@@ -85,11 +93,9 @@ DOMAIN-SUFFIX,ikea.si
 DOMAIN-SUFFIX,ikea.sk
 DOMAIN-SUFFIX,ikea.ua
 DOMAIN-SUFFIX,ikea.us
-DOMAIN-SUFFIX,ikea.com
-DOMAIN-SUFFIX,ikea.net
-DOMAIN-SUFFIX,ingka-dt.cn @cn
-DOMAIN-SUFFIX,ingka-internal.cn @cn
-DOMAIN-SUFFIX,ingka-system.cn @cn
+DOMAIN-SUFFIX,ingka-dt.cn
+DOMAIN-SUFFIX,ingka-internal.cn
+DOMAIN-SUFFIX,ingka-system.cn
 DOMAIN-SUFFIX,ingka.com
 DOMAIN-SUFFIX,ingka.dev
 DOMAIN-SUFFIX,ingkacentres.com

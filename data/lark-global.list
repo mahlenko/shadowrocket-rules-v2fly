@@ -1,3 +1,9 @@
+# NAME: LARK-GLOBAL
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 31
+# TOTAL: 31
 DOMAIN-SUFFIX,frontier-lark-lb-v3.lf.bytelb.net  # 京ICP备12025439号-121 字节负载均衡
 DOMAIN-SUFFIX,lark-passport-qa-sg.net  # 京ICP备16045432号-69 QA测试使用域名
 DOMAIN-SUFFIX,lark.cn  # 京ICP备16045432号-11 飞书

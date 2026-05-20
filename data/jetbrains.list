@@ -1,4 +1,12 @@
+# NAME: JETBRAINS
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 14
+# TOTAL: 14
+DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN-SUFFIX,datalore.io
+DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
 DOMAIN-SUFFIX,intellij.com
 DOMAIN-SUFFIX,intellij.net
 DOMAIN-SUFFIX,intellij.org
@@ -10,5 +18,3 @@ DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,youtrack.cloud
-DOMAIN-SUFFIX,cdn.jetbrains.com @cn
-DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn @cn

@@ -1,3 +1,9 @@
+# NAME: ZENDESK
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:54
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
 DOMAIN-SUFFIX,outbound.io
 DOMAIN-SUFFIX,zdassets.com
 DOMAIN-SUFFIX,zdusercontent.com

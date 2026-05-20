@@ -1,4 +1,9 @@
-DOMAIN-SUFFIX,gmo
+# NAME: GMO-INTERNET
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 137
+# TOTAL: 137
 DOMAIN-SUFFIX,1-account.com
 DOMAIN-SUFFIX,30d.jp
 DOMAIN-SUFFIX,adam.jp
@@ -34,6 +39,7 @@ DOMAIN-SUFFIX,gaikaex.com
 DOMAIN-SUFFIX,gesoten.com
 DOMAIN-SUFFIX,get.shop
 DOMAIN-SUFFIX,global-studio.gmo
+DOMAIN-SUFFIX,gmo
 DOMAIN-SUFFIX,gmo-aozora.com
 DOMAIN-SUFFIX,gmo-app.jp
 DOMAIN-SUFFIX,gmo-c.jp
@@ -71,6 +77,7 @@ DOMAIN-SUFFIX,hakaru.ai
 DOMAIN-SUFFIX,heteml.jp
 DOMAIN-SUFFIX,hotel-reviewn.com
 DOMAIN-SUFFIX,i4u.gmo
+DOMAIN-SUFFIX,include:globalsign
 DOMAIN-SUFFIX,infoq.jp
 DOMAIN-SUFFIX,iprad-ryoma.com
 DOMAIN-SUFFIX,ird.co.jp

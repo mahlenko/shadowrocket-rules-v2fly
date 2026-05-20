@@ -1,3 +1,9 @@
+# NAME: CATEGORY-CDN-!CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 19
+# TOTAL: 19
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,bunnycdn.com
@@ -6,3 +12,14 @@ DOMAIN-SUFFIX,esm.sh
 DOMAIN-SUFFIX,gcdn.co
 DOMAIN-SUFFIX,gcore.com
 DOMAIN-SUFFIX,gcore.pro
+DOMAIN-SUFFIX,include:akamai
+DOMAIN-SUFFIX,include:cdn77
+DOMAIN-SUFFIX,include:cloudflare
+DOMAIN-SUFFIX,include:fastly
+DOMAIN-SUFFIX,include:imgix
+DOMAIN-SUFFIX,include:jsdelivr
+DOMAIN-SUFFIX,include:limelight
+DOMAIN-SUFFIX,include:pagecdn
+DOMAIN-SUFFIX,include:quantil
+DOMAIN-SUFFIX,include:stackpath
+DOMAIN-SUFFIX,include:vrcdn

@@ -1,4 +1,15 @@
+# NAME: FQNOVEL
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 30
+# DOMAIN: 17
+# TOTAL: 47
 DOMAIN-SUFFIX,activity-zhendingtech.com
+DOMAIN,ads3-normal-hl.zijieapi.com
+DOMAIN,ads3-normal.zijieapi.com
+DOMAIN,ads5-normal-hl.zijieapi.com
+DOMAIN,ads5-normal.zijieapi.com
 DOMAIN-SUFFIX,changdunovel.com
 DOMAIN-SUFFIX,fanqiecopyright.com
 DOMAIN-SUFFIX,fanqienovel.com
@@ -19,29 +30,25 @@ DOMAIN-SUFFIX,fqnovelstatic.com
 DOMAIN-SUFFIX,fqnovelvod.com
 DOMAIN-SUFFIX,fqopenplatform.com
 DOMAIN-SUFFIX,ihaohaoxuexi.com
+DOMAIN,log3-applog-hl.fqnovel.com
+DOMAIN,log3-applog.fqnovel.com
+DOMAIN,log5-applog-hl.fqnovel.com
+DOMAIN,log5-applog.fqnovel.com
 DOMAIN-SUFFIX,muyewx.com
 DOMAIN-SUFFIX,novelfm.com
 DOMAIN-SUFFIX,novelfmpic.com
 DOMAIN-SUFFIX,novelfmstatic.com
 DOMAIN-SUFFIX,novelfmvod.com
+DOMAIN,p3-ad-sign.byteimg.com
+DOMAIN,p3-novel.byteimg.com
+DOMAIN,p6-ad-sign.byteimg.com
+DOMAIN,p6-novel.byteimg.com
+DOMAIN,p9-ad-sign.byteimg.com
 DOMAIN-SUFFIX,qznovel.com
 DOMAIN-SUFFIX,qznovelpic.com
 DOMAIN-SUFFIX,qznovelstatic.com
 DOMAIN-SUFFIX,qznovelvod.com
-DOMAIN,p3-novel.byteimg.com
-DOMAIN,p6-novel.byteimg.com
-DOMAIN,ads3-normal-hl.zijieapi.com @ads
-DOMAIN,ads3-normal.zijieapi.com @ads
-DOMAIN,ads5-normal-hl.zijieapi.com @ads
-DOMAIN,ads5-normal.zijieapi.com @ads
-DOMAIN,log3-applog-hl.fqnovel.com @ads
-DOMAIN,log3-applog.fqnovel.com @ads
-DOMAIN,log5-applog-hl.fqnovel.com @ads
-DOMAIN,log5-applog.fqnovel.com @ads
-DOMAIN,p3-ad-sign.byteimg.com @ads
-DOMAIN,p6-ad-sign.byteimg.com @ads
-DOMAIN,p9-ad-sign.byteimg.com @ads
-DOMAIN,rtlog3-applog-hl.fqnovel.com @ads
-DOMAIN,rtlog3-applog.fqnovel.com @ads
-DOMAIN,rtlog5-applog-hl.fqnovel.com @ads
-DOMAIN,rtlog5-applog.fqnovel.com @ads
+DOMAIN,rtlog3-applog-hl.fqnovel.com
+DOMAIN,rtlog3-applog.fqnovel.com
+DOMAIN,rtlog5-applog-hl.fqnovel.com
+DOMAIN,rtlog5-applog.fqnovel.com

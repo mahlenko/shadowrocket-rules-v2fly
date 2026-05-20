@@ -1,2 +1,10 @@
+# NAME: CATEGORY-MOBILE-REPAIR
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
 DOMAIN-SUFFIX,androidfilehost.com
+DOMAIN-SUFFIX,include:borneoschematics
+DOMAIN-SUFFIX,include:z3x-team
 DOMAIN-SUFFIX,unlocktool.net

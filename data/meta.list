@@ -1,3 +1,16 @@
+# NAME: META
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
+DOMAIN-SUFFIX,include:facebook
+DOMAIN-SUFFIX,include:facebook-dev
+DOMAIN-SUFFIX,include:instagram
+DOMAIN-SUFFIX,include:messenger
+DOMAIN-SUFFIX,include:oculus
+DOMAIN-SUFFIX,include:threads
+DOMAIN-SUFFIX,include:whatsapp
 DOMAIN-SUFFIX,llama.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com

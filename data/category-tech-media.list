@@ -1,8 +1,17 @@
+# NAME: CATEGORY-TECH-MEDIA
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 16
+# TOTAL: 16
 DOMAIN-SUFFIX,androidauthority.com
 DOMAIN-SUFFIX,androidpolice.com
 DOMAIN-SUFFIX,appleinsider.com
 DOMAIN-SUFFIX,digitaltrends.com
 DOMAIN-SUFFIX,engadget.com
+DOMAIN-SUFFIX,include:9to5
+DOMAIN-SUFFIX,include:thetype
+DOMAIN-SUFFIX,include:ycombinator
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,slashdot.org
 DOMAIN-SUFFIX,technews.tw

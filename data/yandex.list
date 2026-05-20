@@ -1,17 +1,57 @@
-DOMAIN-SUFFIX,yandex
-DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
+# NAME: YANDEX
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:54
+# DOMAIN-SUFFIX: 113
+# DOMAIN: 15
+# TOTAL: 128
+DOMAIN-SUFFIX,adfox.ru
+DOMAIN-SUFFIX,adfox.yandex.ru
+DOMAIN,adfstat.yandex.ru
+DOMAIN-SUFFIX,admetrica.ru
+DOMAIN-SUFFIX,ads.yandex
+DOMAIN,ads.yandex.com
+DOMAIN-SUFFIX,ads.yandex.ru
+DOMAIN,ads.yango.com
+DOMAIN,adsdk.yandex.ru
+DOMAIN-SUFFIX,adv.yandex.com
+DOMAIN-SUFFIX,adv.yandex.ru
+DOMAIN,amc.yandex.ru
+DOMAIN-SUFFIX,an.yandex.ru
+DOMAIN,analytics.mobile.yandex.net
+DOMAIN-SUFFIX,appmetrica.yandex.com
+DOMAIN-SUFFIX,appmetrica.yandex.net
+DOMAIN-SUFFIX,appmetrica.yandex.ru
+DOMAIN-SUFFIX,appmetrica.yango.com
 DOMAIN-SUFFIX,berizaryad.ru
+DOMAIN-SUFFIX,bs.yandex.ru
 DOMAIN-SUFFIX,cabconnect.org
 DOMAIN-SUFFIX,clck.ru
+DOMAIN,clck.yandex.com
+DOMAIN,clck.yandex.net
+DOMAIN-SUFFIX,clck.yandex.ru
+DOMAIN,clck.yango.com
 DOMAIN-SUFFIX,clstorage.net
+DOMAIN-SUFFIX,counter.yandex.ru
 DOMAIN-SUFFIX,driveawaytaxi.org
 DOMAIN-SUFFIX,elama.ru
 DOMAIN-SUFFIX,gogettaxi.org
 DOMAIN-SUFFIX,goup.ai
 DOMAIN-SUFFIX,hayya.ae
+DOMAIN-SUFFIX,include:kinopoisk
+DOMAIN,informer.yandex.ru
+DOMAIN,mc.yandex.com
+DOMAIN,mc.yandex.net
+DOMAIN-SUFFIX,mc.yandex.ru
+DOMAIN,mc.yango.com
 DOMAIN-SUFFIX,meteum.ai
+DOMAIN-SUFFIX,metrika.yandex.com
+DOMAIN-SUFFIX,metrika.yandex.net
+DOMAIN-SUFFIX,metrika.yandex.ru
 DOMAIN-SUFFIX,my-manager-account.com
 DOMAIN-SUFFIX,naydex.net
+DOMAIN,pixel.yandex.com
+DOMAIN,report.ap.yandex-net.ru
 DOMAIN-SUFFIX,rostaxi.org
 DOMAIN-SUFFIX,shedevrum.ai
 DOMAIN-SUFFIX,sourcecraft.dev
@@ -21,9 +61,16 @@ DOMAIN-SUFFIX,taxiaid.org
 DOMAIN-SUFFIX,taxiguru.org
 DOMAIN-SUFFIX,taxitax.org
 DOMAIN-SUFFIX,turbopages.org
+DOMAIN-SUFFIX,webvisor.com
+DOMAIN-SUFFIX,webvisor.org
+DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,ya.cc
 DOMAIN-SUFFIX,ya.ru
+DOMAIN-SUFFIX,yabs.yandex.ru
+DOMAIN-SUFFIX,yads.tech
+DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,yandex-bank.net
+DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandex-team.ru
 DOMAIN-SUFFIX,yandex.aero
 DOMAIN-SUFFIX,yandex.asia
@@ -65,8 +112,10 @@ DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,yandexgo.com
 DOMAIN-SUFFIX,yandexlyceum.ru
+DOMAIN-SUFFIX,yandexmetrica.com
 DOMAIN-SUFFIX,yandexwebcache.net
 DOMAIN-SUFFIX,yandexwebcache.org
+DOMAIN-SUFFIX,yango-ads.com
 DOMAIN-SUFFIX,yango-b2b.com
 DOMAIN-SUFFIX,yango-team.com
 DOMAIN-SUFFIX,yango-tech.com
@@ -84,44 +133,3 @@ DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yastatic-net.ru
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,yccdn.ru
-DOMAIN-SUFFIX,adfox.ru @ads
-DOMAIN-SUFFIX,adfox.yandex.ru @ads
-DOMAIN-SUFFIX,admetrica.ru @ads
-DOMAIN-SUFFIX,ads.yandex @ads
-DOMAIN-SUFFIX,ads.yandex.ru @ads
-DOMAIN-SUFFIX,adv.yandex.com @ads
-DOMAIN-SUFFIX,adv.yandex.ru @ads
-DOMAIN-SUFFIX,an.yandex.ru @ads
-DOMAIN-SUFFIX,appmetrica.yandex.com @ads
-DOMAIN-SUFFIX,appmetrica.yandex.net @ads
-DOMAIN-SUFFIX,appmetrica.yandex.ru @ads
-DOMAIN-SUFFIX,appmetrica.yango.com @ads
-DOMAIN-SUFFIX,bs.yandex.ru @ads
-DOMAIN-SUFFIX,clck.yandex.ru @ads
-DOMAIN-SUFFIX,counter.yandex.ru @ads
-DOMAIN-SUFFIX,mc.yandex.ru @ads
-DOMAIN-SUFFIX,metrika.yandex.com @ads
-DOMAIN-SUFFIX,metrika.yandex.net @ads
-DOMAIN-SUFFIX,metrika.yandex.ru @ads
-DOMAIN-SUFFIX,webvisor.com @ads
-DOMAIN-SUFFIX,webvisor.org @ads
-DOMAIN-SUFFIX,yabs.yandex.ru @ads
-DOMAIN-SUFFIX,yads.tech @ads
-DOMAIN-SUFFIX,yandex-metrica.ru @ads
-DOMAIN-SUFFIX,yandexmetrica.com @ads
-DOMAIN-SUFFIX,yango-ads.com @ads
-DOMAIN,adfstat.yandex.ru @ads
-DOMAIN,ads.yandex.com @ads
-DOMAIN,ads.yango.com @ads
-DOMAIN,adsdk.yandex.ru @ads
-DOMAIN,amc.yandex.ru @ads
-DOMAIN,analytics.mobile.yandex.net @ads
-DOMAIN,clck.yandex.com @ads
-DOMAIN,clck.yandex.net @ads
-DOMAIN,clck.yango.com @ads
-DOMAIN,informer.yandex.ru @ads
-DOMAIN,mc.yandex.com @ads
-DOMAIN,mc.yandex.net @ads
-DOMAIN,mc.yango.com @ads
-DOMAIN,pixel.yandex.com @ads
-DOMAIN,report.ap.yandex-net.ru @ads

@@ -1,12 +1,19 @@
-DOMAIN-SUFFIX,kino.pub
-DOMAIN-SUFFIX,kinopub.online
-DOMAIN-SUFFIX,kpdl.link
+# NAME: KINOPUB
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 11
+# URL-REGEX: 1
+# TOTAL: 12
+URL-REGEX,(\w+)-static-[0-9]+\.cdntogo\.net$
 DOMAIN-SUFFIX,ahc.ovh # sub domains mirror
-DOMAIN-SUFFIX,gfw.ovh # sub domains mirror
-DOMAIN-SUFFIX,mos-gorsud.co # kinopub domain to generate a mirror site through gfw.ovh
 DOMAIN-SUFFIX,cdn-service.space
 DOMAIN-SUFFIX,cdn2cdn.com
 DOMAIN-SUFFIX,cdn2site.com
+DOMAIN-SUFFIX,gfw.ovh # sub domains mirror
+DOMAIN-SUFFIX,kino.pub
+DOMAIN-SUFFIX,kinopub.online
+DOMAIN-SUFFIX,kpdl.link
+DOMAIN-SUFFIX,mos-gorsud.co # kinopub domain to generate a mirror site through gfw.ovh
 DOMAIN-SUFFIX,pushbr.com # poster images CDN
 DOMAIN-SUFFIX,smarttvcdn.online
-URL-REGEX,(\w+)-static-[0-9]+\.cdntogo\.net$

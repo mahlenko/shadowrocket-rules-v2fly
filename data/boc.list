@@ -1,14 +1,20 @@
-DOMAIN-SUFFIX,boc.cn
+# NAME: BOC
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 20
+# TOTAL: 20
 DOMAIN-SUFFIX,bank-of-china.com
 DOMAIN-SUFFIX,bankofchina.com
-DOMAIN-SUFFIX,bocfullertonbank.com
+DOMAIN-SUFFIX,boc.cn
 DOMAIN-SUFFIX,bocamchina.com
 DOMAIN-SUFFIX,bocaviation.com
 DOMAIN-SUFFIX,boccfc.cc
 DOMAIN-SUFFIX,boccfc.cn
+DOMAIN-SUFFIX,bocfullertonbank.com
 DOMAIN-SUFFIX,bocgi.com
 DOMAIN-SUFFIX,bocgins.com
-DOMAIN-SUFFIX,bochk.com @!cn
+DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,bocichina.cn
 DOMAIN-SUFFIX,bocichina.com
 DOMAIN-SUFFIX,bocichina.com.cn

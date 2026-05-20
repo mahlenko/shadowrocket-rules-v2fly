@@ -1,3 +1,10 @@
+# NAME: CATEGORY-SCHOLAR-!CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 175
+# DOMAIN: 13
+# TOTAL: 188
 DOMAIN-SUFFIX,aacrjournals.org # AACR 美国癌症研究学会
 DOMAIN-SUFFIX,academic.eb.com # Britannica Academic
 DOMAIN-SUFFIX,acaric.co.jp # 株式会社アカリク
@@ -16,6 +23,7 @@ DOMAIN-SUFFIX,amdigital.co.uk # Adam Matthew Digital 历史与文化珍稀史料
 DOMAIN-SUFFIX,ams.org # 美国数学学会
 DOMAIN-SUFFIX,analytictech.com
 DOMAIN-SUFFIX,anatomy.tv # digital human anatomy and physiology content
+DOMAIN,angle.com.tw # 元照出版
 DOMAIN-SUFFIX,annualreviews.org
 DOMAIN-SUFFIX,aps.org # American Physical Society Sites
 DOMAIN-SUFFIX,arabidopsis.org
@@ -30,6 +38,7 @@ DOMAIN-SUFFIX,asn-online.org # ASN 美国肾脏病学会期刊
 DOMAIN-SUFFIX,aspbjournals.org # ASPB 美国植物生物学家学会全文期刊库
 DOMAIN-SUFFIX,aspenpublishing.com # ASPEN Digital Library 法律
 DOMAIN-SUFFIX,astm.org # ASTM 美国材料与试验协会
+DOMAIN,beck-online.beck.de # Beck-Online数据库
 DOMAIN-SUFFIX,berkeley.edu
 DOMAIN-SUFFIX,biologists.com # COB期刊
 DOMAIN-SUFFIX,biomedcentral.com # BMC
@@ -53,12 +62,16 @@ DOMAIN-SUFFIX,cmu.edu
 DOMAIN-SUFFIX,cochranelibrary.com
 DOMAIN-SUFFIX,computingreviews.com
 DOMAIN-SUFFIX,csrankings.org
+DOMAIN,databank.worldbank.org # World DataBank 世界经济学数据库
+DOMAIN,database.asahi.com # 朝日新闻数据库（闻藏II Visual）
 DOMAIN-SUFFIX,degruyter.com
 DOMAIN-SUFFIX,dentalhypotheses.com
+DOMAIN,dl.begellhouse.com # Begell Digital Library
 DOMAIN-SUFFIX,ebsco.com # EBSCO 检索平台
 DOMAIN-SUFFIX,ebscohost.com
 DOMAIN-SUFFIX,electrochem.org
 DOMAIN-SUFFIX,elgaronline.com
+DOMAIN,elib.maruzen.co.jp # Maruzen e-Book Library（MEL）
 DOMAIN-SUFFIX,elifesciences.org
 DOMAIN-SUFFIX,embase.com
 DOMAIN-SUFFIX,emerald.com # Emerald 管理学期刊库、工程学期刊库、电子书
@@ -66,12 +79,14 @@ DOMAIN-SUFFIX,ems-ph.org # European Mathematical Society Publishing House
 DOMAIN-SUFFIX,eurekaselect.com # Bentham Science期刊库
 DOMAIN-SUFFIX,europepmc.org
 DOMAIN-SUFFIX,facultyopinions.com # Faculty Opinions
+DOMAIN,firstsearch.oclc.org # OCLC FirstSearch
 DOMAIN-SUFFIX,frontiersin.org
 DOMAIN-SUFFIX,gale.com # Gale 平台
 DOMAIN-SUFFIX,galegroup.com # Gale 平台
 DOMAIN-SUFFIX,geolytics.com # Time Series Research Package（美国人口普查数据库）
 DOMAIN-SUFFIX,ggsrv.com # Gale 平台
 DOMAIN-SUFFIX,global-sci.org # Global Science Press GSP电子期刊
+DOMAIN-SUFFIX,hanzhen.xmulib.org # 厦门大学汉珍数位
 DOMAIN-SUFFIX,heinonline.org # HeinOnline 法律全文数据库
 DOMAIN-SUFFIX,highwirepress.com # HighWire Press 电子期刊
 DOMAIN-SUFFIX,hindawi.com
@@ -80,7 +95,21 @@ DOMAIN-SUFFIX,icevirtuallibrary.com # 英国土木工程师学会 ICE Virtual Li
 DOMAIN-SUFFIX,icsd.fiz-karlsruhe.de # Inorganic Crystal Structure Database
 DOMAIN-SUFFIX,igi-global.com # IGI Global 平台
 DOMAIN-SUFFIX,igpublish.com # iG Publishing电子图书
-DOMAIN-SUFFIX,hanzhen.xmulib.org # 厦门大学汉珍数位
+DOMAIN-SUFFIX,include:apa
+DOMAIN-SUFFIX,include:category-scholar-ir
+DOMAIN-SUFFIX,include:category-scholar-uk
+DOMAIN-SUFFIX,include:clarivate
+DOMAIN-SUFFIX,include:doi
+DOMAIN-SUFFIX,include:elsevier
+DOMAIN-SUFFIX,include:google-scholar
+DOMAIN-SUFFIX,include:ieee
+DOMAIN-SUFFIX,include:mit
+DOMAIN-SUFFIX,include:proquest
+DOMAIN-SUFFIX,include:sci-hub
+DOMAIN-SUFFIX,include:sciencedirect
+DOMAIN-SUFFIX,include:springer
+DOMAIN-SUFFIX,include:taylorfrancis
+DOMAIN-SUFFIX,include:z-library
 DOMAIN-SUFFIX,infolinker.com.tw
 DOMAIN-SUFFIX,informs.org
 DOMAIN-SUFFIX,ioinformatics.org
@@ -99,10 +128,12 @@ DOMAIN-SUFFIX,karger.com
 DOMAIN-SUFFIX,kuke.com # KUKE数字音乐图书馆
 DOMAIN-SUFFIX,lawdata.com.tw # 台湾月旦知识库
 DOMAIN-SUFFIX,lexisnexis.com # Lexis 法律全文数据库
-DOMAIN-SUFFIX,literatumonline.com # Wiley Online Library@https://pericles.pericles-prod.literatumonline.com/
+DOMAIN-SUFFIX,literatumonline.com # Wiley Online Library
 DOMAIN-SUFFIX,mdpi.com
+DOMAIN,medone-education.thieme.com
 DOMAIN-SUFFIX,medrxiv.org
 DOMAIN-SUFFIX,morganclaypool.com
+DOMAIN,muse.jhu.edu # Project MUSE
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,naturemag.org
 DOMAIN-SUFFIX,ncl.edu.tw
@@ -141,15 +172,17 @@ DOMAIN-SUFFIX,sigops.org # the Association for Computing Machinery's Special Int
 DOMAIN-SUFFIX,silverchair-cdn.com # https://global.oup.com/academic/news/silverchair-announcement
 DOMAIN-SUFFIX,spiedigitallibrary.org
 DOMAIN-SUFFIX,statsmakemecry.com
+DOMAIN,t21.nikkei.co.jp
+DOMAIN,t21ipau.nikkei.co.jp
 DOMAIN-SUFFIX,thelancet.com
-DOMAIN-SUFFIX,tickdata.com # Tick Data-Futures and Indices Historical Data
-DOMAIN-SUFFIX,thieme.de
 DOMAIN-SUFFIX,thieme-connect.com
 DOMAIN-SUFFIX,thieme-connect.de
-DOMAIN,medone-education.thieme.com
+DOMAIN-SUFFIX,thieme.de
+DOMAIN-SUFFIX,tickdata.com # Tick Data-Futures and Indices Historical Data
 DOMAIN-SUFFIX,totalmateria.com # Total Materia
 DOMAIN-SUFFIX,uchicago.edu
 DOMAIN-SUFFIX,ucla.edu
+DOMAIN,ulrichsweb.serialssolutions.com
 DOMAIN-SUFFIX,umass.edu
 DOMAIN-SUFFIX,usaco.org
 DOMAIN-SUFFIX,usenix.org # USENIX: The Advanced Computing Systems Association
@@ -157,17 +190,6 @@ DOMAIN-SUFFIX,westlaw.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,wolterskluwer.com
 DOMAIN-SUFFIX,worldscientific.com
+DOMAIN,wrds-www.wharton.upenn.edu # Compustat 财务与价格数据库
 DOMAIN-SUFFIX,yale.edu
 DOMAIN-SUFFIX,zenodo.org
-DOMAIN,angle.com.tw # 元照出版
-DOMAIN,beck-online.beck.de # Beck-Online数据库
-DOMAIN,databank.worldbank.org # World DataBank 世界经济学数据库
-DOMAIN,database.asahi.com # 朝日新闻数据库（闻藏II Visual）
-DOMAIN,dl.begellhouse.com # Begell Digital Library
-DOMAIN,elib.maruzen.co.jp # Maruzen e-Book Library（MEL）
-DOMAIN,firstsearch.oclc.org # OCLC FirstSearch
-DOMAIN,muse.jhu.edu # Project MUSE
-DOMAIN,t21.nikkei.co.jp
-DOMAIN,t21ipau.nikkei.co.jp
-DOMAIN,ulrichsweb.serialssolutions.com
-DOMAIN,wrds-www.wharton.upenn.edu # Compustat 财务与价格数据库

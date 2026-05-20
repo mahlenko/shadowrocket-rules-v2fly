@@ -1,7 +1,13 @@
+# NAME: CAMBRIDGE
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
 DOMAIN-SUFFIX,cam.ac.uk
 DOMAIN-SUFFIX,cambridge.org
-DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
 DOMAIN-SUFFIX,cambridgedigital.net
 DOMAIN-SUFFIX,cambridgemaths.org
+DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
 DOMAIN-SUFFIX,ccdc.cam.ac.uk # The Cambridge Structural Database
 DOMAIN-SUFFIX,dlib.eastview.com # Cambridge Archive Editions Online 剑桥档案编研

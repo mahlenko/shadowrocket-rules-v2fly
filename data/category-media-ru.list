@@ -1,4 +1,10 @@
-DOMAIN-SUFFIX,russiatoday.com
+# NAME: CATEGORY-MEDIA-RU
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
 DOMAIN-SUFFIX,rteam.tech   # IT company owned by RT's parent org (ANO TV-Novosti)
+DOMAIN-SUFFIX,russiatoday.com
 DOMAIN-SUFFIX,shop-rt.com  # RT merchandise store
 DOMAIN-SUFFIX,swentr.site  # RT mirror domain

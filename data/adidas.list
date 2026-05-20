@@ -1,3 +1,12 @@
+# NAME: ADIDAS
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 90
+# TOTAL: 90
+DOMAIN-SUFFIX,adidas-archive.org
+DOMAIN-SUFFIX,adidas-group.ca
+DOMAIN-SUFFIX,adidas-group.com
 DOMAIN-SUFFIX,adidas.ae
 DOMAIN-SUFFIX,adidas.at
 DOMAIN-SUFFIX,adidas.be
@@ -5,7 +14,7 @@ DOMAIN-SUFFIX,adidas.bh
 DOMAIN-SUFFIX,adidas.ca
 DOMAIN-SUFFIX,adidas.ch
 DOMAIN-SUFFIX,adidas.cl
-DOMAIN-SUFFIX,adidas.cn @cn
+DOMAIN-SUFFIX,adidas.cn
 DOMAIN-SUFFIX,adidas.co
 DOMAIN-SUFFIX,adidas.co.id
 DOMAIN-SUFFIX,adidas.co.in
@@ -18,7 +27,7 @@ DOMAIN-SUFFIX,adidas.com
 DOMAIN-SUFFIX,adidas.com.ar
 DOMAIN-SUFFIX,adidas.com.au
 DOMAIN-SUFFIX,adidas.com.br
-DOMAIN-SUFFIX,adidas.com.cn @cn
+DOMAIN-SUFFIX,adidas.com.cn
 DOMAIN-SUFFIX,adidas.com.co
 DOMAIN-SUFFIX,adidas.com.eg
 DOMAIN-SUFFIX,adidas.com.hk
@@ -54,19 +63,16 @@ DOMAIN-SUFFIX,adidas.se
 DOMAIN-SUFFIX,adidas.sk
 DOMAIN-SUFFIX,adidasadmin.com
 DOMAIN-SUFFIX,adidasarchive.org
-DOMAIN-SUFFIX,adidas-archive.org
 DOMAIN-SUFFIX,adidasbadminton.com
 DOMAIN-SUFFIX,adidasboxing.com
 DOMAIN-SUFFIX,adidascdn.com
-DOMAIN-SUFFIX,adidas-group.ca
-DOMAIN-SUFFIX,adidas-group.com
 DOMAIN-SUFFIX,adidasgymnastics.com
 DOMAIN-SUFFIX,adidashockey.com
 DOMAIN-SUFFIX,adidasmotorsport.com
 DOMAIN-SUFFIX,adidassailing.com
 DOMAIN-SUFFIX,adidasspecialtysports.at
 DOMAIN-SUFFIX,adidasspecialtysports.be
-DOMAIN-SUFFIX,adidasspecialtysports.cn @cn
+DOMAIN-SUFFIX,adidasspecialtysports.cn
 DOMAIN-SUFFIX,adidasspecialtysports.co.uk
 DOMAIN-SUFFIX,adidasspecialtysports.cz
 DOMAIN-SUFFIX,adidasspecialtysports.de

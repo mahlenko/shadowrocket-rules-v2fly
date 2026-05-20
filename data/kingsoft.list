@@ -1,12 +1,21 @@
+# NAME: KINGSOFT
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 15
+# TOTAL: 15
+DOMAIN-SUFFIX,include:cheetahmobile
+DOMAIN-SUFFIX,include:seasun
+DOMAIN-SUFFIX,include:wps
+DOMAIN-SUFFIX,kcdnvip.com
 DOMAIN-SUFFIX,kimg.cn
 DOMAIN-SUFFIX,kingsoft-office-service.com
 DOMAIN-SUFFIX,kingsoft.com
+DOMAIN-SUFFIX,ks-cdn.com
+DOMAIN-SUFFIX,ks-cdn1.com
 DOMAIN-SUFFIX,ks-live.com
 DOMAIN-SUFFIX,ksmobile.com
 DOMAIN-SUFFIX,ksosoft.com
-DOMAIN-SUFFIX,kcdnvip.com
-DOMAIN-SUFFIX,ks-cdn.com
-DOMAIN-SUFFIX,ks-cdn1.com
 DOMAIN-SUFFIX,ksyun.com
 DOMAIN-SUFFIX,ksyuncdn.com
 DOMAIN-SUFFIX,ksyungslb.com

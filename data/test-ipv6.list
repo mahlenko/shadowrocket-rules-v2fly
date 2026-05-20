@@ -1,3 +1,9 @@
+# NAME: TEST-IPV6
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:54
+# DOMAIN-SUFFIX: 27
+# TOTAL: 27
 DOMAIN-SUFFIX,ams2.test-ipv6.com
 DOMAIN-SUFFIX,fra.test-ipv6.com
 DOMAIN-SUFFIX,sixte.st
@@ -23,5 +29,5 @@ DOMAIN-SUFFIX,test-ipv6.roedu.net
 DOMAIN-SUFFIX,test-ipv6.se
 DOMAIN-SUFFIX,test-ipv6.sin.vr.org
 DOMAIN-SUFFIX,test-ipv6.ttk.ru
+DOMAIN-SUFFIX,testipv6.cn
 DOMAIN-SUFFIX,testipv6.de
-DOMAIN-SUFFIX,testipv6.cn @cn

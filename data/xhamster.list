@@ -1,3 +1,12 @@
+# NAME: XHAMSTER
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:54
+# DOMAIN-SUFFIX: 10
+# DOMAIN: 1
+# TOTAL: 11
+DOMAIN-SUFFIX,collector.xhamster.com
+DOMAIN,widgets.stripst.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamster.desi
 DOMAIN-SUFFIX,xhamster.xxx
@@ -7,5 +16,3 @@ DOMAIN-SUFFIX,xhamster19.com
 DOMAIN-SUFFIX,xhamster3.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
-DOMAIN,widgets.stripst.com
-DOMAIN-SUFFIX,collector.xhamster.com @ads

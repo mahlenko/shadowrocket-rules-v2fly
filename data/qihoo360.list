@@ -1,7 +1,13 @@
+# NAME: QIHOO360
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:54
+# DOMAIN-SUFFIX: 82
+# TOTAL: 82
+DOMAIN-SUFFIX,360-jr.com
 DOMAIN-SUFFIX,360.cn
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360.net
-DOMAIN-SUFFIX,360-jr.com
 DOMAIN-SUFFIX,360chou.com
 DOMAIN-SUFFIX,360daikuan.com
 DOMAIN-SUFFIX,360huzhubao.com
@@ -28,13 +34,21 @@ DOMAIN-SUFFIX,360zqaq.com
 DOMAIN-SUFFIX,anquanke.com
 DOMAIN-SUFFIX,appjiagu.com
 DOMAIN-SUFFIX,baomitu.com
+DOMAIN-SUFFIX,beifangsl.cn
+DOMAIN-SUFFIX,c.sayhi.360.cn
 DOMAIN-SUFFIX,dhsvc.cn
+DOMAIN-SUFFIX,fenxi.360.cn
+DOMAIN-SUFFIX,fenxi.com
 DOMAIN-SUFFIX,haoso.com
 DOMAIN-SUFFIX,haosou.com
 DOMAIN-SUFFIX,haosou.com.cn
 DOMAIN-SUFFIX,haosou.net
 DOMAIN-SUFFIX,i360mall.com
+DOMAIN-SUFFIX,include:starworld
+DOMAIN-SUFFIX,lianmeng.360.cn
 DOMAIN-SUFFIX,ludashi.com
+DOMAIN-SUFFIX,mediav.com
+DOMAIN-SUFFIX,mvad.com
 DOMAIN-SUFFIX,n.cn
 DOMAIN-SUFFIX,namiso.com
 DOMAIN-SUFFIX,nicaifu.com
@@ -53,10 +67,14 @@ DOMAIN-SUFFIX,qhmsg.com
 DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhres2.com
 DOMAIN-SUFFIX,qhstatic.com
+DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,qihoo.com
 DOMAIN-SUFFIX,qihoo.net
 DOMAIN-SUFFIX,qihuapi.cn
 DOMAIN-SUFFIX,qihucdn.com
+DOMAIN-SUFFIX,s.360.cn
+DOMAIN-SUFFIX,s.so.360.cn
+DOMAIN-SUFFIX,s.union.360.cn
 DOMAIN-SUFFIX,so.com
 DOMAIN-SUFFIX,sou.cn
 DOMAIN-SUFFIX,sou.com
@@ -66,16 +84,5 @@ DOMAIN-SUFFIX,xiaoluzhidian.com
 DOMAIN-SUFFIX,xjietiao.com
 DOMAIN-SUFFIX,youhua.com
 DOMAIN-SUFFIX,yunpan.cn
-DOMAIN-SUFFIX,beifangsl.cn
 DOMAIN-SUFFIX,zhaomi.cn
 DOMAIN-SUFFIX,zhaomishijie.com
-DOMAIN-SUFFIX,c.sayhi.360.cn @ads
-DOMAIN-SUFFIX,fenxi.360.cn @ads
-DOMAIN-SUFFIX,fenxi.com @ads
-DOMAIN-SUFFIX,lianmeng.360.cn @ads
-DOMAIN-SUFFIX,mediav.com @ads
-DOMAIN-SUFFIX,mvad.com @ads
-DOMAIN-SUFFIX,qhupdate.com @ads
-DOMAIN-SUFFIX,s.360.cn @ads
-DOMAIN-SUFFIX,s.so.360.cn @ads
-DOMAIN-SUFFIX,s.union.360.cn @ads

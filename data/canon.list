@@ -1,5 +1,11 @@
-DOMAIN-SUFFIX,canon
+# NAME: CANON
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 71
+# TOTAL: 71
 DOMAIN-SUFFIX,c-ij.com
+DOMAIN-SUFFIX,canon
 DOMAIN-SUFFIX,canon-cee.com
 DOMAIN-SUFFIX,canon-cmos-sensors.com
 DOMAIN-SUFFIX,canon-cna.com
@@ -19,7 +25,7 @@ DOMAIN-SUFFIX,canon.be
 DOMAIN-SUFFIX,canon.bg
 DOMAIN-SUFFIX,canon.ca
 DOMAIN-SUFFIX,canon.ch
-DOMAIN-SUFFIX,canon.cn @cn
+DOMAIN-SUFFIX,canon.cn
 DOMAIN-SUFFIX,canon.co.il
 DOMAIN-SUFFIX,canon.co.uk
 DOMAIN-SUFFIX,canon.co.za
@@ -27,7 +33,7 @@ DOMAIN-SUFFIX,canon.com
 DOMAIN-SUFFIX,canon.com.al
 DOMAIN-SUFFIX,canon.com.au
 DOMAIN-SUFFIX,canon.com.by
-DOMAIN-SUFFIX,canon.com.cn @cn
+DOMAIN-SUFFIX,canon.com.cn
 DOMAIN-SUFFIX,canon.com.cy
 DOMAIN-SUFFIX,canon.com.hk
 DOMAIN-SUFFIX,canon.com.mk

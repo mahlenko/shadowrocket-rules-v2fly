@@ -1,10 +1,16 @@
-DOMAIN-SUFFIX,sony
-DOMAIN-SUFFIX,sonynetwork.co.jp
+# NAME: SONY
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:54
+# DOMAIN-SUFFIX: 99
+# TOTAL: 99
+DOMAIN-SUFFIX,ginzasonypark.jp
+DOMAIN-SUFFIX,include:playstation
+DOMAIN-SUFFIX,include:sonypictures
 DOMAIN-SUFFIX,nuro.jp
 DOMAIN-SUFFIX,so-net.ne.jp
-DOMAIN-SUFFIX,sony-semicon.co.jp
-DOMAIN-SUFFIX,sony-semicon.com
-DOMAIN-SUFFIX,ginzasonypark.jp
+DOMAIN-SUFFIX,so-net.net.tw
+DOMAIN-SUFFIX,sony
 DOMAIN-SUFFIX,sony-africa.com
 DOMAIN-SUFFIX,sony-asia.com
 DOMAIN-SUFFIX,sony-europe.com
@@ -13,6 +19,8 @@ DOMAIN-SUFFIX,sony-latin.com
 DOMAIN-SUFFIX,sony-mea.com
 DOMAIN-SUFFIX,sony-olympus-medical.com
 DOMAIN-SUFFIX,sony-promotion.eu
+DOMAIN-SUFFIX,sony-semicon.co.jp
+DOMAIN-SUFFIX,sony-semicon.com
 DOMAIN-SUFFIX,sony.at
 DOMAIN-SUFFIX,sony.ba
 DOMAIN-SUFFIX,sony.be
@@ -89,9 +97,9 @@ DOMAIN-SUFFIX,sonydna.com # Sony Digital Network Applications Inc.
 DOMAIN-SUFFIX,sonyglobalsolutions.jp
 DOMAIN-SUFFIX,sonykigyo.jp
 DOMAIN-SUFFIX,sonylatvija.com
+DOMAIN-SUFFIX,sonynetwork.co.jp
 DOMAIN-SUFFIX,sonypcl.jp
 DOMAIN-SUFFIX,sonyprotechnosupport.co.jp
 DOMAIN-SUFFIX,sonystoragemedia.co.jp # Sony Storage Media Solutions Corporation
 DOMAIN-SUFFIX,sonytc.co.jp
 DOMAIN-SUFFIX,sovec.net
-DOMAIN-SUFFIX,so-net.net.tw

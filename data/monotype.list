@@ -1,4 +1,15 @@
+# NAME: MONOTYPE
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
+DOMAIN-SUFFIX,bitstream.com
+DOMAIN-SUFFIX,include:fontexplorer
+DOMAIN-SUFFIX,include:fonts
+DOMAIN-SUFFIX,include:fontshop
+DOMAIN-SUFFIX,include:linotype
+DOMAIN-SUFFIX,include:myfonts
+DOMAIN-SUFFIX,itcfonts.com
 DOMAIN-SUFFIX,monotype.com
 DOMAIN-SUFFIX,monotypeimaging.com
-DOMAIN-SUFFIX,bitstream.com
-DOMAIN-SUFFIX,itcfonts.com

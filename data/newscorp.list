@@ -1,3 +1,9 @@
+# NAME: NEWSCORP
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 68
+# TOTAL: 68
 DOMAIN-SUFFIX,1degree.com.au
 DOMAIN-SUFFIX,adelaidenow.com.au
 DOMAIN-SUFFIX,adhelpnews.com
@@ -17,6 +23,14 @@ DOMAIN-SUFFIX,geelongadvertiser.com.au
 DOMAIN-SUFFIX,goldcoastbulletin.com.au
 DOMAIN-SUFFIX,heraldsun.com.au
 DOMAIN-SUFFIX,huanyuju.com
+DOMAIN-SUFFIX,include:barrons
+DOMAIN-SUFFIX,include:dowjones
+DOMAIN-SUFFIX,include:harpercollins
+DOMAIN-SUFFIX,include:nypost
+DOMAIN-SUFFIX,include:reagroup
+DOMAIN-SUFFIX,include:thesun
+DOMAIN-SUFFIX,include:thetimes
+DOMAIN-SUFFIX,include:wsj
 DOMAIN-SUFFIX,intheknow.com.au
 DOMAIN-SUFFIX,kidspot.com.au
 DOMAIN-SUFFIX,mansionglobal.com

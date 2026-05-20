@@ -1,9 +1,17 @@
+# NAME: FACEBOOK-DEV
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 43
+# DOMAIN: 1
+# TOTAL: 44
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,atscaleconference.com
 DOMAIN-SUFFIX,botorch.org
 DOMAIN-SUFFIX,buck.build
 DOMAIN-SUFFIX,buckbuild.com
 DOMAIN-SUFFIX,componentkit.org
+DOMAIN,developers.facebook.com
 DOMAIN-SUFFIX,draftjs.org
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,facebookappcenter.info
@@ -41,4 +49,3 @@ DOMAIN-SUFFIX,rocksdb.com
 DOMAIN-SUFFIX,rocksdb.net
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,yogalayout.com
-DOMAIN,developers.facebook.com

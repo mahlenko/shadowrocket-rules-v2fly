@@ -1,4 +1,11 @@
+# NAME: PATREON
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 3
+# DOMAIN: 1
+# TOTAL: 4
+DOMAIN,live-patreon-marketing.pantheonsite.io
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,patreoncommunity.com
 DOMAIN-SUFFIX,patreonusercontent.com
-DOMAIN,live-patreon-marketing.pantheonsite.io
