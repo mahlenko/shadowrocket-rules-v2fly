@@ -1,7 +1,15 @@
-DOMAIN,id6.me
+# NAME: CATEGORY-NUMBER-VERIFICATION-CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 1
+# DOMAIN: 5
+# URL-REGEX: 1
+# TOTAL: 7
+URL-REGEX,^nis.+\.10010\.com$
 DOMAIN-SUFFIX,cmpassport.com
-DOMAIN,opencloud.wostore.cn
-DOMAIN,hs.wosms.cn
 DOMAIN,enrichgw.10010.com
 DOMAIN,hap.10010.com
-URL-REGEX,^nis.+\.10010\.com$
+DOMAIN,hs.wosms.cn
+DOMAIN,id6.me
+DOMAIN,opencloud.wostore.cn

@@ -1,14 +1,24 @@
-DOMAIN-SUFFIX,chrome
-DOMAIN-SUFFIX,chrome.com
-DOMAIN-SUFFIX,chromium.org
+# NAME: CATEGORY-BROWSER-!CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 28
+# TOTAL: 28
 DOMAIN-SUFFIX,basilisk-browser.org
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bromite.org
 DOMAIN-SUFFIX,browser.kagi.com # Orion Browser
+DOMAIN-SUFFIX,chrome
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,cromite.org
 DOMAIN-SUFFIX,decentr.net
 DOMAIN-SUFFIX,dothq.org
 DOMAIN-SUFFIX,floorp.app
+DOMAIN-SUFFIX,include:ceno
+DOMAIN-SUFFIX,include:epicbrowser
+DOMAIN-SUFFIX,include:firefox
+DOMAIN-SUFFIX,include:torproject
 DOMAIN-SUFFIX,iridiumbrowser.de
 DOMAIN-SUFFIX,kiwibrowser.com
 DOMAIN-SUFFIX,kmeleonbrowser.org

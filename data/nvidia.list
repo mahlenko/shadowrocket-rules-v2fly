@@ -1,9 +1,17 @@
-DOMAIN-SUFFIX,geforce.cn @cn
+# NAME: NVIDIA
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 60
+# DOMAIN: 3
+# TOTAL: 63
+DOMAIN,cn.download.nvidia.com
+DOMAIN-SUFFIX,geforce.cn
 DOMAIN-SUFFIX,geforce.co.kr
 DOMAIN-SUFFIX,geforce.co.uk
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,geforce.com.tw
-DOMAIN-SUFFIX,gputechconf.cn @cn
+DOMAIN-SUFFIX,gputechconf.cn
 DOMAIN-SUFFIX,gputechconf.co.kr
 DOMAIN-SUFFIX,gputechconf.com
 DOMAIN-SUFFIX,gputechconf.com.au
@@ -15,7 +23,7 @@ DOMAIN-SUFFIX,nvidia.asia
 DOMAIN-SUFFIX,nvidia.at
 DOMAIN-SUFFIX,nvidia.be
 DOMAIN-SUFFIX,nvidia.ch
-DOMAIN-SUFFIX,nvidia.cn @cn
+DOMAIN-SUFFIX,nvidia.cn
 DOMAIN-SUFFIX,nvidia.co.at
 DOMAIN-SUFFIX,nvidia.co.in
 DOMAIN-SUFFIX,nvidia.co.jp
@@ -31,6 +39,7 @@ DOMAIN-SUFFIX,nvidia.com.tr
 DOMAIN-SUFFIX,nvidia.com.tw
 DOMAIN-SUFFIX,nvidia.com.ua
 DOMAIN-SUFFIX,nvidia.com.ve
+DOMAIN,nvidia.custhelp.com
 DOMAIN-SUFFIX,nvidia.cz
 DOMAIN-SUFFIX,nvidia.de
 DOMAIN-SUFFIX,nvidia.dk
@@ -49,6 +58,7 @@ DOMAIN-SUFFIX,nvidia.pl
 DOMAIN-SUFFIX,nvidia.ro
 DOMAIN-SUFFIX,nvidia.ru
 DOMAIN-SUFFIX,nvidia.se
+DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN-SUFFIX,nvidia.tw
 DOMAIN-SUFFIX,nvidiaforhp.com
 DOMAIN-SUFFIX,nvidiagrid.net
@@ -58,6 +68,3 @@ DOMAIN-SUFFIX,tegrazone.co.kr
 DOMAIN-SUFFIX,tegrazone.com
 DOMAIN-SUFFIX,tegrazone.jp
 DOMAIN-SUFFIX,tegrazone.kr
-DOMAIN,nvidia.custhelp.com
-DOMAIN,nvidia.tt.omtrdc.net
-DOMAIN,cn.download.nvidia.com @cn

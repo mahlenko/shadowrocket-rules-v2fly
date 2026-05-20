@@ -1,3 +1,9 @@
+# NAME: CATEGORY-ANTICENSORSHIP
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 58
+# TOTAL: 58
 DOMAIN-SUFFIX,ahmia.fi
 DOMAIN-SUFFIX,akasha.world
 DOMAIN-SUFFIX,browserleaks.com
@@ -14,8 +20,21 @@ DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,guardianproject.info
 DOMAIN-SUFFIX,hiddify.com
+DOMAIN-SUFFIX,include:category-ipfs
+DOMAIN-SUFFIX,include:ceno
+DOMAIN-SUFFIX,include:citizenlab
+DOMAIN-SUFFIX,include:epicbrowser
+DOMAIN-SUFFIX,include:greatfire
+DOMAIN-SUFFIX,include:haveibeenpwned
+DOMAIN-SUFFIX,include:lantern
+DOMAIN-SUFFIX,include:paskoocheh
+DOMAIN-SUFFIX,include:softether
+DOMAIN-SUFFIX,include:torproject
+DOMAIN-SUFFIX,include:v2ray
+DOMAIN-SUFFIX,include:vpngate
 DOMAIN-SUFFIX,jitsi.org
 DOMAIN-SUFFIX,lokinet.org
+DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,onionshare.org
 DOMAIN-SUFFIX,ooni.org
@@ -25,12 +44,13 @@ DOMAIN-SUFFIX,proxifier.com
 DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,psiphon3.com
 DOMAIN-SUFFIX,sagernet.org
-DOMAIN-SUFFIX,sing-box.app
 DOMAIN-SUFFIX,shadowsocks.org
+DOMAIN-SUFFIX,sing-box.app
 DOMAIN-SUFFIX,sspanel.net
 DOMAIN-SUFFIX,stunnel.org
 DOMAIN-SUFFIX,telex.cc
 DOMAIN-SUFFIX,tribler.org
+DOMAIN-SUFFIX,trojan-gfw.github.io
 DOMAIN-SUFFIX,tunsafe.com
 DOMAIN-SUFFIX,turkeyblocks.org
 DOMAIN-SUFFIX,twister.net.co
@@ -41,6 +61,4 @@ DOMAIN-SUFFIX,whonix.org
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,xtls.github.io
-DOMAIN-SUFFIX,trojan-gfw.github.io
 DOMAIN-SUFFIX,zeronet.io
-DOMAIN-SUFFIX,metacubex.one

@@ -1,7 +1,20 @@
+# NAME: CATEGORY-CDN-CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 14
+# TOTAL: 14
 DOMAIN-SUFFIX,chuangcache.com
 DOMAIN-SUFFIX,chuangcdn.com
 DOMAIN-SUFFIX,dfyun.com.cn
 DOMAIN-SUFFIX,funcdn.com
+DOMAIN-SUFFIX,include:baishancloud
+DOMAIN-SUFFIX,include:bootcdn
+DOMAIN-SUFFIX,include:cloudflare-cn
+DOMAIN-SUFFIX,include:dwion
+DOMAIN-SUFFIX,include:qiniu
+DOMAIN-SUFFIX,include:upai
+DOMAIN-SUFFIX,include:wangsu
 DOMAIN-SUFFIX,jiashule.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,yunaq.com

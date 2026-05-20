@@ -1,1 +1,24 @@
-
+# NAME: CATEGORY-COMMUNICATION
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 18
+# TOTAL: 18
+DOMAIN-SUFFIX,include:clubhouse
+DOMAIN-SUFFIX,include:discord
+DOMAIN-SUFFIX,include:freenode
+DOMAIN-SUFFIX,include:intercom
+DOMAIN-SUFFIX,include:keybase
+DOMAIN-SUFFIX,include:line
+DOMAIN-SUFFIX,include:mailcom
+DOMAIN-SUFFIX,include:matrix
+DOMAIN-SUFFIX,include:messenger
+DOMAIN-SUFFIX,include:nicegram
+DOMAIN-SUFFIX,include:protonmail
+DOMAIN-SUFFIX,include:signal
+DOMAIN-SUFFIX,include:slack
+DOMAIN-SUFFIX,include:teamspeak
+DOMAIN-SUFFIX,include:telegram
+DOMAIN-SUFFIX,include:temp-mail
+DOMAIN-SUFFIX,include:viber
+DOMAIN-SUFFIX,include:whatsapp

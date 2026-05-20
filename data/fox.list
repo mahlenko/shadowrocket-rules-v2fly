@@ -1,3 +1,15 @@
+# NAME: FOX
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 243
+# DOMAIN: 1
+# TOTAL: 244
+DOMAIN-SUFFIX,afewmomentswith.com
+DOMAIN-SUFFIX,anidom.com
+DOMAIN-SUFFIX,bentobox.tv
+DOMAIN-SUFFIX,casoneexchange.com
+DOMAIN-SUFFIX,coronavirusnow.com
 DOMAIN-SUFFIX,fox
 DOMAIN-SUFFIX,fox-corporation.com
 DOMAIN-SUFFIX,fox-news.com
@@ -97,6 +109,7 @@ DOMAIN-SUFFIX,foxnewslatino.com
 DOMAIN-SUFFIX,foxnewsmagazine.com
 DOMAIN-SUFFIX,foxnewsnetwork.com
 DOMAIN-SUFFIX,foxnewsopinion.com
+DOMAIN,foxnewsplayer-a.akamaihd.net
 DOMAIN-SUFFIX,foxnewspodcasts.com
 DOMAIN-SUFFIX,foxnewspolitics.com
 DOMAIN-SUFFIX,foxnewsradio.com
@@ -165,23 +178,18 @@ DOMAIN-SUFFIX,foxtv.com
 DOMAIN-SUFFIX,foxtvdvd.com
 DOMAIN-SUFFIX,foxuv.com
 DOMAIN-SUFFIX,foxweatherwatch.com
+DOMAIN-SUFFIX,fse.tv
 DOMAIN-SUFFIX,fssta.com
 DOMAIN-SUFFIX,fxn.ws
 DOMAIN-SUFFIX,fxnetwork.com
 DOMAIN-SUFFIX,fxnetworks.com
-DOMAIN-SUFFIX,bentobox.tv
-DOMAIN-SUFFIX,kicu.tv
-DOMAIN-SUFFIX,ktvu.com
-DOMAIN-SUFFIX,myfoxsanfran.com
-DOMAIN-SUFFIX,afewmomentswith.com
-DOMAIN-SUFFIX,anidom.com
-DOMAIN-SUFFIX,casoneexchange.com
-DOMAIN-SUFFIX,coronavirusnow.com
-DOMAIN-SUFFIX,fse.tv
 DOMAIN-SUFFIX,geraldoatlarge.com
 DOMAIN-SUFFIX,gooddaychicago.com
+DOMAIN-SUFFIX,include:tubi
 DOMAIN-SUFFIX,joeswall.com
+DOMAIN-SUFFIX,kicu.tv
 DOMAIN-SUFFIX,kilmeadeandfriends.com
+DOMAIN-SUFFIX,ktvu.com
 DOMAIN-SUFFIX,maskedsingerfox.com
 DOMAIN-SUFFIX,my13la.com
 DOMAIN-SUFFIX,my20dc.com
@@ -207,6 +215,7 @@ DOMAIN-SUFFIX,myfoxny.com
 DOMAIN-SUFFIX,myfoxorlando.com
 DOMAIN-SUFFIX,myfoxphilly.com
 DOMAIN-SUFFIX,myfoxphoenix.com
+DOMAIN-SUFFIX,myfoxsanfran.com
 DOMAIN-SUFFIX,myfoxtampa.com
 DOMAIN-SUFFIX,myfoxtampabay.com
 DOMAIN-SUFFIX,myfoxtwincities.com
@@ -240,4 +249,3 @@ DOMAIN-SUFFIX,whosthehost.com
 DOMAIN-SUFFIX,wofl.tv
 DOMAIN-SUFFIX,woflthenewsstation.com
 DOMAIN-SUFFIX,wogx.com
-DOMAIN,foxnewsplayer-a.akamaihd.net

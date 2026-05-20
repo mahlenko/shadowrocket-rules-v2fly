@@ -1,2 +1,8 @@
-DOMAIN-SUFFIX,squirrelvpn.com
+# NAME: SQUIRRELVPN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:54
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
 DOMAIN-SUFFIX,squirrelgroup.net
+DOMAIN-SUFFIX,squirrelvpn.com

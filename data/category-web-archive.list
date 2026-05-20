@@ -1,5 +1,14 @@
+# NAME: CATEGORY-WEB-ARCHIVE
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
 DOMAIN-SUFFIX,eotarchive.org
 DOMAIN-SUFFIX,ghostarchive.org
+DOMAIN-SUFFIX,include:4plebs
+DOMAIN-SUFFIX,include:archivetoday
+DOMAIN-SUFFIX,include:internet-archive
 DOMAIN-SUFFIX,megalodon.jp
 DOMAIN-SUFFIX,mementoweb.org
 DOMAIN-SUFFIX,perma.cc

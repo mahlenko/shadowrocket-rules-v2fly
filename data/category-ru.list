@@ -1,39 +1,81 @@
-DOMAIN-SUFFIX,ru.com
-DOMAIN-SUFFIX,ru.net
-DOMAIN-SUFFIX,credistory.ru
-DOMAIN-SUFFIX,nbki.ru
-DOMAIN-SUFFIX,moex.com   # Moscow Stock Exchange
-DOMAIN-SUFFIX,spvb.ru    # Saint-Petersburg Stock Exchange
-DOMAIN-SUFFIX,efin.ru
-DOMAIN-SUFFIX,banki.ru
-DOMAIN-SUFFIX,finuslugi.ru
-DOMAIN-SUFFIX,sistema-capital.com
-DOMAIN-SUFFIX,mironline.ru
-DOMAIN-SUFFIX,mirpayonline.ru
-DOMAIN-SUFFIX,nspk.ru
-DOMAIN-SUFFIX,netmonet.co
-DOMAIN-SUFFIX,tips.tips
-DOMAIN-SUFFIX,beeline.ru
-DOMAIN-SUFFIX,dom.ru
+# NAME: CATEGORY-RU
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 75
+# TOTAL: 75
 DOMAIN-SUFFIX,3ebra.net          # Zebra Net Bureau, web development agency
+DOMAIN-SUFFIX,adriver.ru
 DOMAIN-SUFFIX,apptrackpets.com   # Pet GPS tracker service (Yandex Cloud, reg.ru)
+DOMAIN-SUFFIX,banki.ru
+DOMAIN-SUFFIX,beeline.ru
+DOMAIN-SUFFIX,credistory.ru
+DOMAIN-SUFFIX,dom.ru
+DOMAIN-SUFFIX,efin.ru
+DOMAIN-SUFFIX,finuslugi.ru
+DOMAIN-SUFFIX,flocktory.com
 DOMAIN-SUFFIX,flomni.com         # Omnichannel communications platform
 DOMAIN-SUFFIX,gazfond-pn.ru      # Non-state pension fund GAZFOND pension savings
+DOMAIN-SUFFIX,include:beget
+DOMAIN-SUFFIX,include:carrotquest
+DOMAIN-SUFFIX,include:category-bank-ru
+DOMAIN-SUFFIX,include:category-betting-ru
+DOMAIN-SUFFIX,include:category-ecommerce-ru
+DOMAIN-SUFFIX,include:category-entertainment-ru
+DOMAIN-SUFFIX,include:category-gov-ru
+DOMAIN-SUFFIX,include:category-media-ru
+DOMAIN-SUFFIX,include:category-medicine-ru
+DOMAIN-SUFFIX,include:category-retail-ru
+DOMAIN-SUFFIX,include:category-travel-ru
+DOMAIN-SUFFIX,include:cdek
+DOMAIN-SUFFIX,include:comssone
+DOMAIN-SUFFIX,include:envybox
+DOMAIN-SUFFIX,include:genotek-ru
+DOMAIN-SUFFIX,include:gismeteo
+DOMAIN-SUFFIX,include:group-ib
+DOMAIN-SUFFIX,include:headhunter
+DOMAIN-SUFFIX,include:ideco-ru
+DOMAIN-SUFFIX,include:kaspersky
+DOMAIN-SUFFIX,include:kontur
+DOMAIN-SUFFIX,include:mailru-group
+DOMAIN-SUFFIX,include:megafon
+DOMAIN-SUFFIX,include:mindbox
+DOMAIN-SUFFIX,include:mts-ru
+DOMAIN-SUFFIX,include:myoffice-ru
+DOMAIN-SUFFIX,include:rostelecom
+DOMAIN-SUFFIX,include:selectel
+DOMAIN-SUFFIX,include:skyeng
+DOMAIN-SUFFIX,include:t2-ru
+DOMAIN-SUFFIX,include:tilda
+DOMAIN-SUFFIX,include:timeweb
+DOMAIN-SUFFIX,include:tld-ru
+DOMAIN-SUFFIX,include:ucoz
+DOMAIN-SUFFIX,include:whoosh
+DOMAIN-SUFFIX,include:yandex
 DOMAIN-SUFFIX,kinescopecdn.net   # Kinescope video hosting CDN
 DOMAIN-SUFFIX,litres.ru          # E-book and audiobook service
 DOMAIN-SUFFIX,meteoinfo.ru       # Hydrometeorological Center of Russia
+DOMAIN-SUFFIX,mironline.ru
+DOMAIN-SUFFIX,mirpayonline.ru
+DOMAIN-SUFFIX,moex.com   # Moscow Stock Exchange
+DOMAIN-SUFFIX,nbki.ru
+DOMAIN-SUFFIX,netmonet.co
 DOMAIN-SUFFIX,ngenix.net         # NGENIX is a Russian provider of acceleration and security services for public web resources
+DOMAIN-SUFFIX,nspk.ru
 DOMAIN-SUFFIX,ognihome.com       # OGNI HOME resident portal
+DOMAIN-SUFFIX,planetazdorovo.ru
 DOMAIN-SUFFIX,pochta.ru          # Russian post
 DOMAIN-SUFFIX,ponyexpress.ru     # Courier delivery service
+DOMAIN-SUFFIX,pz.help
 DOMAIN-SUFFIX,qms.ru             # Russian internet speed testing service
+DOMAIN-SUFFIX,roistat.com
+DOMAIN-SUFFIX,ru.com
+DOMAIN-SUFFIX,ru.net
+DOMAIN-SUFFIX,sistema-capital.com
+DOMAIN-SUFFIX,spvb.ru    # Saint-Petersburg Stock Exchange
 DOMAIN-SUFFIX,srv-hub.org        # Website buider
 DOMAIN-SUFFIX,t1.cloud           # Russian cloud storage provider
+DOMAIN-SUFFIX,targetads.io
 DOMAIN-SUFFIX,taxsee.com         # Taxi for business (self-employed drivers)
+DOMAIN-SUFFIX,tips.tips
 DOMAIN-SUFFIX,yourgood.app       # CRM for small business
-DOMAIN-SUFFIX,adriver.ru @ads
-DOMAIN-SUFFIX,flocktory.com @ads
-DOMAIN-SUFFIX,roistat.com @ads
-DOMAIN-SUFFIX,targetads.io @ads
-DOMAIN-SUFFIX,planetazdorovo.ru
-DOMAIN-SUFFIX,pz.help

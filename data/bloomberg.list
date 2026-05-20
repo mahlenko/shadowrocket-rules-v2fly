@@ -1,8 +1,14 @@
-DOMAIN-SUFFIX,bloomberg
+# NAME: BLOOMBERG
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 61
+# TOTAL: 61
 DOMAIN-SUFFIX,bbgevent.com
 DOMAIN-SUFFIX,bbhub.io
 DOMAIN-SUFFIX,bbthat.com
 DOMAIN-SUFFIX,bgov.com
+DOMAIN-SUFFIX,bloomberg
 DOMAIN-SUFFIX,bloomberg.cn
 DOMAIN-SUFFIX,bloomberg.co.jp
 DOMAIN-SUFFIX,bloomberg.co.kr

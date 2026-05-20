@@ -1,4 +1,10 @@
-DOMAIN-SUFFIX,mortein.cn @cn
+# NAME: MORTEIN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
+DOMAIN-SUFFIX,mortein.cn
 DOMAIN-SUFFIX,mortein.co.in
 DOMAIN-SUFFIX,mortein.co.nz
 DOMAIN-SUFFIX,mortein.co.za

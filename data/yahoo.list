@@ -1,4 +1,19 @@
+# NAME: YAHOO
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:54
+# DOMAIN-SUFFIX: 170
+# DOMAIN: 1
+# TOTAL: 171
+DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN,cdn.js7k.com
+DOMAIN-SUFFIX,gemini.yahoo.com
+DOMAIN-SUFFIX,include:flickr
+DOMAIN-SUFFIX,maktoob.com
+DOMAIN-SUFFIX,myguide.hk
+DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,yahoo
+DOMAIN-SUFFIX,yahoo-news.com.hk
 DOMAIN-SUFFIX,yahoo.ae
 DOMAIN-SUFFIX,yahoo.am
 DOMAIN-SUFFIX,yahoo.as
@@ -18,7 +33,7 @@ DOMAIN-SUFFIX,yahoo.cg
 DOMAIN-SUFFIX,yahoo.ch
 DOMAIN-SUFFIX,yahoo.cl
 DOMAIN-SUFFIX,yahoo.cm
-DOMAIN-SUFFIX,yahoo.cn @cn
+DOMAIN-SUFFIX,yahoo.cn
 DOMAIN-SUFFIX,yahoo.co.ao
 DOMAIN-SUFFIX,yahoo.co.bw
 DOMAIN-SUFFIX,yahoo.co.ck
@@ -47,7 +62,7 @@ DOMAIN-SUFFIX,yahoo.com.bd
 DOMAIN-SUFFIX,yahoo.com.bo
 DOMAIN-SUFFIX,yahoo.com.br
 DOMAIN-SUFFIX,yahoo.com.bz
-DOMAIN-SUFFIX,yahoo.com.cn @cn
+DOMAIN-SUFFIX,yahoo.com.cn
 DOMAIN-SUFFIX,yahoo.com.co
 DOMAIN-SUFFIX,yahoo.com.do
 DOMAIN-SUFFIX,yahoo.com.ec
@@ -148,10 +163,6 @@ DOMAIN-SUFFIX,yahoo.tm
 DOMAIN-SUFFIX,yahoo.tn
 DOMAIN-SUFFIX,yahoo.vg
 DOMAIN-SUFFIX,yahoo.ws
-DOMAIN-SUFFIX,maktoob.com
-DOMAIN-SUFFIX,myguide.hk
-DOMAIN-SUFFIX,techcrunch.com
-DOMAIN-SUFFIX,yahoo-news.com.hk
 DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yahoodns.net
 DOMAIN-SUFFIX,yahoofinance.com
@@ -163,8 +174,5 @@ DOMAIN-SUFFIX,yho.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,ymail.com
+DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,yusercontent.com
-DOMAIN,cdn.js7k.com
-DOMAIN-SUFFIX,ads.yahoo.com @ads
-DOMAIN-SUFFIX,gemini.yahoo.com @ads
-DOMAIN-SUFFIX,ysm.yahoo.com @ads

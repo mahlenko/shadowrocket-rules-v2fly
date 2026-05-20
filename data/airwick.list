@@ -1,3 +1,9 @@
+# NAME: AIRWICK
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 40
+# TOTAL: 40
 DOMAIN-SUFFIX,airwick.at
 DOMAIN-SUFFIX,airwick.be
 DOMAIN-SUFFIX,airwick.ca
@@ -10,7 +16,7 @@ DOMAIN-SUFFIX,airwick.co.za
 DOMAIN-SUFFIX,airwick.com
 DOMAIN-SUFFIX,airwick.com.au
 DOMAIN-SUFFIX,airwick.com.br
-DOMAIN-SUFFIX,airwick.com.cn @cn
+DOMAIN-SUFFIX,airwick.com.cn
 DOMAIN-SUFFIX,airwick.com.mx
 DOMAIN-SUFFIX,airwick.com.tr
 DOMAIN-SUFFIX,airwick.cz

@@ -1,3 +1,10 @@
+# NAME: BILIBILI-CDN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 13
+# DOMAIN: 1
+# TOTAL: 14
 DOMAIN-SUFFIX,bilicdn1.com
 DOMAIN-SUFFIX,bilicdn2.com
 DOMAIN-SUFFIX,bilicdn3.com
@@ -11,4 +18,4 @@ DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,hdslb.org
 DOMAIN-SUFFIX,maoercdn.com
 DOMAIN-SUFFIX,mincdn.com
-DOMAIN,upos-hz-mirrorakam.akamaized.net @!cn
+DOMAIN,upos-hz-mirrorakam.akamaized.net

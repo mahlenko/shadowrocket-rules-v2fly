@@ -1,4 +1,11 @@
-DOMAIN-SUFFIX,aws
+# NAME: AWS
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 49
+# URL-REGEX: 1
+# TOTAL: 50
+URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 DOMAIN-SUFFIX,acmvalidations.com
 DOMAIN-SUFFIX,acmvalidationsaws.com
 DOMAIN-SUFFIX,aesworkshops.com
@@ -15,6 +22,11 @@ DOMAIN-SUFFIX,amazonses.com
 DOMAIN-SUFFIX,amazonworkdocs.com
 DOMAIN-SUFFIX,amplifyapp.com
 DOMAIN-SUFFIX,amplifyframework.com
+DOMAIN-SUFFIX,amzndns.co.uk
+DOMAIN-SUFFIX,amzndns.com
+DOMAIN-SUFFIX,amzndns.net
+DOMAIN-SUFFIX,amzndns.org
+DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,aws-iot-hackathon.com
 DOMAIN-SUFFIX,aws.com
 DOMAIN-SUFFIX,aws.dev
@@ -41,9 +53,5 @@ DOMAIN-SUFFIX,cloudfront.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,containersonaws.com
 DOMAIN-SUFFIX,elasticbeanstalk.com
+DOMAIN-SUFFIX,include:aws-cn
 DOMAIN-SUFFIX,thinkboxsoftware.com
-DOMAIN-SUFFIX,amzndns.co.uk
-DOMAIN-SUFFIX,amzndns.com
-DOMAIN-SUFFIX,amzndns.net
-DOMAIN-SUFFIX,amzndns.org
-URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$

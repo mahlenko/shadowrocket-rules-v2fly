@@ -1,6 +1,12 @@
-DOMAIN-SUFFIX,gucci
+# NAME: GUCCI
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
 DOMAIN-SUFFIX,chimeforchange.org
-DOMAIN-SUFFIX,gucci.cn @cn
+DOMAIN-SUFFIX,gucci
+DOMAIN-SUFFIX,gucci.cn
 DOMAIN-SUFFIX,gucci.com
 DOMAIN-SUFFIX,guccimuseo.com
 DOMAIN-SUFFIX,guccitimeless.com

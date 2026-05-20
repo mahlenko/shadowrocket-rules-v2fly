@@ -1,5 +1,12 @@
-DOMAIN-SUFFIX,kontur.ru
-DOMAIN-SUFFIX,kontur.host
+# NAME: KONTUR
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 3
+# DOMAIN: 2
+# TOTAL: 5
 DOMAIN-SUFFIX,kontur-inc.com
-DOMAIN,metrika.kontur.ru @ads
-DOMAIN,sentry.kontur.host @ads
+DOMAIN-SUFFIX,kontur.host
+DOMAIN-SUFFIX,kontur.ru
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host

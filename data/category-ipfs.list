@@ -1,8 +1,15 @@
+# NAME: CATEGORY-IPFS
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 20
+# TOTAL: 20
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,c4rex.co
 DOMAIN-SUFFIX,crustwebsites.net
 DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,gateway.pinata.cloud
+DOMAIN-SUFFIX,include:cloudflare-ipfs
 DOMAIN-SUFFIX,ipfs-gateway.cloud
 DOMAIN-SUFFIX,ipfs.anonymize.com
 DOMAIN-SUFFIX,ipfs.best-practice.se

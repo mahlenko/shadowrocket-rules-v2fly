@@ -1,14 +1,24 @@
-DOMAIN-SUFFIX,cdnvideo.ru
-DOMAIN-SUFFIX,cdnvideohub.com
-DOMAIN-SUFFIX,trbcdn.net
-DOMAIN-SUFFIX,kinorium.com
+# NAME: CATEGORY-ENTERTAINMENT-RU
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 18
+# TOTAL: 18
 DOMAIN-SUFFIX,24h.tv
 DOMAIN-SUFFIX,amediateka.ru
 DOMAIN-SUFFIX,beeline.tv
+DOMAIN-SUFFIX,cdnvideo.ru
+DOMAIN-SUFFIX,cdnvideohub.com
+DOMAIN-SUFFIX,include:kinopoisk
+DOMAIN-SUFFIX,include:okko
+DOMAIN-SUFFIX,include:rutube
+DOMAIN-SUFFIX,include:wink
 DOMAIN-SUFFIX,ivi.ru
+DOMAIN-SUFFIX,kinorium.com
 DOMAIN-SUFFIX,premier.one
+DOMAIN-SUFFIX,promodj.com # Electronic music and DJ community platform
 DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,start.ru
+DOMAIN-SUFFIX,trbcdn.net
 DOMAIN-SUFFIX,tvigle.ru
 DOMAIN-SUFFIX,viju.ru
-DOMAIN-SUFFIX,promodj.com # Electronic music and DJ community platform

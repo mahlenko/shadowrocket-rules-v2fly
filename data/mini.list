@@ -1,9 +1,15 @@
-DOMAIN-SUFFIX,mini
+# NAME: MINI
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 215
+# TOTAL: 215
 DOMAIN-SUFFIX,4myminicard.com
 DOMAIN-SUFFIX,aboutyourmini.com
 DOMAIN-SUFFIX,atlantaminidealers.com
 DOMAIN-SUFFIX,greatergothammini.com
 DOMAIN-SUFFIX,midatlanticbmwmotorcycles.com
+DOMAIN-SUFFIX,mini
 DOMAIN-SUFFIX,mini-abudhabi.com
 DOMAIN-SUFFIX,mini-antilles.fr
 DOMAIN-SUFFIX,mini-bahrain.com

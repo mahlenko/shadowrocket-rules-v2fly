@@ -1,3 +1,9 @@
+# NAME: MEGAFON
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
 DOMAIN-SUFFIX,inplat.ru
 DOMAIN-SUFFIX,megafon.com
 DOMAIN-SUFFIX,megafon.ru
@@ -5,8 +11,8 @@ DOMAIN-SUFFIX,megafonpro.ru
 DOMAIN-SUFFIX,mgfn.ru
 DOMAIN-SUFFIX,report-megafon.ru
 DOMAIN-SUFFIX,scartel.ru
-DOMAIN-SUFFIX,yota.ru
-DOMAIN-SUFFIX,yotagamer.ru
 DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai # ёта.рф
 DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai  # ета.рф
 DOMAIN-SUFFIX,xn--80arpq.xn--p1ai  # йота.рф
+DOMAIN-SUFFIX,yota.ru
+DOMAIN-SUFFIX,yotagamer.ru

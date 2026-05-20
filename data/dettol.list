@@ -1,3 +1,9 @@
+# NAME: DETTOL
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 35
+# TOTAL: 35
 DOMAIN-SUFFIX,dettol-prize.com
 DOMAIN-SUFFIX,dettol.at
 DOMAIN-SUFFIX,dettol.be
@@ -12,7 +18,7 @@ DOMAIN-SUFFIX,dettol.com
 DOMAIN-SUFFIX,dettol.com.au
 DOMAIN-SUFFIX,dettol.com.bd
 DOMAIN-SUFFIX,dettol.com.br
-DOMAIN-SUFFIX,dettol.com.cn @cn
+DOMAIN-SUFFIX,dettol.com.cn
 DOMAIN-SUFFIX,dettol.com.eg
 DOMAIN-SUFFIX,dettol.com.hk
 DOMAIN-SUFFIX,dettol.com.my

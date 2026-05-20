@@ -1,3 +1,9 @@
+# NAME: CATEGORY-VPNSERVICES
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 37
+# TOTAL: 37
 DOMAIN-SUFFIX,aaex.uk
 DOMAIN-SUFFIX,amytele.com
 DOMAIN-SUFFIX,ark.to
@@ -10,6 +16,22 @@ DOMAIN-SUFFIX,cordcloud.org
 DOMAIN-SUFFIX,ctyun.online
 DOMAIN-SUFFIX,geph.io
 DOMAIN-SUFFIX,gfw.press
+DOMAIN-SUFFIX,hutao.cloud
+DOMAIN-SUFFIX,include:928plus
+DOMAIN-SUFFIX,include:boslife
+DOMAIN-SUFFIX,include:cylink
+DOMAIN-SUFFIX,include:dlercloud
+DOMAIN-SUFFIX,include:duyaoss
+DOMAIN-SUFFIX,include:hitun
+DOMAIN-SUFFIX,include:justmysocks
+DOMAIN-SUFFIX,include:n3ro
+DOMAIN-SUFFIX,include:nexitally
+DOMAIN-SUFFIX,include:paofuyun
+DOMAIN-SUFFIX,include:shadowsockscom
+DOMAIN-SUFFIX,include:squirrelvpn
+DOMAIN-SUFFIX,include:ssrcloud
+DOMAIN-SUFFIX,include:surflite
+DOMAIN-SUFFIX,include:vilavpn
 DOMAIN-SUFFIX,maying.co
 DOMAIN-SUFFIX,mocloudplus.com
 DOMAIN-SUFFIX,mray.club
@@ -19,4 +41,3 @@ DOMAIN-SUFFIX,renzhe.cloud
 DOMAIN-SUFFIX,ssplive.pw
 DOMAIN-SUFFIX,ssrpass.pw
 DOMAIN-SUFFIX,stc-server.com
-DOMAIN-SUFFIX,hutao.cloud

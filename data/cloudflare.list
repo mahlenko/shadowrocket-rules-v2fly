@@ -1,3 +1,9 @@
+# NAME: CLOUDFLARE
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 55
+# TOTAL: 55
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,browser.run
 DOMAIN-SUFFIX,cfargotunnel.com
@@ -42,6 +48,8 @@ DOMAIN-SUFFIX,foundationdns.com
 DOMAIN-SUFFIX,foundationdns.net
 DOMAIN-SUFFIX,foundationdns.org
 DOMAIN-SUFFIX,imagedelivery.net
+DOMAIN-SUFFIX,include:cloudflare-cn
+DOMAIN-SUFFIX,include:cloudflare-ipfs
 DOMAIN-SUFFIX,isbgpsafeyet.com
 DOMAIN-SUFFIX,one.one.one
 DOMAIN-SUFFIX,pacloudflare.com

@@ -1,8 +1,16 @@
+# NAME: FACEBOOK
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 396
+# DOMAIN: 1
+# TOTAL: 397
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,acebooik.com
 DOMAIN-SUFFIX,acebook.com
 DOMAIN-SUFFIX,advancediddetection.com
+DOMAIN-SUFFIX,analytics.facebook.com
 DOMAIN-SUFFIX,askfacebook.net
 DOMAIN-SUFFIX,askfacebook.org
 DOMAIN-SUFFIX,atdmt2.com
@@ -94,10 +102,9 @@ DOMAIN-SUFFIX,facebook.ca
 DOMAIN-SUFFIX,facebook.cc
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.design
-DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,facebook.hu
 DOMAIN-SUFFIX,facebook.in
-DOMAIN-SUFFIX,fecebook.net
+DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,facebook.nl
 DOMAIN-SUFFIX,facebook.org
 DOMAIN-SUFFIX,facebook.se
@@ -110,6 +117,7 @@ DOMAIN-SUFFIX,facebook30.com
 DOMAIN-SUFFIX,facebook30.net
 DOMAIN-SUFFIX,facebook30.org
 DOMAIN-SUFFIX,facebook4business.com
+DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,facebookadvertisingsecrets.com
 DOMAIN-SUFFIX,facebookatschool.com
 DOMAIN-SUFFIX,facebookawards.com
@@ -199,6 +207,7 @@ DOMAIN-SUFFIX,facebooktv.net
 DOMAIN-SUFFIX,facebooktv.org
 DOMAIN-SUFFIX,facebookvacation.com
 DOMAIN-SUFFIX,facebookw.com
+DOMAIN-SUFFIX,facebookwork.com
 DOMAIN-SUFFIX,facebookworld.com
 DOMAIN-SUFFIX,facebool.com
 DOMAIN-SUFFIX,facebool.info
@@ -271,6 +280,7 @@ DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbacebook.com
 DOMAIN-SUFFIX,fbbmarket.com
 DOMAIN-SUFFIX,fbboostyourbusiness.com
+DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbfeedback.com
@@ -304,6 +314,7 @@ DOMAIN-SUFFIX,fecbbok.com
 DOMAIN-SUFFIX,fecbooc.com
 DOMAIN-SUFFIX,fecbook.com
 DOMAIN-SUFFIX,feceboock.com
+DOMAIN-SUFFIX,fecebook.net
 DOMAIN-SUFFIX,feceboox.com
 DOMAIN-SUFFIX,fececbook.com
 DOMAIN-SUFFIX,feook.com
@@ -367,7 +378,9 @@ DOMAIN-SUFFIX,newsfeed.com
 DOMAIN-SUFFIX,nextstop.com
 DOMAIN-SUFFIX,online-deals.net
 DOMAIN-SUFFIX,opencreate.org
+DOMAIN-SUFFIX,pixel.facebook.com
 DOMAIN-SUFFIX,reachtheworldonfacebook.com
+DOMAIN-SUFFIX,redkix.com
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,shopfacebook.com
 DOMAIN-SUFFIX,sportsfacebook.com
@@ -380,6 +393,8 @@ DOMAIN-SUFFIX,thefind.com
 DOMAIN-SUFFIX,toplayerserver.com
 DOMAIN-SUFFIX,viewpointsfromfacebook.com
 DOMAIN-SUFFIX,whyfacebook.com
+DOMAIN-SUFFIX,workplace.com
+DOMAIN-SUFFIX,workplaceusecases.com
 DOMAIN-SUFFIX,worldhack.com
 DOMAIN-SUFFIX,www-facebook.com
 DOMAIN-SUFFIX,wwwfacebok.com
@@ -387,11 +402,3 @@ DOMAIN-SUFFIX,wwwfacebook.com
 DOMAIN-SUFFIX,wwwmfacebook.com
 DOMAIN-SUFFIX,zuckerberg.com
 DOMAIN-SUFFIX,zuckerberg.net
-DOMAIN-SUFFIX,facebookwork.com
-DOMAIN-SUFFIX,redkix.com
-DOMAIN-SUFFIX,workplace.com
-DOMAIN-SUFFIX,workplaceusecases.com
-DOMAIN,fbcdn-a.akamaihd.net
-DOMAIN-SUFFIX,analytics.facebook.com @ads
-DOMAIN-SUFFIX,facebookads.com @ads
-DOMAIN-SUFFIX,pixel.facebook.com @ads

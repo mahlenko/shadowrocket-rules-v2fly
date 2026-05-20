@@ -1,3 +1,9 @@
+# NAME: Z-LIBRARY
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:54
+# DOMAIN-SUFFIX: 48
+# TOTAL: 48
 DOMAIN-SUFFIX,1lib.cloud
 DOMAIN-SUFFIX,1lib.cz
 DOMAIN-SUFFIX,1lib.domains
@@ -41,8 +47,8 @@ DOMAIN-SUFFIX,z-lib.fm
 DOMAIN-SUFFIX,z-lib.gd
 DOMAIN-SUFFIX,z-lib.gl
 DOMAIN-SUFFIX,z-lib.org
-DOMAIN-SUFFIX,z-library.sk
 DOMAIN-SUFFIX,z-library.se
+DOMAIN-SUFFIX,z-library.sk
 DOMAIN-SUFFIX,zlib.life
 DOMAIN-SUFFIX,zlibcdn.com
 DOMAIN-SUFFIX,zlibcdn2.com

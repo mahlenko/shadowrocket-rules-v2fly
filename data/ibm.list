@@ -1,12 +1,19 @@
-DOMAIN-SUFFIX,ibm
-DOMAIN-SUFFIX,weatherchannel
-DOMAIN-SUFFIX,weather
+# NAME: IBM
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
 DOMAIN-SUFFIX,appdomain.cloud
 DOMAIN-SUFFIX,bluemix.com
 DOMAIN-SUFFIX,bluemix.net
+DOMAIN-SUFFIX,ibm
 DOMAIN-SUFFIX,ibm.com
 DOMAIN-SUFFIX,ibm.eu
 DOMAIN-SUFFIX,ibm.net
 DOMAIN-SUFFIX,ibm.us
+DOMAIN-SUFFIX,include:hashicorp
 DOMAIN-SUFFIX,s-bluemix.net
 DOMAIN-SUFFIX,s81c.com
+DOMAIN-SUFFIX,weather
+DOMAIN-SUFFIX,weatherchannel

@@ -1,3 +1,9 @@
+# NAME: CATEGORY-ORGS
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 27
+# TOTAL: 27
 DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,atypi.org
 DOMAIN-SUFFIX,change.org
@@ -5,6 +11,18 @@ DOMAIN-SUFFIX,globalsecurity.org
 DOMAIN-SUFFIX,iana.org
 DOMAIN-SUFFIX,iccf.com
 DOMAIN-SUFFIX,ietf.org
+DOMAIN-SUFFIX,include:creativecommons
+DOMAIN-SUFFIX,include:csis
+DOMAIN-SUFFIX,include:emojipedia
+DOMAIN-SUFFIX,include:f-droid
+DOMAIN-SUFFIX,include:grapheneos
+DOMAIN-SUFFIX,include:ieee
+DOMAIN-SUFFIX,include:metabrainz
+DOMAIN-SUFFIX,include:nist
+DOMAIN-SUFFIX,include:openstreetmap
+DOMAIN-SUFFIX,include:paskoocheh
+DOMAIN-SUFFIX,include:peppy
+DOMAIN-SUFFIX,include:ruleoflaw
 DOMAIN-SUFFIX,itu.int
 DOMAIN-SUFFIX,opte.org
 DOMAIN-SUFFIX,smpte.org

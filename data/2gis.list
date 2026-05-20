@@ -1,3 +1,9 @@
+# NAME: 2GIS
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 14
+# TOTAL: 14
 DOMAIN-SUFFIX,2gis.ae
 DOMAIN-SUFFIX,2gis.am
 DOMAIN-SUFFIX,2gis.az
@@ -9,6 +15,6 @@ DOMAIN-SUFFIX,2gis.ge
 DOMAIN-SUFFIX,2gis.kg
 DOMAIN-SUFFIX,2gis.kz
 DOMAIN-SUFFIX,2gis.ru
+DOMAIN-SUFFIX,2gis.tech
 DOMAIN-SUFFIX,2gis.tj
 DOMAIN-SUFFIX,2gis.uz
-DOMAIN-SUFFIX,2gis.tech

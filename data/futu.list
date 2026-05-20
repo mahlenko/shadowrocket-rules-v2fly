@@ -1,12 +1,18 @@
-DOMAIN-SUFFIX,futuesop.com @cn
+# NAME: FUTU
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
+DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,futufin.com
 DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futuhkapp.com
 DOMAIN-SUFFIX,futuhn.com
 DOMAIN-SUFFIX,futuholdings.com
-DOMAIN-SUFFIX,futuniuniu.com @cn
-DOMAIN-SUFFIX,futunn.com @cn
-DOMAIN-SUFFIX,futustatic.com @cn
+DOMAIN-SUFFIX,futuniuniu.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futustatic.com
 DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,moomooequity.com
 DOMAIN-SUFFIX,moomootrustee.com

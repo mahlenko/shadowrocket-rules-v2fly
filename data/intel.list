@@ -1,4 +1,44 @@
+# NAME: INTEL
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 273
+# TOTAL: 273
+DOMAIN-SUFFIX,altera.co.jp
+DOMAIN-SUFFIX,altera.com
+DOMAIN-SUFFIX,alteraforum.com
+DOMAIN-SUFFIX,barefootnetworks.com
+DOMAIN-SUFFIX,buyaltera.com
+DOMAIN-SUFFIX,celeron.com
+DOMAIN-SUFFIX,celeron.net
+DOMAIN-SUFFIX,centrino.com
+DOMAIN-SUFFIX,centrino.net
+DOMAIN-SUFFIX,chips.com
+DOMAIN-SUFFIX,cilk.com
+DOMAIN-SUFFIX,cilk.net
+DOMAIN-SUFFIX,cloudinsights.com
+DOMAIN-SUFFIX,clusterconnection.com
+DOMAIN-SUFFIX,comm-verse.com
+DOMAIN-SUFFIX,coreduo.com
+DOMAIN-SUFFIX,coreextreme.com
+DOMAIN-SUFFIX,crosswalk-project.com
+DOMAIN-SUFFIX,crosswalk-project.net
+DOMAIN-SUFFIX,dml-lang.org
+DOMAIN-SUFFIX,doceapower.com
+DOMAIN-SUFFIX,easic.com
+DOMAIN-SUFFIX,enpirion.com
+DOMAIN-SUFFIX,exascale-tech.com
+DOMAIN-SUFFIX,exploreintel.com
+DOMAIN-SUFFIX,gordonmoore.com
+DOMAIN-SUFFIX,granulate.io
+DOMAIN-SUFFIX,hackharassment.com
+DOMAIN-SUFFIX,include:intel-dev
+DOMAIN-SUFFIX,insidefilms.com
+DOMAIN-SUFFIX,insight.tech
+DOMAIN-SUFFIX,intc.com
 DOMAIN-SUFFIX,intel
+DOMAIN-SUFFIX,intel-research.net
+DOMAIN-SUFFIX,intel-university-collaboration.net
 DOMAIN-SUFFIX,intel.ac
 DOMAIN-SUFFIX,intel.ae
 DOMAIN-SUFFIX,intel.af
@@ -20,7 +60,7 @@ DOMAIN-SUFFIX,intel.cg
 DOMAIN-SUFFIX,intel.ch
 DOMAIN-SUFFIX,intel.cl
 DOMAIN-SUFFIX,intel.cm
-DOMAIN-SUFFIX,intel.cn @cn
+DOMAIN-SUFFIX,intel.cn
 DOMAIN-SUFFIX,intel.co
 DOMAIN-SUFFIX,intel.co.ae
 DOMAIN-SUFFIX,intel.co.cr
@@ -148,38 +188,6 @@ DOMAIN-SUFFIX,intel.vn
 DOMAIN-SUFFIX,intel.vu
 DOMAIN-SUFFIX,intel.wf
 DOMAIN-SUFFIX,intel.yt
-DOMAIN-SUFFIX,altera.co.jp
-DOMAIN-SUFFIX,altera.com
-DOMAIN-SUFFIX,alteraforum.com
-DOMAIN-SUFFIX,buyaltera.com
-DOMAIN-SUFFIX,celeron.com
-DOMAIN-SUFFIX,celeron.net
-DOMAIN-SUFFIX,centrino.com
-DOMAIN-SUFFIX,centrino.net
-DOMAIN-SUFFIX,chips.com
-DOMAIN-SUFFIX,cilk.com
-DOMAIN-SUFFIX,cilk.net
-DOMAIN-SUFFIX,cloudinsights.com
-DOMAIN-SUFFIX,clusterconnection.com
-DOMAIN-SUFFIX,comm-verse.com
-DOMAIN-SUFFIX,coreduo.com
-DOMAIN-SUFFIX,coreextreme.com
-DOMAIN-SUFFIX,crosswalk-project.com
-DOMAIN-SUFFIX,crosswalk-project.net
-DOMAIN-SUFFIX,dml-lang.org
-DOMAIN-SUFFIX,doceapower.com
-DOMAIN-SUFFIX,easic.com
-DOMAIN-SUFFIX,enpirion.com
-DOMAIN-SUFFIX,exascale-tech.com
-DOMAIN-SUFFIX,exploreintel.com
-DOMAIN-SUFFIX,gordonmoore.com
-DOMAIN-SUFFIX,granulate.io
-DOMAIN-SUFFIX,hackharassment.com
-DOMAIN-SUFFIX,insidefilms.com
-DOMAIN-SUFFIX,insight.tech
-DOMAIN-SUFFIX,intc.com
-DOMAIN-SUFFIX,intel-research.net
-DOMAIN-SUFFIX,intel-university-collaboration.net
 DOMAIN-SUFFIX,intelamericasstore.com
 DOMAIN-SUFFIX,intelapacstore.com
 DOMAIN-SUFFIX,intelatom.net
@@ -269,4 +277,3 @@ DOMAIN-SUFFIX,vpro.net
 DOMAIN-SUFFIX,xeon.com
 DOMAIN-SUFFIX,xn--ztsq84g.cn # 奔腾.cn
 DOMAIN-SUFFIX,xscale.com
-DOMAIN-SUFFIX,barefootnetworks.com

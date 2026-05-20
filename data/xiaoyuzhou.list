@@ -1,5 +1,11 @@
-DOMAIN-SUFFIX,xyzfm.space
-DOMAIN-SUFFIX,xyzfm.link
-DOMAIN-SUFFIX,xyzcdn.net
-DOMAIN-SUFFIX,xiaoyuzhoufm.com
+# NAME: XIAOYUZHOU
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:54
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
 DOMAIN-SUFFIX,podcast.xyz
+DOMAIN-SUFFIX,xiaoyuzhoufm.com
+DOMAIN-SUFFIX,xyzcdn.net
+DOMAIN-SUFFIX,xyzfm.link
+DOMAIN-SUFFIX,xyzfm.space

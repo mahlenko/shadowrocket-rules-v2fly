@@ -1,11 +1,17 @@
-DOMAIN-SUFFIX,dishwashingexpert.com.cn @cn
+# NAME: FINISH
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 41
+# TOTAL: 41
+DOMAIN-SUFFIX,dishwashingexpert.com.cn
 DOMAIN-SUFFIX,finish.at
 DOMAIN-SUFFIX,finish.bg
 DOMAIN-SUFFIX,finish.co.kr
 DOMAIN-SUFFIX,finish.co.nz
 DOMAIN-SUFFIX,finish.co.uk
 DOMAIN-SUFFIX,finish.co.za
-DOMAIN-SUFFIX,finish.com.cn @cn
+DOMAIN-SUFFIX,finish.com.cn
 DOMAIN-SUFFIX,finish.com.hr
 DOMAIN-SUFFIX,finish.com.tr
 DOMAIN-SUFFIX,finish.de

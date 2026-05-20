@@ -1,3 +1,9 @@
+# NAME: CATEGORY-BANK-CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 43
+# TOTAL: 43
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,bankcomm.cn
 DOMAIN-SUFFIX,bankcomm.com
@@ -9,28 +15,35 @@ DOMAIN-SUFFIX,cgbchina.com.cn
 DOMAIN-SUFFIX,cib.com.cn
 DOMAIN-SUFFIX,citibank.com.cn
 DOMAIN-SUFFIX,cmbc.com.cn
-DOMAIN-SUFFIX,hxb.com.cn
-DOMAIN-SUFFIX,njcb.com.cn
-DOMAIN-SUFFIX,psbc.com
-DOMAIN-SUFFIX,spdb.com.cn
-DOMAIN-SUFFIX,whccb.com
-DOMAIN-SUFFIX,kcbebank.com
-DOMAIN-SUFFIX,shrbank.com
-DOMAIN-SUFFIX,mybank.cn
-DOMAIN-SUFFIX,ms-bank.cn
-DOMAIN-SUFFIX,webank.com
-DOMAIN-SUFFIX,webankcdn.net
 DOMAIN-SUFFIX,csxbank.com
 DOMAIN-SUFFIX,fbank.com
-DOMAIN-SUFFIX,xwbank.com
-DOMAIN-SUFFIX,zgcbank.com
-DOMAIN-SUFFIX,yillionbank.com
-DOMAIN-SUFFIX,z-bank.com
-DOMAIN-SUFFIX,onebank.com.cn
-DOMAIN-SUFFIX,wegobank.cn
-DOMAIN-SUFFIX,suningbank.com
+DOMAIN-SUFFIX,hxb.com.cn
+DOMAIN-SUFFIX,include:boc
+DOMAIN-SUFFIX,include:ccb
+DOMAIN-SUFFIX,include:citic
+DOMAIN-SUFFIX,include:cmb
+DOMAIN-SUFFIX,include:hsbc-cn
+DOMAIN-SUFFIX,include:icbc
+DOMAIN-SUFFIX,include:unionpay
+DOMAIN-SUFFIX,kcbebank.com
 DOMAIN-SUFFIX,kshbank.cn
-DOMAIN-SUFFIX,xa-bank.com
+DOMAIN-SUFFIX,ms-bank.cn
+DOMAIN-SUFFIX,mybank.cn
 DOMAIN-SUFFIX,newupbank.com
-DOMAIN-SUFFIX,ymbank.com
+DOMAIN-SUFFIX,njcb.com.cn
+DOMAIN-SUFFIX,onebank.com.cn
+DOMAIN-SUFFIX,psbc.com
+DOMAIN-SUFFIX,shrbank.com
+DOMAIN-SUFFIX,spdb.com.cn
+DOMAIN-SUFFIX,suningbank.com
+DOMAIN-SUFFIX,webank.com
+DOMAIN-SUFFIX,webankcdn.net
+DOMAIN-SUFFIX,wegobank.cn
+DOMAIN-SUFFIX,whccb.com
 DOMAIN-SUFFIX,wxsbank.com
+DOMAIN-SUFFIX,xa-bank.com
+DOMAIN-SUFFIX,xwbank.com
+DOMAIN-SUFFIX,yillionbank.com
+DOMAIN-SUFFIX,ymbank.com
+DOMAIN-SUFFIX,z-bank.com
+DOMAIN-SUFFIX,zgcbank.com

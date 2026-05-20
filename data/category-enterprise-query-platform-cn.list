@@ -1,3 +1,13 @@
+# NAME: CATEGORY-ENTERPRISE-QUERY-PLATFORM-CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
+DOMAIN-SUFFIX,include:aiqicha
+DOMAIN-SUFFIX,include:qcc
+DOMAIN-SUFFIX,include:qixin
+DOMAIN-SUFFIX,include:tianyancha
 DOMAIN-SUFFIX,qichamao.com
 DOMAIN-SUFFIX,qyyjt.cn
 DOMAIN-SUFFIX,x315.com

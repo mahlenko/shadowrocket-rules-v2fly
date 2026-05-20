@@ -1,3 +1,9 @@
+# NAME: VISUALARTS
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:54
+# DOMAIN-SUFFIX: 14
+# TOTAL: 14
 DOMAIN-SUFFIX,abow.jp
 DOMAIN-SUFFIX,angelbeats.jp
 DOMAIN-SUFFIX,anigema.jp
@@ -10,5 +16,5 @@ DOMAIN-SUFFIX,koubaibu.jp
 DOMAIN-SUFFIX,litbus-anime.com
 DOMAIN-SUFFIX,product.co.jp
 DOMAIN-SUFFIX,rewrite-anime.tv
-DOMAIN-SUFFIX,visualarts.gr.jp
 DOMAIN-SUFFIX,visual-arts.jp
+DOMAIN-SUFFIX,visualarts.gr.jp

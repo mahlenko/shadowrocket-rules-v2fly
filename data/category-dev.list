@@ -1,3 +1,9 @@
+# NAME: CATEGORY-DEV
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 153
+# TOTAL: 153
 DOMAIN-SUFFIX,adventofcode.com
 DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,apache.org
@@ -30,6 +36,65 @@ DOMAIN-SUFFIX,greenend.org.uk
 DOMAIN-SUFFIX,hex.pm
 DOMAIN-SUFFIX,hexdocs.pm
 DOMAIN-SUFFIX,imageglass.org
+DOMAIN-SUFFIX,include:anaconda
+DOMAIN-SUFFIX,include:android
+DOMAIN-SUFFIX,include:apple-dev
+DOMAIN-SUFFIX,include:archlinux
+DOMAIN-SUFFIX,include:bootstrap
+DOMAIN-SUFFIX,include:braveux
+DOMAIN-SUFFIX,include:canonical
+DOMAIN-SUFFIX,include:category-container
+DOMAIN-SUFFIX,include:codeberg
+DOMAIN-SUFFIX,include:dart
+DOMAIN-SUFFIX,include:debian
+DOMAIN-SUFFIX,include:docker
+DOMAIN-SUFFIX,include:embedly
+DOMAIN-SUFFIX,include:facebook-dev
+DOMAIN-SUFFIX,include:fastlane
+DOMAIN-SUFFIX,include:fedora
+DOMAIN-SUFFIX,include:firebase
+DOMAIN-SUFFIX,include:flatpak
+DOMAIN-SUFFIX,include:flutter
+DOMAIN-SUFFIX,include:fontawesome
+DOMAIN-SUFFIX,include:framer
+DOMAIN-SUFFIX,include:gemfury
+DOMAIN-SUFFIX,include:gitbook
+DOMAIN-SUFFIX,include:github
+DOMAIN-SUFFIX,include:github1s
+DOMAIN-SUFFIX,include:gitlab
+DOMAIN-SUFFIX,include:golang
+DOMAIN-SUFFIX,include:hashicorp
+DOMAIN-SUFFIX,include:haskell
+DOMAIN-SUFFIX,include:homebrew
+DOMAIN-SUFFIX,include:intel-dev
+DOMAIN-SUFFIX,include:java
+DOMAIN-SUFFIX,include:jetbrains
+DOMAIN-SUFFIX,include:jetbrains-ai
+DOMAIN-SUFFIX,include:jfrog
+DOMAIN-SUFFIX,include:kubernetes
+DOMAIN-SUFFIX,include:microsoft-dev
+DOMAIN-SUFFIX,include:mongodb
+DOMAIN-SUFFIX,include:nginx
+DOMAIN-SUFFIX,include:openwrt
+DOMAIN-SUFFIX,include:perl
+DOMAIN-SUFFIX,include:polymer
+DOMAIN-SUFFIX,include:python
+DOMAIN-SUFFIX,include:qt
+DOMAIN-SUFFIX,include:readthedocs
+DOMAIN-SUFFIX,include:redhat
+DOMAIN-SUFFIX,include:redis
+DOMAIN-SUFFIX,include:ruby
+DOMAIN-SUFFIX,include:rust
+DOMAIN-SUFFIX,include:scala
+DOMAIN-SUFFIX,include:sentry
+DOMAIN-SUFFIX,include:sourcehut
+DOMAIN-SUFFIX,include:stackexchange
+DOMAIN-SUFFIX,include:strikingly
+DOMAIN-SUFFIX,include:termux
+DOMAIN-SUFFIX,include:thelinuxfoundation
+DOMAIN-SUFFIX,include:tilda
+DOMAIN-SUFFIX,include:unity
+DOMAIN-SUFFIX,include:v8
 DOMAIN-SUFFIX,ius.io
 DOMAIN-SUFFIX,jenkins.io
 DOMAIN-SUFFIX,js.org

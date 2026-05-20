@@ -1,29 +1,37 @@
+# NAME: CATEGORY-ELECTRONIC-CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 31
+# TOTAL: 31
 DOMAIN-SUFFIX,analog.com
 DOMAIN-SUFFIX,arrow.cn
 DOMAIN-SUFFIX,boe.com
 DOMAIN-SUFFIX,boe.com.cn
 DOMAIN-SUFFIX,bouffalolab.com
 DOMAIN-SUFFIX,cxmt.com
+DOMAIN-SUFFIX,eda.cn
+DOMAIN-SUFFIX,elecfans.com
 DOMAIN-SUFFIX,esp8266.cn
 DOMAIN-SUFFIX,esp8266.com.cn
 DOMAIN-SUFFIX,espressif.cn
 DOMAIN-SUFFIX,espressif.com.cn
-DOMAIN-SUFFIX,eda.cn
-DOMAIN-SUFFIX,elecfans.com
 DOMAIN-SUFFIX,hqchip.com
 DOMAIN-SUFFIX,hqdoc.com
 DOMAIN-SUFFIX,hqpcb.com
+DOMAIN-SUFFIX,include:jlc
+DOMAIN-SUFFIX,include:ymtc
 DOMAIN-SUFFIX,infineon.cn
+DOMAIN-SUFFIX,iotronic.tech
+DOMAIN-SUFFIX,maixhub.com
 DOMAIN-SUFFIX,quecmall.cn
 DOMAIN-SUFFIX,quectel.com.cn
-DOMAIN-SUFFIX,iotronic.tech
 DOMAIN-SUFFIX,rock-chips.com
-DOMAIN-SUFFIX,seeed.cn
 DOMAIN-SUFFIX,seeed.cc
+DOMAIN-SUFFIX,seeed.cn
 DOMAIN-SUFFIX,seeed.com.cn
 DOMAIN-SUFFIX,seeedstudio.com.cn
 DOMAIN-SUFFIX,sipeed.com
-DOMAIN-SUFFIX,maixhub.com
 DOMAIN-SUFFIX,ti.com.cn
-DOMAIN-SUFFIX,wch.cn
 DOMAIN-SUFFIX,wch-ic.com
+DOMAIN-SUFFIX,wch.cn

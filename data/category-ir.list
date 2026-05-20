@@ -1,35 +1,57 @@
-DOMAIN-SUFFIX,ir
-DOMAIN-SUFFIX,xn--mgba3a4f16a # .ایران
-DOMAIN-SUFFIX,xn--mgba3a4fra # .ايران
+# NAME: CATEGORY-IR
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 51
+# TOTAL: 51
+DOMAIN-SUFFIX,balad.ir
+DOMAIN-SUFFIX,bama.ir
+DOMAIN-SUFFIX,beytoote.com
 DOMAIN-SUFFIX,blogfa.com
 DOMAIN-SUFFIX,blogsky.com
-DOMAIN-SUFFIX,loxblog.com
-DOMAIN-SUFFIX,niniweblog.com
-DOMAIN-SUFFIX,rozblog.com
-DOMAIN-SUFFIX,balad.ir
-DOMAIN-SUFFIX,neshan.org
-DOMAIN-SUFFIX,raah.ir
-DOMAIN-SUFFIX,varzesh3.com
-DOMAIN-SUFFIX,isignal.ir
-DOMAIN-SUFFIX,signalpardazgroup.com
-DOMAIN-SUFFIX,tgju.org
-DOMAIN-SUFFIX,bama.ir
 DOMAIN-SUFFIX,car.ir
+DOMAIN-SUFFIX,dekapost.com
 DOMAIN-SUFFIX,ikco.ir
-DOMAIN-SUFFIX,karnameh.com
-DOMAIN-SUFFIX,khodro45.com
-DOMAIN-SUFFIX,saipacorp.com
-DOMAIN-SUFFIX,porsline.ir
-DOMAIN-SUFFIX,time.ir
+DOMAIN-SUFFIX,include:category-ads-ir
+DOMAIN-SUFFIX,include:category-bank-ir
+DOMAIN-SUFFIX,include:category-bourse-ir
+DOMAIN-SUFFIX,include:category-education-ir
+DOMAIN-SUFFIX,include:category-forums-ir
+DOMAIN-SUFFIX,include:category-gov-ir
+DOMAIN-SUFFIX,include:category-insurance-ir
+DOMAIN-SUFFIX,include:category-media-ir
+DOMAIN-SUFFIX,include:category-news-ir
+DOMAIN-SUFFIX,include:category-payment-ir
+DOMAIN-SUFFIX,include:category-scholar-ir
+DOMAIN-SUFFIX,include:category-shopping-ir
+DOMAIN-SUFFIX,include:category-social-media-ir
+DOMAIN-SUFFIX,include:category-tech-ir
+DOMAIN-SUFFIX,include:category-travel-ir
+DOMAIN-SUFFIX,include:snapp
+DOMAIN-SUFFIX,ir
+DOMAIN-SUFFIX,isignal.ir
 DOMAIN-SUFFIX,jobinja.com
 DOMAIN-SUFFIX,jobinja.ir
 DOMAIN-SUFFIX,jobinjacdn.com
-DOMAIN-SUFFIX,beytoote.com
-DOMAIN-SUFFIX,setare.com
-DOMAIN-SUFFIX,tebyan.net
-DOMAIN-SUFFIX,dekapost.com
+DOMAIN-SUFFIX,karnameh.com
+DOMAIN-SUFFIX,khodro45.com
+DOMAIN-SUFFIX,loxblog.com
 DOMAIN-SUFFIX,mahex.com
 DOMAIN-SUFFIX,miare.ir
+DOMAIN-SUFFIX,neshan.org
+DOMAIN-SUFFIX,niniweblog.com
 DOMAIN-SUFFIX,podro.com
+DOMAIN-SUFFIX,porsline.ir
+DOMAIN-SUFFIX,raah.ir
+DOMAIN-SUFFIX,rozblog.com
+DOMAIN-SUFFIX,saipacorp.com
+DOMAIN-SUFFIX,setare.com
+DOMAIN-SUFFIX,signalpardazgroup.com
+DOMAIN-SUFFIX,tebyan.net
+DOMAIN-SUFFIX,tgju.org
+DOMAIN-SUFFIX,time.ir
 DOMAIN-SUFFIX,tipax.ir
 DOMAIN-SUFFIX,tipaxco.com
+DOMAIN-SUFFIX,varzesh3.com
+DOMAIN-SUFFIX,xn--mgba3a4f16a # .ایران
+DOMAIN-SUFFIX,xn--mgba3a4fra # .ايران

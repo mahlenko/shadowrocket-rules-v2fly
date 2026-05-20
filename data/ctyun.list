@@ -1,7 +1,13 @@
-DOMAIN-SUFFIX,ctadns.cn
+# NAME: CTYUN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 67
+# TOTAL: 67
 DOMAIN-SUFFIX,bjctyiptv.cn
 DOMAIN-SUFFIX,cqctyiptv.cn
 DOMAIN-SUFFIX,ctacdn.cn
+DOMAIN-SUFFIX,ctadns.cn
 DOMAIN-SUFFIX,ctaigw.cn
 DOMAIN-SUFFIX,ctbcdn.com
 DOMAIN-SUFFIX,ctcdn.cn

@@ -1,3 +1,12 @@
+# NAME: KUGOU
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 19
+# TOTAL: 19
+DOMAIN-SUFFIX,ads.service.kugou.com
+DOMAIN-SUFFIX,adserviceretry.kglink.cn
+DOMAIN-SUFFIX,adserviceretry.kugou.com
 DOMAIN-SUFFIX,fanxingliveshow.com
 DOMAIN-SUFFIX,kgimg.com
 DOMAIN-SUFFIX,kglink.cn
@@ -14,6 +23,3 @@ DOMAIN-SUFFIX,kugousenior.com
 DOMAIN-SUFFIX,kugoustore.com
 DOMAIN-SUFFIX,kugouvoice.com
 DOMAIN-SUFFIX,kugouyouth.com
-DOMAIN-SUFFIX,ads.service.kugou.com @ads
-DOMAIN-SUFFIX,adserviceretry.kglink.cn @ads
-DOMAIN-SUFFIX,adserviceretry.kugou.com @ads

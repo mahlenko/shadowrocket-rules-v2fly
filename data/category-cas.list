@@ -1,3 +1,9 @@
+# NAME: CATEGORY-CAS
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 44
+# TOTAL: 44
 DOMAIN-SUFFIX,accv.es
 DOMAIN-SUFFIX,camerfirma.com
 DOMAIN-SUFFIX,certsign.ro
@@ -7,6 +13,34 @@ DOMAIN-SUFFIX,e-tugra.com
 DOMAIN-SUFFIX,firmaprofesional.com
 DOMAIN-SUFFIX,fnmt.es
 DOMAIN-SUFFIX,harica.gr
+DOMAIN-SUFFIX,include:actalis
+DOMAIN-SUFFIX,include:amazontrust
+DOMAIN-SUFFIX,include:apple-pki
+DOMAIN-SUFFIX,include:buypass
+DOMAIN-SUFFIX,include:certinomis
+DOMAIN-SUFFIX,include:certum
+DOMAIN-SUFFIX,include:digicert
+DOMAIN-SUFFIX,include:entrust
+DOMAIN-SUFFIX,include:gandi
+DOMAIN-SUFFIX,include:globalsign
+DOMAIN-SUFFIX,include:godaddy
+DOMAIN-SUFFIX,include:google-trust-services
+DOMAIN-SUFFIX,include:hinet-eca
+DOMAIN-SUFFIX,include:hongkongpost
+DOMAIN-SUFFIX,include:identrust
+DOMAIN-SUFFIX,include:letsencrypt
+DOMAIN-SUFFIX,include:microsoft-pki
+DOMAIN-SUFFIX,include:secom
+DOMAIN-SUFFIX,include:sectigo
+DOMAIN-SUFFIX,include:sslcom
+DOMAIN-SUFFIX,include:starfieldtech
+DOMAIN-SUFFIX,include:swisssign
+DOMAIN-SUFFIX,include:telekom
+DOMAIN-SUFFIX,include:trustwave
+DOMAIN-SUFFIX,include:twca
+DOMAIN-SUFFIX,include:verizon
+DOMAIN-SUFFIX,include:vodafone
+DOMAIN-SUFFIX,include:wisekey
 DOMAIN-SUFFIX,infocert.digital
 DOMAIN-SUFFIX,infocert.it
 DOMAIN-SUFFIX,managedpki.com

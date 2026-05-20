@@ -1,10 +1,19 @@
+# NAME: CATEGORY-ENHANCE-GAMING
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
 DOMAIN-SUFFIX,battleye.com
 DOMAIN-SUFFIX,bluestacks.com
-DOMAIN-SUFFIX,ldmnq.com @cn
-DOMAIN-SUFFIX,lsplayer.com @cn
-DOMAIN-SUFFIX,yeshen.com @cn
+DOMAIN-SUFFIX,heavenlywind.cc
+DOMAIN-SUFFIX,include:fflogs
+DOMAIN-SUFFIX,include:playcover
+DOMAIN-SUFFIX,include:trackernetwork
+DOMAIN-SUFFIX,ldmnq.com
+DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,maa.plus
-DOMAIN-SUFFIX,prts.plus
-DOMAIN-SUFFIX,heavenlywind.cc @cn
 DOMAIN-SUFFIX,poi.moe
-DOMAIN-SUFFIX,steampp.net @cn
+DOMAIN-SUFFIX,prts.plus
+DOMAIN-SUFFIX,steampp.net
+DOMAIN-SUFFIX,yeshen.com

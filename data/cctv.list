@@ -1,3 +1,10 @@
+# NAME: CCTV
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 42
+# TOTAL: 42
+DOMAIN-SUFFIX,ad.cctv.com
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvlib.cn
@@ -39,4 +46,3 @@ DOMAIN-SUFFIX,zggbdszt.cn
 DOMAIN-SUFFIX,zggbdszt.com.cn
 DOMAIN-SUFFIX,zggbdszt.net.cn
 DOMAIN-SUFFIX,zygbdszt.net.cn
-DOMAIN-SUFFIX,ad.cctv.com @ads

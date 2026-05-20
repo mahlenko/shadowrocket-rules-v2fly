@@ -1,9 +1,20 @@
+# NAME: CATEGORY-ANTIVIRUS
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 14
+# TOTAL: 14
 DOMAIN-SUFFIX,avast.com
 DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,avira.com
 DOMAIN-SUFFIX,bitdefender.com
 DOMAIN-SUFFIX,clamwin.com
 DOMAIN-SUFFIX,f-secure.com
+DOMAIN-SUFFIX,include:comodo
+DOMAIN-SUFFIX,include:drweb
+DOMAIN-SUFFIX,include:eset
+DOMAIN-SUFFIX,include:kaspersky
+DOMAIN-SUFFIX,include:symantec
 DOMAIN-SUFFIX,mcafee.com
 DOMAIN-SUFFIX,norton.com
 DOMAIN-SUFFIX,pandasecurity.com

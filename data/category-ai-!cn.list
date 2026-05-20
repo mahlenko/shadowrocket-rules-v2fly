@@ -1,13 +1,18 @@
-DOMAIN-SUFFIX,coderabbit.ai
-DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
-DOMAIN-SUFFIX,cohere.ai
-DOMAIN-SUFFIX,cohere.com
-DOMAIN-SUFFIX,clipdrop.co
-DOMAIN-SUFFIX,jasper.ai
+# NAME: CATEGORY-AI-!CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 53
+# TOTAL: 53
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN-SUFFIX,anythingllm.com
 DOMAIN-SUFFIX,chutes.ai
 DOMAIN-SUFFIX,clawhub.ai
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,coderabbit.ai
+DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,cohere.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,crewai.com
 DOMAIN-SUFFIX,devin.ai
@@ -17,6 +22,26 @@ DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,duck.ai
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,h2o.ai
+DOMAIN-SUFFIX,include:anthropic
+DOMAIN-SUFFIX,include:bytedance-ai-!cn
+DOMAIN-SUFFIX,include:cerebras
+DOMAIN-SUFFIX,include:comfy
+DOMAIN-SUFFIX,include:cursor
+DOMAIN-SUFFIX,include:elevenlabs
+DOMAIN-SUFFIX,include:envato
+DOMAIN-SUFFIX,include:github-copilot
+DOMAIN-SUFFIX,include:google-deepmind
+DOMAIN-SUFFIX,include:groq
+DOMAIN-SUFFIX,include:huggingface
+DOMAIN-SUFFIX,include:liveperson
+DOMAIN-SUFFIX,include:manus
+DOMAIN-SUFFIX,include:openai
+DOMAIN-SUFFIX,include:perplexity
+DOMAIN-SUFFIX,include:poe
+DOMAIN-SUFFIX,include:windsurf
+DOMAIN-SUFFIX,include:xai
+DOMAIN-SUFFIX,include:youmind
+DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,kiro.dev
 DOMAIN-SUFFIX,langchain.com
 DOMAIN-SUFFIX,lmstudio.ai

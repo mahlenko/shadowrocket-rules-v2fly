@@ -1,3 +1,10 @@
+# NAME: HULU
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 47
+# DOMAIN: 1
+# TOTAL: 48
 DOMAIN-SUFFIX,112263.com
 DOMAIN-SUFFIX,callhulu.com
 DOMAIN-SUFFIX,findyourlimits.com
@@ -10,6 +17,7 @@ DOMAIN-SUFFIX,huloo.cc
 DOMAIN-SUFFIX,huloo.tv
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,hulu.jp
+DOMAIN,hulu.playback.edge.bamgrid.com
 DOMAIN-SUFFIX,hulu.tv
 DOMAIN-SUFFIX,hulu.us
 DOMAIN-SUFFIX,huluaction.com
@@ -45,4 +53,3 @@ DOMAIN-SUFFIX,payhulu.com
 DOMAIN-SUFFIX,registerhulu.com
 DOMAIN-SUFFIX,thehulubraintrust.com
 DOMAIN-SUFFIX,wwwhuluplus.com
-DOMAIN,hulu.playback.edge.bamgrid.com

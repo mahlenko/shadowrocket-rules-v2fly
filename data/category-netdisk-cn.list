@@ -1,3 +1,9 @@
+# NAME: CATEGORY-NETDISK-CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 31
+# TOTAL: 31
 DOMAIN-SUFFIX,123245.com
 DOMAIN-SUFFIX,123254.com
 DOMAIN-SUFFIX,123278.com
@@ -17,6 +23,11 @@ DOMAIN-SUFFIX,ctfile.com # 城通网盘
 DOMAIN-SUFFIX,feimaoyun.com # 飞猫盘
 DOMAIN-SUFFIX,filez.com # 联想企业网盘
 DOMAIN-SUFFIX,guangyapan.com # 光鸭云盘
+DOMAIN-SUFFIX,include:115
+DOMAIN-SUFFIX,include:aliyun-drive
+DOMAIN-SUFFIX,include:cowtransfer
+DOMAIN-SUFFIX,include:lanzou
+DOMAIN-SUFFIX,include:wenshushu
 DOMAIN-SUFFIX,jianguoyun.com # 坚果云
 DOMAIN-SUFFIX,pan.baidu.com # 百度网盘
 DOMAIN-SUFFIX,pan.quark.cn # 夸克网盘

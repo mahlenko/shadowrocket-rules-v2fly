@@ -1,21 +1,27 @@
-DOMAIN-SUFFIX,mediachinese.com
-DOMAIN-SUFFIX,mysinchew.com
-DOMAIN-SUFFIX,sinchew.com.my
-DOMAIN-SUFFIX,sinchew.my
-DOMAIN-SUFFIX,soccerfanz.com.my
-DOMAIN-SUFFIX,enanyang.my
+# NAME: MEDIACHINESEGROUP
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 21
+# TOTAL: 21
 DOMAIN-SUFFIX,chinapress.com.my
+DOMAIN-SUFFIX,enanyang.my
 DOMAIN-SUFFIX,guangming.com.my
+DOMAIN-SUFFIX,mediachinese.com
 DOMAIN-SUFFIX,mingpao.com
 DOMAIN-SUFFIX,mingpaocanada.com
 DOMAIN-SUFFIX,mingpaomonthly.com
 DOMAIN-SUFFIX,mingpaotor.com
 DOMAIN-SUFFIX,mingpaovan.com
+DOMAIN-SUFFIX,mings-fashion.com
+DOMAIN-SUFFIX,mings.hk
 DOMAIN-SUFFIX,mingshengbao.com
 DOMAIN-SUFFIX,mingwatch.com
 DOMAIN-SUFFIX,mpfinance.com
 DOMAIN-SUFFIX,mpweekly.com
-DOMAIN-SUFFIX,yzzk.com
+DOMAIN-SUFFIX,mysinchew.com
 DOMAIN-SUFFIX,omghk.com
-DOMAIN-SUFFIX,mings.hk
-DOMAIN-SUFFIX,mings-fashion.com
+DOMAIN-SUFFIX,sinchew.com.my
+DOMAIN-SUFFIX,sinchew.my
+DOMAIN-SUFFIX,soccerfanz.com.my
+DOMAIN-SUFFIX,yzzk.com

@@ -1,8 +1,23 @@
-DOMAIN-SUFFIX,tieba.baidu.com
-DOMAIN-SUFFIX,tieba.com
+# NAME: CATEGORY-SOCIAL-MEDIA-CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 17
+# TOTAL: 17
 DOMAIN-SUFFIX,dandan818.com
 DOMAIN-SUFFIX,dandanvoice.com
 DOMAIN-SUFFIX,fanfou.com
+DOMAIN-SUFFIX,include:coolapk
+DOMAIN-SUFFIX,include:douban
+DOMAIN-SUFFIX,include:gracg
+DOMAIN-SUFFIX,include:hupu
+DOMAIN-SUFFIX,include:meipian
+DOMAIN-SUFFIX,include:okjike
+DOMAIN-SUFFIX,include:sina
+DOMAIN-SUFFIX,include:xiaohongshu
+DOMAIN-SUFFIX,include:zhihu
 DOMAIN-SUFFIX,maimai.cn
 DOMAIN-SUFFIX,taou.com
+DOMAIN-SUFFIX,tieba.baidu.com
+DOMAIN-SUFFIX,tieba.com
 DOMAIN-SUFFIX,zsxq.com

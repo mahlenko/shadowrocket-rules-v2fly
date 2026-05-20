@@ -1,4 +1,28 @@
+# NAME: RB
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:54
+# DOMAIN-SUFFIX: 40
+# TOTAL: 40
 DOMAIN-SUFFIX,digital-rb.com
+DOMAIN-SUFFIX,include:aerogard
+DOMAIN-SUFFIX,include:airwick
+DOMAIN-SUFFIX,include:calgoncarbon
+DOMAIN-SUFFIX,include:clearasil
+DOMAIN-SUFFIX,include:dettol
+DOMAIN-SUFFIX,include:durex
+DOMAIN-SUFFIX,include:enfa
+DOMAIN-SUFFIX,include:finish
+DOMAIN-SUFFIX,include:lysol
+DOMAIN-SUFFIX,include:meadjohnson
+DOMAIN-SUFFIX,include:mortein
+DOMAIN-SUFFIX,include:movefree
+DOMAIN-SUFFIX,include:mucinex
+DOMAIN-SUFFIX,include:nurofen
+DOMAIN-SUFFIX,include:strepsils
+DOMAIN-SUFFIX,include:vanish
+DOMAIN-SUFFIX,include:veet
+DOMAIN-SUFFIX,include:woolite
 DOMAIN-SUFFIX,rb-crisis.com
 DOMAIN-SUFFIX,rb.com
 DOMAIN-SUFFIX,rb.net
@@ -14,9 +38,9 @@ DOMAIN-SUFFIX,rbplc.com
 DOMAIN-SUFFIX,rbrandlibrary.com
 DOMAIN-SUFFIX,rbspeakup.com
 DOMAIN-SUFFIX,reckitt.net
-DOMAIN-SUFFIX,reckittbenckiser.cn @cn
+DOMAIN-SUFFIX,reckittbenckiser.cn
 DOMAIN-SUFFIX,reckittbenckiser.com
-DOMAIN-SUFFIX,reckittbenckiser.com.cn @cn
+DOMAIN-SUFFIX,reckittbenckiser.com.cn
 DOMAIN-SUFFIX,reckittbenckiser.net
 DOMAIN-SUFFIX,reckittbenckiser.tv
 DOMAIN-SUFFIX,reckittprofessional.com

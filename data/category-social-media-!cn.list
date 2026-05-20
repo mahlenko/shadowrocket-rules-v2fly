@@ -1,6 +1,22 @@
-DOMAIN-SUFFIX,onlyfans.com
-DOMAIN-SUFFIX,truthsocial.com
+# NAME: CATEGORY-SOCIAL-MEDIA-!CN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-v2fly
+# UPDATED: 2026-05-20 12:41:53
+# DOMAIN-SUFFIX: 16
+# TOTAL: 16
+DOMAIN-SUFFIX,include:bluesky
+DOMAIN-SUFFIX,include:facebook
+DOMAIN-SUFFIX,include:instagram
+DOMAIN-SUFFIX,include:linkedin
+DOMAIN-SUFFIX,include:misskey
+DOMAIN-SUFFIX,include:mixi
+DOMAIN-SUFFIX,include:ok
+DOMAIN-SUFFIX,include:threads
+DOMAIN-SUFFIX,include:twitter
+DOMAIN-SUFFIX,include:vk
 DOMAIN-SUFFIX,joinmastodon.org
 DOMAIN-SUFFIX,mastodon.online
 DOMAIN-SUFFIX,mastodon.social
+DOMAIN-SUFFIX,onlyfans.com
 DOMAIN-SUFFIX,pawoo.net
+DOMAIN-SUFFIX,truthsocial.com
