@@ -1,21 +1,24 @@
 # NAME: GMO-INTERNET
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:41:53
-# DOMAIN-SUFFIX: 137
-# TOTAL: 137
+# UPDATED: 2026-05-20 12:50:48
+# DOMAIN-SUFFIX: 155
+# DOMAIN: 2
+# TOTAL: 157
 DOMAIN-SUFFIX,1-account.com
 DOMAIN-SUFFIX,30d.jp
 DOMAIN-SUFFIX,adam.jp
 DOMAIN-SUFFIX,ai-robotics.gmo
 DOMAIN-SUFFIX,ai-web3.gmo
 DOMAIN-SUFFIX,alive-project.com
+DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,animary.jp
 DOMAIN-SUFFIX,atokara.jp
 DOMAIN-SUFFIX,banksy.tokyo
 DOMAIN-SUFFIX,brandsecurity.gmo
 DOMAIN-SUFFIX,brantect.com
 DOMAIN-SUFFIX,cashmart.jp
+DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,chintaidx.com
 DOMAIN-SUFFIX,click-sec.com
 DOMAIN-SUFFIX,cloudec.jp
@@ -24,9 +27,11 @@ DOMAIN-SUFFIX,colleee.net
 DOMAIN-SUFFIX,colorme-repeat.jp
 DOMAIN-SUFFIX,conoha.jp
 DOMAIN-SUFFIX,coreserver.jp
+DOMAIN,crl.globalsign.net
 DOMAIN-SUFFIX,decopri.net
 DOMAIN-SUFFIX,dentry.jp
 DOMAIN-SUFFIX,e-estate.jp
+DOMAIN-SUFFIX,easy-signing.com
 DOMAIN-SUFFIX,ekiten.jp
 DOMAIN-SUFFIX,enpay.co.jp
 DOMAIN-SUFFIX,epsilon.jp
@@ -39,6 +44,23 @@ DOMAIN-SUFFIX,gaikaex.com
 DOMAIN-SUFFIX,gesoten.com
 DOMAIN-SUFFIX,get.shop
 DOMAIN-SUFFIX,global-studio.gmo
+DOMAIN-SUFFIX,globalsign-media.com
+DOMAIN-SUFFIX,globalsign.be
+DOMAIN-SUFFIX,globalsign.ch
+DOMAIN-SUFFIX,globalsign.cloud
+DOMAIN-SUFFIX,globalsign.cn
+DOMAIN-SUFFIX,globalsign.co.uk
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,globalsign.com.au
+DOMAIN-SUFFIX,globalsign.com.br
+DOMAIN-SUFFIX,globalsign.com.hk
+DOMAIN-SUFFIX,globalsign.com.sg
+DOMAIN-SUFFIX,globalsign.es
+DOMAIN-SUFFIX,globalsign.eu
+DOMAIN-SUFFIX,globalsign.fr
+DOMAIN-SUFFIX,globalsign.net
+DOMAIN-SUFFIX,globalsign.nl
+DOMAIN-SUFFIX,globalsigncdn.com
 DOMAIN-SUFFIX,gmo
 DOMAIN-SUFFIX,gmo-aozora.com
 DOMAIN-SUFFIX,gmo-app.jp
@@ -77,7 +99,6 @@ DOMAIN-SUFFIX,hakaru.ai
 DOMAIN-SUFFIX,heteml.jp
 DOMAIN-SUFFIX,hotel-reviewn.com
 DOMAIN-SUFFIX,i4u.gmo
-DOMAIN-SUFFIX,include:globalsign
 DOMAIN-SUFFIX,infoq.jp
 DOMAIN-SUFFIX,iprad-ryoma.com
 DOMAIN-SUFFIX,ird.co.jp

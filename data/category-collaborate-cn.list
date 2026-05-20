@@ -1,13 +1,14 @@
 # NAME: CATEGORY-COLLABORATE-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:41:53
-# DOMAIN-SUFFIX: 23
-# TOTAL: 23
+# UPDATED: 2026-05-20 12:50:47
+# DOMAIN-SUFFIX: 26
+# TOTAL: 26
 DOMAIN-SUFFIX,asklink.com
 DOMAIN-SUFFIX,easytier.cn
 DOMAIN-SUFFIX,feihengip.com
-DOMAIN-SUFFIX,include:xedge
+DOMAIN-SUFFIX,ganjiangvpn.com
+DOMAIN-SUFFIX,glxcc.net
 DOMAIN-SUFFIX,nlark.com
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
@@ -24,6 +25,8 @@ DOMAIN-SUFFIX,tower.im
 DOMAIN-SUFFIX,tritoninfo.net
 DOMAIN-SUFFIX,woodo.cn
 DOMAIN-SUFFIX,worktile.com
+DOMAIN-SUFFIX,xedge.cc
 DOMAIN-SUFFIX,xiumi.us
 DOMAIN-SUFFIX,xiumius.com
+DOMAIN-SUFFIX,xn0.cc
 DOMAIN-SUFFIX,yuque.com

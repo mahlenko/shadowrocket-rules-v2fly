@@ -1,9 +1,11 @@
 # NAME: INTEL
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:41:53
-# DOMAIN-SUFFIX: 273
-# TOTAL: 273
+# UPDATED: 2026-05-20 12:50:48
+# DOMAIN-SUFFIX: 288
+# TOTAL: 288
+DOMAIN-SUFFIX,01.org
+DOMAIN-SUFFIX,acpica.com
 DOMAIN-SUFFIX,altera.co.jp
 DOMAIN-SUFFIX,altera.com
 DOMAIN-SUFFIX,alteraforum.com
@@ -16,6 +18,7 @@ DOMAIN-SUFFIX,centrino.net
 DOMAIN-SUFFIX,chips.com
 DOMAIN-SUFFIX,cilk.com
 DOMAIN-SUFFIX,cilk.net
+DOMAIN-SUFFIX,clearlinux.org
 DOMAIN-SUFFIX,cloudinsights.com
 DOMAIN-SUFFIX,clusterconnection.com
 DOMAIN-SUFFIX,comm-verse.com
@@ -32,7 +35,7 @@ DOMAIN-SUFFIX,exploreintel.com
 DOMAIN-SUFFIX,gordonmoore.com
 DOMAIN-SUFFIX,granulate.io
 DOMAIN-SUFFIX,hackharassment.com
-DOMAIN-SUFFIX,include:intel-dev
+DOMAIN-SUFFIX,hyperscan.io
 DOMAIN-SUFFIX,insidefilms.com
 DOMAIN-SUFFIX,insight.tech
 DOMAIN-SUFFIX,intc.com
@@ -204,6 +207,8 @@ DOMAIN-SUFFIX,intelinsight.com
 DOMAIN-SUFFIX,inteliotmarketplace.com
 DOMAIN-SUFFIX,intell.com
 DOMAIN-SUFFIX,intellearningseries.com
+DOMAIN-SUFFIX,intellinuxgraphics.com
+DOMAIN-SUFFIX,intellinuxgraphics.net
 DOMAIN-SUFFIX,intellinuxwireless.net
 DOMAIN-SUFFIX,intelnervana.com
 DOMAIN-SUFFIX,intelplay.com
@@ -236,9 +241,16 @@ DOMAIN-SUFFIX,niosii.com
 DOMAIN-SUFFIX,niosii.net
 DOMAIN-SUFFIX,omekinteractive.com
 DOMAIN-SUFFIX,omnitek.tv
+DOMAIN-SUFFIX,oneapi.com
+DOMAIN-SUFFIX,oneapi.io
 DOMAIN-SUFFIX,openamt.com
+DOMAIN-SUFFIX,opencas.io
 DOMAIN-SUFFIX,opendroneid.org
+DOMAIN-SUFFIX,openvino.ai
+DOMAIN-SUFFIX,openvinotoolkit.org
 DOMAIN-SUFFIX,optanedifference.com
+DOMAIN-SUFFIX,ospray.net
+DOMAIN-SUFFIX,ospray.org
 DOMAIN-SUFFIX,passwordday.org
 DOMAIN-SUFFIX,pc.com
 DOMAIN-SUFFIX,pentium.com
@@ -250,6 +262,7 @@ DOMAIN-SUFFIX,poweredbyintel.com
 DOMAIN-SUFFIX,projectcircuitbreaker.com
 DOMAIN-SUFFIX,reconinstruments.com
 DOMAIN-SUFFIX,reconjet.com
+DOMAIN-SUFFIX,renderingtoolkit.org
 DOMAIN-SUFFIX,researchintel.com
 DOMAIN-SUFFIX,saffrontech.com
 DOMAIN-SUFFIX,sensorynetworks.com
@@ -264,6 +277,7 @@ DOMAIN-SUFFIX,smart-edge.net
 DOMAIN-SUFFIX,smart-edge.org
 DOMAIN-SUFFIX,smart-edge.systems
 DOMAIN-SUFFIX,smartedge.info
+DOMAIN-SUFFIX,snap-telemetry.io
 DOMAIN-SUFFIX,storageclassmemory.io
 DOMAIN-SUFFIX,storageclassmemory.org
 DOMAIN-SUFFIX,theintelstore.com
@@ -271,6 +285,7 @@ DOMAIN-SUFFIX,threadingbuildingblocks.org
 DOMAIN-SUFFIX,thunderbolttechnology.net
 DOMAIN-SUFFIX,trustedanalytics.com
 DOMAIN-SUFFIX,trustedanalytics.net
+DOMAIN-SUFFIX,universalscalablefirmware.org
 DOMAIN-SUFFIX,vokevr.com
 DOMAIN-SUFFIX,vpro.com
 DOMAIN-SUFFIX,vpro.net

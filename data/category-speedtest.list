@@ -1,21 +1,31 @@
 # NAME: CATEGORY-SPEEDTEST
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:41:53
-# DOMAIN-SUFFIX: 61
-# DOMAIN: 1
-# TOTAL: 62
+# UPDATED: 2026-05-20 12:50:47
+# DOMAIN-SUFFIX: 73
+# DOMAIN: 2
+# URL-REGEX: 1
+# TOTAL: 76
+URL-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
+DOMAIN-SUFFIX,cdnst.net
+DOMAIN-SUFFIX,cellmaps.com
 DOMAIN-SUFFIX,cnspeedtest.cn
+DOMAIN-SUFFIX,ekahau.cloud
+DOMAIN-SUFFIX,ekahau.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,fastspeedtest.com
 DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
-DOMAIN-SUFFIX,include:ookla-speedtest
-DOMAIN-SUFFIX,include:openspeedtest
 DOMAIN-SUFFIX,linkmeter.net
 DOMAIN-SUFFIX,measurementlab.net
 DOMAIN-SUFFIX,meter.net
 DOMAIN-SUFFIX,nperf.com
+DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk # HGC Global Communications 香港環電
+DOMAIN-SUFFIX,ookla.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,open.cachefly.net
+DOMAIN-SUFFIX,openspeedtest.com
 DOMAIN-SUFFIX,openspeedtest.ru
+DOMAIN-SUFFIX,pingtest.net
 DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,speed.dler.io
 DOMAIN-SUFFIX,speed.ee
@@ -36,6 +46,7 @@ DOMAIN-SUFFIX,speedtest.cesnet.cz
 DOMAIN-SUFFIX,speedtest.ch
 DOMAIN-SUFFIX,speedtest.citylink.pro
 DOMAIN-SUFFIX,speedtest.cn
+DOMAIN-SUFFIX,speedtest.co
 DOMAIN-SUFFIX,speedtest.co.za
 DOMAIN-SUFFIX,speedtest.de
 DOMAIN-SUFFIX,speedtest.dno-it.ru
@@ -43,6 +54,7 @@ DOMAIN-SUFFIX,speedtest.frontier.com
 DOMAIN-SUFFIX,speedtest.im
 DOMAIN-SUFFIX,speedtest.mail.ru
 DOMAIN-SUFFIX,speedtest.mfcyun.com
+DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,speedtest.net.in
 DOMAIN-SUFFIX,speedtest.net.ua
 DOMAIN-SUFFIX,speedtest.net.uk
@@ -59,6 +71,7 @@ DOMAIN-SUFFIX,speedtest.xfinity.com
 DOMAIN-SUFFIX,speedtest.xyz
 DOMAIN-SUFFIX,speedtest24.ru
 DOMAIN-SUFFIX,speedtest6.shu.edu.cn
+DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,test.nju.edu.cn
 DOMAIN-SUFFIX,test.ustc.edu.cn
 DOMAIN-SUFFIX,test6.nju.edu.cn
@@ -66,4 +79,6 @@ DOMAIN-SUFFIX,test6.ustc.edu.cn
 DOMAIN-SUFFIX,testmy.net
 DOMAIN-SUFFIX,testmyspeed.com
 DOMAIN-SUFFIX,testskorosti.ru
+DOMAIN-SUFFIX,webtest.net
+DOMAIN,www.speedtest.net.cdn.cloudflare.net
 DOMAIN-SUFFIX,xnfz.seu.edu.cn
