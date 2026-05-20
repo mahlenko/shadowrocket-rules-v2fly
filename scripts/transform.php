@@ -21,9 +21,9 @@ foreach ($files as $file) {
 
         $rules[] = match (true) {
             str_starts_with($line, 'domain:') => 'DOMAIN-SUFFIX,' . substr($line, 7),
-            str_starts_with($line, 'full:')   => 'DOMAIN,'        . substr($line, 5),
+            str_starts_with($line, 'full:') => 'DOMAIN,'        . substr($line, 5),
             str_starts_with($line, 'regexp:') => 'URL-REGEX,'     . substr($line, 7),
-            default                           => 'DOMAIN-SUFFIX,' . $line,
+            default => 'DOMAIN-SUFFIX,' . $line,
         };
     }
 
