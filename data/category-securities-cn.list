@@ -1,9 +1,9 @@
 # NAME: CATEGORY-SECURITIES-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:41:53
-# DOMAIN-SUFFIX: 161
-# TOTAL: 161
+# UPDATED: 2026-05-20 12:50:47
+# DOMAIN-SUFFIX: 163
+# TOTAL: 163
 DOMAIN-SUFFIX,5ifund.com
 DOMAIN-SUFFIX,99fund.com
 DOMAIN-SUFFIX,abc-ca.com
@@ -89,6 +89,9 @@ DOMAIN-SUFFIX,hongdefund.com
 DOMAIN-SUFFIX,hongtastock.com
 DOMAIN-SUFFIX,howbuy.com
 DOMAIN-SUFFIX,hrsec.com.cn
+DOMAIN-SUFFIX,hsbc.com.cn
+DOMAIN-SUFFIX,hsbcinsurance.com.cn
+DOMAIN-SUFFIX,hsbcqh.com.cn
 DOMAIN-SUFFIX,hsfund.com
 DOMAIN-SUFFIX,htsc.com.cn
 DOMAIN-SUFFIX,htsec.com
@@ -100,7 +103,6 @@ DOMAIN-SUFFIX,hx168.com.cn
 DOMAIN-SUFFIX,hxzq.cn
 DOMAIN-SUFFIX,i618.com.cn
 DOMAIN-SUFFIX,igwfmc.com
-DOMAIN-SUFFIX,include:hsbc-cn
 DOMAIN-SUFFIX,iztzq.com
 DOMAIN-SUFFIX,jhzq.com.cn
 DOMAIN-SUFFIX,jpmorganchina.com

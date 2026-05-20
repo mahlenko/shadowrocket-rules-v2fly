@@ -1,9 +1,9 @@
 # NAME: CHINATELECOM
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:41:53
-# DOMAIN-SUFFIX: 10
-# TOTAL: 10
+# UPDATED: 2026-05-20 12:50:47
+# DOMAIN-SUFFIX: 14
+# TOTAL: 14
 DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,bestpay.cn
 DOMAIN-SUFFIX,bestpay.com.cn
@@ -12,5 +12,9 @@ DOMAIN-SUFFIX,chinatelecom.com.cn
 DOMAIN-SUFFIX,chinatelecomglobal.com
 DOMAIN-SUFFIX,chinatelecomhk.com
 DOMAIN-SUFFIX,chntel.com
-DOMAIN-SUFFIX,include:ctexcel
+DOMAIN-SUFFIX,ctexcel.ca
+DOMAIN-SUFFIX,ctexcel.com
+DOMAIN-SUFFIX,ctexcel.com.hk
+DOMAIN-SUFFIX,ctexcel.fr
+DOMAIN-SUFFIX,ctexcel.us
 DOMAIN-SUFFIX,vnet.cn

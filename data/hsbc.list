@@ -1,9 +1,9 @@
 # NAME: HSBC
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:41:53
-# DOMAIN-SUFFIX: 46
-# TOTAL: 46
+# UPDATED: 2026-05-20 12:50:48
+# DOMAIN-SUFFIX: 48
+# TOTAL: 48
 DOMAIN-SUFFIX,hsbc
 DOMAIN-SUFFIX,hsbc-alternatives.de
 DOMAIN-SUFFIX,hsbc-transactionservices.de
@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,hsbc.com.au
 DOMAIN-SUFFIX,hsbc.com.bd
 DOMAIN-SUFFIX,hsbc.com.bh
 DOMAIN-SUFFIX,hsbc.com.br
+DOMAIN-SUFFIX,hsbc.com.cn
 DOMAIN-SUFFIX,hsbc.com.eg
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hsbc.com.mo
@@ -45,8 +46,9 @@ DOMAIN-SUFFIX,hsbc.net
 DOMAIN-SUFFIX,hsbc.uk
 DOMAIN-SUFFIX,hsbcamanah.com.my
 DOMAIN-SUFFIX,hsbcinnovationbanking.com
+DOMAIN-SUFFIX,hsbcinsurance.com.cn
 DOMAIN-SUFFIX,hsbcnet.com
 DOMAIN-SUFFIX,hsbcprivatebank.com
+DOMAIN-SUFFIX,hsbcqh.com.cn
 DOMAIN-SUFFIX,hsbctrinkaus.de
-DOMAIN-SUFFIX,include:hsbc-cn
 DOMAIN-SUFFIX,vv1865.com

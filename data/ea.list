@@ -1,10 +1,10 @@
 # NAME: EA
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 12:41:53
-# DOMAIN-SUFFIX: 156
-# DOMAIN: 2
-# TOTAL: 158
+# UPDATED: 2026-05-20 12:50:47
+# DOMAIN-SUFFIX: 159
+# DOMAIN: 6
+# TOTAL: 165
 DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
 DOMAIN-SUFFIX,apexlegends.com
@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,camelotherald.com
 DOMAIN-SUFFIX,camelotherald.net
 DOMAIN-SUFFIX,capitalgames.com
 DOMAIN-SUFFIX,chillingo.com
+DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,cncrivals.com
 DOMAIN-SUFFIX,commandandconquer.com
 DOMAIN-SUFFIX,conquerwithcharacter.com
@@ -73,6 +74,7 @@ DOMAIN-SUFFIX,easportsfootball.com
 DOMAIN-SUFFIX,easportsfootballclub.com
 DOMAIN-SUFFIX,easportsmma.com
 DOMAIN-SUFFIX,easportsworld.com
+DOMAIN-SUFFIX,eastore.com
 DOMAIN-SUFFIX,electronicarts.com
 DOMAIN-SUFFIX,electronicarts.fr
 DOMAIN-SUFFIX,fifastreet.com
@@ -83,8 +85,8 @@ DOMAIN-SUFFIX,futunited.com
 DOMAIN-SUFFIX,ghostgames.com
 DOMAIN-SUFFIX,heroesofdragonage.com
 DOMAIN-SUFFIX,hutpromos.com
-DOMAIN-SUFFIX,include:origin
 DOMAIN-SUFFIX,industrialtoys.com
+DOMAIN-SUFFIX,lordofultima.com
 DOMAIN-SUFFIX,maddenchampionship.com
 DOMAIN-SUFFIX,maddenrewards.com
 DOMAIN-SUFFIX,maddenseason.info
@@ -118,6 +120,9 @@ DOMAIN-SUFFIX,needforspeedtherun.com
 DOMAIN-SUFFIX,needforspeedtimeattack.com
 DOMAIN-SUFFIX,needforspeedundergroundeast.com
 DOMAIN-SUFFIX,nfsworld.com
+DOMAIN,origin-a.akamaihd.net
+DOMAIN-SUFFIX,origin.com
+DOMAIN-SUFFIX,origin.tv
 DOMAIN-SUFFIX,plantsvszombies2.com
 DOMAIN-SUFFIX,play4free.com
 DOMAIN-SUFFIX,playapex.com
@@ -127,6 +132,7 @@ DOMAIN-SUFFIX,popcap.com
 DOMAIN-SUFFIX,projectapex.com
 DOMAIN-SUFFIX,pvzgw2.com
 DOMAIN-SUFFIX,pvzheroes.com
+DOMAIN,rtm.tnt-ea.com
 DOMAIN-SUFFIX,seaofsolitude.com
 DOMAIN-SUFFIX,simcity-buildit.com
 DOMAIN-SUFFIX,simcity.com
@@ -134,6 +140,7 @@ DOMAIN-SUFFIX,skate2.com
 DOMAIN-SUFFIX,spearhead.kr
 DOMAIN-SUFFIX,speedhunters.com
 DOMAIN-SUFFIX,spore.com
+DOMAIN,ssl-lvlt.cdn.ea.com
 DOMAIN-SUFFIX,ssx3.com
 DOMAIN-SUFFIX,starwarsbattlefront.com
 DOMAIN-SUFFIX,starwarsbattlefront2.com
