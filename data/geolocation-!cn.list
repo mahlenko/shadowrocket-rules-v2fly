@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-v2fly
-# UPDATED: 2026-05-20 15:43:07
-# DOMAIN-SUFFIX: 23621
+# UPDATED: 2026-05-21 06:58:34
+# DOMAIN-SUFFIX: 23622
 # DOMAIN: 1372
 # URL-REGEX: 161
-# TOTAL: 25154
+# TOTAL: 25155
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -21011,6 +21011,7 @@ DOMAIN-SUFFIX,tanflix.com
 DOMAIN-SUFFIX,tantaly.com
 DOMAIN-SUFFIX,taoil-cn.sbs
 DOMAIN-SUFFIX,taose.in
+DOMAIN-SUFFIX,tapnow.ai
 DOMAIN-SUFFIX,taptotokyo.com
 DOMAIN-SUFFIX,taqunuhai.vip
 DOMAIN-SUFFIX,taradinhos.com
