@@ -19,7 +19,7 @@ jobs:
       - name: Fetch upstream data
         run: |
           git clone --depth=1 https://github.com/v2fly/domain-list-community upstream
-          mkdir -p output
+          mkdir -p data
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
