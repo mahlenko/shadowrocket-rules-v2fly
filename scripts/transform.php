@@ -66,6 +66,9 @@ class DomainListTransformer
             // Убираем теги из строки
             $clean = trim(preg_replace('/@\S+/', '', $line));
 
+            // Убираем inline-комментарии
+            $clean = trim(preg_replace('/#.*$/', '', $clean));
+
             if ($clean === '') {
                 continue;
             }
