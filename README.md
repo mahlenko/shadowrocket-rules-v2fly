@@ -22,7 +22,7 @@
 2. Перейдите в **Config → Rule Sets → +**
 3. Вставьте URL нужного списка:
 ```
-https://raw.githubusercontent.com/mahlenko/shadowrocket-v2fly/main/data/<name>.list
+https://raw.githubusercontent.com/mahlenko/shadowrocket-rules-v2fly/main/data/<name>.list
 ```
 
 ### Поддержать проект
@@ -56,7 +56,7 @@ All data comes from [v2fly/domain-list-community](https://github.com/v2fly/domai
 2. Go to **Config → Rule Sets → +**
 3. Paste the URL of the desired list:
 ```
-https://raw.githubusercontent.com/mahlenko/shadowrocket-v2fly/main/data/<name>.list
+https://raw.githubusercontent.com/mahlenko/shadowrocket-rules-v2fly/main/data/<name>.list
 ```
 
 ### Support the project
