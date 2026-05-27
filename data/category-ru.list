@@ -1,10 +1,10 @@
 # NAME: CATEGORY-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 1378
+# UPDATED: 2026-05-27 07:10:44
+# DOMAIN-SUFFIX: 1380
 # DOMAIN: 232
-# TOTAL: 1610
+# TOTAL: 1612
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN-SUFFIX,21-school.ru
@@ -430,6 +430,7 @@ DOMAIN-SUFFIX,gogettaxi.org
 DOMAIN-SUFFIX,goicq.org
 DOMAIN,google-analytics-suite.ozon.ru
 DOMAIN-SUFFIX,gorodpay.ru
+DOMAIN-SUFFIX,gorzdrav.spb.ru
 DOMAIN-SUFFIX,gosdolgi.ru
 DOMAIN-SUFFIX,goskey.ru
 DOMAIN-SUFFIX,gosuslugi.ru
@@ -1223,6 +1224,7 @@ DOMAIN-SUFFIX,tomsk.ru
 DOMAIN-SUFFIX,top-fwz1.mail.ru
 DOMAIN,top-staging.mail.ru
 DOMAIN-SUFFIX,tpension.ru
+DOMAIN-SUFFIX,trace-flow.ru
 DOMAIN,tracing-http.megamarket.tech
 DOMAIN-SUFFIX,tracker-api.my.com
 DOMAIN-SUFFIX,tracker.my.com

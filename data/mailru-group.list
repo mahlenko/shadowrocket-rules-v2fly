@@ -1,10 +1,10 @@
 # NAME: MAILRU-GROUP
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 248
+# UPDATED: 2026-05-27 07:10:45
+# DOMAIN-SUFFIX: 249
 # DOMAIN: 48
-# TOTAL: 296
+# TOTAL: 297
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN-SUFFIX,ad.mail.ru
@@ -221,6 +221,7 @@ DOMAIN-SUFFIX,telega.me
 DOMAIN-SUFFIX,tetrika-school.ru
 DOMAIN-SUFFIX,top-fwz1.mail.ru
 DOMAIN,top-staging.mail.ru
+DOMAIN-SUFFIX,trace-flow.ru
 DOMAIN-SUFFIX,tracker-api.my.com
 DOMAIN-SUFFIX,tracker.my.com
 DOMAIN-SUFFIX,tusco.ru

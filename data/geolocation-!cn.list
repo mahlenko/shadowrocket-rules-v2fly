@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-26 06:52:52
-# DOMAIN-SUFFIX: 23637
+# UPDATED: 2026-05-27 07:10:44
+# DOMAIN-SUFFIX: 23639
 # DOMAIN: 1373
 # URL-REGEX: 161
-# TOTAL: 25171
+# TOTAL: 25173
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -9574,6 +9574,7 @@ DOMAIN-SUFFIX,gemfury.com
 DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.gstatic.com
 DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,gen.lib.rus.ec
 DOMAIN-SUFFIX,gendai.net
@@ -21679,6 +21680,7 @@ DOMAIN-SUFFIX,tpension.ru
 DOMAIN-SUFFIX,tpornstars.com
 DOMAIN-SUFFIX,tr.com
 DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net
+DOMAIN-SUFFIX,trace-flow.ru
 DOMAIN,tracing-http.megamarket.tech
 DOMAIN-SUFFIX,tracker-api.my.com
 DOMAIN-SUFFIX,tracker.gg
