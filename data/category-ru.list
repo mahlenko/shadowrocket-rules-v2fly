@@ -1,10 +1,10 @@
 # NAME: CATEGORY-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-27 07:10:44
-# DOMAIN-SUFFIX: 1380
+# UPDATED: 2026-05-28 06:59:57
+# DOMAIN-SUFFIX: 1386
 # DOMAIN: 232
-# TOTAL: 1612
+# TOTAL: 1618
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN-SUFFIX,21-school.ru
@@ -358,6 +358,7 @@ DOMAIN-SUFFIX,eligens.cl
 DOMAIN-SUFFIX,eligens.com.br
 DOMAIN-SUFFIX,eligens.io
 DOMAIN-SUFFIX,emias.info
+DOMAIN-SUFFIX,emias.mos.ru
 DOMAIN-SUFFIX,emias.ru
 DOMAIN-SUFFIX,enterly.ru
 DOMAIN-SUFFIX,envybox.company
@@ -664,7 +665,6 @@ DOMAIN-SUFFIX,ligastavok.ru
 DOMAIN-SUFFIX,lipetsk.ru
 DOMAIN-SUFFIX,list.ru
 DOMAIN-SUFFIX,litres.ru
-DOMAIN-SUFFIX,lk.emias.mos.ru
 DOMAIN-SUFFIX,log.dzen.ru
 DOMAIN-SUFFIX,lovina.app
 DOMAIN,loyalnost-adv.ozon.ru
@@ -737,6 +737,7 @@ DOMAIN-SUFFIX,mobile-bb.com
 DOMAIN-SUFFIX,mobile-icq.com
 DOMAIN-SUFFIX,mobileicq.com
 DOMAIN-SUFFIX,moex.com
+DOMAIN-SUFFIX,mofoms.ru
 DOMAIN-SUFFIX,mordovia.ru
 DOMAIN-SUFFIX,more.tv
 DOMAIN-SUFFIX,mos.ru
@@ -820,6 +821,7 @@ DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,okl.lt
 DOMAIN-SUFFIX,okolo.app
 DOMAIN-SUFFIX,oktech.ru
+DOMAIN-SUFFIX,oms.karelia.ru
 DOMAIN-SUFFIX,omsk.ru
 DOMAIN-SUFFIX,on-media.ru
 DOMAIN-SUFFIX,oneme.ru
@@ -946,6 +948,8 @@ DOMAIN-SUFFIX,rencapbank.ru
 DOMAIN-SUFFIX,rencredit.ru
 DOMAIN-SUFFIX,report-megafon.ru
 DOMAIN,report.ap.yandex-net.ru
+DOMAIN-SUFFIX,reso-med.com
+DOMAIN-SUFFIX,reso-med.ru
 DOMAIN-SUFFIX,restnproducts.ru
 DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,restream.ru
@@ -1114,6 +1118,7 @@ DOMAIN-SUFFIX,spasibobonus.ru
 DOMAIN-SUFFIX,spasibosb.ru
 DOMAIN-SUFFIX,spasibosberbank.ru
 DOMAIN-SUFFIX,spb.ru
+DOMAIN-SUFFIX,spboms.ru
 DOMAIN-SUFFIX,sportmail.ru
 DOMAIN-SUFFIX,spvb.ru
 DOMAIN,srch-telemeter10.g.smailru.net
@@ -1615,5 +1620,6 @@ DOMAIN-SUFFIX,zdrav10.ru
 DOMAIN-SUFFIX,zenit-card.ru
 DOMAIN-SUFFIX,zenit.ru
 DOMAIN-SUFFIX,ziraatbank.ru
+DOMAIN-SUFFIX,zub.ru
 DOMAIN-SUFFIX,zvuk-b2b.com
 DOMAIN-SUFFIX,zvuk.com
