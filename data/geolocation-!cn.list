@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-29 07:00:02
-# DOMAIN-SUFFIX: 23673
-# DOMAIN: 1373
+# UPDATED: 2026-05-30 06:28:25
+# DOMAIN-SUFFIX: 23677
+# DOMAIN: 1377
 # URL-REGEX: 161
-# TOTAL: 25207
+# TOTAL: 25215
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -1050,12 +1050,14 @@ DOMAIN-SUFFIX,adporn.cc
 DOMAIN-SUFFIX,adpornu.xyz
 DOMAIN-SUFFIX,ads-api.duolingo.com
 DOMAIN,ads-gate.wildberries.ru
+DOMAIN,ads-img.mozilla.org
 DOMAIN,ads-integration.rustore.ru
 DOMAIN,ads-media.wildberries.ru
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN,ads.dahlmessenger.com
 DOMAIN,ads.icq.com
+DOMAIN,ads.mozilla.org
 DOMAIN,ads.rustore.ru
 DOMAIN-SUFFIX,ads.sber.ru
 DOMAIN-SUFFIX,ads.viqeo.tv
@@ -11911,6 +11913,8 @@ DOMAIN-SUFFIX,incestporn.xxx
 DOMAIN-SUFFIX,incestvidz.com
 DOMAIN-SUFFIX,incezt.net
 DOMAIN-SUFFIX,inclusivegrowthscore.com
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN-SUFFIX,incommon-rsa.org
 DOMAIN-SUFFIX,ind.sh
 DOMAIN-SUFFIX,indazn.com
@@ -13618,6 +13622,7 @@ DOMAIN-SUFFIX,littlesexdolls.com
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,litvfreepc.akamaized.net
 DOMAIN-SUFFIX,liuhefabu.club
+DOMAIN-SUFFIX,liv.ac.uk
 DOMAIN,live-patreon-marketing.pantheonsite.io
 DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,live.com
@@ -13639,12 +13644,14 @@ DOMAIN-SUFFIX,liveporngirls.com
 DOMAIN-SUFFIX,liveprivates.com
 DOMAIN-SUFFIX,liverail.com
 DOMAIN-SUFFIX,liverail.tv
+DOMAIN-SUFFIX,liverpool.ac.uk
 DOMAIN-SUFFIX,livesex.com
 DOMAIN-SUFFIX,livesexasian.com
 DOMAIN-SUFFIX,livesketchshare.com
 DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,livexxx.me
 DOMAIN-SUFFIX,livingyourambition.com
+DOMAIN-SUFFIX,livinno.org
 DOMAIN-SUFFIX,livrariart.com.br
 DOMAIN-SUFFIX,lizardporn.com
 DOMAIN-SUFFIX,lizol.co.in
@@ -16782,6 +16789,7 @@ DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,ootbstudio.co.kr
 DOMAIN-SUFFIX,op.gg
 DOMAIN-SUFFIX,op7979.com
+DOMAIN-SUFFIX,opac-project.eu
 DOMAIN-SUFFIX,opal.google
 DOMAIN-SUFFIX,opal.google.com
 DOMAIN-SUFFIX,openai.com

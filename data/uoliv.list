@@ -1,0 +1,10 @@
+# NAME: UOLIV
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-05-30 06:28:25
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,liv.ac.uk
+DOMAIN-SUFFIX,liverpool.ac.uk
+DOMAIN-SUFFIX,livinno.org
+DOMAIN-SUFFIX,opac-project.eu
