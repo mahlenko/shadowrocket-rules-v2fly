@@ -1,9 +1,10 @@
 # NAME: CATEGORY-BROWSER-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
+# UPDATED: 2026-06-01 08:41:25
 # DOMAIN-SUFFIX: 29
-# TOTAL: 29
+# DOMAIN: 1
+# TOTAL: 30
 DOMAIN-SUFFIX,basilisk-browser.org
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bromite.org
@@ -24,6 +25,7 @@ DOMAIN-SUFFIX,kiwibrowser.com
 DOMAIN-SUFFIX,kmeleonbrowser.org
 DOMAIN-SUFFIX,librewolf.net
 DOMAIN-SUFFIX,minbrowser.org
+DOMAIN,mozilla-ohttp.fastly-edge.com
 DOMAIN-SUFFIX,netsurf-browser.org
 DOMAIN-SUFFIX,opera.com
 DOMAIN-SUFFIX,palemoon.org
