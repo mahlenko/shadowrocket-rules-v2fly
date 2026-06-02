@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-01 08:41:26
-# DOMAIN-SUFFIX: 23682
+# UPDATED: 2026-06-02 08:01:36
+# DOMAIN-SUFFIX: 23684
 # DOMAIN: 1378
 # URL-REGEX: 161
-# TOTAL: 25221
+# TOTAL: 25223
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -9637,6 +9637,7 @@ DOMAIN-SUFFIX,geti2p.net
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getnews.jp
 DOMAIN-SUFFIX,getoutline.org
+DOMAIN-SUFFIX,getpaint.net
 DOMAIN-SUFFIX,getpocket.com
 DOMAIN-SUFFIX,getporn.tv
 DOMAIN-SUFFIX,getprintersupports.com
@@ -17046,6 +17047,7 @@ DOMAIN-SUFFIX,paily.net
 DOMAIN-SUFFIX,paily.org
 DOMAIN-SUFFIX,painfulpussytortures.com
 DOMAIN-SUFFIX,painnovel.com
+DOMAIN-SUFFIX,paint.net
 DOMAIN-SUFFIX,paipal.com
 DOMAIN-SUFFIX,paipancon.com
 DOMAIN-SUFFIX,paisapay.cc
