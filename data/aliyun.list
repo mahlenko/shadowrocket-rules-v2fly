@@ -1,9 +1,9 @@
 # NAME: ALIYUN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 77
-# TOTAL: 77
+# UPDATED: 2026-06-03 08:24:45
+# DOMAIN-SUFFIX: 78
+# TOTAL: 78
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncdn.com
 DOMAIN-SUFFIX,aliyuncdn.net
 DOMAIN-SUFFIX,aliyunfile.com
+DOMAIN-SUFFIX,aliyunidaas.com
 DOMAIN-SUFFIX,aliyunpds.com
 DOMAIN-SUFFIX,atanx.alicdn.com
 DOMAIN-SUFFIX,atanx2.alicdn.com

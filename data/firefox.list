@@ -1,10 +1,13 @@
 # NAME: FIREFOX
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-01 08:41:26
-# DOMAIN-SUFFIX: 2
+# UPDATED: 2026-06-03 08:24:46
+# DOMAIN-SUFFIX: 5
 # DOMAIN: 1
-# TOTAL: 3
+# TOTAL: 6
+DOMAIN-SUFFIX,extendfirefox.com
 DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefox.hu
+DOMAIN-SUFFIX,firefoxtweetmachine.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN,mozilla-ohttp.fastly-edge.com

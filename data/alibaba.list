@@ -1,15 +1,18 @@
 # NAME: ALIBABA
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-27 07:10:43
-# DOMAIN-SUFFIX: 398
-# TOTAL: 398
+# UPDATED: 2026-06-03 08:24:45
+# DOMAIN-SUFFIX: 419
+# TOTAL: 419
+DOMAIN-SUFFIX,11222.cn
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,25pp.com
 DOMAIN-SUFFIX,56che.com
+DOMAIN-SUFFIX,56xiniao.com
 DOMAIN-SUFFIX,88cha.com
 DOMAIN-SUFFIX,95095.com
 DOMAIN-SUFFIX,9game.cn
+DOMAIN-SUFFIX,9xsecndns.cn
 DOMAIN-SUFFIX,a-map.cn
 DOMAIN-SUFFIX,a-map.co
 DOMAIN-SUFFIX,a-map.link
@@ -77,6 +80,7 @@ DOMAIN-SUFFIX,aliexpress.ru
 DOMAIN-SUFFIX,alifanyi.com
 DOMAIN-SUFFIX,aligames.com
 DOMAIN-SUFFIX,aligfwaf.com
+DOMAIN-SUFFIX,alihealth.cn
 DOMAIN-SUFFIX,alihealth.com.cn
 DOMAIN-SUFFIX,alihealth.hk
 DOMAIN-SUFFIX,aliimg.com
@@ -111,6 +115,8 @@ DOMAIN-SUFFIX,alitrip.com
 DOMAIN-SUFFIX,aliunicorn.com
 DOMAIN-SUFFIX,aliway.com
 DOMAIN-SUFFIX,aliwork.com
+DOMAIN-SUFFIX,aliwx.com.cn
+DOMAIN-SUFFIX,aliwx.net
 DOMAIN-SUFFIX,alixiaomi.com
 DOMAIN-SUFFIX,aliyun-inc.com
 DOMAIN-SUFFIX,aliyun-iot-share.com
@@ -121,6 +127,7 @@ DOMAIN-SUFFIX,aliyundrive.cloud
 DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,aliyunfile.com
+DOMAIN-SUFFIX,aliyunidaas.com
 DOMAIN-SUFFIX,aliyunpds.com
 DOMAIN-SUFFIX,alizhaopin.com
 DOMAIN-SUFFIX,alog.umeng.com
@@ -164,9 +171,12 @@ DOMAIN-SUFFIX,cnlogs.umengcloud.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,cueme.cn
 DOMAIN-SUFFIX,damai.cn
+DOMAIN-SUFFIX,danniao.com
 DOMAIN-SUFFIX,dayu.com
 DOMAIN-SUFFIX,ddurl.to
 DOMAIN-SUFFIX,dfkhgj.com
+DOMAIN-SUFFIX,dianwoda.cn
+DOMAIN-SUFFIX,dianwoda.com
 DOMAIN-SUFFIX,dingding.xin
 DOMAIN-SUFFIX,dingtalk.cn
 DOMAIN-SUFFIX,dingtalk.com
@@ -218,8 +228,11 @@ DOMAIN-SUFFIX,ica-alliance.org
 DOMAIN-SUFFIX,iconfont.cn
 DOMAIN-SUFFIX,ics.design
 DOMAIN-SUFFIX,imgcook.com
+DOMAIN-SUFFIX,ishuqi.com
 DOMAIN-SUFFIX,iuynfg.com
 DOMAIN-SUFFIX,jhgtgb.com
+DOMAIN-SUFFIX,jiaoyimao.cn
+DOMAIN-SUFFIX,jiaoyimao.com
 DOMAIN-SUFFIX,juhuasuan.com
 DOMAIN-SUFFIX,kanbox.com
 DOMAIN-SUFFIX,kaola.com
@@ -250,6 +263,7 @@ DOMAIN-SUFFIX,laiwang.com
 DOMAIN-SUFFIX,lazada.com
 DOMAIN-SUFFIX,liangxinyao.com
 DOMAIN-SUFFIX,lingshoujia.com
+DOMAIN-SUFFIX,lingxigames.com
 DOMAIN-SUFFIX,log.umtrack.com
 DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,lstat.youku.com
@@ -264,6 +278,7 @@ DOMAIN-SUFFIX,lydass.net
 DOMAIN-SUFFIX,m-adash.m.taobao.com
 DOMAIN-SUFFIX,m-now.cn
 DOMAIN-SUFFIX,maitix.com
+DOMAIN-SUFFIX,mappcloud.com
 DOMAIN-SUFFIX,marketing.alibaba.com
 DOMAIN-SUFFIX,mashort.cn
 DOMAIN-SUFFIX,mdeer.com
@@ -320,6 +335,7 @@ DOMAIN-SUFFIX,phpwind.com
 DOMAIN-SUFFIX,phpwind.net
 DOMAIN-SUFFIX,pl.youku.com
 DOMAIN-SUFFIX,plbslog.umeng.com
+DOMAIN-SUFFIX,pp.cn
 DOMAIN-SUFFIX,puata.info
 DOMAIN-SUFFIX,qingtingtrip.com
 DOMAIN-SUFFIX,quark.cn
@@ -331,11 +347,14 @@ DOMAIN-SUFFIX,saee.org.cn
 DOMAIN-SUFFIX,shenjing.com
 DOMAIN-SUFFIX,shujupie.com
 DOMAIN-SUFFIX,shuqi.com
+DOMAIN-SUFFIX,shuqiapi.com
+DOMAIN-SUFFIX,shuqiread.com
 DOMAIN-SUFFIX,shuqireader.com
 DOMAIN-SUFFIX,shyhhema.com
 DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,sparenode.com
+DOMAIN-SUFFIX,sqreader.com
 DOMAIN-SUFFIX,stat.youku.com
 DOMAIN-SUFFIX,statis.api.3g.youku.com
 DOMAIN-SUFFIX,supet.com
@@ -363,6 +382,7 @@ DOMAIN-SUFFIX,tmjl.ai
 DOMAIN-SUFFIX,tns.simba.taobao.com
 DOMAIN-SUFFIX,track.lc.quark.cn
 DOMAIN-SUFFIX,ttpod.com
+DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,uc123.com
 DOMAIN-SUFFIX,ucweb.com
@@ -400,5 +420,6 @@ DOMAIN-SUFFIX,yunpan.aliyun.com
 DOMAIN-SUFFIX,yushanfang.com
 DOMAIN-SUFFIX,z.gds.cnzz.com
 DOMAIN-SUFFIX,zhisheng.com
+DOMAIN-SUFFIX,zimgs.cn
 DOMAIN-SUFFIX,ztna-dingtalk.com
 DOMAIN-SUFFIX,zuodao.com

@@ -1,11 +1,11 @@
-# NAME: GOOGLE
+# NAME: ALPHABET
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-03 08:24:46
-# DOMAIN-SUFFIX: 872
+# UPDATED: 2026-06-03 08:24:45
+# DOMAIN-SUFFIX: 882
 # DOMAIN: 233
 # URL-REGEX: 2
-# TOTAL: 1107
+# TOTAL: 1117
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
@@ -17,6 +17,7 @@ DOMAIN,2mdn.net
 DOMAIN-SUFFIX,466453.com
 URL-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 URL-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,adgoogle.net
 DOMAIN-SUFFIX,admeld.com
 DOMAIN-SUFFIX,admob-cn.com
@@ -181,7 +182,9 @@ DOMAIN,c.android.clients.google.com
 DOMAIN,c.pki.goog
 DOMAIN,cache-management-prod.google.com
 DOMAIN,cache.pack.google.com
+DOMAIN-SUFFIX,calicolabs.com
 DOMAIN-SUFFIX,campuslondon.com
+DOMAIN-SUFFIX,capitalg.com
 DOMAIN-SUFFIX,certificate-transparency.org
 DOMAIN-SUFFIX,charlestonroadregistry.com
 DOMAIN,checkin.gstatic.com
@@ -309,6 +312,7 @@ DOMAIN-SUFFIX,get.new
 DOMAIN-SUFFIX,get.page
 DOMAIN-SUFFIX,get.rsvp
 DOMAIN-SUFFIX,getbumptop.com
+DOMAIN-SUFFIX,gfiber.com
 DOMAIN-SUFFIX,ggoogle.com
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
@@ -625,6 +629,7 @@ DOMAIN-SUFFIX,gstaticcnapps.cn
 DOMAIN-SUFFIX,gsuite.com
 DOMAIN,gtm.oasisfeng.com
 DOMAIN-SUFFIX,guge
+DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt1.com
@@ -650,6 +655,7 @@ DOMAIN-SUFFIX,idx.dev
 DOMAIN-SUFFIX,igoogle.com
 DOMAIN,imasdk.googleapis.com
 DOMAIN-SUFFIX,impermium.com
+DOMAIN-SUFFIX,isomorphiclabs.com
 DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,j2objc.org
 DOMAIN-SUFFIX,jibemobile.com
@@ -895,11 +901,13 @@ DOMAIN-SUFFIX,usvimosquitoproject.com
 DOMAIN-SUFFIX,v8.dev
 DOMAIN-SUFFIX,v8project.org
 DOMAIN-SUFFIX,velostrata.com
+DOMAIN-SUFFIX,verily.com
 DOMAIN-SUFFIX,verilylifesciences.com
 DOMAIN-SUFFIX,verilystudyhub.com
 DOMAIN-SUFFIX,verilystudywatch.com
 DOMAIN-SUFFIX,verilystudywatch.org
 DOMAIN-SUFFIX,wallet.com
+DOMAIN-SUFFIX,waymo.com
 DOMAIN-SUFFIX,waze.com
 DOMAIN,wear.googleapis.com
 DOMAIN-SUFFIX,web.app
@@ -907,6 +915,7 @@ DOMAIN-SUFFIX,web.dev
 DOMAIN-SUFFIX,webappfieldguide.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,webmproject.org
+DOMAIN-SUFFIX,webpass.net
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,weltweitwachsen.de
@@ -914,6 +923,7 @@ DOMAIN-SUFFIX,whatbrowser.org
 DOMAIN-SUFFIX,whats.new
 DOMAIN-SUFFIX,wide-youtube.l.google.com
 DOMAIN-SUFFIX,widevine.com
+DOMAIN-SUFFIX,wing.com
 DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,womenwill.com

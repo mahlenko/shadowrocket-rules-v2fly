@@ -1,11 +1,11 @@
 # NAME: CATEGORY-GAMES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 946
+# UPDATED: 2026-06-03 08:24:45
+# DOMAIN-SUFFIX: 950
 # DOMAIN: 99
 # URL-REGEX: 7
-# TOTAL: 1052
+# TOTAL: 1056
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,2k.com
@@ -70,6 +70,7 @@ DOMAIN-SUFFIX,acesofthunder.net
 DOMAIN-SUFFIX,activematter.game
 DOMAIN-SUFFIX,aki-game.com
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+DOMAIN-SUFFIX,aligames.com
 DOMAIN-SUFFIX,amiibo.com
 DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
@@ -379,6 +380,8 @@ DOMAIN-SUFFIX,industrialtoys.com
 DOMAIN-SUFFIX,instituteofwar.org
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone
+DOMAIN-SUFFIX,jiaoyimao.cn
+DOMAIN-SUFFIX,jiaoyimao.com
 DOMAIN-SUFFIX,joinsquad.com
 DOMAIN-SUFFIX,joyjoy.net
 DOMAIN-SUFFIX,juequling.com
@@ -423,6 +426,7 @@ DOMAIN-SUFFIX,learnwithleague.com
 DOMAIN-SUFFIX,ledu.com
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
+DOMAIN-SUFFIX,lingxigames.com
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
 DOMAIN-SUFFIX,lol-europe.com
