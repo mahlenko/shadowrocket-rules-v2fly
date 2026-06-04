@@ -1,9 +1,9 @@
 # NAME: YOUKU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-03 08:24:46
-# DOMAIN-SUFFIX: 29
-# TOTAL: 29
+# UPDATED: 2026-06-04 07:57:29
+# DOMAIN-SUFFIX: 31
+# TOTAL: 31
 DOMAIN-SUFFIX,9xsecndns.cn
 DOMAIN-SUFFIX,ad.api.3g.youku.com
 DOMAIN-SUFFIX,ad.api.mobile.youku.com
@@ -32,4 +32,6 @@ DOMAIN-SUFFIX,yk-ssp.ad.youku.com
 DOMAIN-SUFFIX,ykad-data.youku.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,zimgs.cn
+DOMAIN-SUFFIX,youku.tv
+DOMAIN-SUFFIX,youkuhonor.com
+DOMAIN-SUFFIX,youkuplay.com

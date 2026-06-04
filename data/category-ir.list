@@ -1,9 +1,9 @@
 # NAME: CATEGORY-IR
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 379
-# TOTAL: 379
+# UPDATED: 2026-06-04 07:57:28
+# DOMAIN-SUFFIX: 380
+# TOTAL: 380
 DOMAIN-SUFFIX,7sobh.com
 DOMAIN-SUFFIX,abanbroker.com
 DOMAIN-SUFFIX,abantether.com
@@ -192,6 +192,7 @@ DOMAIN-SUFFIX,kmsco.ir
 DOMAIN-SUFFIX,learnby.ir
 DOMAIN-SUFFIX,loxblog.com
 DOMAIN-SUFFIX,mahex.com
+DOMAIN-SUFFIX,maktabkhooneh.org
 DOMAIN-SUFFIX,mardomsalari.ir
 DOMAIN-SUFFIX,mashreghnews.ir
 DOMAIN-SUFFIX,maskanbourse.com
