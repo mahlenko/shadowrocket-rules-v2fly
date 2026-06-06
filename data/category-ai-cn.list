@@ -1,10 +1,10 @@
 # NAME: CATEGORY-AI-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-04 07:57:28
-# DOMAIN-SUFFIX: 99
+# UPDATED: 2026-06-06 06:34:39
+# DOMAIN-SUFFIX: 100
 # DOMAIN: 2
-# TOTAL: 101
+# TOTAL: 102
 DOMAIN,ai.zhaomi.cn
 DOMAIN-SUFFIX,aispeech.com
 DOMAIN-SUFFIX,antafu.com
@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,hi-butterfly.cn
 DOMAIN-SUFFIX,hunyuan.tencent.com
 DOMAIN-SUFFIX,instreet.com
 DOMAIN-SUFFIX,kimi.com
+DOMAIN-SUFFIX,klingai.com
 DOMAIN-SUFFIX,liblib.art
 DOMAIN-SUFFIX,liblib.cloud
 DOMAIN-SUFFIX,liblib.tv

@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-05 07:14:40
-# DOMAIN-SUFFIX: 672
+# UPDATED: 2026-06-06 06:34:39
+# DOMAIN-SUFFIX: 674
 # DOMAIN: 22
 # URL-REGEX: 1
-# TOTAL: 695
+# TOTAL: 697
 DOMAIN-SUFFIX,11222.cn
 DOMAIN-SUFFIX,13a.com
 DOMAIN-SUFFIX,17173.com
@@ -485,6 +485,7 @@ DOMAIN-SUFFIX,maxjia.com
 DOMAIN-SUFFIX,me4399.com
 DOMAIN-SUFFIX,metalrevolution.com
 DOMAIN-SUFFIX,mfuns.cn
+DOMAIN-SUFFIX,mfuns.net
 DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
@@ -543,6 +544,7 @@ DOMAIN-SUFFIX,pubghelper.com
 DOMAIN-SUFFIX,pubgno1.cn
 DOMAIN-SUFFIX,pubgtool.com
 DOMAIN-SUFFIX,qimao.com
+DOMAIN-SUFFIX,qingque.cn
 DOMAIN-SUFFIX,qingting.fm
 DOMAIN-SUFFIX,qishui.cn
 DOMAIN-SUFFIX,qishui.com
