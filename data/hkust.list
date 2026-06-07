@@ -1,0 +1,10 @@
+# NAME: HKUST
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-06-07 07:10:48
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,hkust.edu.hk
+DOMAIN-SUFFIX,hkust.hk
+DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.hk
+DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.xn--j6w193g

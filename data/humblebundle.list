@@ -1,0 +1,9 @@
+# NAME: HUMBLEBUNDLE
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-06-07 07:10:48
+# DOMAIN-SUFFIX: 1
+# DOMAIN: 1
+# TOTAL: 2
+DOMAIN,hb.imgix.net
+DOMAIN-SUFFIX,humblebundle.com
