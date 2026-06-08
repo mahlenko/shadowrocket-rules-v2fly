@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-07 07:10:47
+# UPDATED: 2026-06-08 08:18:19
 # DOMAIN-SUFFIX: 7667
-# DOMAIN: 966
+# DOMAIN: 962
 # URL-REGEX: 6
-# TOTAL: 8639
+# TOTAL: 8635
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -2207,6 +2207,7 @@ DOMAIN,cl1.apple.com
 DOMAIN,cl2-cdn.origin-apple.com.akadns.net
 DOMAIN,cl2-cn.apple.com
 DOMAIN,cl2.apple.com
+DOMAIN,cl2.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,cl3-cdn.origin-apple.com.akadns.net
 DOMAIN,cl3.apple.com
 DOMAIN,cl4-cdn.origin-apple.com.akadns.net
@@ -4064,6 +4065,7 @@ DOMAIN,gs-loc-cn.apple.com
 DOMAIN,gs-loc.apple.com
 DOMAIN-SUFFIX,gs.apple.com
 DOMAIN,gsp10-ssl-cn.ls.apple.com
+DOMAIN,gsp11-cn.ls.apple.com
 DOMAIN,gsp12-cn.ls.apple.com
 DOMAIN,gsp13-cn.ls.apple.com
 DOMAIN,gsp4-cn.ls.apple.com
@@ -4404,11 +4406,9 @@ DOMAIN-SUFFIX,ibookpartner.com
 DOMAIN-SUFFIX,ibooksauthor.com
 DOMAIN-SUFFIX,ichat.co.in
 DOMAIN-SUFFIX,icloud-apple.cn
-DOMAIN,icloud-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-isupport.com
 DOMAIN-SUFFIX,icloud-sandbox.com
-DOMAIN,icloud.cdn-apple.com
 DOMAIN-SUFFIX,icloud.ch
 DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.com
@@ -6139,11 +6139,9 @@ DOMAIN-SUFFIX,objectarx.com
 DOMAIN-SUFFIX,obs.mts.ru
 DOMAIN-SUFFIX,observable.net
 DOMAIN-SUFFIX,obsrvbl.com
-DOMAIN,ocsp-lb.apple.com.akadns.net
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.microsoft.com
 DOMAIN,ocsp.pki.goog
-DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN-SUFFIX,octocaptcha.com
 DOMAIN-SUFFIX,ocul.us
@@ -6332,7 +6330,6 @@ DOMAIN-SUFFIX,panasonic.cn
 DOMAIN-SUFFIX,panasonic.com
 DOMAIN-SUFFIX,panasonic.jp
 DOMAIN,pancake.apple.com
-DOMAIN,pancake.cdn-apple.com.akadns.net
 DOMAIN-SUFFIX,panoramio.com
 DOMAIN-SUFFIX,pardot.com
 DOMAIN-SUFFIX,parse.com
@@ -6694,7 +6691,6 @@ DOMAIN-SUFFIX,researchkit.hk
 DOMAIN-SUFFIX,researchkit.net
 DOMAIN-SUFFIX,researchkit.org
 DOMAIN-SUFFIX,researchkit.tv
-DOMAIN,reserve-prime.apple.com
 DOMAIN-SUFFIX,respawnbyrazer.com
 DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,restream.ru

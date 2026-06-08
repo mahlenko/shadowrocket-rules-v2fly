@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-07 07:10:48
-# DOMAIN-SUFFIX: 23923
-# DOMAIN: 1382
+# UPDATED: 2026-06-08 08:18:20
+# DOMAIN-SUFFIX: 23922
+# DOMAIN: 1378
 # URL-REGEX: 161
-# TOTAL: 25466
+# TOTAL: 25461
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -2055,7 +2055,6 @@ DOMAIN,api.dashlytrack.app
 DOMAIN,api.mindbox.cloud
 DOMAIN,api.mindbox.ru
 DOMAIN-SUFFIX,api.news
-DOMAIN-SUFFIX,api.notion.com
 DOMAIN,api.viu.now.com
 DOMAIN-SUFFIX,apibay.org
 DOMAIN-SUFFIX,apigee.com
@@ -5586,6 +5585,7 @@ DOMAIN,cl1.apple.com
 DOMAIN,cl2-cdn.origin-apple.com.akadns.net
 DOMAIN,cl2-cn.apple.com
 DOMAIN,cl2.apple.com
+DOMAIN,cl2.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,cl3-cdn.origin-apple.com.akadns.net
 DOMAIN,cl3.apple.com
 DOMAIN,cl4-cdn.origin-apple.com.akadns.net
@@ -10429,6 +10429,7 @@ DOMAIN-SUFFIX,gshow.com
 DOMAIN-SUFFIX,gshow.com.br
 DOMAIN-SUFFIX,gslink.us
 DOMAIN,gsp10-ssl-cn.ls.apple.com
+DOMAIN,gsp11-cn.ls.apple.com
 DOMAIN,gsp12-cn.ls.apple.com
 DOMAIN,gsp13-cn.ls.apple.com
 DOMAIN,gsp4-cn.ls.apple.com
@@ -11593,11 +11594,9 @@ DOMAIN-SUFFIX,ichat.co.in
 DOMAIN-SUFFIX,ichigocandy.com
 DOMAIN-SUFFIX,ichineseporn.com
 DOMAIN-SUFFIX,icloud-apple.cn
-DOMAIN,icloud-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-isupport.com
 DOMAIN-SUFFIX,icloud-sandbox.com
-DOMAIN,icloud.cdn-apple.com
 DOMAIN-SUFFIX,icloud.ch
 DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.com
@@ -11945,7 +11944,6 @@ DOMAIN-SUFFIX,imdb.to
 DOMAIN-SUFFIX,imessage.tv
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,img-s-msn-com.akamaized.net
-DOMAIN-SUFFIX,img.notionusercontent.com
 DOMAIN-SUFFIX,imgbb.com
 DOMAIN-SUFFIX,imgcrl.org
 DOMAIN-SUFFIX,imgix.com
@@ -16358,6 +16356,7 @@ DOMAIN-SUFFIX,noticias-rt.com
 DOMAIN,notify.ppy.sh
 DOMAIN-SUFFIX,notimundo.press
 DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion-status.com
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
@@ -16685,13 +16684,11 @@ DOMAIN-SUFFIX,obutu.com
 DOMAIN-SUFFIX,ocbmwdealers.com
 DOMAIN-SUFFIX,ocourier.ru
 DOMAIN-SUFFIX,ocsp-certum.com
-DOMAIN,ocsp-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,ocsp-responder.com
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.microsoft.com
 DOMAIN,ocsp.pki.goog
 DOMAIN-SUFFIX,ocsp.verisign.com
-DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN-SUFFIX,octocaptcha.com
 DOMAIN-SUFFIX,ocul.us
@@ -17183,7 +17180,6 @@ DOMAIN-SUFFIX,panasonic.cn
 DOMAIN-SUFFIX,panasonic.com
 DOMAIN-SUFFIX,panasonic.jp
 DOMAIN,pancake.apple.com
-DOMAIN,pancake.cdn-apple.com.akadns.net
 DOMAIN-SUFFIX,pancolle-movie.jp
 DOMAIN-SUFFIX,panda30.shop
 DOMAIN-SUFFIX,pandamovies.pw
@@ -18954,7 +18950,6 @@ DOMAIN-SUFFIX,researchkit.org
 DOMAIN-SUFFIX,researchkit.tv
 DOMAIN-SUFFIX,resella.jp
 DOMAIN-SUFFIX,resellablue.com
-DOMAIN,reserve-prime.apple.com
 DOMAIN-SUFFIX,resonabank.co.jp
 DOMAIN-SUFFIX,resoubanana.buzz
 DOMAIN-SUFFIX,resoubang.buzz
