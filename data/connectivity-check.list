@@ -1,10 +1,10 @@
 # NAME: CONNECTIVITY-CHECK
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-08 08:18:20
+# UPDATED: 2026-06-09 06:55:28
 # DOMAIN-SUFFIX: 10
-# DOMAIN: 18
-# TOTAL: 28
+# DOMAIN: 17
+# TOTAL: 27
 DOMAIN-SUFFIX,captive.apple.com
 DOMAIN,conn1.oppomobile.com
 DOMAIN,conn2.oppomobile.com
@@ -29,7 +29,6 @@ DOMAIN,ping.archlinux.org
 DOMAIN,redirect.archlinux.org
 DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN,wifi.vivo.com.cn
-DOMAIN,www.google.com
 DOMAIN,www.gstatic.com
 DOMAIN,www.qualcomm.cn
 DOMAIN,www.qualcomm.com

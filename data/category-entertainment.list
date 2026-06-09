@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-07 07:10:47
-# DOMAIN-SUFFIX: 1691
+# UPDATED: 2026-06-09 06:55:27
+# DOMAIN-SUFFIX: 1695
 # DOMAIN: 202
 # URL-REGEX: 13
-# TOTAL: 1906
+# TOTAL: 1910
 URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
@@ -1087,6 +1087,7 @@ DOMAIN,ntdofifreepc-tgc.cdn.hinet.net
 DOMAIN,ntdofifreetv-tgc.cdn.hinet.net
 DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net
 DOMAIN-SUFFIX,nunuyy.cc
+DOMAIN-SUFFIX,nxtv.jp
 DOMAIN-SUFFIX,odysee.com
 DOMAIN-SUFFIX,offworldindustries.com
 DOMAIN-SUFFIX,offworldindustries.net
@@ -1589,6 +1590,9 @@ DOMAIN-SUFFIX,ultimaforever.com
 DOMAIN-SUFFIX,ultimaonline.com
 DOMAIN-SUFFIX,umamusume.akamaized.net
 DOMAIN-SUFFIX,underlords.com
+DOMAIN-SUFFIX,unext-info.jp
+DOMAIN-SUFFIX,unext.co.jp
+DOMAIN-SUFFIX,unext.jp
 DOMAIN-SUFFIX,unravel2.com
 DOMAIN-SUFFIX,unraveltwo.com
 DOMAIN-SUFFIX,unrealengine.com

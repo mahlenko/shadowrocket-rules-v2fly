@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-08 08:18:20
-# DOMAIN-SUFFIX: 23922
+# UPDATED: 2026-06-09 06:55:28
+# DOMAIN-SUFFIX: 23926
 # DOMAIN: 1378
 # URL-REGEX: 161
-# TOTAL: 25461
+# TOTAL: 25465
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -16638,6 +16638,7 @@ DOMAIN-SUFFIX,nwxs8.com
 DOMAIN-SUFFIX,nxta.org
 DOMAIN-SUFFIX,nxtdig.com.hk
 DOMAIN-SUFFIX,nxtdig.com.tw
+DOMAIN-SUFFIX,nxtv.jp
 DOMAIN-SUFFIX,nyaa.net
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,nyahentai.re
@@ -22366,6 +22367,9 @@ DOMAIN-SUFFIX,uncensoredhentai.xxx
 DOMAIN-SUFFIX,uncensoredsexparties.com
 DOMAIN-SUFFIX,underhentai.net
 DOMAIN-SUFFIX,underlords.com
+DOMAIN-SUFFIX,unext-info.jp
+DOMAIN-SUFFIX,unext.co.jp
+DOMAIN-SUFFIX,unext.jp
 DOMAIN-SUFFIX,unfiltered.news
 DOMAIN-SUFFIX,unidraw.io
 DOMAIN-SUFFIX,uninhibitedcomix.com
