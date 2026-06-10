@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-09 06:55:28
-# DOMAIN-SUFFIX: 23926
+# UPDATED: 2026-06-10 07:14:37
+# DOMAIN-SUFFIX: 23927
 # DOMAIN: 1378
 # URL-REGEX: 161
-# TOTAL: 25465
+# TOTAL: 25466
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -12025,6 +12025,7 @@ DOMAIN-SUFFIX,infocert.digital
 DOMAIN-SUFFIX,infocert.it
 DOMAIN-SUFFIX,infoglobo.com.br
 DOMAIN-SUFFIX,infolinker.com.tw
+DOMAIN-SUFFIX,infoq.com
 DOMAIN-SUFFIX,infoq.jp
 DOMAIN,informer.yandex.ru
 DOMAIN-SUFFIX,informs.org

@@ -1,10 +1,10 @@
 # NAME: CATEGORY-MEDIA
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-04 07:57:28
-# DOMAIN-SUFFIX: 1552
+# UPDATED: 2026-06-10 07:14:36
+# DOMAIN-SUFFIX: 1553
 # DOMAIN: 24
-# TOTAL: 1576
+# TOTAL: 1577
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1degree.com.au
 DOMAIN-SUFFIX,1prime.ru
@@ -736,6 +736,7 @@ DOMAIN-SUFFIX,ind.sh
 DOMAIN-SUFFIX,india.com
 DOMAIN-SUFFIX,indiancolleges.com
 DOMAIN-SUFFIX,infoglobo.com.br
+DOMAIN-SUFFIX,infoq.com
 DOMAIN-SUFFIX,infotimes.com.tw
 DOMAIN-SUFFIX,infowars.com
 DOMAIN-SUFFIX,infowarsmedia.com

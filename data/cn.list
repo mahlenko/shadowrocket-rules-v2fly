@@ -1,11 +1,11 @@
 # NAME: CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-06 06:34:39
-# DOMAIN-SUFFIX: 4879
+# UPDATED: 2026-06-10 07:14:36
+# DOMAIN-SUFFIX: 4878
 # DOMAIN: 61
 # URL-REGEX: 3
-# TOTAL: 4943
+# TOTAL: 4942
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -1769,6 +1769,7 @@ DOMAIN-SUFFIX,gdjdxy.com
 DOMAIN-SUFFIX,gdliontech.com
 DOMAIN-SUFFIX,gdrc.com
 DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,geekbang.org
 DOMAIN-SUFFIX,geekpark.net
 DOMAIN-SUFFIX,geektool.top
 DOMAIN-SUFFIX,geely.com
@@ -2289,8 +2290,7 @@ DOMAIN-SUFFIX,inewsweek.cn
 DOMAIN-SUFFIX,infineon.cn
 DOMAIN-SUFFIX,infini-fantasy.com
 DOMAIN-SUFFIX,infinitynewtab.com
-DOMAIN-SUFFIX,infoq.com
-DOMAIN-SUFFIX,infoqstatic.com
+DOMAIN-SUFFIX,infoq.cn
 DOMAIN-SUFFIX,inftab.com
 DOMAIN-SUFFIX,inke.cn
 DOMAIN-SUFFIX,inkuai.com
@@ -2303,7 +2303,6 @@ DOMAIN-SUFFIX,intime.com.cn
 DOMAIN-SUFFIX,intsig.com
 DOMAIN-SUFFIX,intsig.net
 DOMAIN-SUFFIX,iotronic.tech
-DOMAIN-SUFFIX,ip-cdn.com
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ipanda.cn
 DOMAIN-SUFFIX,ipanda.com
