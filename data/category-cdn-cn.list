@@ -1,9 +1,9 @@
 # NAME: CATEGORY-CDN-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-06 06:34:39
-# DOMAIN-SUFFIX: 92
-# TOTAL: 92
+# UPDATED: 2026-06-10 15:25:58
+# DOMAIN-SUFFIX: 93
+# TOTAL: 93
 DOMAIN-SUFFIX,51cdn.com
 DOMAIN-SUFFIX,8686c.com
 DOMAIN-SUFFIX,acadn.cn
@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,lxdns.org
 DOMAIN-SUFFIX,mcadn.cn
 DOMAIN-SUFFIX,mwcdns.com
 DOMAIN-SUFFIX,mwcloudcdn.com
+DOMAIN-SUFFIX,npsv6.com
 DOMAIN-SUFFIX,oncdp.com
 DOMAIN-SUFFIX,ourdvsss.com
 DOMAIN-SUFFIX,phpcomposer.com

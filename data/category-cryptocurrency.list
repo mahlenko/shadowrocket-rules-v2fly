@@ -1,10 +1,10 @@
 # NAME: CATEGORY-CRYPTOCURRENCY
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 179
+# UPDATED: 2026-06-10 15:25:58
+# DOMAIN-SUFFIX: 183
 # DOMAIN: 6
-# TOTAL: 185
+# TOTAL: 189
 DOMAIN-SUFFIX,1inch.io
 DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,appsflayer.com
@@ -123,12 +123,15 @@ DOMAIN-SUFFIX,huobi.sc
 DOMAIN-SUFFIX,huobiasia.vip
 DOMAIN-SUFFIX,huobigroup.com
 DOMAIN-SUFFIX,huobitoken.com
+DOMAIN-SUFFIX,hyperliquid.xyz
 DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,invity.io
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,kraken.onl
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kucoin.plus
+DOMAIN-SUFFIX,lighter.exchange
+DOMAIN-SUFFIX,lighter.xyz
 DOMAIN-SUFFIX,localbitcoins.com
 DOMAIN-SUFFIX,localbitcoinschain.com
 DOMAIN-SUFFIX,maple.finance
@@ -190,3 +193,4 @@ DOMAIN-SUFFIX,zb.app
 DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,zb.io
 DOMAIN-SUFFIX,zb.live
+DOMAIN-SUFFIX,zklighter.elliot.ai

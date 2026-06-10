@@ -1,11 +1,11 @@
 # NAME: CATEGORY-DEV
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-07 07:10:47
-# DOMAIN-SUFFIX: 518
+# UPDATED: 2026-06-10 15:25:58
+# DOMAIN-SUFFIX: 532
 # DOMAIN: 75
 # URL-REGEX: 1
-# TOTAL: 594
+# TOTAL: 608
 URL-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
@@ -123,6 +123,7 @@ DOMAIN-SUFFIX,draftjs.org
 DOMAIN,dtlgalleryint.cloudapp.net
 DOMAIN-SUFFIX,ecr.aws
 DOMAIN-SUFFIX,electronjs.org
+DOMAIN-SUFFIX,elegantthemes.com
 DOMAIN-SUFFIX,elementary.io
 DOMAIN-SUFFIX,elixir-lang.org
 DOMAIN-SUFFIX,elrepo.org
@@ -258,6 +259,7 @@ DOMAIN-SUFFIX,haskellstack.org
 DOMAIN-SUFFIX,hex.pm
 DOMAIN-SUFFIX,hexdocs.pm
 DOMAIN-SUFFIX,hhvm.com
+DOMAIN-SUFFIX,hivepress.io
 DOMAIN,homebrew.bintray.com
 DOMAIN-SUFFIX,hyperscan.io
 DOMAIN-SUFFIX,iads.unity3d.com
@@ -342,6 +344,7 @@ DOMAIN-SUFFIX,modperl.pl
 DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,mongodb.org
 DOMAIN-SUFFIX,mono-project.com
+DOMAIN-SUFFIX,motopress.com
 DOMAIN-SUFFIX,mpv.io
 DOMAIN-SUFFIX,msdn.com
 DOMAIN-SUFFIX,msinnovationchallenge.com
@@ -566,6 +569,7 @@ DOMAIN-SUFFIX,vfsforgit.com
 DOMAIN-SUFFIX,vfsforgit.org
 DOMAIN-SUFFIX,videojs.com
 DOMAIN-SUFFIX,videolan.org
+DOMAIN-SUFFIX,videopress.com
 DOMAIN-SUFFIX,vim.org
 DOMAIN-SUFFIX,visualstudio-staging.com
 DOMAIN-SUFFIX,visualstudio.co
@@ -582,6 +586,7 @@ DOMAIN,vscode.blob.core.windows.net
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN,vscode.search.windows.net
 DOMAIN,vsmarketplacebadge.apphb.com
+DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,wapm.io
 DOMAIN-SUFFIX,wasmer.io
 DOMAIN-SUFFIX,webflow.com
@@ -590,7 +595,16 @@ DOMAIN-SUFFIX,webkitgtk.org
 DOMAIN-SUFFIX,weblate.org
 DOMAIN-SUFFIX,webobjects.com
 DOMAIN-SUFFIX,wireshark.org
+DOMAIN-SUFFIX,wordcamp.org
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wordpress.net
+DOMAIN-SUFFIX,wordpress.org
+DOMAIN-SUFFIX,wordpress.tv
+DOMAIN-SUFFIX,wp-themes.com
+DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,wpewebkit.org
+DOMAIN-SUFFIX,wpmailsmtp.com
+DOMAIN-SUFFIX,wpvip.com
 DOMAIN-SUFFIX,x.org
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN-SUFFIX,xfce.org
