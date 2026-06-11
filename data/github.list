@@ -1,10 +1,10 @@
 # NAME: GITHUB
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 29
+# UPDATED: 2026-06-11 08:10:25
+# DOMAIN-SUFFIX: 30
 # DOMAIN: 32
-# TOTAL: 61
+# TOTAL: 62
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN,copilot-proxy.githubusercontent.com
@@ -15,6 +15,7 @@ DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,ghe.com
 DOMAIN-SUFFIX,git.io
 DOMAIN,github-api.arkoselabs.com
 DOMAIN,github-cloud.s3.amazonaws.com

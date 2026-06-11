@@ -1,11 +1,11 @@
 # NAME: CATEGORY-GAMES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-07 07:10:47
-# DOMAIN-SUFFIX: 951
+# UPDATED: 2026-06-11 08:10:24
+# DOMAIN-SUFFIX: 957
 # DOMAIN: 100
 # URL-REGEX: 7
-# TOTAL: 1058
+# TOTAL: 1064
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,2k.com
@@ -208,6 +208,7 @@ DOMAIN-SUFFIX,dodi-repacks.download
 DOMAIN-SUFFIX,dodi-repacks.site
 DOMAIN-SUFFIX,donkeykongcountryreturns.com
 DOMAIN-SUFFIX,doom.com
+DOMAIN-SUFFIX,dota2.com
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,dragonage.com
 DOMAIN-SUFFIX,dragonagekeep.com
@@ -255,8 +256,6 @@ DOMAIN-SUFFIX,embark-studios.com
 DOMAIN-SUFFIX,embark.games
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
-DOMAIN-SUFFIX,eneba.com
-DOMAIN-SUFFIX,eneba.games
 DOMAIN-SUFFIX,enlisted.net
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
@@ -271,6 +270,7 @@ DOMAIN-SUFFIX,faceit.com
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,feihuo.com
 DOMAIN-SUFFIX,ffbuddy.com
+DOMAIN-SUFFIX,ficgs.com
 DOMAIN-SUFFIX,fifastreet.com
 DOMAIN-SUFFIX,fifastreet3.com
 DOMAIN-SUFFIX,fire-emblem-heroes.com
@@ -304,6 +304,8 @@ DOMAIN-SUFFIX,gameloop.com
 DOMAIN-SUFFIX,gamemei.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,gamesfirsthelsinki.com
+DOMAIN-SUFFIX,gamesplanet.com
+DOMAIN-SUFFIX,gametap.com
 DOMAIN-SUFFIX,garena.co.id
 DOMAIN-SUFFIX,garena.co.th
 DOMAIN-SUFFIX,garena.com
@@ -341,6 +343,7 @@ DOMAIN-SUFFIX,goto-game.net.cn
 DOMAIN-SUFFIX,goto-game.org
 DOMAIN-SUFFIX,gotolink.net
 DOMAIN-SUFFIX,gouhuo.qq.com
+DOMAIN-SUFFIX,gpstatic.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
 DOMAIN-SUFFIX,gtgres.com
 DOMAIN-SUFFIX,guoping123.com
@@ -542,7 +545,9 @@ DOMAIN-SUFFIX,newsupermariobrosu.com
 DOMAIN-SUFFIX,nexon.co.jp
 DOMAIN-SUFFIX,nexon.com
 DOMAIN-SUFFIX,nexon.io
+DOMAIN-SUFFIX,nexon.net
 DOMAIN-SUFFIX,nexoncdn.co.kr
+DOMAIN-SUFFIX,nexongames.co.kr
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextworkshop.net
 DOMAIN-SUFFIX,nexus-cdn.com
@@ -948,6 +953,7 @@ DOMAIN-SUFFIX,uo.com
 DOMAIN-SUFFIX,uoherald.com
 DOMAIN-SUFFIX,uplay.com
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN-SUFFIX,valve.net
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN,videos-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,videoxiaoyouxi.com

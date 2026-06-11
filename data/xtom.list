@@ -1,0 +1,18 @@
+# NAME: XTOM
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-06-11 08:10:25
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
+DOMAIN-SUFFIX,v.ps
+DOMAIN-SUFFIX,vps.hosting
+DOMAIN-SUFFIX,xtom.au
+DOMAIN-SUFFIX,xtom.com
+DOMAIN-SUFFIX,xtom.de
+DOMAIN-SUFFIX,xtom.ee
+DOMAIN-SUFFIX,xtom.hk
+DOMAIN-SUFFIX,xtom.jp
+DOMAIN-SUFFIX,xtom.nl
+DOMAIN-SUFFIX,xtom.sg
+DOMAIN-SUFFIX,xtom.social
+DOMAIN-SUFFIX,xtom.us

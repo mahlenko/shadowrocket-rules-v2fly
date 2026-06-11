@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-09 06:55:27
-# DOMAIN-SUFFIX: 1695
+# UPDATED: 2026-06-11 08:10:24
+# DOMAIN-SUFFIX: 1701
 # DOMAIN: 202
 # URL-REGEX: 13
-# TOTAL: 1910
+# TOTAL: 1916
 URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
@@ -439,6 +439,7 @@ DOMAIN-SUFFIX,dogatch.jp
 DOMAIN-SUFFIX,dokusho-ojikan.jp
 DOMAIN-SUFFIX,donkeykongcountryreturns.com
 DOMAIN-SUFFIX,doom.com
+DOMAIN-SUFFIX,dota2.com
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN,dqd0jw5gvbchn.cloudfront.net
 DOMAIN,dqrpb9wgowsf5.cloudfront.net
@@ -499,8 +500,6 @@ DOMAIN-SUFFIX,electronicarts.fr
 DOMAIN-SUFFIX,elpionero.es
 DOMAIN-SUFFIX,embark-studios.com
 DOMAIN-SUFFIX,embark.games
-DOMAIN-SUFFIX,eneba.com
-DOMAIN-SUFFIX,eneba.games
 DOMAIN-SUFFIX,enlisted.net
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
@@ -534,6 +533,7 @@ DOMAIN-SUFFIX,fc-buddyfight.com
 DOMAIN-SUFFIX,fic.fan
 DOMAIN-SUFFIX,ficador.com
 DOMAIN-SUFFIX,ficbook.net
+DOMAIN-SUFFIX,ficgs.com
 DOMAIN-SUFFIX,ficmania.com
 DOMAIN-SUFFIX,fifastreet.com
 DOMAIN-SUFFIX,fifastreet3.com
@@ -577,6 +577,8 @@ DOMAIN-SUFFIX,gamer.ne.jp
 DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,gamesfirsthelsinki.com
 DOMAIN-SUFFIX,gamespark.jp
+DOMAIN-SUFFIX,gamesplanet.com
+DOMAIN-SUFFIX,gametap.com
 DOMAIN-SUFFIX,garena.co.id
 DOMAIN-SUFFIX,garena.co.th
 DOMAIN-SUFFIX,garena.com
@@ -619,6 +621,7 @@ DOMAIN-SUFFIX,gooblox.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gorin.jp
+DOMAIN-SUFFIX,gpstatic.com
 DOMAIN-SUFFIX,gr-assets.com
 DOMAIN-SUFFIX,greatgame.asia
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
@@ -999,7 +1002,9 @@ DOMAIN-SUFFIX,newsupermariobrosu.com
 DOMAIN-SUFFIX,nexon.co.jp
 DOMAIN-SUFFIX,nexon.com
 DOMAIN-SUFFIX,nexon.io
+DOMAIN-SUFFIX,nexon.net
 DOMAIN-SUFFIX,nexoncdn.co.kr
+DOMAIN-SUFFIX,nexongames.co.kr
 DOMAIN-SUFFIX,nexus-cdn.com
 DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,nflxext.com
@@ -1602,6 +1607,7 @@ DOMAIN-SUFFIX,uoherald.com
 DOMAIN-SUFFIX,uplay.com
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN,uts-api.itunes.apple.com
+DOMAIN-SUFFIX,valve.net
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,vhx.tv
 DOMAIN-SUFFIX,vhxqa1.com

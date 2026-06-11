@@ -1,11 +1,11 @@
 # NAME: CATEGORY-DEV
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-10 15:25:58
-# DOMAIN-SUFFIX: 532
+# UPDATED: 2026-06-11 08:10:24
+# DOMAIN-SUFFIX: 536
 # DOMAIN: 75
 # URL-REGEX: 1
-# TOTAL: 608
+# TOTAL: 612
 URL-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
@@ -109,6 +109,9 @@ DOMAIN-SUFFIX,developerservices2.apple.com
 DOMAIN-SUFFIX,devimages-cdn.apple.com
 DOMAIN-SUFFIX,devopsassessment.net
 DOMAIN-SUFFIX,devstreaming-cdn.apple.com
+DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,discourse.group
+DOMAIN-SUFFIX,discourse.org
 DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 DOMAIN,docker-pinata-support.s3.amazonaws.com
 DOMAIN-SUFFIX,docker.com
@@ -204,6 +207,7 @@ DOMAIN-SUFFIX,getpaint.net
 DOMAIN-SUFFIX,getzola.org
 DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,ghe.com
 DOMAIN-SUFFIX,git-scm.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitbook.com
