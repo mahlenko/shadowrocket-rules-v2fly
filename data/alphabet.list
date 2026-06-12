@@ -1,15 +1,15 @@
 # NAME: ALPHABET
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-03 08:24:45
-# DOMAIN-SUFFIX: 882
+# UPDATED: 2026-06-12 07:57:59
+# DOMAIN-SUFFIX: 884
 # DOMAIN: 233
 # URL-REGEX: 2
-# TOTAL: 1117
+# TOTAL: 1119
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
-DOMAIN,265.com
+DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
@@ -217,6 +217,7 @@ DOMAIN-SUFFIX,cookiechoices.org
 DOMAIN-SUFFIX,coova.com
 DOMAIN-SUFFIX,coova.net
 DOMAIN-SUFFIX,coova.org
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
@@ -936,6 +937,7 @@ DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.gstatic.com
 DOMAIN,www.pxcc.com
+DOMAIN,www.recaptcha-cn.net
 DOMAIN,www.recaptcha.net
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,x.team

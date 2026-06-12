@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-11 08:10:24
-# DOMAIN-SUFFIX: 7680
+# UPDATED: 2026-06-12 07:57:59
+# DOMAIN-SUFFIX: 7682
 # DOMAIN: 962
 # URL-REGEX: 6
-# TOTAL: 8648
+# TOTAL: 8650
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -69,7 +69,7 @@ DOMAIN-SUFFIX,20yearsoffea.com
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
 DOMAIN-SUFFIX,21vbluecloud.net
-DOMAIN,265.com
+DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2beatsdre.com
 DOMAIN-SUFFIX,2buybeatsbydre.com
 DOMAIN-SUFFIX,2drdrebeats.com
@@ -2352,6 +2352,7 @@ DOMAIN-SUFFIX,cozydrdrebeats.com
 DOMAIN-SUFFIX,cpedge.com
 DOMAIN-SUFFIX,cqcorea.com
 DOMAIN-SUFFIX,crankplayer.com
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,createspace.com
 DOMAIN-SUFFIX,createwhatsnext.com
@@ -8092,6 +8093,7 @@ DOMAIN,www.destinationurl.com
 DOMAIN,www.gstatic.com
 DOMAIN,www.microsoft.com
 DOMAIN,www.pxcc.com
+DOMAIN,www.recaptcha-cn.net
 DOMAIN,www.recaptcha.net
 DOMAIN,www.support.apple.com
 DOMAIN-SUFFIX,www8-hp.com

@@ -1,11 +1,11 @@
 # NAME: CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-11 08:10:24
-# DOMAIN-SUFFIX: 4917
+# UPDATED: 2026-06-12 07:58:00
+# DOMAIN-SUFFIX: 4915
 # DOMAIN: 61
 # URL-REGEX: 3
-# TOTAL: 4981
+# TOTAL: 4979
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -1348,7 +1348,6 @@ DOMAIN-SUFFIX,dlgslb.cn
 DOMAIN-SUFFIX,dlgslb.net
 DOMAIN-SUFFIX,dlnel.com
 DOMAIN-SUFFIX,dlnel.org
-DOMAIN-SUFFIX,dlswbr.baidu.com
 DOMAIN-SUFFIX,dmall.com
 DOMAIN-SUFFIX,dmallcdn.com
 DOMAIN-SUFFIX,dmzj.com
@@ -3026,7 +3025,6 @@ DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,miaibox.com
-DOMAIN-SUFFIX,miao.baidu.com
 DOMAIN-SUFFIX,miaobolive.com
 DOMAIN-SUFFIX,miaomiaoz.com
 DOMAIN-SUFFIX,miaomiaozhe.com

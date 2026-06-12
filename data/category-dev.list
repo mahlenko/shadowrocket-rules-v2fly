@@ -1,11 +1,11 @@
 # NAME: CATEGORY-DEV
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-11 08:10:24
-# DOMAIN-SUFFIX: 536
-# DOMAIN: 75
+# UPDATED: 2026-06-12 07:57:59
+# DOMAIN-SUFFIX: 544
+# DOMAIN: 77
 # URL-REGEX: 1
-# TOTAL: 612
+# TOTAL: 622
 URL-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
@@ -21,12 +21,14 @@ DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,anaconda.cloud
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,anaconda.org
+DOMAIN-SUFFIX,analytics.cloud.unity3d.com
 DOMAIN-SUFFIX,android
 DOMAIN-SUFFIX,android.com
 DOMAIN,android.googlesource.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,api-extractor.com
+DOMAIN-SUFFIX,api2.amplitude.com
 DOMAIN-SUFFIX,apisof.net
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,apple-cloudkit.com
@@ -65,6 +67,7 @@ DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,carekit.org
 DOMAIN,cdn.ampproject.org
 DOMAIN-SUFFIX,cdn.jetbrains.com
+DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 DOMAIN-SUFFIX,centos.org
 DOMAIN-SUFFIX,chocolatey.org
 DOMAIN-SUFFIX,clearlinux.org
@@ -79,6 +82,7 @@ DOMAIN-SUFFIX,compass.is
 DOMAIN-SUFFIX,componentkit.org
 DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,conda.io
+DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,consul.io
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
@@ -86,6 +90,8 @@ DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
 DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN-SUFFIX,cpan.org
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,cups.org
 DOMAIN-SUFFIX,cve.org
@@ -404,6 +410,8 @@ DOMAIN-SUFFIX,packer.io
 DOMAIN-SUFFIX,paint.net
 DOMAIN-SUFFIX,parse.com
 DOMAIN-SUFFIX,pcre.org
+DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+DOMAIN-SUFFIX,perf.cloud.unity3d.com
 DOMAIN-SUFFIX,perl.apache.org
 DOMAIN-SUFFIX,perl.org
 DOMAIN-SUFFIX,phantomjs.org
@@ -418,6 +426,7 @@ DOMAIN-SUFFIX,polymerproject.org
 DOMAIN,poshtestgallery.cloudapp.net
 DOMAIN-SUFFIX,poshtestgallery.com
 DOMAIN-SUFFIX,postgresql.org
+DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
 DOMAIN,productionresultssa0.blob.core.windows.net
 DOMAIN,productionresultssa1.blob.core.windows.net
 DOMAIN,productionresultssa10.blob.core.windows.net
@@ -563,6 +572,7 @@ DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,universalscalablefirmware.org
 DOMAIN-SUFFIX,unpkg.com
+DOMAIN,update.crashlytics.com
 DOMAIN-SUFFIX,uwpcommunitytoolkit.com
 DOMAIN-SUFFIX,v8.dev
 DOMAIN-SUFFIX,v8project.org

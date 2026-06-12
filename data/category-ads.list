@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ADS
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-05 07:14:40
-# DOMAIN-SUFFIX: 555
+# UPDATED: 2026-06-12 07:57:59
+# DOMAIN-SUFFIX: 560
 # DOMAIN: 145
 # URL-REGEX: 1
-# TOTAL: 701
+# TOTAL: 706
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN-SUFFIX,2mdn-cn.net
@@ -186,6 +186,7 @@ DOMAIN-SUFFIX,analytics-alv.google.com
 DOMAIN-SUFFIX,analytics-data.io
 DOMAIN,analytics-stage.wildberries.ru
 DOMAIN-SUFFIX,analytics.163.com
+DOMAIN-SUFFIX,analytics.cloud.unity3d.com
 DOMAIN,analytics.google.com
 DOMAIN,analytics.mobile.yandex.net
 DOMAIN-SUFFIX,analytics.umetrip.com
@@ -208,6 +209,7 @@ DOMAIN,api.dashly.app
 DOMAIN,api.dashlytrack.app
 DOMAIN,api.mindbox.cloud
 DOMAIN,api.mindbox.ru
+DOMAIN-SUFFIX,api2.amplitude.com
 DOMAIN,apilog-web.acfun.cn
 DOMAIN-SUFFIX,app-analytics-services-att.com
 DOMAIN-SUFFIX,app-analytics-services.com
@@ -255,6 +257,7 @@ DOMAIN-SUFFIX,cbjs.baidu.com
 DOMAIN-SUFFIX,cdn.advertserve.com
 DOMAIN-SUFFIX,cdn.banclip.com
 DOMAIN-SUFFIX,cdn.pocoiq.cn
+DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 DOMAIN-SUFFIX,cfts1tifqr.com
 DOMAIN-SUFFIX,china-caa.org
 DOMAIN-SUFFIX,chinaciaf.org
@@ -274,6 +277,7 @@ DOMAIN-SUFFIX,cloudpush.iqiyi.com
 DOMAIN-SUFFIX,cm.baidu.com
 DOMAIN-SUFFIX,cnaa123.com
 DOMAIN-SUFFIX,collector.xhamster.com
+DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,contentabc.com
 DOMAIN-SUFFIX,counter.yandex.ru
 DOMAIN-SUFFIX,cpro.baidu.com
@@ -300,7 +304,6 @@ DOMAIN-SUFFIX,dc.letv.com
 DOMAIN-SUFFIX,decide.mixpanel.com
 DOMAIN-SUFFIX,dig.bdurl.net
 DOMAIN,disney.my.sentry.io
-DOMAIN-SUFFIX,dlswbr.baidu.com
 DOMAIN-SUFFIX,dn-growing.qbox.me
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.cn
@@ -462,7 +465,6 @@ DOMAIN,metrika.kontur.ru
 DOMAIN-SUFFIX,metrika.yandex.com
 DOMAIN-SUFFIX,metrika.yandex.net
 DOMAIN-SUFFIX,metrika.yandex.ru
-DOMAIN-SUFFIX,miao.baidu.com
 DOMAIN-SUFFIX,miaowu.baidu.com
 DOMAIN-SUFFIX,microad.co.jp
 DOMAIN-SUFFIX,microad.jp
@@ -517,6 +519,8 @@ DOMAIN-SUFFIX,panplayable-toutiao-b.com
 DOMAIN-SUFFIX,panplayable-toutiao.com
 DOMAIN-SUFFIX,partnerad.l.google.com
 DOMAIN-SUFFIX,pbmp.ali213.net
+DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+DOMAIN-SUFFIX,perf.cloud.unity3d.com
 DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com
 DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
@@ -539,6 +543,7 @@ DOMAIN,pixel.yandex.com
 DOMAIN-SUFFIX,pmir.3g.qq.com
 DOMAIN-SUFFIX,policy.video.iqiyi.com
 DOMAIN-SUFFIX,pos.baidu.com
+DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
 DOMAIN,prodvizhenie-adv.ozon.ru
 DOMAIN-SUFFIX,push.qq.com
 DOMAIN-SUFFIX,pv.hd.sohu.com

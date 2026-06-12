@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-11 08:10:25
-# DOMAIN-SUFFIX: 23983
+# UPDATED: 2026-06-12 07:58:00
+# DOMAIN-SUFFIX: 23993
 # DOMAIN: 1378
 # URL-REGEX: 161
-# TOTAL: 25522
+# TOTAL: 25532
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -366,7 +366,7 @@ DOMAIN-SUFFIX,24h.tv
 DOMAIN-SUFFIX,24hjav.com
 DOMAIN-SUFFIX,24porn.com
 DOMAIN-SUFFIX,24porn.pro
-DOMAIN,265.com
+DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,265sdwe3.com
 DOMAIN-SUFFIX,2789av.com
 DOMAIN-SUFFIX,27mmwmmw.top
@@ -1914,6 +1914,7 @@ DOMAIN-SUFFIX,analvids.com
 DOMAIN,analytics-adv.ozon.ru
 DOMAIN-SUFFIX,analytics-alv.google.com
 DOMAIN,analytics-stage.wildberries.ru
+DOMAIN-SUFFIX,analytics.cloud.unity3d.com
 DOMAIN-SUFFIX,analytics.facebook.com
 DOMAIN,analytics.google.com
 DOMAIN,analytics.mobile.yandex.net
@@ -2057,6 +2058,7 @@ DOMAIN,api.mindbox.cloud
 DOMAIN,api.mindbox.ru
 DOMAIN-SUFFIX,api.news
 DOMAIN,api.viu.now.com
+DOMAIN-SUFFIX,api2.amplitude.com
 DOMAIN-SUFFIX,apibay.org
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,apihub-internal.cn
@@ -5264,6 +5266,7 @@ DOMAIN-SUFFIX,cdnvideo.ru
 DOMAIN-SUFFIX,cdnvideohub.com
 DOMAIN-SUFFIX,cdnxxx-proxy.co
 DOMAIN-SUFFIX,cdnxxx-proxy.xyz
+DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 DOMAIN,cds-cdn.v.aaplimg.com
 DOMAIN,cds.apple.com
 DOMAIN,cds.apple.com.akadns.net
@@ -5903,6 +5906,7 @@ DOMAIN-SUFFIX,comsoc.org
 DOMAIN-SUFFIX,conair.me
 DOMAIN-SUFFIX,conan.xxx
 DOMAIN-SUFFIX,conda.io
+DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
 DOMAIN,configuration-lb.ls-apple.com.akadns.net
 DOMAIN-SUFFIX,configuration.apple.com
 DOMAIN,configuration.apple.com
@@ -6021,6 +6025,7 @@ DOMAIN-SUFFIX,cqcorea.com
 DOMAIN-SUFFIX,crabporn.com
 DOMAIN-SUFFIX,craigslist.org
 DOMAIN-SUFFIX,crankplayer.com
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,crazy-amateurs.com
@@ -16818,6 +16823,7 @@ DOMAIN-SUFFIX,oktech.ru
 DOMAIN-SUFFIX,okx-dns.com
 DOMAIN-SUFFIX,okx-dns1.com
 DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,okx.ac
 DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
@@ -17542,6 +17548,8 @@ DOMAIN-SUFFIX,pentium.net
 DOMAIN-SUFFIX,peopledreamfunding.com
 DOMAIN-SUFFIX,peoplenews.tw
 DOMAIN-SUFFIX,pepabo.com
+DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+DOMAIN-SUFFIX,perf.cloud.unity3d.com
 DOMAIN-SUFFIX,perfectgirls.net
 DOMAIN-SUFFIX,perfectgonzo.com
 DOMAIN-SUFFIX,perfectkickz.net
@@ -18294,6 +18302,7 @@ DOMAIN,practivate.adobe.newoa
 DOMAIN,practivate.adobe.ntp
 DOMAIN-SUFFIX,prastitutki.ru
 DOMAIN-SUFFIX,prcm.jp
+DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
 DOMAIN,prd-priconne-redive.akamaized.net
 DOMAIN-SUFFIX,pre-bmwgroup.jobs
 DOMAIN-SUFFIX,predb.me
@@ -24142,6 +24151,7 @@ DOMAIN,www.gstatic.com
 DOMAIN,www.microsoft.com
 DOMAIN,www.pxcc.com
 DOMAIN,www.quora.com.cdn.cloudflare.net
+DOMAIN,www.recaptcha-cn.net
 DOMAIN,www.recaptcha.net
 DOMAIN-SUFFIX,www.sb
 DOMAIN,www.support.apple.com
