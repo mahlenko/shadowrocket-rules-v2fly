@@ -1,10 +1,10 @@
 # NAME: STEAM
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-11 08:10:25
+# UPDATED: 2026-06-13 07:03:09
 # DOMAIN-SUFFIX: 38
-# DOMAIN: 18
-# TOTAL: 56
+# DOMAIN: 19
+# TOTAL: 57
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN-SUFFIX,client-update.queniuqe.com
@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
 DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamugcquincy.blob.core.windows.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN,steamuserimages-a.akamaihd.net

@@ -1,0 +1,8 @@
+# NAME: LIVEJOURNAL
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-06-13 07:03:09
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,livejournal.com
+DOMAIN-SUFFIX,livejournal.net

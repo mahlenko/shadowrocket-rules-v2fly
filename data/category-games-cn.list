@@ -1,11 +1,11 @@
 # NAME: CATEGORY-GAMES-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-05 07:14:40
-# DOMAIN-SUFFIX: 225
+# UPDATED: 2026-06-13 07:03:08
+# DOMAIN-SUFFIX: 222
 # DOMAIN: 2
 # URL-REGEX: 1
-# TOTAL: 228
+# TOTAL: 225
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,3304399.com
 DOMAIN-SUFFIX,3304399.net
@@ -48,7 +48,6 @@ DOMAIN-SUFFIX,9game.cn
 DOMAIN-SUFFIX,9xgame.com
 URL-REGEX,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,abdf002.com
-DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,aligames.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,appeeres.com
@@ -118,8 +117,6 @@ DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,jiaoyimao.cn
 DOMAIN-SUFFIX,jiaoyimao.com
 DOMAIN-SUFFIX,juequling.com
-DOMAIN-SUFFIX,kurogames.com
-DOMAIN-SUFFIX,kurogames.net
 DOMAIN-SUFFIX,labycore.cn
 DOMAIN-SUFFIX,langrenclub.com
 DOMAIN-SUFFIX,ledu.com

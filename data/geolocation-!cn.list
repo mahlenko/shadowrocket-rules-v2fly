@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-12 07:58:00
-# DOMAIN-SUFFIX: 23993
-# DOMAIN: 1378
+# UPDATED: 2026-06-13 07:03:09
+# DOMAIN-SUFFIX: 23994
+# DOMAIN: 1379
 # URL-REGEX: 161
-# TOTAL: 25532
+# TOTAL: 25534
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -16434,6 +16434,7 @@ DOMAIN-SUFFIX,nsfw.xxx
 DOMAIN-SUFFIX,nsfw247.to
 DOMAIN-SUFFIX,nsfwmemes.com
 DOMAIN-SUFFIX,nsimg.net
+DOMAIN-SUFFIX,nspk.ru
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,ntd.com
 DOMAIN-SUFFIX,ntd.tv
@@ -20924,6 +20925,7 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
 DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamugcquincy.blob.core.windows.net
 DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN-SUFFIX,steamusercontent.com
