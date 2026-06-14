@@ -1,10 +1,12 @@
 # NAME: ZHIHU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# UPDATED: 2026-06-14 07:53:07
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
 DOMAIN-SUFFIX,crash2.zhihu.com
+DOMAIN-SUFFIX,laiyagushi.com
+DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com

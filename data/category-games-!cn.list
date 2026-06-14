@@ -1,11 +1,11 @@
 # NAME: CATEGORY-GAMES-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-13 07:03:08
-# DOMAIN-SUFFIX: 732
+# UPDATED: 2026-06-14 07:53:06
+# DOMAIN-SUFFIX: 733
 # DOMAIN: 99
 # URL-REGEX: 6
-# TOTAL: 837
+# TOTAL: 838
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,2k.com
 DOMAIN-SUFFIX,2kcoretech.online
@@ -658,6 +658,7 @@ DOMAIN,steamcloudsweden.blob.core.windows.net
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamconnecttest.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steamdeck.com

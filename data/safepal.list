@@ -1,0 +1,8 @@
+# NAME: SAFEPAL
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-06-14 07:53:07
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,isafepal.com
+DOMAIN-SUFFIX,safepal.com

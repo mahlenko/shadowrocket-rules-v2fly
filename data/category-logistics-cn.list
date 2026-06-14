@@ -1,9 +1,9 @@
 # NAME: CATEGORY-LOGISTICS-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-03 08:24:45
-# DOMAIN-SUFFIX: 157
-# TOTAL: 157
+# UPDATED: 2026-06-14 07:53:06
+# DOMAIN-SUFFIX: 158
+# TOTAL: 158
 DOMAIN-SUFFIX,56laile.com
 DOMAIN-SUFFIX,56xiniao.com
 DOMAIN-SUFFIX,800best.cn
@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,jtjms-mx.com
 DOMAIN-SUFFIX,jtjms-sa.com
 DOMAIN-SUFFIX,kd100.com
 DOMAIN-SUFFIX,kjwugx.com
+DOMAIN-SUFFIX,kuaidi.com
 DOMAIN-SUFFIX,kuaidi100.com
 DOMAIN-SUFFIX,kuaidilab.com
 DOMAIN-SUFFIX,linliyz.com

@@ -1,9 +1,9 @@
 # NAME: OKX
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-12 07:58:00
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# UPDATED: 2026-06-14 07:53:07
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx-dns.com
@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,okx.ac
 DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,xlayer.tech

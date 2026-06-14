@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-13 07:03:08
-# DOMAIN-SUFFIX: 1701
+# UPDATED: 2026-06-14 07:53:06
+# DOMAIN-SUFFIX: 1702
 # DOMAIN: 203
 # URL-REGEX: 13
-# TOTAL: 1917
+# TOTAL: 1918
 URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
@@ -1436,6 +1436,7 @@ DOMAIN,steamcloudsweden.blob.core.windows.net
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamconnecttest.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steamdeck.com

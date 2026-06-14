@@ -1,10 +1,15 @@
 # NAME: ITIGER
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# UPDATED: 2026-06-14 07:53:07
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
 DOMAIN-SUFFIX,itiger.com
 DOMAIN-SUFFIX,itigergrowth.com
 DOMAIN-SUFFIX,itigergrowtha.com
 DOMAIN-SUFFIX,itigerup.com
+DOMAIN-SUFFIX,laohu8.com
+DOMAIN-SUFFIX,skytigris.cn
+DOMAIN-SUFFIX,tigerbbs.cn
+DOMAIN-SUFFIX,tigerbbs.com
+DOMAIN-SUFFIX,xiaohu8.com

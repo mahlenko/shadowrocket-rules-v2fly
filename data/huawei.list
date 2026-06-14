@@ -1,9 +1,9 @@
 # NAME: HUAWEI
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-03 08:24:46
-# DOMAIN-SUFFIX: 341
-# TOTAL: 341
+# UPDATED: 2026-06-14 07:53:07
+# DOMAIN-SUFFIX: 345
+# TOTAL: 345
 DOMAIN-SUFFIX,26r9y.cn
 DOMAIN-SUFFIX,2gkjr.cn
 DOMAIN-SUFFIX,3ili6.cn
@@ -160,6 +160,7 @@ DOMAIN-SUFFIX,cdnhwczoy106.cn
 DOMAIN-SUFFIX,cdnhwczth23.com
 DOMAIN-SUFFIX,cdnhwcztu09.com
 DOMAIN-SUFFIX,cdnhwczxh101.com
+DOMAIN-SUFFIX,chaspark.com
 DOMAIN-SUFFIX,cza84.cn
 DOMAIN-SUFFIX,dbank.com
 DOMAIN-SUFFIX,dbankcdn.cn
@@ -241,6 +242,7 @@ DOMAIN-SUFFIX,huaweisre.com
 DOMAIN-SUFFIX,huaweistatic.com
 DOMAIN-SUFFIX,huaweiyun.cn
 DOMAIN-SUFFIX,huaweiyun.com
+DOMAIN-SUFFIX,hwad.net
 DOMAIN-SUFFIX,hwastro.cn
 DOMAIN-SUFFIX,hwastro.com
 DOMAIN-SUFFIX,hwccpc.cn
@@ -322,6 +324,8 @@ DOMAIN-SUFFIX,o7mu8.cn
 DOMAIN-SUFFIX,owsgo.com
 DOMAIN-SUFFIX,pagescube.cn
 DOMAIN-SUFFIX,pagescube.com
+DOMAIN-SUFFIX,petalmail.com
+DOMAIN-SUFFIX,petalmaps.com
 DOMAIN-SUFFIX,powerapp.io
 DOMAIN-SUFFIX,r8zc9.cn
 DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com

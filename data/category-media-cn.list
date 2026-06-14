@@ -1,10 +1,10 @@
 # NAME: CATEGORY-MEDIA-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-10 15:25:58
-# DOMAIN-SUFFIX: 360
+# UPDATED: 2026-06-14 07:53:06
+# DOMAIN-SUFFIX: 367
 # DOMAIN: 1
-# TOTAL: 361
+# TOTAL: 368
 DOMAIN-SUFFIX,0033.cn
 DOMAIN-SUFFIX,10jqka.com.cn
 DOMAIN-SUFFIX,21jingji.com
@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,caijing.com.cn
 DOMAIN-SUFFIX,cailianpress.com
 DOMAIN-SUFFIX,caixin.com
 DOMAIN-SUFFIX,cankaoxiaoxi.com
+DOMAIN-SUFFIX,cbinews.com
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctv4g.com
@@ -53,6 +54,7 @@ DOMAIN-SUFFIX,cctvpro.cn
 DOMAIN-SUFFIX,cctvpro.com.cn
 DOMAIN-SUFFIX,cfgw.net.cn
 DOMAIN-SUFFIX,chaindd.com
+DOMAIN-SUFFIX,cheaa.com
 DOMAIN-SUFFIX,checkzeit.com
 DOMAIN-SUFFIX,chinaaet.com
 DOMAIN-SUFFIX,chinabyte.com
@@ -137,6 +139,7 @@ DOMAIN-SUFFIX,hexin.cn
 DOMAIN-SUFFIX,hexin.com.cn
 DOMAIN-SUFFIX,hexun.com
 DOMAIN-SUFFIX,hndt.com
+DOMAIN-SUFFIX,hnol.net
 DOMAIN-SUFFIX,hntv.tv
 DOMAIN-SUFFIX,huanqiu.com
 DOMAIN-SUFFIX,huanqiucdn.cn
@@ -170,6 +173,7 @@ DOMAIN-SUFFIX,ipanda.com
 DOMAIN-SUFFIX,ipanda.com.cn
 DOMAIN-SUFFIX,ipanda.net
 DOMAIN-SUFFIX,iresearch.cn
+DOMAIN-SUFFIX,istv.cn
 DOMAIN-SUFFIX,it168.com
 DOMAIN-SUFFIX,itc.cn
 DOMAIN-SUFFIX,ithome.com
@@ -314,6 +318,9 @@ DOMAIN-SUFFIX,track.sohu.com
 DOMAIN-SUFFIX,tvcc.cn
 DOMAIN-SUFFIX,tvcc.com.cn
 DOMAIN-SUFFIX,uranus.sogou.com
+DOMAIN-SUFFIX,vbdata.cn
+DOMAIN-SUFFIX,vcbeat.top
+DOMAIN-SUFFIX,voc.com.cn
 DOMAIN-SUFFIX,wallstcn.com
 DOMAIN-SUFFIX,wallstreetcn.com
 DOMAIN-SUFFIX,wannianqingjianzhan.com
