@@ -1,10 +1,10 @@
 # NAME: CATEGORY-MEDIA-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-14 07:53:06
-# DOMAIN-SUFFIX: 367
+# UPDATED: 2026-06-15 09:31:44
+# DOMAIN-SUFFIX: 374
 # DOMAIN: 1
-# TOTAL: 368
+# TOTAL: 375
 DOMAIN-SUFFIX,0033.cn
 DOMAIN-SUFFIX,10jqka.com.cn
 DOMAIN-SUFFIX,21jingji.com
@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,chinanews.com
 DOMAIN-SUFFIX,chinanews.com.cn
 DOMAIN-SUFFIX,chinaott.com
 DOMAIN-SUFFIX,chinaqw.com
+DOMAIN-SUFFIX,chinastarmarket.cn
 DOMAIN-SUFFIX,citv.net.cn
 DOMAIN-SUFFIX,ckxx.net
 DOMAIN-SUFFIX,cls.cn
@@ -126,9 +127,11 @@ DOMAIN-SUFFIX,ggowan.com
 DOMAIN-SUFFIX,gjgbdszt.cn
 DOMAIN-SUFFIX,gjgbdszt.com.cn
 DOMAIN-SUFFIX,gjgbdszt.net.cn
-DOMAIN-SUFFIX,gmw.com
+DOMAIN-SUFFIX,gmdaily.cn
+DOMAIN-SUFFIX,gmw.cn
 DOMAIN-SUFFIX,go2map.com
 DOMAIN-SUFFIX,guancha.cn
+DOMAIN-SUFFIX,guangmingdaily.cn
 DOMAIN-SUFFIX,guigu.org
 DOMAIN-SUFFIX,gw.com.cn
 DOMAIN-SUFFIX,gxtv.cn
@@ -183,6 +186,7 @@ DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jiemian.com.cn
 DOMAIN-SUFFIX,jin10.com
 DOMAIN-SUFFIX,jinantimes.com.cn
+DOMAIN-SUFFIX,jingpt.com
 DOMAIN-SUFFIX,jiqizhixin.com
 DOMAIN-SUFFIX,jrj.com.cn
 DOMAIN-SUFFIX,jrjimg.cn
@@ -201,6 +205,7 @@ DOMAIN-SUFFIX,landian.news
 DOMAIN-SUFFIX,landian.vip
 DOMAIN-SUFFIX,landian.xyz
 DOMAIN-SUFFIX,landiannews.com
+DOMAIN-SUFFIX,lanjinger.com
 DOMAIN-SUFFIX,lapin365.com
 DOMAIN-SUFFIX,latepost.com
 DOMAIN-SUFFIX,leikeji.com
@@ -214,7 +219,9 @@ DOMAIN-SUFFIX,m.aty.sohu.com
 DOMAIN-SUFFIX,miercn.com
 DOMAIN-SUFFIX,minapp.com
 DOMAIN-SUFFIX,mnw.cn
+DOMAIN-SUFFIX,moer.cn
 DOMAIN-SUFFIX,mydrivers.com
+DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,nanyuenews.com
 DOMAIN-SUFFIX,nbd.com.cn
 DOMAIN-SUFFIX,neweekly.com.cn

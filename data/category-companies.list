@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-14 07:53:06
-# DOMAIN-SUFFIX: 7685
+# UPDATED: 2026-06-15 09:31:43
+# DOMAIN-SUFFIX: 7689
 # DOMAIN: 962
 # URL-REGEX: 6
-# TOTAL: 8653
+# TOTAL: 8657
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -6049,8 +6049,10 @@ DOMAIN-SUFFIX,nflhotsalejerseys.com
 DOMAIN-SUFFIX,nginxconfig.io
 DOMAIN-SUFFIX,nheos.com
 DOMAIN-SUFFIX,nhncorp.jp
+DOMAIN-SUFFIX,nic.ru
 DOMAIN-SUFFIX,nicesrv.de
 DOMAIN-SUFFIX,nicesshop.net
+DOMAIN-SUFFIX,nichost.ru
 DOMAIN-SUFFIX,niosii.com
 DOMAIN-SUFFIX,niosii.net
 DOMAIN-SUFFIX,nomachine.com
@@ -6619,6 +6621,7 @@ DOMAIN-SUFFIX,r.bing.com
 DOMAIN-SUFFIX,r.mail.ru
 DOMAIN,r0.mail.ru
 DOMAIN,r0.mradx.net
+DOMAIN-SUFFIX,r01.ru
 DOMAIN,r1.mail.ru
 DOMAIN-SUFFIX,rabbitcounter.com
 DOMAIN-SUFFIX,rabota.by
@@ -7328,6 +7331,7 @@ DOMAIN-SUFFIX,swdist.apple.com
 DOMAIN,swdist.apple.com
 DOMAIN,swdist.apple.com.akadns.net
 DOMAIN-SUFFIX,swdownload.apple.com
+DOMAIN-SUFFIX,sweb.ru
 DOMAIN-SUFFIX,swift.org
 DOMAIN-SUFFIX,swiftui.cn
 DOMAIN-SUFFIX,swiftui.com.cn

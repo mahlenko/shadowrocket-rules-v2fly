@@ -1,10 +1,10 @@
 # NAME: CATEGORY-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-14 07:53:06
-# DOMAIN-SUFFIX: 1535
+# UPDATED: 2026-06-15 09:31:44
+# DOMAIN-SUFFIX: 1539
 # DOMAIN: 234
-# TOTAL: 1769
+# TOTAL: 1773
 DOMAIN-SUFFIX,1917live.red
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
@@ -851,6 +851,8 @@ DOMAIN-SUFFIX,neon.click
 DOMAIN-SUFFIX,netmonet.co
 DOMAIN,new-adv.ozon.ru
 DOMAIN-SUFFIX,ngenix.net
+DOMAIN-SUFFIX,nic.ru
+DOMAIN-SUFFIX,nichost.ru
 DOMAIN-SUFFIX,nn.ru
 DOMAIN-SUFFIX,noosferabank.ru
 DOMAIN-SUFFIX,noticias-rt.com
@@ -1002,6 +1004,7 @@ DOMAIN-SUFFIX,quizlink.ru
 DOMAIN-SUFFIX,r.mail.ru
 DOMAIN,r0.mail.ru
 DOMAIN,r0.mradx.net
+DOMAIN-SUFFIX,r01.ru
 DOMAIN,r1.mail.ru
 DOMAIN-SUFFIX,rabbitcounter.com
 DOMAIN-SUFFIX,rabota.by
@@ -1289,6 +1292,7 @@ DOMAIN-SUFFIX,summitceo.ru
 DOMAIN-SUFFIX,support-uber.com
 DOMAIN-SUFFIX,surgut.ru
 DOMAIN-SUFFIX,sushiwok.ru
+DOMAIN-SUFFIX,sweb.ru
 DOMAIN-SUFFIX,swentr.site
 DOMAIN-SUFFIX,t-access.ru
 DOMAIN-SUFFIX,t-bank-app.ru

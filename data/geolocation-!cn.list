@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-14 07:53:07
-# DOMAIN-SUFFIX: 24043
+# UPDATED: 2026-06-15 09:31:44
+# DOMAIN-SUFFIX: 24047
 # DOMAIN: 1381
 # URL-REGEX: 161
-# TOTAL: 25585
+# TOTAL: 25589
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -16124,6 +16124,7 @@ DOMAIN-SUFFIX,nhk.jp
 DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,nhkworld.jp
 DOMAIN-SUFFIX,nhncorp.jp
+DOMAIN-SUFFIX,nic.ru
 DOMAIN-SUFFIX,niceanimegames.com
 DOMAIN-SUFFIX,nicegram.app
 DOMAIN-SUFFIX,nicegram.cloud
@@ -16132,6 +16133,7 @@ DOMAIN-SUFFIX,nicesrv.de
 DOMAIN-SUFFIX,nicesshop.net
 DOMAIN-SUFFIX,nichepornsite.com
 DOMAIN-SUFFIX,nichepornsites.com
+DOMAIN-SUFFIX,nichost.ru
 DOMAIN-SUFFIX,nickscipio.com
 DOMAIN-SUFFIX,nicky.xxx
 DOMAIN-SUFFIX,nico
@@ -18723,6 +18725,7 @@ DOMAIN-SUFFIX,r.bing.com
 DOMAIN-SUFFIX,r.mail.ru
 DOMAIN,r0.mail.ru
 DOMAIN,r0.mradx.net
+DOMAIN-SUFFIX,r01.ru
 DOMAIN,r1.mail.ru
 DOMAIN-SUFFIX,r10s.com
 DOMAIN-SUFFIX,r10s.jp
@@ -21214,6 +21217,7 @@ DOMAIN-SUFFIX,swdist.apple.com
 DOMAIN,swdist.apple.com
 DOMAIN,swdist.apple.com.akadns.net
 DOMAIN-SUFFIX,swdownload.apple.com
+DOMAIN-SUFFIX,sweb.ru
 DOMAIN-SUFFIX,sweetadult-tube.com
 DOMAIN-SUFFIX,sweetandmaxwell.co.uk
 DOMAIN-SUFFIX,sweetsext.com
