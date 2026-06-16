@@ -1,11 +1,11 @@
 # NAME: CATEGORY-PORN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-31 07:02:50
-# DOMAIN-SUFFIX: 6499
+# UPDATED: 2026-06-16 08:51:28
+# DOMAIN-SUFFIX: 6508
 # DOMAIN: 5
 # URL-REGEX: 140
-# TOTAL: 6644
+# TOTAL: 6653
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -1341,6 +1341,7 @@ DOMAIN-SUFFIX,cdnxxx-proxy.xyz
 DOMAIN-SUFFIX,celebforum.co
 DOMAIN-SUFFIX,celebmasta.live
 DOMAIN-SUFFIX,celebritygay.com
+DOMAIN-SUFFIX,celebritymoviearchive.com
 DOMAIN-SUFFIX,celebritynakeds.com
 DOMAIN-SUFFIX,celebrityslips.com
 DOMAIN-SUFFIX,celebritystorysite.com
@@ -2091,6 +2092,7 @@ DOMAIN-SUFFIX,foxgay.com
 DOMAIN-SUFFIX,foxhq.com
 DOMAIN-SUFFIX,foxporns.com
 DOMAIN-SUFFIX,foxtube.com
+DOMAIN-SUFFIX,fpo.xxx
 DOMAIN-SUFFIX,free-3d-porn.com
 DOMAIN-SUFFIX,free-abbywinters.com
 DOMAIN-SUFFIX,free-avx.jp
@@ -2138,6 +2140,8 @@ DOMAIN-SUFFIX,freesexvideos2k.com
 DOMAIN-SUFFIX,freesexyindians.com
 DOMAIN-SUFFIX,freesexyindians.org
 DOMAIN-SUFFIX,freeuseporn.com
+DOMAIN-SUFFIX,freexh.blog
+DOMAIN-SUFFIX,freexh.live
 DOMAIN-SUFFIX,freexvideos.org
 DOMAIN-SUFFIX,freexxx.best
 DOMAIN-SUFFIX,freexxx.win
@@ -4308,6 +4312,7 @@ DOMAIN-SUFFIX,pictoa.com
 DOMAIN-SUFFIX,pictocum.com
 DOMAIN-SUFFIX,pigav.com
 DOMAIN-SUFFIX,pikabu.monster
+DOMAIN-SUFFIX,pimpbunny.com
 DOMAIN-SUFFIX,pinduck.com
 DOMAIN-SUFFIX,pinflix.com
 DOMAIN-SUFFIX,pingguotv.xyz
@@ -4707,6 +4712,7 @@ DOMAIN-SUFFIX,postegro.it
 DOMAIN-SUFFIX,postyourgirls.ws
 DOMAIN-SUFFIX,povpornonly.com
 DOMAIN-SUFFIX,povr.com
+DOMAIN-SUFFIX,powfans.com
 DOMAIN-SUFFIX,pp6.info
 DOMAIN-SUFFIX,ppb-mod.buzz
 DOMAIN-SUFFIX,ppe.lawyer
@@ -5020,6 +5026,7 @@ DOMAIN-SUFFIX,seqing.one
 DOMAIN-SUFFIX,seqingwangzhan.pro
 DOMAIN-SUFFIX,seqingx.com
 DOMAIN-SUFFIX,ser7.cc
+DOMAIN-SUFFIX,serakon.com
 DOMAIN-SUFFIX,serbiporno.net
 DOMAIN-SUFFIX,serlucap.lol
 DOMAIN-SUFFIX,serlutv258.xyz
@@ -5952,6 +5959,7 @@ DOMAIN-SUFFIX,vrpornranked.com
 DOMAIN-SUFFIX,vrsexgames.biz
 DOMAIN-SUFFIX,vrsmash.com
 DOMAIN-SUFFIX,vrsumo.com
+DOMAIN-SUFFIX,vsex.in
 DOMAIN-SUFFIX,vsezoo.com
 DOMAIN-SUFFIX,vtrahe.page
 DOMAIN-SUFFIX,vulgarx.com
@@ -6152,6 +6160,7 @@ DOMAIN-SUFFIX,xhamster19.com
 DOMAIN-SUFFIX,xhamster2.com
 DOMAIN-SUFFIX,xhamster3.com
 DOMAIN-SUFFIX,xhamsterlive.com
+DOMAIN-SUFFIX,xhapp.live
 DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,xhnews.live
 DOMAIN-SUFFIX,xhot.pro

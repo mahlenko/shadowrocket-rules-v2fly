@@ -1,8 +1,12 @@
 # NAME: LIZHI
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2026-06-16 08:51:29
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+DOMAIN-SUFFIX,gzlzfm.com
 DOMAIN-SUFFIX,lizhi.fm
 DOMAIN-SUFFIX,lizhifm.com
+DOMAIN-SUFFIX,lizhiinc.com
+DOMAIN-SUFFIX,lz310.com
+DOMAIN-SUFFIX,lzpipi.com

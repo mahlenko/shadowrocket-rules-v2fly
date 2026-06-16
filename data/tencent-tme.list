@@ -1,9 +1,9 @@
 # NAME: TENCENT-TME
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-04 07:57:29
-# DOMAIN-SUFFIX: 43
-# TOTAL: 43
+# UPDATED: 2026-06-16 08:51:29
+# DOMAIN-SUFFIX: 45
+# TOTAL: 45
 DOMAIN-SUFFIX,97ting.com
 DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,adbehavior.ximalaya.com
@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,kugouyouth.com
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,lrts.me
 DOMAIN-SUFFIX,monitor.music.qq.com
+DOMAIN-SUFFIX,mting.info
 DOMAIN-SUFFIX,music.qq.com
 DOMAIN-SUFFIX,qqmusic.com
 DOMAIN-SUFFIX,report.tencentmusic.com
@@ -44,6 +45,7 @@ DOMAIN-SUFFIX,tingmall.com
 DOMAIN-SUFFIX,tmead.y.qq.com
 DOMAIN-SUFFIX,tmeadcomm.y.qq.com
 DOMAIN-SUFFIX,ultimatemusic.cn
+DOMAIN-SUFFIX,wting.info
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,y.qq.com

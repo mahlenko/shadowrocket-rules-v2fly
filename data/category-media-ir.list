@@ -1,9 +1,9 @@
 # NAME: CATEGORY-MEDIA-IR
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 26
-# TOTAL: 26
+# UPDATED: 2026-06-16 08:51:28
+# DOMAIN-SUFFIX: 28
+# TOTAL: 28
 DOMAIN-SUFFIX,aparat.com
 DOMAIN-SUFFIX,aparatkids.com
 DOMAIN-SUFFIX,aparatsport.com
@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,irib.ir
 DOMAIN-SUFFIX,iribtv.ir
 DOMAIN-SUFFIX,irinn.ir
 DOMAIN-SUFFIX,jjtvn.ir
+DOMAIN-SUFFIX,melodify.app
+DOMAIN-SUFFIX,melodify.pw
 DOMAIN-SUFFIX,namava.ir
 DOMAIN-SUFFIX,qurantv.ir
 DOMAIN-SUFFIX,radio.ir

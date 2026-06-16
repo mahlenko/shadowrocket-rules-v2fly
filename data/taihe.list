@@ -1,0 +1,12 @@
+# NAME: TAIHE
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-06-16 08:51:29
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+DOMAIN-SUFFIX,91q.com
+DOMAIN-SUFFIX,dmhmusic.com
+DOMAIN-SUFFIX,showstart.com
+DOMAIN-SUFFIX,taihe.com
+DOMAIN-SUFFIX,taihemusic.cn
+DOMAIN-SUFFIX,th-music.com
