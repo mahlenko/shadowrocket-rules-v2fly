@@ -1,10 +1,10 @@
 # NAME: MOZILLA
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-03 08:24:46
-# DOMAIN-SUFFIX: 67
+# UPDATED: 2026-06-18 08:14:29
+# DOMAIN-SUFFIX: 69
 # DOMAIN: 6
-# TOTAL: 73
+# TOTAL: 75
 DOMAIN,ads-img.mozilla.org
 DOMAIN,ads.mozilla.org
 DOMAIN-SUFFIX,allizom.net
@@ -76,5 +76,7 @@ DOMAIN-SUFFIX,opentimetable.jp
 DOMAIN-SUFFIX,popcornjs.org
 DOMAIN-SUFFIX,publicsuffix.org
 DOMAIN-SUFFIX,seamonkey-project.org
+DOMAIN-SUFFIX,tb.pro
 DOMAIN-SUFFIX,thunderbird.net
+DOMAIN-SUFFIX,thundermail.com
 DOMAIN-SUFFIX,webmademovies.org

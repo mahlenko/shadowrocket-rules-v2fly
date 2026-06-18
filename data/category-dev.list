@@ -1,7 +1,7 @@
 # NAME: CATEGORY-DEV
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-12 07:57:59
+# UPDATED: 2026-06-18 08:14:28
 # DOMAIN-SUFFIX: 544
 # DOMAIN: 77
 # URL-REGEX: 1
@@ -126,7 +126,6 @@ DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN-SUFFIX,docs.rs
 DOMAIN-SUFFIX,dot.net
 DOMAIN-SUFFIX,dotdeb.org
-DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,draftjs.org
 DOMAIN,dtlgalleryint.cloudapp.net
@@ -289,6 +288,7 @@ DOMAIN-SUFFIX,jenkins.io
 DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,jetbrains.cloud
 DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.com.cn
 DOMAIN-SUFFIX,jetbrains.net
 DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jetbrains.team

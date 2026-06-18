@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-15 09:31:43
-# DOMAIN-SUFFIX: 7689
+# UPDATED: 2026-06-18 08:14:28
+# DOMAIN-SUFFIX: 7694
 # DOMAIN: 962
 # URL-REGEX: 6
-# TOTAL: 8657
+# TOTAL: 8662
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -3717,6 +3717,7 @@ DOMAIN-SUFFIX,gobuildx.net
 DOMAIN-SUFFIX,gobuyonlinestore.net
 DOMAIN-SUFFIX,godaddy
 DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,godaddy.net
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,gofile.me
 DOMAIN-SUFFIX,gogettaxi.org
@@ -6788,6 +6789,7 @@ DOMAIN-SUFFIX,salesforcemarketingcloud.com
 DOMAIN-SUFFIX,samebags.com
 DOMAIN-SUFFIX,samsung
 DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsungadhub.com
 DOMAIN-SUFFIX,samsungads.com
 DOMAIN-SUFFIX,samsungapps.com
 DOMAIN-SUFFIX,samsungcloud.com
@@ -7376,6 +7378,7 @@ DOMAIN-SUFFIX,taxel.media
 DOMAIN-SUFFIX,taxiaid.org
 DOMAIN-SUFFIX,taxiguru.org
 DOMAIN-SUFFIX,taxitax.org
+DOMAIN-SUFFIX,tb.pro
 DOMAIN-SUFFIX,teamviewer.cn
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN,teamviewer.com.cdn.cloudflare.net
@@ -7443,6 +7446,7 @@ DOMAIN-SUFFIX,threatlabz.com
 DOMAIN-SUFFIX,thumbzilla.com
 DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,thunderbolttechnology.net
+DOMAIN-SUFFIX,thundermail.com
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,timefxapp.com
 DOMAIN-SUFFIX,timelinestoryteller.com
@@ -7987,6 +7991,7 @@ DOMAIN-SUFFIX,worldsfastestgamer.net
 DOMAIN-SUFFIX,wpewebkit.org
 DOMAIN,wscont1.apps.microsoft.com
 DOMAIN,wscont2.apps.microsoft.com
+DOMAIN-SUFFIX,wsimg.com
 DOMAIN-SUFFIX,wuxiapple.com
 DOMAIN-SUFFIX,wwapple.net
 DOMAIN,wwis-dubc1-vip100.adobe.com

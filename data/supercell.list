@@ -1,9 +1,10 @@
 # NAME: SUPERCELL
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 22
-# TOTAL: 22
+# UPDATED: 2026-06-18 08:14:29
+# DOMAIN-SUFFIX: 21
+# DOMAIN: 2
+# TOTAL: 23
 DOMAIN-SUFFIX,boombeach.com
 DOMAIN-SUFFIX,brawlstars.com
 DOMAIN-SUFFIX,brawlstarsgame.com
@@ -19,8 +20,9 @@ DOMAIN-SUFFIX,mo.co
 DOMAIN-SUFFIX,seeurlpcl.com
 DOMAIN-SUFFIX,squadbusters.com
 DOMAIN-SUFFIX,supercell.com
-DOMAIN-SUFFIX,supercell.helpshift.com
+DOMAIN,supercell.helpshift.com
 DOMAIN-SUFFIX,supercell.net
+DOMAIN,supercell.zendesk.com
 DOMAIN-SUFFIX,supercellcreators.com
 DOMAIN-SUFFIX,supercellgames.com
 DOMAIN-SUFFIX,supercellid.com
