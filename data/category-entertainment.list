@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-18 08:14:28
+# UPDATED: 2026-06-20 07:05:24
 # DOMAIN-SUFFIX: 1701
-# DOMAIN: 211
-# URL-REGEX: 13
-# TOTAL: 1925
+# DOMAIN: 206
+# URL-REGEX: 10
+# TOTAL: 1917
 URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
@@ -35,14 +35,11 @@ DOMAIN-SUFFIX,9anime.id
 DOMAIN-SUFFIX,9anime.to
 DOMAIN-SUFFIX,9anime.ws
 URL-REGEX,^[0-9]+vod-adaptive\.akamaized\.net$
-URL-REGEX,^cdn-akamai-.+\.gog-services\.com$
 URL-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 URL-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
 URL-REGEX,^epicgames-download\d\.akamaized\.net$
 URL-REGEX,^ewcdn[0-9]+\.nowe\.com$
-URL-REGEX,^gog-cdn-.+\.footprint\.net$
 URL-REGEX,^hses[1-7]?\.akamaized\.net$
-URL-REGEX,^images(-\d)?\.gog-statics\.com$
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN-SUFFIX,abc-studios.com
@@ -607,12 +604,11 @@ DOMAIN-SUFFIX,go-disneyworldgo.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,goblocks.com
 DOMAIN-SUFFIX,goblox.com
-DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN,gog-cdn.akamaized.net
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,gog.com
 DOMAIN,gog.qtlglb.com
-DOMAIN,gogalaxy.gog-statics.com
 DOMAIN-SUFFIX,gogo-load.com
 DOMAIN-SUFFIX,gogoanime.vc
 DOMAIN-SUFFIX,gogoanime.wiki
@@ -905,7 +901,6 @@ DOMAIN,media-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,mediaclip.jp
 DOMAIN-SUFFIX,megaphone.fm
 DOMAIN-SUFFIX,megogo.net
-DOMAIN,menu-static.gog-statics.com
 DOMAIN-SUFFIX,metacritic.com
 DOMAIN-SUFFIX,mgo-images.com
 DOMAIN-SUFFIX,mgo.com
@@ -1208,7 +1203,6 @@ DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
 DOMAIN,prodforza.blob.core.windows.net
 DOMAIN-SUFFIX,product.co.jp
-DOMAIN,productcard.gog-statics.com
 DOMAIN-SUFFIX,projectapex.com
 DOMAIN-SUFFIX,promodj.com
 DOMAIN-SUFFIX,protondb.com
@@ -1420,7 +1414,6 @@ DOMAIN-SUFFIX,starwarsjedifallenorder.com
 DOMAIN-SUFFIX,starwarskids.com
 DOMAIN-SUFFIX,starwarstheoldrepublic.com
 DOMAIN,static-hamivideo.cdn.hinet.net
-DOMAIN,static-login.gog-statics.com
 DOMAIN,static.siege-amazon.com
 DOMAIN-SUFFIX,steam-api.com
 DOMAIN-SUFFIX,steam-chat.com
@@ -1703,7 +1696,6 @@ DOMAIN-SUFFIX,wwe.com
 DOMAIN-SUFFIX,wwe9.com
 DOMAIN-SUFFIX,wwr-stardom.com
 DOMAIN-SUFFIX,wwtbam.com
-DOMAIN,www4-static.gog-statics.com
 DOMAIN-SUFFIX,wwwhuluplus.com
 DOMAIN-SUFFIX,xbox
 DOMAIN-SUFFIX,xbox.co

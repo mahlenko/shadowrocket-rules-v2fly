@@ -1,9 +1,9 @@
 # NAME: CATEGORY-BLOG-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 14
-# TOTAL: 14
+# UPDATED: 2026-06-20 07:05:24
+# DOMAIN-SUFFIX: 15
+# TOTAL: 15
 DOMAIN-SUFFIX,114blog.com
 DOMAIN-SUFFIX,4thworkshop.cn
 DOMAIN-SUFFIX,4thworkshop.com
@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,huangyuhui.net
 DOMAIN-SUFFIX,lg3000.top
 DOMAIN-SUFFIX,mryys.cn
 DOMAIN-SUFFIX,mryys.com
+DOMAIN-SUFFIX,mysqil.com
 DOMAIN-SUFFIX,skywt.cn
 DOMAIN-SUFFIX,soulteary.com
 DOMAIN-SUFFIX,tai3.cn
