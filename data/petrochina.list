@@ -1,0 +1,10 @@
+# NAME: PETROCHINA
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-06-21 08:06:02
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,95504.net
+DOMAIN-SUFFIX,95504test.com
+DOMAIN-SUFFIX,cnpc.com.cn
+DOMAIN-SUFFIX,petrochina.com.cn

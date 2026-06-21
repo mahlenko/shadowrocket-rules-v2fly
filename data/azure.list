@@ -1,10 +1,10 @@
 # NAME: AZURE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 142
+# UPDATED: 2026-06-21 08:06:01
+# DOMAIN-SUFFIX: 146
 # DOMAIN: 2
-# TOTAL: 144
+# TOTAL: 148
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
 DOMAIN-SUFFIX,21vbluecloud.net
@@ -62,6 +62,7 @@ DOMAIN-SUFFIX,azure-dns.com
 DOMAIN-SUFFIX,azure-dns.info
 DOMAIN-SUFFIX,azure-dns.net
 DOMAIN-SUFFIX,azure-dns.org
+DOMAIN-SUFFIX,azure-mobile.cn
 DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,azure-sphere.com
 DOMAIN-SUFFIX,azure-test.net
@@ -141,11 +142,14 @@ DOMAIN-SUFFIX,msn.net
 DOMAIN-SUFFIX,playfab.com
 DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,serverlesslibrary.net
+DOMAIN-SUFFIX,sovcloud-mx.cn
+DOMAIN-SUFFIX,sovcloud-static.cn
+DOMAIN-SUFFIX,sovcloud-usercontent.cn
+DOMAIN-SUFFIX,sovcloud.cn
 DOMAIN-SUFFIX,trafficmanager.cn
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,trustcenter.cn
 DOMAIN-SUFFIX,tryfunctions.com
-DOMAIN-SUFFIX,unity3dcloud.cn
 DOMAIN-SUFFIX,windowsazure.cn
 DOMAIN-SUFFIX,windowsazure.com
 DOMAIN-SUFFIX,windowsazurestatus.cn

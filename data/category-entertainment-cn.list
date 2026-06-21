@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-16 08:51:28
-# DOMAIN-SUFFIX: 709
+# UPDATED: 2026-06-21 08:06:01
+# DOMAIN-SUFFIX: 714
 # DOMAIN: 22
 # URL-REGEX: 1
-# TOTAL: 732
+# TOTAL: 737
 DOMAIN-SUFFIX,11222.cn
 DOMAIN-SUFFIX,13a.com
 DOMAIN-SUFFIX,17173.com
@@ -121,6 +121,7 @@ DOMAIN-SUFFIX,awemeughun.com
 DOMAIN-SUFFIX,awemeuglang.com
 DOMAIN-SUFFIX,awemeugsoul.com
 DOMAIN-SUFFIX,awemeugwave.com
+DOMAIN-SUFFIX,b612kaji.com
 DOMAIN-SUFFIX,baofeng.com
 DOMAIN-SUFFIX,baofeng.net
 DOMAIN-SUFFIX,baozou.com
@@ -457,6 +458,7 @@ DOMAIN-SUFFIX,kwaizt.com
 DOMAIN-SUFFIX,kwimgs.com
 DOMAIN-SUFFIX,labycore.cn
 DOMAIN-SUFFIX,langrenclub.com
+DOMAIN-SUFFIX,laohu.com
 DOMAIN-SUFFIX,ldmnq.com
 DOMAIN-SUFFIX,le.com
 DOMAIN-SUFFIX,leautolink.com
@@ -536,6 +538,7 @@ DOMAIN-SUFFIX,nadianshi.com
 DOMAIN-SUFFIX,nagcloudcs.com
 DOMAIN-SUFFIX,natfrp.com
 DOMAIN-SUFFIX,news.yxrb.net
+DOMAIN-SUFFIX,newstjk.com
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextvid.net
 DOMAIN-SUFFIX,nextworkshop.net
@@ -616,6 +619,7 @@ DOMAIN-SUFFIX,shuqi.com
 DOMAIN-SUFFIX,shuqiapi.com
 DOMAIN-SUFFIX,shuqiread.com
 DOMAIN-SUFFIX,shuqireader.com
+DOMAIN-SUFFIX,shuqistat.com
 DOMAIN-SUFFIX,shyxhy.com
 DOMAIN-SUFFIX,singworld.net
 DOMAIN-SUFFIX,skydweller.cn
@@ -683,6 +687,7 @@ DOMAIN-SUFFIX,winegame.net
 DOMAIN,wlog.kuaishou.com
 DOMAIN-SUFFIX,wmbd.gamersky.com
 DOMAIN-SUFFIX,wmsj.cn
+DOMAIN-SUFFIX,wmupd.com
 DOMAIN-SUFFIX,wo1wan.com
 DOMAIN-SUFFIX,woaihuoshan.com
 DOMAIN-SUFFIX,wohst8.com

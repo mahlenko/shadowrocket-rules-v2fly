@@ -1,9 +1,9 @@
 # NAME: BAIDU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-12 07:57:59
-# DOMAIN-SUFFIX: 133
-# TOTAL: 133
+# UPDATED: 2026-06-21 08:06:01
+# DOMAIN-SUFFIX: 136
+# TOTAL: 136
 DOMAIN-SUFFIX,91.com
 DOMAIN-SUFFIX,adscdn.baidu.com
 DOMAIN-SUFFIX,adx.xiaodutv.com
@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,cb.baidu.com
 DOMAIN-SUFFIX,cbjs.baidu.com
 DOMAIN-SUFFIX,chuanke.com
 DOMAIN-SUFFIX,cm.baidu.com
+DOMAIN-SUFFIX,combofin.com
 DOMAIN-SUFFIX,cpro.baidu.com
 DOMAIN-SUFFIX,cpro.baidustatic.com
 DOMAIN-SUFFIX,cpu.baidu.com
@@ -67,10 +68,12 @@ DOMAIN-SUFFIX,duurl.cn
 DOMAIN-SUFFIX,duxiaoman-int.com
 DOMAIN-SUFFIX,duxiaoman.com
 DOMAIN-SUFFIX,duxiaomanfintech.com
+DOMAIN-SUFFIX,duxiaomanfund.com
 DOMAIN-SUFFIX,duxiaomantech.com
 DOMAIN-SUFFIX,dwz.cn
 DOMAIN-SUFFIX,dxm-cdn.com
 DOMAIN-SUFFIX,dxm-int.com
+DOMAIN-SUFFIX,dxmbaoxian.com
 DOMAIN-SUFFIX,dxmjinr.com
 DOMAIN-SUFFIX,dxmlcf.com
 DOMAIN-SUFFIX,dxmlcfintech.com

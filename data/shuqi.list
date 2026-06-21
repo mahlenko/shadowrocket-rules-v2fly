@@ -1,15 +1,17 @@
 # NAME: SHUQI
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-03 08:24:46
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# UPDATED: 2026-06-21 08:06:02
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
 DOMAIN-SUFFIX,11222.cn
 DOMAIN-SUFFIX,aliwx.com.cn
 DOMAIN-SUFFIX,aliwx.net
 DOMAIN-SUFFIX,ishuqi.com
+DOMAIN-SUFFIX,newstjk.com
 DOMAIN-SUFFIX,shuqi.com
 DOMAIN-SUFFIX,shuqiapi.com
 DOMAIN-SUFFIX,shuqiread.com
 DOMAIN-SUFFIX,shuqireader.com
+DOMAIN-SUFFIX,shuqistat.com
 DOMAIN-SUFFIX,sqreader.com

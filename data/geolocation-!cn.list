@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-20 07:05:25
-# DOMAIN-SUFFIX: 24070
-# DOMAIN: 1384
+# UPDATED: 2026-06-21 08:06:02
+# DOMAIN-SUFFIX: 24079
+# DOMAIN: 1404
 # URL-REGEX: 158
-# TOTAL: 25612
+# TOTAL: 25641
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -3080,6 +3080,7 @@ DOMAIN-SUFFIX,azure-dns.com
 DOMAIN-SUFFIX,azure-dns.info
 DOMAIN-SUFFIX,azure-dns.net
 DOMAIN-SUFFIX,azure-dns.org
+DOMAIN-SUFFIX,azure-mobile.cn
 DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,azure-sphere.com
 DOMAIN-SUFFIX,azure-test.net
@@ -3113,6 +3114,8 @@ DOMAIN-SUFFIX,azureiotsolutions.com
 DOMAIN-SUFFIX,azureiotsuite.cn
 DOMAIN-SUFFIX,azureiotsuite.com
 DOMAIN,azuremarketplace.microsoft.com
+DOMAIN,azuremigrate.download.prss.microsoft.com
+DOMAIN,azuremigratetest.download.prss.microsoft.com
 DOMAIN-SUFFIX,azuremresolver.cn
 DOMAIN-SUFFIX,azureplanetscale.info
 DOMAIN-SUFFIX,azureplanetscale.net
@@ -3121,6 +3124,8 @@ DOMAIN-SUFFIX,azurerms.cn
 DOMAIN-SUFFIX,azuresandbox.cn
 DOMAIN-SUFFIX,azureserviceprofiler.com
 DOMAIN-SUFFIX,azuresmartspaces.net
+DOMAIN,azurestackhub.download.prss.microsoft.com
+DOMAIN,azurestackhubuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,azurestackvalidation.com
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,b-cdn.net
@@ -3740,8 +3745,6 @@ DOMAIN-SUFFIX,beyondcore.com
 DOMAIN-SUFFIX,bfa.ru
 DOMAIN-SUFFIX,bfads.net
 DOMAIN-SUFFIX,bffshd.com
-DOMAIN,bg.v4.a.dl.ws.microsoft.com
-DOMAIN,bg4.v4.a.dl.ws.microsoft.com
 DOMAIN-SUFFIX,bgicdn.com
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bgov.com
@@ -4799,7 +4802,6 @@ DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,buhidoh.net
 DOMAIN-SUFFIX,buicha.social
-DOMAIN,build.microsoft.com
 DOMAIN-SUFFIX,building3dcontent.com
 DOMAIN-SUFFIX,builtfromebay.com
 DOMAIN-SUFFIX,bukkake-jav.com
@@ -5193,6 +5195,7 @@ DOMAIN-SUFFIX,cavporn.com
 DOMAIN-SUFFIX,cavporn.github.io
 DOMAIN-SUFFIX,cbart.net
 DOMAIN-SUFFIX,cbbank.com.mm
+DOMAIN,cbdstest.download.prss.microsoft.com
 DOMAIN-SUFFIX,cbi.ir
 DOMAIN-SUFFIX,cbkiller.com
 DOMAIN-SUFFIX,cbm.com.mm
@@ -5252,7 +5255,6 @@ DOMAIN,cdn.apple-mapkit.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN,cdn.js7k.com
-DOMAIN,cdn.marketplaceimages.windowsphone.com
 DOMAIN,cdn1.apple-mapkit.com
 DOMAIN,cdn2.apple-mapkit.com
 DOMAIN,cdn3.apple-mapkit.com
@@ -5859,6 +5861,8 @@ DOMAIN-SUFFIX,collabora.co.uk
 DOMAIN-SUFFIX,collabora.com
 DOMAIN-SUFFIX,collabora.org
 DOMAIN-SUFFIX,collaboraoffice.com
+DOMAIN,collaborate.download.prss.microsoft.com
+DOMAIN,collaborateppe.download.prss.microsoft.com
 DOMAIN-SUFFIX,collection-3d.com
 DOMAIN-SUFFIX,collectionofbestporn.com
 DOMAIN-SUFFIX,collective99.com
@@ -6118,6 +6122,7 @@ DOMAIN-SUFFIX,csc3-2009-aia.verisign.com
 DOMAIN-SUFFIX,csc3-2009-crl.verisign.com
 DOMAIN-SUFFIX,csc3-2010-aia.verisign.com
 DOMAIN-SUFFIX,csc3-2010-crl.verisign.com
+DOMAIN-SUFFIX,csgo.com.cn
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,cshive.com
 DOMAIN,csi.gstatic.com
@@ -6712,7 +6717,6 @@ DOMAIN-SUFFIX,dev-my.com
 DOMAIN-SUFFIX,dev-my.games
 DOMAIN-SUFFIX,dev-theguardian.com
 DOMAIN-SUFFIX,dev.to
-DOMAIN,devblogs.microsoft.com
 DOMAIN-SUFFIX,devcon.org
 DOMAIN-SUFFIX,developer-advisor.com
 DOMAIN-SUFFIX,developer.allizom.org
@@ -7094,7 +7098,6 @@ DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN-SUFFIX,docleradn.com
 DOMAIN-SUFFIX,doclercdn.com
 DOMAIN-SUFFIX,docs.com
-DOMAIN,docs.microsoft.com
 DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,docs.rs
 DOMAIN-SUFFIX,doctor-videos.com
@@ -7148,6 +7151,7 @@ DOMAIN-SUFFIX,doseofporn.com
 DOMAIN-SUFFIX,dot-mac.de
 DOMAIN-SUFFIX,dot.net
 DOMAIN-SUFFIX,dota2.com
+DOMAIN-SUFFIX,dota2.com.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,dotcernpilot.info
 DOMAIN-SUFFIX,dotdeb.org
@@ -7228,6 +7232,8 @@ DOMAIN-SUFFIX,dreambmw.ca
 DOMAIN-SUFFIX,dreamforce.com
 DOMAIN-SUFFIX,dreammovies.com
 DOMAIN-SUFFIX,dreamorder.com
+DOMAIN,dreamspark.download.prss.microsoft.com
+DOMAIN,dreamsparkuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,dreamteamfc.com
 DOMAIN-SUFFIX,dreamtoplay.com
 DOMAIN-SUFFIX,dreamworks.com
@@ -9353,7 +9359,6 @@ DOMAIN-SUFFIX,froogle.com
 DOMAIN-SUFFIX,frostbite.com
 DOMAIN-SUFFIX,frprn.com
 DOMAIN-SUFFIX,fruitycams.com
-DOMAIN,fs.microsoft.com
 DOMAIN-SUFFIX,fsacebok.com
 DOMAIN-SUFFIX,fscebook.com
 DOMAIN-SUFFIX,fsdn.com
@@ -10035,9 +10040,11 @@ DOMAIN-SUFFIX,gofuckmenow.com
 DOMAIN-SUFFIX,gofundme.com
 DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN,gog-cdn.akamaized.net
+DOMAIN-SUFFIX,gog-services.com
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,gog.com
 DOMAIN,gog.qtlglb.com
+DOMAIN-SUFFIX,gogalaxy.com
 DOMAIN-SUFFIX,gogettaxi.org
 DOMAIN-SUFFIX,gogle.com
 DOMAIN-SUFFIX,gogo-load.com
@@ -12147,6 +12154,7 @@ DOMAIN-SUFFIX,insiderdevtour.com
 DOMAIN-SUFFIX,insiderintelligence.com
 DOMAIN-SUFFIX,insidevoa.com
 DOMAIN-SUFFIX,insight.tech
+DOMAIN-SUFFIX,insights-collector.gog.com
 DOMAIN-SUFFIX,instaadder.com
 DOMAIN-SUFFIX,instabang.com
 DOMAIN-SUFFIX,instachecker.com
@@ -12648,6 +12656,8 @@ DOMAIN-SUFFIX,it-picnic.ru
 DOMAIN-SUFFIX,it-piknik.ru
 DOMAIN-SUFFIX,it-territory.com
 DOMAIN-SUFFIX,ita-do.com
+DOMAIN,itacademy.download.prss.microsoft.com
+DOMAIN,itacademyuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,itaeromanga.com
 DOMAIN-SUFFIX,italiabeatsbydrdre.com
 DOMAIN-SUFFIX,itasoftware.com
@@ -13619,7 +13629,6 @@ DOMAIN-SUFFIX,leakedzone.com
 DOMAIN-SUFFIX,leaksmodels.com
 DOMAIN-SUFFIX,leakxxx.com
 DOMAIN-SUFFIX,leannecrowvideos.com
-DOMAIN,learn.microsoft.com
 DOMAIN-SUFFIX,learningfreedomandtheweb.org
 DOMAIN-SUFFIX,learnwithleague.com
 DOMAIN-SUFFIX,leavinghpinc.com
@@ -13663,7 +13672,9 @@ DOMAIN-SUFFIX,levelsex.com
 DOMAIN-SUFFIX,lewdthots.com
 DOMAIN-SUFFIX,lewdvrgames.com
 DOMAIN-SUFFIX,lewdweb.net
+DOMAIN,lex.download.prss.microsoft.com
 DOMAIN-SUFFIX,lexisnexis.com
+DOMAIN,lexuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,lexuemei.com
 DOMAIN-SUFFIX,lezpoo.com
 DOMAIN-SUFFIX,lfai.foundation
@@ -14425,6 +14436,7 @@ DOMAIN-SUFFIX,mayijiejie.com
 DOMAIN-SUFFIX,maying.co
 DOMAIN-SUFFIX,mbeats-tech.com
 DOMAIN-SUFFIX,mbheadphone.com
+DOMAIN,mbs.download.prss.microsoft.com
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN-SUFFIX,mc.yandex.ru
@@ -14570,6 +14582,7 @@ DOMAIN-SUFFIX,mengnan.shop
 DOMAIN-SUFFIX,menhdv.com
 DOMAIN-SUFFIX,mensheaven.jp
 DOMAIN-SUFFIX,menshin-channel.com
+DOMAIN,mensura.cdn-apple.com
 DOMAIN-SUFFIX,meo-dash.com
 DOMAIN-SUFFIX,meoriental.com
 DOMAIN-SUFFIX,mepn.com
@@ -15447,6 +15460,9 @@ DOMAIN-SUFFIX,mp.world
 DOMAIN-SUFFIX,mpfinance.com
 DOMAIN-SUFFIX,mpgw-my.com
 DOMAIN-SUFFIX,mplstudios.com
+DOMAIN,mpnbenefits.download.prss.microsoft.com
+DOMAIN,mpnbenefitsrtl.download.prss.microsoft.com
+DOMAIN,mpnbenefitsrtluat.download.prss.microsoft.com
 DOMAIN-SUFFIX,mpnevolution.com
 DOMAIN-SUFFIX,mpv.io
 DOMAIN-SUFFIX,mpweekly.com
@@ -15484,6 +15500,8 @@ DOMAIN-SUFFIX,mschallenge2018.com
 DOMAIN-SUFFIX,mschcdn.com
 DOMAIN,mscrl.microsoft.com
 DOMAIN-SUFFIX,msdn.com
+DOMAIN,msdn.download.prss.microsoft.com
+DOMAIN,msdprod-ad.download.prss.microsoft.com
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,msft.info
@@ -15522,6 +15540,7 @@ DOMAIN-SUFFIX,msocsp.com
 DOMAIN-SUFFIX,msoopent.com
 DOMAIN-SUFFIX,mspairlift.com
 DOMAIN-SUFFIX,mspil.cn
+DOMAIN,msproduct.download.prss.microsoft.com
 DOMAIN-SUFFIX,msra.cn
 DOMAIN-SUFFIX,msropendata.com
 DOMAIN-SUFFIX,msturing.org
@@ -16810,6 +16829,7 @@ DOMAIN-SUFFIX,oecd-ilibrary.org
 DOMAIN-SUFFIX,oed.com
 DOMAIN-SUFFIX,oekakiskey.com
 DOMAIN,oemsoc.download.prss.microsoft.com
+DOMAIN,oemsocuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,oemssl.cn
 DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net
 DOMAIN-SUFFIX,offerairjordanlebron.com
@@ -16823,6 +16843,8 @@ DOMAIN-SUFFIX,office365love.com
 DOMAIN-SUFFIX,office365tw.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,officecdn.microsoft.com
+DOMAIN,officemkt.download.prss.microsoft.com
+DOMAIN,officemktuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,officeplus.cn
 DOMAIN-SUFFIX,officewebapps.cn
 DOMAIN-SUFFIX,officialbeatsbydreshop.com
@@ -17116,6 +17138,7 @@ DOMAIN-SUFFIX,ospray.net
 DOMAIN-SUFFIX,ospray.org
 DOMAIN-SUFFIX,ospserver.net
 DOMAIN-SUFFIX,osrecovery.apple.com
+DOMAIN,osrelease.download.prss.microsoft.com
 DOMAIN,osu.ppy.sh
 DOMAIN,osxapps.itunes.apple.com
 DOMAIN,osxapps.itunes.g.aaplimg.com
@@ -19039,8 +19062,6 @@ DOMAIN-SUFFIX,repotama.com
 DOMAIN-SUFFIX,repsils.no
 DOMAIN-SUFFIX,repsneakermall.com
 DOMAIN-SUFFIX,repswing.com
-DOMAIN,res-1.cdn.office.net
-DOMAIN,res.cdn.office.net
 DOMAIN-SUFFIX,resao.com
 DOMAIN-SUFFIX,researchandcare.org
 DOMAIN-SUFFIX,researchgate.net
@@ -19233,6 +19254,7 @@ DOMAIN-SUFFIX,rsf.org
 DOMAIN-SUFFIX,rsg.sc
 DOMAIN-SUFFIX,rshb.ru
 DOMAIN-SUFFIX,rsk.co
+DOMAIN,rsm.download.prss.microsoft.com
 DOMAIN-SUFFIX,rspao.com
 DOMAIN,rss.4040940.xyz
 DOMAIN,rss.datuan.dev
@@ -20646,6 +20668,10 @@ DOMAIN-SUFFIX,sourcingforebay.net
 DOMAIN-SUFFIX,sourcingforebay.tv
 DOMAIN-SUFFIX,south-plus.net
 DOMAIN-SUFFIX,southfloridamini.com
+DOMAIN-SUFFIX,sovcloud-mx.cn
+DOMAIN-SUFFIX,sovcloud-static.cn
+DOMAIN-SUFFIX,sovcloud-usercontent.cn
+DOMAIN-SUFFIX,sovcloud.cn
 DOMAIN-SUFFIX,sovcombank.ru
 DOMAIN-SUFFIX,sovec.net
 DOMAIN-SUFFIX,soyinyj.top
@@ -21027,6 +21053,8 @@ DOMAIN,store.apple.com.edgekey.net
 DOMAIN,store.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,store.storeimages.apple.com.akadns.net
 DOMAIN,store.storeimages.cdn-apple.com
+DOMAIN,storecorefulfillment.download.prss.microsoft.com
+DOMAIN,storeedge.microsoft.com
 DOMAIN,storeedgefd.dsx.mp.microsoft.com
 DOMAIN-SUFFIX,storesense.com
 DOMAIN-SUFFIX,storiesonline.net
@@ -21169,6 +21197,7 @@ DOMAIN-SUFFIX,supremacy.com
 DOMAIN-SUFFIX,supremacy.net
 DOMAIN-SUFFIX,sureporn.com
 DOMAIN-SUFFIX,surface.com
+DOMAIN,surface.download.prss.microsoft.com
 DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN-SUFFIX,surflite.co
 DOMAIN-SUFFIX,surflite.net
@@ -22500,7 +22529,6 @@ DOMAIN-SUFFIX,unisat.io
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
-DOMAIN-SUFFIX,unity3dcloud.cn
 DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN,universal-activity-service.itunes.apple.com
 DOMAIN-SUFFIX,universalorlando.com
@@ -23212,6 +23240,7 @@ DOMAIN-SUFFIX,vkvideo.ru
 DOMAIN-SUFFIX,vkworkspace.kz
 DOMAIN-SUFFIX,vl4x.net
 DOMAIN-SUFFIX,vlb100.ru
+DOMAIN,vlportal.download.prss.microsoft.com
 DOMAIN-SUFFIX,vmailru.net
 DOMAIN-SUFFIX,vmglobal.net
 DOMAIN-SUFFIX,vmmark.com
@@ -23297,6 +23326,7 @@ DOMAIN-SUFFIX,vodafone.it
 DOMAIN-SUFFIX,vodafone.nl
 DOMAIN-SUFFIX,vokevr.com
 DOMAIN-SUFFIX,vol.moe
+DOMAIN,volic.download.prss.microsoft.com
 DOMAIN-SUFFIX,volvo
 DOMAIN-SUFFIX,volvo-truck.nl
 DOMAIN-SUFFIX,volvo.ca
@@ -23933,6 +23963,7 @@ DOMAIN-SUFFIX,willberiess.ru
 DOMAIN-SUFFIX,willberis.ru
 DOMAIN-SUFFIX,willyporn.com
 DOMAIN-SUFFIX,wimpmusic.com
+DOMAIN,windbg.download.prss.microsoft.com
 DOMAIN-SUFFIX,windows
 DOMAIN-SUFFIX,windows-int.net
 DOMAIN-SUFFIX,windows.com
@@ -24086,8 +24117,6 @@ DOMAIN-SUFFIX,ws-blau.com
 DOMAIN-SUFFIX,ws-tcg.com
 DOMAIN,ws.audioscrobbler.com
 DOMAIN-SUFFIX,ws.symantec.com
-DOMAIN,wscont1.apps.microsoft.com
-DOMAIN,wscont2.apps.microsoft.com
 DOMAIN-SUFFIX,wsimg.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.jobs
