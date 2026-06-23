@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-21 08:06:02
-# DOMAIN-SUFFIX: 24079
+# UPDATED: 2026-06-23 06:56:11
+# DOMAIN-SUFFIX: 24093
 # DOMAIN: 1404
 # URL-REGEX: 158
-# TOTAL: 25641
+# TOTAL: 25655
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -1592,6 +1592,7 @@ DOMAIN-SUFFIX,allpornsitespass.com
 DOMAIN-SUFFIX,allspyclips.com
 DOMAIN-SUFFIX,allswingersclubs.org
 DOMAIN-SUFFIX,allthefallen.moe
+DOMAIN-SUFFIX,almalinux.org
 DOMAIN-SUFFIX,alohatube.com
 DOMAIN-SUFFIX,alotporn.com
 DOMAIN-SUFFIX,alphabet.asia
@@ -4865,6 +4866,7 @@ DOMAIN-SUFFIX,bustymomsvideo.com
 DOMAIN-SUFFIX,bustynudebabes.com
 DOMAIN-SUFFIX,bustyoldsluts.com
 DOMAIN-SUFFIX,bustysammieblack.com
+DOMAIN-SUFFIX,busybox.net
 DOMAIN-SUFFIX,buy-from-shanghai.com
 DOMAIN-SUFFIX,buyaapl.com
 DOMAIN-SUFFIX,buyaapl.net
@@ -8232,6 +8234,7 @@ DOMAIN-SUFFIX,exiporn.com
 DOMAIN-SUFFIX,exoav.com
 DOMAIN-SUFFIX,exotic-ghana.com
 DOMAIN-SUFFIX,exoticuganda.com
+DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,experience-vmware.com
 DOMAIN-SUFFIX,experiencebillmelater.com
 DOMAIN,experiments.apple.com
@@ -9898,6 +9901,7 @@ DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
 DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,github.dev
@@ -13714,6 +13718,7 @@ DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,licensebuttons.net
 DOMAIN-SUFFIX,licenseparser.com
 DOMAIN-SUFFIX,life-global.org
+DOMAIN-SUFFIX,lifeatspotify.com
 DOMAIN-SUFFIX,lifeselector.com
 DOMAIN-SUFFIX,lifestyle-tec.ru
 DOMAIN-SUFFIX,lifewire.com
@@ -14195,6 +14200,7 @@ DOMAIN-SUFFIX,manhuntdaily.com
 DOMAIN-SUFFIX,manhwa24h.com
 DOMAIN-SUFFIX,manhwahentai.me
 DOMAIN-SUFFIX,maniakey.homes
+DOMAIN-SUFFIX,manjaro.org
 DOMAIN-SUFFIX,manorama.com
 DOMAIN-SUFFIX,manoramanews.com
 DOMAIN-SUFFIX,manoramaonline.com
@@ -19194,6 +19200,7 @@ DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,rocksextube.com
 DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,rockstarnorth.com
+DOMAIN-SUFFIX,rockylinux.org
 DOMAIN-SUFFIX,roku.com
 DOMAIN-SUFFIX,rokutime.com
 DOMAIN-SUFFIX,rolfoundation.org
@@ -19483,15 +19490,18 @@ DOMAIN-SUFFIX,samebags.com
 DOMAIN-SUFFIX,samokat.ru
 DOMAIN-SUFFIX,samsung
 DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsung.com.cn
 DOMAIN-SUFFIX,samsungadhub.com
 DOMAIN-SUFFIX,samsungads.com
 DOMAIN-SUFFIX,samsungapps.com
 DOMAIN-SUFFIX,samsungcloud.com
+DOMAIN-SUFFIX,samsungcloudcn.com
 DOMAIN-SUFFIX,samsungconsent.com
 DOMAIN-SUFFIX,samsungdm.com
 DOMAIN-SUFFIX,samsungeshop.com.cn
 DOMAIN-SUFFIX,samsunggalaxyfriends.com
 DOMAIN-SUFFIX,samsunghealth.com
+DOMAIN-SUFFIX,samsunghealthcn.com
 DOMAIN-SUFFIX,samsungiotcloud.com
 DOMAIN-SUFFIX,samsungiots.com
 DOMAIN-SUFFIX,samsungknox.com
@@ -20750,6 +20760,7 @@ DOMAIN-SUFFIX,spotifycdn.net
 DOMAIN-SUFFIX,spotifycharts.com
 DOMAIN-SUFFIX,spotifycodes.com
 DOMAIN-SUFFIX,spotifyforbrands.com
+DOMAIN-SUFFIX,spotifyforvendors.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,spraynwash.com
 DOMAIN-SUFFIX,spreadprivacy.com
@@ -23553,10 +23564,13 @@ DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN,vscode.blob.core.windows.net
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN,vscode.search.windows.net
+DOMAIN-SUFFIX,vscodeedu.app
+DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN-SUFFIX,vsemrabota.ru
 DOMAIN-SUFFIX,vsex.in
 DOMAIN-SUFFIX,vsezoo.com

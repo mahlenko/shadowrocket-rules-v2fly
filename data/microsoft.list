@@ -1,10 +1,10 @@
 # NAME: MICROSOFT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-21 08:06:02
-# DOMAIN-SUFFIX: 628
+# UPDATED: 2026-06-23 06:56:12
+# DOMAIN-SUFFIX: 633
 # DOMAIN: 114
-# TOTAL: 742
+# TOTAL: 747
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com
@@ -221,6 +221,7 @@ DOMAIN-SUFFIX,efproject.net
 DOMAIN-SUFFIX,elderscrolls.com
 DOMAIN,emoi-cncdn.bing.com
 DOMAIN-SUFFIX,engkoo.com
+DOMAIN-SUFFIX,exp-tas.com
 DOMAIN,f.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,fasttrackreadysupport.com
 DOMAIN-SUFFIX,femalefounderscomp.com
@@ -254,6 +255,7 @@ DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
 DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,github.dev
@@ -697,10 +699,13 @@ DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN,vscode.blob.core.windows.net
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN,vscode.search.windows.net
+DOMAIN-SUFFIX,vscodeedu.app
+DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN,vz.download.prss.microsoft.com
 DOMAIN-SUFFIX,wbd.ms

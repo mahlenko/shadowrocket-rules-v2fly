@@ -1,14 +1,15 @@
 # NAME: KUROGAMES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-13 07:03:09
-# DOMAIN-SUFFIX: 12
-# TOTAL: 12
+# UPDATED: 2026-06-23 06:56:11
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
 DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,aki-game.net
 DOMAIN-SUFFIX,aki-game2.com
 DOMAIN-SUFFIX,aki-game2.net
 DOMAIN-SUFFIX,kurobbs.com
+DOMAIN-SUFFIX,kurogame-service.com
 DOMAIN-SUFFIX,kurogame.com
 DOMAIN-SUFFIX,kurogame.net
 DOMAIN-SUFFIX,kurogame.xyz
