@@ -1,9 +1,10 @@
 # NAME: ALIBABA
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-21 08:06:00
-# DOMAIN-SUFFIX: 436
-# TOTAL: 436
+# UPDATED: 2026-06-25 06:53:23
+# DOMAIN-SUFFIX: 439
+# DOMAIN: 4
+# TOTAL: 443
 DOMAIN-SUFFIX,11222.cn
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,25pp.com
@@ -19,6 +20,7 @@ DOMAIN-SUFFIX,a-map.link
 DOMAIN-SUFFIX,a-map.vip
 DOMAIN-SUFFIX,a.alimama.cn
 DOMAIN-SUFFIX,aaid.umeng.com
+DOMAIN,account-cn.alibabacloud.com
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,acloudrender.com
 DOMAIN-SUFFIX,ad.api.3g.youku.com
@@ -146,6 +148,8 @@ DOMAIN-SUFFIX,antfin.com
 DOMAIN-SUFFIX,antfortune.com
 DOMAIN-SUFFIX,antgroup-inc.cn
 DOMAIN-SUFFIX,antgroup.com
+DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
+DOMAIN,api.alibabacloud.com
 DOMAIN-SUFFIX,ar.umeng.com
 DOMAIN-SUFFIX,asczwa.com
 DOMAIN-SUFFIX,asczxcefsv.com
@@ -170,6 +174,9 @@ DOMAIN-SUFFIX,ccs.umeng.com
 DOMAIN-SUFFIX,cdngslb.com
 DOMAIN-SUFFIX,cheng.xin
 DOMAIN-SUFFIX,cloudeagle.cn
+DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
+DOMAIN,cn.alibabacloud.com
 DOMAIN-SUFFIX,cnlogs.umeng.com
 DOMAIN-SUFFIX,cnlogs.umengcloud.com
 DOMAIN-SUFFIX,cnzz.com
@@ -369,6 +376,7 @@ DOMAIN-SUFFIX,sparenode.com
 DOMAIN-SUFFIX,sqreader.com
 DOMAIN-SUFFIX,stat.youku.com
 DOMAIN-SUFFIX,statis.api.3g.youku.com
+DOMAIN,status.alibabacloud.com
 DOMAIN-SUFFIX,supet.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,taobao

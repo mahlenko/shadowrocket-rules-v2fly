@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-23 06:56:11
+# UPDATED: 2026-06-25 06:53:24
 # DOMAIN-SUFFIX: 24093
-# DOMAIN: 1404
+# DOMAIN: 1408
 # URL-REGEX: 158
-# TOTAL: 25655
+# TOTAL: 25659
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -802,6 +802,7 @@ DOMAIN-SUFFIX,acces-vod.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,accesspoint.uz
 DOMAIN-SUFFIX,accomable.com
+DOMAIN,account-cn.alibabacloud.com
 DOMAIN-SUFFIX,account-paypal.info
 DOMAIN-SUFFIX,account-paypal.net
 DOMAIN-SUFFIX,account-paypal.org
@@ -2047,6 +2048,7 @@ DOMAIN,api-secure.carrotquest.app
 DOMAIN,api-secure.carrottrack.app
 DOMAIN,api-staging.mindbox.ru
 DOMAIN-SUFFIX,api.ai
+DOMAIN,api.alibabacloud.com
 DOMAIN,api.carrotquest.app
 DOMAIN,api.carrotquest.io
 DOMAIN,api.carrottrack.app
@@ -5777,6 +5779,7 @@ DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,cmu.edu
 DOMAIN-SUFFIX,cn-cdn1.skymansion.net
 DOMAIN,cn-smp-paymentservices.apple.com
+DOMAIN,cn.alibabacloud.com
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net
 DOMAIN,cn.download.nvidia.com
@@ -20980,6 +20983,7 @@ DOMAIN,stats.rustore.ru
 DOMAIN,stats.telega.info
 DOMAIN,stats.vk-portal.net
 DOMAIN-SUFFIX,statsmakemecry.com
+DOMAIN,status.alibabacloud.com
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,staxus.com
 DOMAIN-SUFFIX,stc-server.com
