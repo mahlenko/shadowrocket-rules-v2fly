@@ -1,10 +1,10 @@
 # NAME: CATEGORY-EDUCATION-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-06 06:34:39
-# DOMAIN-SUFFIX: 161
+# UPDATED: 2026-06-27 06:33:40
+# DOMAIN-SUFFIX: 164
 # DOMAIN: 3
-# TOTAL: 164
+# TOTAL: 167
 DOMAIN-SUFFIX,100tal.com
 DOMAIN-SUFFIX,17zuoye.cn
 DOMAIN-SUFFIX,17zuoye.com
@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,cugbonline.cn
 DOMAIN-SUFFIX,dearedu.com
 DOMAIN-SUFFIX,dgjy.net
 DOMAIN-SUFFIX,dict.cn
+DOMAIN-SUFFIX,duifene.com
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,eduei.com
 DOMAIN-SUFFIX,eduu.com
@@ -117,6 +118,7 @@ DOMAIN-SUFFIX,pmphmooc.com
 DOMAIN-SUFFIX,qgzb.com.cn
 DOMAIN-SUFFIX,qgzb.gov.cn
 DOMAIN-SUFFIX,qgzb.net
+DOMAIN-SUFFIX,qingtingai.net
 DOMAIN-SUFFIX,rainclassroom.com
 DOMAIN-SUFFIX,saduck.top
 DOMAIN-SUFFIX,schoopia.com
@@ -156,6 +158,7 @@ DOMAIN-SUFFIX,yushiyan.net
 DOMAIN-SUFFIX,zbbm.gov.cn
 DOMAIN-SUFFIX,zbbm.net
 DOMAIN-SUFFIX,zggqzp.com
+DOMAIN-SUFFIX,zggx100.com
 DOMAIN-SUFFIX,zgjsks.com
 DOMAIN-SUFFIX,zgsydw.com
 DOMAIN-SUFFIX,zhan.com

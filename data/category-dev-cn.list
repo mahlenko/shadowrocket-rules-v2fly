@@ -1,10 +1,10 @@
 # NAME: CATEGORY-DEV-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-21 08:06:01
-# DOMAIN-SUFFIX: 120
+# UPDATED: 2026-06-27 06:33:40
+# DOMAIN-SUFFIX: 121
 # DOMAIN: 9
-# TOTAL: 129
+# TOTAL: 130
 DOMAIN-SUFFIX,aardio.com
 DOMAIN-SUFFIX,ads.unitychina.cn
 DOMAIN-SUFFIX,aixcoder.com
@@ -75,6 +75,7 @@ DOMAIN-SUFFIX,kaihong.com
 DOMAIN-SUFFIX,mindspore.cn
 DOMAIN-SUFFIX,mysxl.cn
 DOMAIN-SUFFIX,nnthink.com
+DOMAIN-SUFFIX,oend.net
 DOMAIN-SUFFIX,openkylin.top
 DOMAIN-SUFFIX,openmidas.com
 DOMAIN-SUFFIX,openvela.com

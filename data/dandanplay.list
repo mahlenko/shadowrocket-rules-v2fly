@@ -1,0 +1,8 @@
+# NAME: DANDANPLAY
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-06-27 06:33:40
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,dandanplay.com
+DOMAIN-SUFFIX,dandanplay.net

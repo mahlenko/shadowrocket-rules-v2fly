@@ -1,10 +1,10 @@
 # NAME: TENCENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-16 08:51:29
-# DOMAIN-SUFFIX: 676
+# UPDATED: 2026-06-27 06:33:41
+# DOMAIN-SUFFIX: 677
 # DOMAIN: 1
-# TOTAL: 677
+# TOTAL: 678
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,97ting.com
 DOMAIN-SUFFIX,acctdns.com
@@ -639,6 +639,7 @@ DOMAIN-SUFFIX,wegame.com.cn
 DOMAIN-SUFFIX,wegamedeveloper.com
 DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,weishi.com
+DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,werepository.com.cn

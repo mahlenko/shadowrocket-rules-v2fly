@@ -1,11 +1,11 @@
 # NAME: GOOGLE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-12 07:58:00
-# DOMAIN-SUFFIX: 874
+# UPDATED: 2026-06-27 06:33:41
+# DOMAIN-SUFFIX: 875
 # DOMAIN: 233
 # URL-REGEX: 2
-# TOTAL: 1109
+# TOTAL: 1110
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
@@ -190,6 +190,7 @@ DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromebook.com
 DOMAIN-SUFFIX,chromecast.com
 DOMAIN-SUFFIX,chromeos.dev
+DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,chronicle.security
 DOMAIN-SUFFIX,chroniclesec.com
