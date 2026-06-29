@@ -1,11 +1,12 @@
 # NAME: CATEGORY-PT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 115
-# TOTAL: 115
+# UPDATED: 2026-06-29 08:21:27
+# DOMAIN-SUFFIX: 123
+# TOTAL: 123
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,beitai.pt
@@ -24,12 +25,14 @@ DOMAIN-SUFFIX,chddiy.xyz
 DOMAIN-SUFFIX,cinemaz.to
 DOMAIN-SUFFIX,cyanbug.net
 DOMAIN-SUFFIX,dicmusic.com
+DOMAIN-SUFFIX,digitalcore.club
 DOMAIN-SUFFIX,dmhy.best
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,eastgame.org
 DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,exoticaz.to
 DOMAIN-SUFFIX,filelist.io
+DOMAIN-SUFFIX,gazellegames.net
 DOMAIN-SUFFIX,greatposterwall.com
 DOMAIN-SUFFIX,haidan.video
 DOMAIN-SUFFIX,hdarea.club
@@ -79,6 +82,7 @@ DOMAIN-SUFFIX,nexushd.org
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,npupt.com
 DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,pandapt.net
 DOMAIN-SUFFIX,passthepopcorn.me
@@ -103,14 +107,18 @@ DOMAIN-SUFFIX,ptsbao.club
 DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,pttime.top
 DOMAIN-SUFFIX,rainbowisland.co
+DOMAIN-SUFFIX,redacted.sh
 DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,share.ilolicon.com
 DOMAIN-SUFFIX,sharkpt.net
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,skyeysnow.com
+DOMAIN-SUFFIX,sportscult.org
 DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,superbits.org
 DOMAIN-SUFFIX,tju.pt
 DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,torrentleech.cc
 DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,ubits.club
