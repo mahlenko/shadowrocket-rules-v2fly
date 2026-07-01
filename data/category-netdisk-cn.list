@@ -1,9 +1,9 @@
 # NAME: CATEGORY-NETDISK-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 89
-# TOTAL: 89
+# UPDATED: 2026-07-01 07:17:23
+# DOMAIN-SUFFIX: 90
+# TOTAL: 90
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
 DOMAIN-SUFFIX,115cdn.net
@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,cowtransfer.com
 DOMAIN-SUFFIX,ctfile.com
 DOMAIN-SUFFIX,feimaoyun.com
 DOMAIN-SUFFIX,filez.com
+DOMAIN-SUFFIX,guangyacdn.com
 DOMAIN-SUFFIX,guangyapan.com
 DOMAIN-SUFFIX,ilanzou.com
 DOMAIN-SUFFIX,jianguoyun.com

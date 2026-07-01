@@ -1,10 +1,10 @@
 # NAME: BYTEDANCE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-13 07:03:08
-# DOMAIN-SUFFIX: 765
+# UPDATED: 2026-07-01 07:17:23
+# DOMAIN-SUFFIX: 767
 # DOMAIN: 32
-# TOTAL: 797
+# TOTAL: 799
 DOMAIN-SUFFIX,365yg.com
 DOMAIN-SUFFIX,99uri.cn
 DOMAIN-SUFFIX,99uri.com
@@ -173,6 +173,7 @@ DOMAIN-SUFFIX,byteoversea.net
 DOMAIN-SUFFIX,byteq5k.com
 DOMAIN-SUFFIX,byteq8u.net
 DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytespeech.com
 DOMAIN-SUFFIX,bytesslb.net
 DOMAIN-SUFFIX,bytetcc.com
 DOMAIN-SUFFIX,bytetech.info
@@ -467,6 +468,7 @@ DOMAIN-SUFFIX,okr.cn
 DOMAIN-SUFFIX,okr.com
 DOMAIN-SUFFIX,okr.com.cn
 DOMAIN-SUFFIX,oortgslb.com
+DOMAIN-SUFFIX,open-douyin.com
 DOMAIN-SUFFIX,openbcs.com
 DOMAIN-SUFFIX,openve.cn
 DOMAIN-SUFFIX,originalimg.com

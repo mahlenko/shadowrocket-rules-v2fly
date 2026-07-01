@@ -1,15 +1,16 @@
 # NAME: CATEGORY-COMMUNICATION
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-03 08:24:45
-# DOMAIN-SUFFIX: 148
+# UPDATED: 2026-07-01 07:17:23
+# DOMAIN-SUFFIX: 149
 # DOMAIN: 2
-# TOTAL: 150
+# TOTAL: 151
 DOMAIN-SUFFIX,adsgram.ai
 DOMAIN-SUFFIX,airhorn.solutions
 DOMAIN-SUFFIX,airhornbot.com
 DOMAIN-SUFFIX,arewereadyyet.com
 DOMAIN-SUFFIX,bigbeans.solutions
+DOMAIN-SUFFIX,botim.me
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,cinny.in
 DOMAIN-SUFFIX,clubhouse.com

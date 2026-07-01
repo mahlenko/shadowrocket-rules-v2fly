@@ -1,11 +1,11 @@
 # NAME: CATEGORY-GAMES-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-21 08:06:01
-# DOMAIN-SUFFIX: 239
+# UPDATED: 2026-07-01 07:17:23
+# DOMAIN-SUFFIX: 244
 # DOMAIN: 2
 # URL-REGEX: 1
-# TOTAL: 242
+# TOTAL: 247
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,3304399.com
 DOMAIN-SUFFIX,3304399.net
@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,4399yyy.com
 DOMAIN-SUFFIX,5054399.com
 DOMAIN-SUFFIX,5054399.net
 DOMAIN-SUFFIX,5wyxi.com
+DOMAIN-SUFFIX,66rpg.com
 DOMAIN-SUFFIX,71acg.com
 DOMAIN-SUFFIX,71acg.net
 DOMAIN-SUFFIX,7k7k.com
@@ -73,6 +74,7 @@ DOMAIN-SUFFIX,buke999.com
 DOMAIN-SUFFIX,bx1k.com
 DOMAIN-SUFFIX,cbjq.com
 DOMAIN-SUFFIX,cdncl.net
+DOMAIN-SUFFIX,cgyouxi.com
 DOMAIN-SUFFIX,changyou.com
 DOMAIN-SUFFIX,codm.com
 DOMAIN-SUFFIX,cowlevel.net
@@ -158,6 +160,7 @@ DOMAIN-SUFFIX,mszdld.net
 DOMAIN-SUFFIX,my4399.com
 DOMAIN-SUFFIX,mysiteres.com
 DOMAIN-SUFFIX,nagcloudcs.com
+DOMAIN-SUFFIX,nalrer.cn
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextworkshop.net
 DOMAIN-SUFFIX,nzsiteres.com
@@ -234,6 +237,7 @@ DOMAIN-SUFFIX,xoyo.com
 DOMAIN-SUFFIX,xoyocdn.com
 DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,yingxiong.com
+DOMAIN-SUFFIX,yjwujian.cn
 DOMAIN-SUFFIX,yokaverse.com
 DOMAIN-SUFFIX,youba.com
 DOMAIN-SUFFIX,yuanshen.com
@@ -243,6 +247,7 @@ DOMAIN-SUFFIX,yxhhdl.com
 DOMAIN-SUFFIX,yxhimg.com
 DOMAIN-SUFFIX,yximg.cn
 DOMAIN-SUFFIX,yxwsgame.com
+DOMAIN-SUFFIX,yysls.cn
 DOMAIN-SUFFIX,yzyxgame.com
 DOMAIN-SUFFIX,zcjbgame.com
 DOMAIN-SUFFIX,zhuoyou.com

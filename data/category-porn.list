@@ -1,11 +1,11 @@
 # NAME: CATEGORY-PORN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-16 08:51:28
-# DOMAIN-SUFFIX: 6508
+# UPDATED: 2026-07-01 07:17:23
+# DOMAIN-SUFFIX: 6511
 # DOMAIN: 5
 # URL-REGEX: 140
-# TOTAL: 6653
+# TOTAL: 6656
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -2732,6 +2732,9 @@ DOMAIN-SUFFIX,hongkongdollvideo.org
 DOMAIN-SUFFIX,honnaka.jp
 DOMAIN-SUFFIX,hoodamateurs.com
 DOMAIN-SUFFIX,hooligapps.com
+DOMAIN-SUFFIX,hornet.com
+DOMAIN-SUFFIX,hornetapp.com
+DOMAIN-SUFFIX,hornetx.com
 DOMAIN-SUFFIX,hornyasianmilfs.com
 DOMAIN-SUFFIX,hornybitches.org
 DOMAIN-SUFFIX,hornybutt.com
