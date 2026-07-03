@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-01 07:17:24
-# DOMAIN-SUFFIX: 24112
-# DOMAIN: 1410
+# UPDATED: 2026-07-03 06:37:42
+# DOMAIN-SUFFIX: 24113
+# DOMAIN: 1412
 # URL-REGEX: 158
-# TOTAL: 25680
+# TOTAL: 25683
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -5991,6 +5991,7 @@ DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
+DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN-SUFFIX,copro.pw
@@ -17054,7 +17055,9 @@ DOMAIN-SUFFIX,opal.google
 DOMAIN-SUFFIX,opal.google.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+DOMAIN,openai.qualtrics.com
 DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaiassets.blob.core.windows.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicom.imgix.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net

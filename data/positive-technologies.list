@@ -1,9 +1,9 @@
-# NAME: JINSHUJU
+# NAME: POSITIVE-TECHNOLOGIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
 # UPDATED: 2026-07-03 06:37:42
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
-DOMAIN-SUFFIX,jinshuju.net
-DOMAIN-SUFFIX,jinshujucdn.com
-DOMAIN-SUFFIX,jsj.top
+DOMAIN-SUFFIX,ptcloud.ru
+DOMAIN-SUFFIX,ptsecurity.com
+DOMAIN-SUFFIX,standoff365.com

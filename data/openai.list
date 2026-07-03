@@ -1,11 +1,11 @@
 # NAME: OPENAI
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-07 07:10:48
+# UPDATED: 2026-07-03 06:37:42
 # DOMAIN-SUFFIX: 12
-# DOMAIN: 7
+# DOMAIN: 9
 # URL-REGEX: 1
-# TOTAL: 20
+# TOTAL: 22
 URL-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,chat.com
@@ -19,7 +19,9 @@ DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+DOMAIN,openai.qualtrics.com
 DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaiassets.blob.core.windows.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicom.imgix.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net

@@ -1,10 +1,10 @@
 # NAME: CATEGORY-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-01 07:17:23
-# DOMAIN-SUFFIX: 1540
+# UPDATED: 2026-07-03 06:37:42
+# DOMAIN-SUFFIX: 1547
 # DOMAIN: 234
-# TOTAL: 1774
+# TOTAL: 1781
 DOMAIN-SUFFIX,1917live.red
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
@@ -445,6 +445,7 @@ DOMAIN-SUFFIX,flomni.com
 DOMAIN-SUFFIX,fon.bet
 DOMAIN-SUFFIX,fon.promo
 DOMAIN-SUFFIX,forshtadt.ru
+DOMAIN-SUFFIX,foto-planeta.com
 DOMAIN-SUFFIX,freeassange.tech
 DOMAIN-SUFFIX,freede.tech
 DOMAIN-SUFFIX,freedert.online
@@ -995,6 +996,8 @@ DOMAIN-SUFFIX,psk
 DOMAIN-SUFFIX,psk.ru
 DOMAIN-SUFFIX,pskb.ru
 DOMAIN-SUFFIX,pskov.ru
+DOMAIN-SUFFIX,ptcloud.ru
+DOMAIN-SUFFIX,ptsecurity.com
 DOMAIN-SUFFIX,ptz.ru
 DOMAIN-SUFFIX,pushgrow.io
 DOMAIN-SUFFIX,pvubank.com
@@ -1014,6 +1017,7 @@ DOMAIN-SUFFIX,radiosputnik.ria.ru
 DOMAIN-SUFFIX,radiosputnik.ru
 DOMAIN-SUFFIX,raiffeisen-media.ru
 DOMAIN-SUFFIX,raiffeisen.ru
+DOMAIN-SUFFIX,randomgodbot.com
 DOMAIN-SUFFIX,rbcollect.ru
 DOMAIN-SUFFIX,rbcredit.ru
 DOMAIN-SUFFIX,rbth.com
@@ -1226,6 +1230,8 @@ DOMAIN,sentry.wb.ru
 DOMAIN,sentry.x5.ru
 DOMAIN-SUFFIX,servercore.com
 DOMAIN-SUFFIX,servercore.live
+DOMAIN-SUFFIX,servicepipe.ru
+DOMAIN-SUFFIX,servicepipe.tech
 DOMAIN-SUFFIX,setka.ru
 DOMAIN-SUFFIX,sevastopol.ru
 DOMAIN-SUFFIX,sferum-dev.ru
@@ -1276,6 +1282,7 @@ DOMAIN-SUFFIX,ssb.msk.ru
 DOMAIN,st-ok-pts.cdn-vk.ru
 DOMAIN,st-ok.cdn-vk.ru
 DOMAIN,stacks.vk-portal.net
+DOMAIN-SUFFIX,standoff365.com
 DOMAIN-SUFFIX,start.ru
 DOMAIN-SUFFIX,static-storage.net
 DOMAIN-SUFFIX,staticmy.com

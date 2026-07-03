@@ -1,0 +1,8 @@
+# NAME: SERVICEPIPE
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-07-03 06:37:42
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,servicepipe.ru
+DOMAIN-SUFFIX,servicepipe.tech
