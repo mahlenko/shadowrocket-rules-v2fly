@@ -1,9 +1,9 @@
 # NAME: QIHOO360
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 106
-# TOTAL: 106
+# UPDATED: 2026-07-04 06:25:37
+# DOMAIN-SUFFIX: 110
+# TOTAL: 110
 DOMAIN-SUFFIX,360-api.cn
 DOMAIN-SUFFIX,360-g.cn
 DOMAIN-SUFFIX,360-g.net
@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,360tpcdn.com
 DOMAIN-SUFFIX,360tres.com
 DOMAIN-SUFFIX,360webcache.com
 DOMAIN-SUFFIX,360zqaq.com
+DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,anquanke.com
 DOMAIN-SUFFIX,appjiagu.com
 DOMAIN-SUFFIX,baomitu.com
@@ -85,6 +86,7 @@ DOMAIN-SUFFIX,qikucdn.com
 DOMAIN-SUFFIX,s.360.cn
 DOMAIN-SUFFIX,s.so.360.cn
 DOMAIN-SUFFIX,s.union.360.cn
+DOMAIN-SUFFIX,shouji
 DOMAIN-SUFFIX,so.com
 DOMAIN-SUFFIX,sou.cn
 DOMAIN-SUFFIX,sou.com
@@ -104,9 +106,11 @@ DOMAIN-SUFFIX,wztsy.cn
 DOMAIN-SUFFIX,wztsy.com
 DOMAIN-SUFFIX,xiaoluyouxuan.com
 DOMAIN-SUFFIX,xiaoluzhidian.com
+DOMAIN-SUFFIX,xihuan
 DOMAIN-SUFFIX,xjietiao.com
 DOMAIN-SUFFIX,yiwanzhushou.com
 DOMAIN-SUFFIX,youhua.com
+DOMAIN-SUFFIX,yun
 DOMAIN-SUFFIX,yunpan.cn
 DOMAIN-SUFFIX,zhaomi.cn
 DOMAIN-SUFFIX,zhaomishijie.com

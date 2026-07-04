@@ -1,10 +1,10 @@
 # NAME: MICROSOFT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-03 06:37:42
-# DOMAIN-SUFFIX: 634
+# UPDATED: 2026-07-04 06:25:37
+# DOMAIN-SUFFIX: 637
 # DOMAIN: 114
-# TOTAL: 748
+# TOTAL: 751
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com
@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,aznbcontent.cn
 DOMAIN-SUFFIX,aztask.cn
 DOMAIN-SUFFIX,azure
 DOMAIN-SUFFIX,azure-api.cn
+DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,azure-apihub.cn
 DOMAIN-SUFFIX,azure-automation.cn
 DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
@@ -125,6 +126,7 @@ DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN,azurestackhub.download.prss.microsoft.com
 DOMAIN,azurestackhubuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,azurestackvalidation.com
+DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN,b.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,b2clogin.cn
@@ -186,6 +188,7 @@ DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN,copilotprodattachments.blob.core.windows.net

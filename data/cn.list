@@ -1,11 +1,11 @@
 # NAME: CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-01 07:17:23
-# DOMAIN-SUFFIX: 5032
+# UPDATED: 2026-07-04 06:25:36
+# DOMAIN-SUFFIX: 5039
 # DOMAIN: 61
 # URL-REGEX: 3
-# TOTAL: 5096
+# TOTAL: 5103
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -524,6 +524,7 @@ DOMAIN-SUFFIX,anjukestatic.com
 DOMAIN-SUFFIX,anlaiye.com
 DOMAIN-SUFFIX,anlaiye.com.cn
 DOMAIN-SUFFIX,anmo.com
+DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,anquan.org
 DOMAIN-SUFFIX,anquanke.com
 DOMAIN-SUFFIX,anruan.com
@@ -3829,6 +3830,7 @@ DOMAIN-SUFFIX,shixiseng.com
 DOMAIN-SUFFIX,shmetro.com
 DOMAIN-SUFFIX,shobserver.com
 DOMAIN-SUFFIX,shopss.com
+DOMAIN-SUFFIX,shouji
 DOMAIN-SUFFIX,shoujihuifu.com
 DOMAIN-SUFFIX,shouqianba.com
 DOMAIN-SUFFIX,shoutanjjj.com
@@ -3857,6 +3859,7 @@ DOMAIN-SUFFIX,sichuanair.com
 DOMAIN-SUFFIX,sifou.com
 DOMAIN-SUFFIX,simei8.com
 DOMAIN-SUFFIX,simuwang.com
+DOMAIN-SUFFIX,sina
 DOMAIN-SUFFIX,sinesafe.com
 DOMAIN-SUFFIX,singworld.net
 DOMAIN-SUFFIX,sinopec-usa.com
@@ -4420,6 +4423,7 @@ DOMAIN-SUFFIX,wegame.com.cn
 DOMAIN-SUFFIX,wegamedeveloper.com
 DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,wegobank.cn
+DOMAIN-SUFFIX,weibo
 DOMAIN-SUFFIX,weicaifu.com
 DOMAIN-SUFFIX,weidian.com
 DOMAIN-SUFFIX,weilaicaijing.com
@@ -4603,6 +4607,7 @@ DOMAIN-SUFFIX,xiayx.com
 DOMAIN-SUFFIX,xiazaiba.com
 DOMAIN-SUFFIX,xiezuocat.com
 DOMAIN-SUFFIX,xiguacity.cn
+DOMAIN-SUFFIX,xihuan
 DOMAIN-SUFFIX,xilu.com
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xinchacha.com
@@ -4648,6 +4653,7 @@ DOMAIN-SUFFIX,xn--6frz82g
 DOMAIN-SUFFIX,xn--6qq986b3xl
 DOMAIN-SUFFIX,xn--8y0a063a
 DOMAIN-SUFFIX,xn--9et52u
+DOMAIN-SUFFIX,xn--9krt00a
 DOMAIN-SUFFIX,xn--czr694b
 DOMAIN-SUFFIX,xn--czrs0t
 DOMAIN-SUFFIX,xn--czru2d
@@ -4873,6 +4879,7 @@ DOMAIN-SUFFIX,yudou.cn
 DOMAIN-SUFFIX,yuelun.com
 DOMAIN-SUFFIX,yuketang.cn
 DOMAIN-SUFFIX,yumchina.com
+DOMAIN-SUFFIX,yun
 DOMAIN-SUFFIX,yun.139.com
 DOMAIN-SUFFIX,yunaq.com
 DOMAIN-SUFFIX,yunba.io

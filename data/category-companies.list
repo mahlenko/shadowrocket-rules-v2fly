@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-03 06:37:41
-# DOMAIN-SUFFIX: 7712
-# DOMAIN: 986
+# UPDATED: 2026-07-04 06:25:36
+# DOMAIN-SUFFIX: 7718
+# DOMAIN: 987
 # URL-REGEX: 6
-# TOTAL: 8704
+# TOTAL: 8711
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -678,6 +678,7 @@ DOMAIN-SUFFIX,apple-pay.wang
 DOMAIN-SUFFIX,apple-store.cn
 DOMAIN-SUFFIX,apple-store.net
 DOMAIN-SUFFIX,apple-store.wang
+DOMAIN-SUFFIX,apple-studies.com
 DOMAIN,apple-tv-plus-press.apple.com
 DOMAIN-SUFFIX,apple-usa.net
 DOMAIN-SUFFIX,apple-watch.com.ru
@@ -1045,6 +1046,7 @@ DOMAIN-SUFFIX,atlasonepoint.com
 DOMAIN-SUFFIX,atlassian-dev.net
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,atmeta.com
 DOMAIN-SUFFIX,atokara.jp
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,atscaleconference.com
@@ -1303,6 +1305,7 @@ DOMAIN-SUFFIX,aznbcontent.cn
 DOMAIN-SUFFIX,aztask.cn
 DOMAIN-SUFFIX,azure
 DOMAIN-SUFFIX,azure-api.cn
+DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,azure-apihub.cn
 DOMAIN-SUFFIX,azure-automation.cn
 DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
@@ -1372,6 +1375,7 @@ DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN,azurestackhub.download.prss.microsoft.com
 DOMAIN,azurestackhubuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,azurestackvalidation.com
+DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN,b.c2r.ts.cdn.office.net
 DOMAIN,b2.mail.ru
@@ -2337,6 +2341,7 @@ DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN,copilotprodattachments.blob.core.windows.net
@@ -2988,6 +2993,7 @@ DOMAIN-SUFFIX,engkoo.com
 DOMAIN-SUFFIX,enpay.co.jp
 DOMAIN-SUFFIX,enpirion.com
 DOMAIN-SUFFIX,enterprisepaging.com
+DOMAIN,entitlements-edge.itunes.apple.com
 DOMAIN-SUFFIX,envybox.company
 DOMAIN-SUFFIX,envybox.family
 DOMAIN-SUFFIX,envybox.io
@@ -3477,6 +3483,7 @@ DOMAIN-SUFFIX,fourthns.systems
 DOMAIN-SUFFIX,foxkeh.com
 DOMAIN-SUFFIX,foxkeh.jp
 DOMAIN-SUFFIX,fpacebook.com
+DOMAIN,fpinit.itunes.apple.com
 DOMAIN-SUFFIX,fptolia.com
 DOMAIN-SUFFIX,fqcebook.com
 DOMAIN-SUFFIX,fr-beatsbydrestore.com
@@ -4585,7 +4592,6 @@ DOMAIN-SUFFIX,infoq.jp
 DOMAIN,informer.yandex.ru
 DOMAIN-SUFFIX,infraworks.com
 DOMAIN-SUFFIX,ingads.com
-DOMAIN,ingest.apple-studies.com
 DOMAIN,init-kt.apple.com
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net
 DOMAIN,init-p01md.apple.com
@@ -5043,6 +5049,7 @@ DOMAIN-SUFFIX,itunes-apple.cn
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,itunes-radio.net
+DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN,itunes.apple.com
 DOMAIN-SUFFIX,itunes.ca
 DOMAIN-SUFFIX,itunes.co

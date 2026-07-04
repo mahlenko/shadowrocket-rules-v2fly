@@ -1,10 +1,10 @@
 # NAME: META
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 551
+# UPDATED: 2026-07-04 06:25:37
+# DOMAIN-SUFFIX: 552
 # DOMAIN: 2
-# TOTAL: 553
+# TOTAL: 554
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,accountkit.com
@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,askfacebook.org
 DOMAIN-SUFFIX,atdmt2.com
 DOMAIN-SUFFIX,atlasdmt.com
 DOMAIN-SUFFIX,atlasonepoint.com
+DOMAIN-SUFFIX,atmeta.com
 DOMAIN-SUFFIX,atscaleconference.com
 DOMAIN-SUFFIX,binoculus.com
 DOMAIN-SUFFIX,bookstagram.com

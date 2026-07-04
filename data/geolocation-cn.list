@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-01 07:17:24
-# DOMAIN-SUFFIX: 4992
+# UPDATED: 2026-07-04 06:25:37
+# DOMAIN-SUFFIX: 4996
 # DOMAIN: 61
 # URL-REGEX: 3
-# TOTAL: 5056
+# TOTAL: 5060
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -522,6 +522,7 @@ DOMAIN-SUFFIX,anjukestatic.com
 DOMAIN-SUFFIX,anlaiye.com
 DOMAIN-SUFFIX,anlaiye.com.cn
 DOMAIN-SUFFIX,anmo.com
+DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,anquan.org
 DOMAIN-SUFFIX,anquanke.com
 DOMAIN-SUFFIX,anruan.com
@@ -3824,6 +3825,7 @@ DOMAIN-SUFFIX,shixiseng.com
 DOMAIN-SUFFIX,shmetro.com
 DOMAIN-SUFFIX,shobserver.com
 DOMAIN-SUFFIX,shopss.com
+DOMAIN-SUFFIX,shouji
 DOMAIN-SUFFIX,shoujihuifu.com
 DOMAIN-SUFFIX,shouqianba.com
 DOMAIN-SUFFIX,shoutanjjj.com
@@ -4595,6 +4597,7 @@ DOMAIN-SUFFIX,xiayx.com
 DOMAIN-SUFFIX,xiazaiba.com
 DOMAIN-SUFFIX,xiezuocat.com
 DOMAIN-SUFFIX,xiguacity.cn
+DOMAIN-SUFFIX,xihuan
 DOMAIN-SUFFIX,xilu.com
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xinchacha.com
@@ -4833,6 +4836,7 @@ DOMAIN-SUFFIX,yudou.cn
 DOMAIN-SUFFIX,yuelun.com
 DOMAIN-SUFFIX,yuketang.cn
 DOMAIN-SUFFIX,yumchina.com
+DOMAIN-SUFFIX,yun
 DOMAIN-SUFFIX,yun.139.com
 DOMAIN-SUFFIX,yunaq.com
 DOMAIN-SUFFIX,yunba.io

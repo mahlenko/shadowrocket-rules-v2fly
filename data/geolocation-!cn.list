@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-03 06:37:42
-# DOMAIN-SUFFIX: 24113
-# DOMAIN: 1412
+# UPDATED: 2026-07-04 06:25:37
+# DOMAIN-SUFFIX: 24117
+# DOMAIN: 1413
 # URL-REGEX: 158
-# TOTAL: 25683
+# TOTAL: 25688
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -1860,7 +1860,6 @@ DOMAIN,amp-api-updates.apps.apple.com
 DOMAIN,amp-api.apps.apple.com
 DOMAIN,amp-api.media.apple.com
 DOMAIN,amp-api.music.apple.com
-DOMAIN-SUFFIX,amp-api.podcast.apple.com
 DOMAIN,amp.akamaized.net
 DOMAIN-SUFFIX,amp.dev
 DOMAIN-SUFFIX,amplifi.com
@@ -2149,6 +2148,7 @@ DOMAIN-SUFFIX,apple-pay.wang
 DOMAIN-SUFFIX,apple-store.cn
 DOMAIN-SUFFIX,apple-store.net
 DOMAIN-SUFFIX,apple-store.wang
+DOMAIN-SUFFIX,apple-studies.com
 DOMAIN,apple-tv-plus-press.apple.com
 DOMAIN-SUFFIX,apple-usa.net
 DOMAIN-SUFFIX,apple-watch.com.ru
@@ -2661,6 +2661,7 @@ DOMAIN-SUFFIX,atlasonepoint.com
 DOMAIN-SUFFIX,atlassian-dev.net
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,atmeta.com
 DOMAIN-SUFFIX,atnext.com
 DOMAIN-SUFFIX,atokara.jp
 DOMAIN-SUFFIX,atom.io
@@ -3065,6 +3066,7 @@ DOMAIN-SUFFIX,aznude.com
 DOMAIN-SUFFIX,aztask.cn
 DOMAIN-SUFFIX,azure
 DOMAIN-SUFFIX,azure-api.cn
+DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,azure-apihub.cn
 DOMAIN-SUFFIX,azure-automation.cn
 DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
@@ -3135,6 +3137,7 @@ DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN,azurestackhub.download.prss.microsoft.com
 DOMAIN,azurestackhubuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,azurestackvalidation.com
+DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,b-eroland.net
@@ -3193,7 +3196,6 @@ DOMAIN-SUFFIX,badvirtue.com
 DOMAIN-SUFFIX,baeb.com
 DOMAIN,bag-cdn.itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,bag-glasses1.com
-DOMAIN-SUFFIX,bag.itunes.apple.com
 DOMAIN,bag.itunes.apple.com
 DOMAIN-SUFFIX,bahamut.akamaized.net
 DOMAIN-SUFFIX,bahamut.com.tw
@@ -4572,7 +4574,6 @@ DOMAIN-SUFFIX,book4you.org
 DOMAIN-SUFFIX,bookbrainz.org
 DOMAIN-SUFFIX,bookclubcorner.com
 DOMAIN-SUFFIX,bookclubgirl.com
-DOMAIN-SUFFIX,bookeeper.itunes.apple.com
 DOMAIN-SUFFIX,bookfi.net
 DOMAIN-SUFFIX,booking-tec.ru
 DOMAIN-SUFFIX,booking.cn
@@ -5991,6 +5992,7 @@ DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN,copilotprodattachments.blob.core.windows.net
@@ -7969,6 +7971,7 @@ DOMAIN-SUFFIX,entermediadb.net
 DOMAIN-SUFFIX,entermediadb.org
 DOMAIN-SUFFIX,enterprisepaging.com
 DOMAIN-SUFFIX,enterprisessl.com
+DOMAIN,entitlements-edge.itunes.apple.com
 DOMAIN-SUFFIX,entrust.cn
 DOMAIN-SUFFIX,entrust.com
 DOMAIN-SUFFIX,entrust.net
@@ -9255,6 +9258,7 @@ DOMAIN-SUFFIX,foxtvdvd.com
 DOMAIN-SUFFIX,foxuv.com
 DOMAIN-SUFFIX,foxweatherwatch.com
 DOMAIN-SUFFIX,fpacebook.com
+DOMAIN,fpinit.itunes.apple.com
 DOMAIN-SUFFIX,fpo.xxx
 DOMAIN-SUFFIX,fptolia.com
 DOMAIN-SUFFIX,fqcebook.com
@@ -12128,7 +12132,6 @@ DOMAIN-SUFFIX,infrapedia.com
 DOMAIN-SUFFIX,infraworks.com
 DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,ingads.com
-DOMAIN,ingest.apple-studies.com
 DOMAIN-SUFFIX,ingka-dt.cn
 DOMAIN-SUFFIX,ingka-internal.cn
 DOMAIN-SUFFIX,ingka-system.cn
@@ -12709,6 +12712,7 @@ DOMAIN-SUFFIX,itunes-apple.cn
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,itunes-radio.net
+DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN,itunes.apple.com
 DOMAIN-SUFFIX,itunes.ca
 DOMAIN-SUFFIX,itunes.co
@@ -17945,6 +17949,7 @@ DOMAIN-SUFFIX,pochtabank.ru
 DOMAIN-SUFFIX,pocketbiketrader.com
 DOMAIN-SUFFIX,pocketcasts.com
 DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
+DOMAIN-SUFFIX,podcast.apple.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,pogo.com

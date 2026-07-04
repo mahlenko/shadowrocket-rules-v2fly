@@ -1,9 +1,9 @@
 # NAME: SINA
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 54
-# TOTAL: 54
+# UPDATED: 2026-07-04 06:25:37
+# DOMAIN-SUFFIX: 57
+# TOTAL: 57
 DOMAIN-SUFFIX,97973.com
 DOMAIN-SUFFIX,ad.sina.com.cn
 DOMAIN-SUFFIX,ad.us.sinaimg.cn
@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,sa.sina.cn
 DOMAIN-SUFFIX,sbeacon.sina.com.cn
 DOMAIN-SUFFIX,sdkclick.mobile.sina.cn
 DOMAIN-SUFFIX,sg.weibo.com
+DOMAIN-SUFFIX,sina
 DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,sina.com.cn
@@ -52,9 +53,11 @@ DOMAIN-SUFFIX,wbclick.mobile.sina.cn
 DOMAIN-SUFFIX,wbimg.cn
 DOMAIN-SUFFIX,wbimg.com
 DOMAIN-SUFFIX,wcdn.cn
+DOMAIN-SUFFIX,weibo
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibo.com.cn
 DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,weibopay.com
 DOMAIN-SUFFIX,xhaiwai.com
+DOMAIN-SUFFIX,xn--9krt00a

@@ -1,10 +1,10 @@
 # NAME: APPLE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-27 06:33:40
-# DOMAIN-SUFFIX: 1572
-# DOMAIN: 244
-# TOTAL: 1816
+# UPDATED: 2026-07-04 06:25:35
+# DOMAIN-SUFFIX: 1574
+# DOMAIN: 245
+# TOTAL: 1819
 DOMAIN-SUFFIX,100beatscheap.com
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
 DOMAIN-SUFFIX,12diasderegalosdeitunes.cl
@@ -127,6 +127,7 @@ DOMAIN-SUFFIX,apple-pay.wang
 DOMAIN-SUFFIX,apple-store.cn
 DOMAIN-SUFFIX,apple-store.net
 DOMAIN-SUFFIX,apple-store.wang
+DOMAIN-SUFFIX,apple-studies.com
 DOMAIN,apple-tv-plus-press.apple.com
 DOMAIN-SUFFIX,apple-usa.net
 DOMAIN-SUFFIX,apple-watch.com.ru
@@ -1013,6 +1014,7 @@ DOMAIN-SUFFIX,edu-research.org
 DOMAIN-SUFFIX,emac.co.in
 DOMAIN-SUFFIX,emac.in
 DOMAIN-SUFFIX,emagic.de
+DOMAIN,entitlements-edge.itunes.apple.com
 DOMAIN-SUFFIX,esbeatsbydrebuy.com
 DOMAIN-SUFFIX,etheadphones.com
 DOMAIN-SUFFIX,euroipad.com
@@ -1033,6 +1035,7 @@ DOMAIN-SUFFIX,findmyipad.com
 DOMAIN-SUFFIX,firewire.cl
 DOMAIN-SUFFIX,firewire.eu
 DOMAIN-SUFFIX,foundationdb.org
+DOMAIN,fpinit.itunes.apple.com
 DOMAIN-SUFFIX,fr-beatsbydrestore.com
 DOMAIN-SUFFIX,francecasquebeatssolde.com
 DOMAIN-SUFFIX,frcasquesbeats.com
@@ -1197,7 +1200,6 @@ DOMAIN,inappcheck-lb.itunes-apple.com.akadns.net
 DOMAIN,inappcheck.itunes.apple.com
 DOMAIN-SUFFIX,incentivetravelgifts.com
 DOMAIN-SUFFIX,indiaipad.com
-DOMAIN,ingest.apple-studies.com
 DOMAIN,init-kt.apple.com
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net
 DOMAIN,init-p01md.apple.com
@@ -1351,6 +1353,7 @@ DOMAIN-SUFFIX,itunes-apple.cn
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,itunes-radio.net
+DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN,itunes.apple.com
 DOMAIN-SUFFIX,itunes.ca
 DOMAIN-SUFFIX,itunes.co
