@@ -1,0 +1,8 @@
+# NAME: PAWCHIVE
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-07-06 07:19:13
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,pawchive.pw
+DOMAIN-SUFFIX,pawchive.st
