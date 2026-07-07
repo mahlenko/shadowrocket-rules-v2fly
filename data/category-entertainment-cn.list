@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-01 07:17:23
-# DOMAIN-SUFFIX: 718
+# UPDATED: 2026-07-07 06:52:28
+# DOMAIN-SUFFIX: 729
 # DOMAIN: 22
 # URL-REGEX: 1
-# TOTAL: 741
+# TOTAL: 752
 DOMAIN-SUFFIX,11222.cn
 DOMAIN-SUFFIX,13a.com
 DOMAIN-SUFFIX,17173.com
@@ -543,6 +543,8 @@ DOMAIN-SUFFIX,newstjk.com
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextvid.net
 DOMAIN-SUFFIX,nextworkshop.net
+DOMAIN-SUFFIX,nikkigames.cn
+DOMAIN-SUFFIX,nikkigames.com.cn
 DOMAIN-SUFFIX,novelfm.com
 DOMAIN-SUFFIX,novelfmpic.com
 DOMAIN-SUFFIX,novelfmstatic.com
@@ -554,6 +556,8 @@ DOMAIN,p3-novel.byteimg.com
 DOMAIN,p6-ad-sign.byteimg.com
 DOMAIN,p6-novel.byteimg.com
 DOMAIN,p9-ad-sign.byteimg.com
+DOMAIN-SUFFIX,papegames.cn
+DOMAIN-SUFFIX,papegames.com
 DOMAIN-SUFFIX,pearvideo.com
 DOMAIN-SUFFIX,phira.cn
 DOMAIN-SUFFIX,pipi.cn
@@ -637,6 +641,7 @@ DOMAIN-SUFFIX,syxlgame.com
 DOMAIN-SUFFIX,tadu.com
 DOMAIN-SUFFIX,taihe.com
 DOMAIN-SUFFIX,taihemusic.cn
+DOMAIN-SUFFIX,tanwan.com
 DOMAIN-SUFFIX,taomee.com
 DOMAIN-SUFFIX,tcfmglobal.com
 DOMAIN-SUFFIX,tencent-gcloud.com
@@ -659,6 +664,8 @@ DOMAIN-SUFFIX,tmead.y.qq.com
 DOMAIN-SUFFIX,tmeadcomm.y.qq.com
 DOMAIN-SUFFIX,tuer123.com
 DOMAIN-SUFFIX,tuyoo.com
+DOMAIN-SUFFIX,twyx.cn
+DOMAIN-SUFFIX,twyxh.com
 DOMAIN-SUFFIX,u17.com
 DOMAIN-SUFFIX,u17i.com
 DOMAIN-SUFFIX,u17t.com
@@ -667,6 +674,7 @@ DOMAIN-SUFFIX,ultimatemusic.cn
 DOMAIN-SUFFIX,ultracachenode.com
 DOMAIN-SUFFIX,vgtime.com
 DOMAIN-SUFFIX,videoxiaoyouxi.com
+DOMAIN-SUFFIX,vistopia.com.cn
 DOMAIN-SUFFIX,viviv.com
 DOMAIN-SUFFIX,vrzwk.cn
 DOMAIN-SUFFIX,vrzwk.com
@@ -716,6 +724,8 @@ DOMAIN-SUFFIX,y.qq.com
 DOMAIN-SUFFIX,yamibo.com
 DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,yeshen.com
+DOMAIN-SUFFIX,yeyou.com
+DOMAIN-SUFFIX,yeyoucdn.com
 DOMAIN-SUFFIX,yingxiong.com
 DOMAIN-SUFFIX,yiyouliao.com
 DOMAIN-SUFFIX,yjwujian.cn
@@ -747,3 +757,4 @@ DOMAIN-SUFFIX,zhuoyou.com
 DOMAIN-SUFFIX,zhuoyuegame.com
 DOMAIN-SUFFIX,zjshulong.com
 DOMAIN-SUFFIX,zongheng.com
+DOMAIN-SUFFIX,zx.com

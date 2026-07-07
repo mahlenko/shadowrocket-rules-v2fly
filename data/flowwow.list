@@ -1,0 +1,8 @@
+# NAME: FLOWWOW
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-07-07 06:52:29
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,flowwow.com

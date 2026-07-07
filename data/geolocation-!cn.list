@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-06 07:19:13
-# DOMAIN-SUFFIX: 24119
+# UPDATED: 2026-07-07 06:52:29
+# DOMAIN-SUFFIX: 24125
 # DOMAIN: 1413
 # URL-REGEX: 158
-# TOTAL: 25690
+# TOTAL: 25696
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -9009,6 +9009,8 @@ DOMAIN-SUFFIX,flow.org
 DOMAIN-SUFFIX,flowfront.com
 DOMAIN-SUFFIX,flowfront.net
 DOMAIN-SUFFIX,flowtype.org
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,flowwow.com
 DOMAIN-SUFFIX,fluffychat.im
 DOMAIN-SUFFIX,fluidfxapp.com
 DOMAIN-SUFFIX,fluidpreview.com
@@ -9464,6 +9466,8 @@ DOMAIN-SUFFIX,fundsupermart.com
 DOMAIN-SUFFIX,funimation.com
 DOMAIN-SUFFIX,funnyfacebook.org
 DOMAIN-SUFFIX,funnyordie.com
+DOMAIN-SUFFIX,funpay.com
+DOMAIN-SUFFIX,funpay.ru
 DOMAIN-SUFFIX,funshemale.com
 DOMAIN-SUFFIX,fuq.com
 DOMAIN-SUFFIX,fuqqt.com
@@ -20124,6 +20128,7 @@ DOMAIN-SUFFIX,sferum-dev.ru
 DOMAIN-SUFFIX,sferum.ru
 DOMAIN-SUFFIX,sfmcompile.club
 DOMAIN-SUFFIX,sforce.com
+DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,sg120.me
 DOMAIN-SUFFIX,sg1lib.org
@@ -21919,6 +21924,7 @@ DOMAIN-SUFFIX,tilda.ru
 DOMAIN-SUFFIX,tilda.ws
 DOMAIN-SUFFIX,tildaapi.com
 DOMAIN-SUFFIX,tildacdn.com
+DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN,time-a-b.nist.gov
 DOMAIN,time-a-g.nist.gov

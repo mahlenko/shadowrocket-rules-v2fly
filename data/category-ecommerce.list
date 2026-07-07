@@ -1,10 +1,10 @@
 # NAME: CATEGORY-ECOMMERCE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-18 08:14:28
-# DOMAIN-SUFFIX: 1257
+# UPDATED: 2026-07-07 06:52:28
+# DOMAIN-SUFFIX: 1262
 # DOMAIN: 38
-# TOTAL: 1295
+# TOTAL: 1300
 DOMAIN-SUFFIX,21centuryaccess.com
 DOMAIN-SUFFIX,4ebaytraders.com
 DOMAIN-SUFFIX,abb.travel
@@ -553,10 +553,14 @@ DOMAIN-SUFFIX,fashionnike.com
 DOMAIN-SUFFIX,fatwallet.com
 DOMAIN-SUFFIX,fflnk.net
 DOMAIN-SUFFIX,finenike.com
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,flowwow.com
 DOMAIN-SUFFIX,foampositeshoes.com
 DOMAIN-SUFFIX,fout.jp
 DOMAIN-SUFFIX,fragrancebay.com
 DOMAIN-SUFFIX,francemail.com
+DOMAIN-SUFFIX,funpay.com
+DOMAIN-SUFFIX,funpay.ru
 DOMAIN-SUFFIX,futureshop.ca
 DOMAIN-SUFFIX,gamewtb.com
 DOMAIN-SUFFIX,geek-squad-support.com
@@ -1074,6 +1078,7 @@ DOMAIN-SUFFIX,s-bid.rmp.rakuten.com
 DOMAIN-SUFFIX,sale-nikeshoes.com
 DOMAIN,sentry.ozon.ru
 DOMAIN,sentry.wb.ru
+DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,shop.app
 DOMAIN-SUFFIX,shopadidas.ca
 DOMAIN-SUFFIX,shopadidas.com

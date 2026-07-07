@@ -1,10 +1,10 @@
 # NAME: CATEGORY-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-03 06:37:42
-# DOMAIN-SUFFIX: 1547
+# UPDATED: 2026-07-07 06:52:29
+# DOMAIN-SUFFIX: 1564
 # DOMAIN: 234
-# TOTAL: 1781
+# TOTAL: 1798
 DOMAIN-SUFFIX,1917live.red
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
@@ -92,6 +92,7 @@ DOMAIN-SUFFIX,adygtelecom.com
 DOMAIN-SUFFIX,afisha.ru
 DOMAIN,agency-adv.ozon.ru
 DOMAIN-SUFFIX,ahilesva.info
+DOMAIN-SUFFIX,aiesa.ru
 DOMAIN-SUFFIX,akbars.ru
 DOMAIN-SUFFIX,alefbank.com
 DOMAIN-SUFFIX,alfa.me
@@ -100,6 +101,9 @@ DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
 DOMAIN-SUFFIX,algoritmika.org
+DOMAIN-SUFFIX,alice.yandex.net
+DOMAIN-SUFFIX,alice.yandex.ru
+DOMAIN-SUFFIX,alicepro.yandex.ru
 DOMAIN-SUFFIX,alt-ad.mail.ru
 DOMAIN,alt-r.my.com
 DOMAIN-SUFFIX,altai.ru
@@ -285,6 +289,7 @@ DOMAIN-SUFFIX,comss.online
 DOMAIN-SUFFIX,comss.org
 DOMAIN-SUFFIX,comss.ru
 DOMAIN-SUFFIX,coolera.ru
+DOMAIN-SUFFIX,copymonkey.app
 DOMAIN-SUFFIX,counter.yandex.ru
 DOMAIN-SUFFIX,cplsb.ru
 DOMAIN-SUFFIX,credistory.ru
@@ -442,6 +447,8 @@ DOMAIN-SUFFIX,fivepost.ru
 DOMAIN-SUFFIX,fix-price.com
 DOMAIN-SUFFIX,flocktory.com
 DOMAIN-SUFFIX,flomni.com
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,flowwow.com
 DOMAIN-SUFFIX,fon.bet
 DOMAIN-SUFFIX,fon.promo
 DOMAIN-SUFFIX,forshtadt.ru
@@ -449,6 +456,8 @@ DOMAIN-SUFFIX,foto-planeta.com
 DOMAIN-SUFFIX,freeassange.tech
 DOMAIN-SUFFIX,freede.tech
 DOMAIN-SUFFIX,freedert.online
+DOMAIN-SUFFIX,funpay.com
+DOMAIN-SUFFIX,funpay.ru
 DOMAIN-SUFFIX,future-cs.ru
 DOMAIN-SUFFIX,g-ib.ae
 DOMAIN-SUFFIX,g-ib.ru
@@ -471,6 +480,7 @@ DOMAIN-SUFFIX,genotek.eu
 DOMAIN-SUFFIX,genotek.health
 DOMAIN-SUFFIX,genotek.ru
 DOMAIN-SUFFIX,geobasket.ru
+DOMAIN-SUFFIX,gerwin.io
 DOMAIN-SUFFIX,getsynapse.io
 DOMAIN-SUFFIX,gib-global.com
 DOMAIN-SUFFIX,gib.sg
@@ -496,6 +506,7 @@ DOMAIN-SUFFIX,goup.ai
 DOMAIN-SUFFIX,gov.ru
 DOMAIN-SUFFIX,government.ru
 DOMAIN-SUFFIX,gpb.ru
+DOMAIN-SUFFIX,gptunnel.ru
 DOMAIN-SUFFIX,green-box-tv.com
 DOMAIN-SUFFIX,grfc.ru
 DOMAIN-SUFFIX,group-ib.ae
@@ -976,6 +987,7 @@ DOMAIN-SUFFIX,pochta.ru
 DOMAIN-SUFFIX,pochtabank.ru
 DOMAIN,podorozhnik.spb.ru
 DOMAIN-SUFFIX,polyclinika.ru
+DOMAIN-SUFFIX,polza.ai
 DOMAIN-SUFFIX,ponyexpress.ru
 DOMAIN-SUFFIX,popmechanic.io
 DOMAIN-SUFFIX,popmechanic.ru
@@ -1042,6 +1054,7 @@ DOMAIN-SUFFIX,ria.ru
 DOMAIN-SUFFIX,rkomi.ru
 DOMAIN-SUFFIX,rncoluminis.ru
 DOMAIN-SUFFIX,rnd.ru
+DOMAIN-SUFFIX,robotext.io
 DOMAIN-SUFFIX,rocketozon.by
 DOMAIN-SUFFIX,roistat.com
 DOMAIN-SUFFIX,romanovs100.com
@@ -1114,6 +1127,7 @@ DOMAIN-SUFFIX,ru
 DOMAIN-SUFFIX,ru.ccb.com
 DOMAIN-SUFFIX,ru.com
 DOMAIN-SUFFIX,ru.net
+DOMAIN-SUFFIX,rugpt.io
 DOMAIN-SUFFIX,ruhub.tv
 DOMAIN-SUFFIX,runewsrt.com
 DOMAIN-SUFFIX,ruptly.agency
@@ -1236,6 +1250,7 @@ DOMAIN-SUFFIX,setka.ru
 DOMAIN-SUFFIX,sevastopol.ru
 DOMAIN-SUFFIX,sferum-dev.ru
 DOMAIN-SUFFIX,sferum.ru
+DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,sgcheck.ru
 DOMAIN-SUFFIX,shedevrum.ai
 DOMAIN-SUFFIX,shop-rt.com
@@ -1363,6 +1378,7 @@ DOMAIN-SUFFIX,tilda.ru
 DOMAIN-SUFFIX,tilda.ws
 DOMAIN-SUFFIX,tildaapi.com
 DOMAIN-SUFFIX,tildacdn.com
+DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,time-messenger.ru
 DOMAIN-SUFFIX,timeweb.cloud
 DOMAIN-SUFFIX,timeweb.com
@@ -1383,6 +1399,7 @@ DOMAIN-SUFFIX,tmiaf.ru
 DOMAIN-SUFFIX,tochka-tech.com
 DOMAIN-SUFFIX,tochka.com
 DOMAIN-SUFFIX,tok.media
+DOMAIN-SUFFIX,tokenator.top
 DOMAIN-SUFFIX,tom.ru
 DOMAIN-SUFFIX,tomsk.ru
 DOMAIN-SUFFIX,top-fwz1.mail.ru
