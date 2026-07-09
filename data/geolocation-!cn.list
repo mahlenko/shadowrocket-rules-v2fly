@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-07 06:52:29
-# DOMAIN-SUFFIX: 24125
-# DOMAIN: 1413
+# UPDATED: 2026-07-09 06:50:54
+# DOMAIN-SUFFIX: 24127
+# DOMAIN: 1415
 # URL-REGEX: 158
-# TOTAL: 25696
+# TOTAL: 25700
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -1860,6 +1860,7 @@ DOMAIN,amp-api-updates.apps.apple.com
 DOMAIN,amp-api.apps.apple.com
 DOMAIN,amp-api.media.apple.com
 DOMAIN,amp-api.music.apple.com
+DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,amp.akamaized.net
 DOMAIN-SUFFIX,amp.dev
 DOMAIN-SUFFIX,amplifi.com
@@ -2738,7 +2739,6 @@ DOMAIN-SUFFIX,auricularesbeatsbaratosshop.com
 DOMAIN-SUFFIX,auricularesbeatsmarkt.com
 DOMAIN-SUFFIX,auroraoss.com
 DOMAIN-SUFFIX,ausbeatsbydrdre.com
-DOMAIN,auth.music.apple.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,authorxml.com
 DOMAIN-SUFFIX,authpass.app
@@ -15633,6 +15633,7 @@ DOMAIN-SUFFIX,musclegirlflix.com
 DOMAIN,muse.jhu.edu
 DOMAIN-SUFFIX,mushroomtrack.com
 DOMAIN-SUFFIX,mushymush.tv
+DOMAIN-SUFFIX,music.apple.com
 DOMAIN,music.apple.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,musicbay.net
@@ -17956,6 +17957,9 @@ DOMAIN-SUFFIX,pocketbiketrader.com
 DOMAIN-SUFFIX,pocketcasts.com
 DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
 DOMAIN-SUFFIX,podcast.apple.com
+DOMAIN-SUFFIX,podcasts.apple.com
+DOMAIN,podcasts.apple.com
+DOMAIN,podcasts.itunes.apple.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,pogo.com

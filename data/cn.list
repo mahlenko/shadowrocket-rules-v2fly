@@ -1,11 +1,11 @@
 # NAME: CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-07 06:52:29
-# DOMAIN-SUFFIX: 5058
+# UPDATED: 2026-07-09 06:50:54
+# DOMAIN-SUFFIX: 5074
 # DOMAIN: 61
 # URL-REGEX: 3
-# TOTAL: 5122
+# TOTAL: 5138
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -606,6 +606,7 @@ DOMAIN-SUFFIX,babytree.com
 DOMAIN-SUFFIX,babytreeimg.com
 DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,badou.com
+DOMAIN-SUFFIX,baicaf.com
 DOMAIN-SUFFIX,baichuan-ai.com
 DOMAIN-SUFFIX,baicizhan.com
 DOMAIN-SUFFIX,baicizhan.org
@@ -1326,6 +1327,7 @@ DOMAIN-SUFFIX,dcdapp.com
 DOMAIN-SUFFIX,dcdkjx.com
 DOMAIN-SUFFIX,dcloud.io
 DOMAIN-SUFFIX,dcloud.net.cn
+DOMAIN-SUFFIX,dcshfu.com
 DOMAIN-SUFFIX,dd373.com
 DOMAIN-SUFFIX,ddcorp.net
 DOMAIN-SUFFIX,ddfresh.net
@@ -1865,6 +1867,7 @@ DOMAIN-SUFFIX,ggkuai.com
 DOMAIN-SUFFIX,ghsl.cn
 DOMAIN-SUFFIX,ghxi.com
 DOMAIN-SUFFIX,ghzq.com.cn
+DOMAIN-SUFFIX,gifpay.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,gijsq.com
 DOMAIN-SUFFIX,gio.ren
@@ -2154,6 +2157,7 @@ DOMAIN-SUFFIX,houyicaiji.com
 DOMAIN-SUFFIX,houyuantuan.com
 DOMAIN-SUFFIX,howbuy.com
 DOMAIN-SUFFIX,hpplay.cn
+DOMAIN-SUFFIX,hprtupgrade.com
 DOMAIN-SUFFIX,hqchip.com
 DOMAIN-SUFFIX,hqdoc.com
 DOMAIN-SUFFIX,hqpcb.com
@@ -2372,6 +2376,7 @@ DOMAIN-SUFFIX,imp.go.sohu.com
 DOMAIN-SUFFIX,imsyy.com
 DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,incopat.com
+DOMAIN-SUFFIX,indeedpower.com
 DOMAIN-SUFFIX,indienova.com
 DOMAIN-SUFFIX,inewsweek.cn
 DOMAIN-SUFFIX,infineon.cn
@@ -2397,6 +2402,7 @@ DOMAIN-SUFFIX,ipanda.net
 DOMAIN-SUFFIX,ipchaxun.com
 DOMAIN-SUFFIX,ipchaxun.net
 DOMAIN-SUFFIX,iplaysoft.com
+DOMAIN-SUFFIX,iposl.com
 DOMAIN-SUFFIX,ipplus360.com
 DOMAIN-SUFFIX,iprdp.net
 DOMAIN-SUFFIX,iprintworks.cn
@@ -2930,6 +2936,7 @@ DOMAIN-SUFFIX,linliyz.com
 DOMAIN-SUFFIX,linsn.com
 DOMAIN-SUFFIX,linuxidc.com
 DOMAIN-SUFFIX,liqucn.com
+DOMAIN-SUFFIX,listenai.com
 DOMAIN-SUFFIX,litessl.cn
 DOMAIN-SUFFIX,litessl.com
 DOMAIN-SUFFIX,liulanqi.net
@@ -2987,6 +2994,7 @@ DOMAIN-SUFFIX,lufax.com
 DOMAIN-SUFFIX,lufaxcdn.com
 DOMAIN-SUFFIX,lufunds.com
 DOMAIN-SUFFIX,luhua.cn
+DOMAIN-SUFFIX,lulian.cn
 DOMAIN-SUFFIX,lunwengo.net
 DOMAIN-SUFFIX,luogu.com.cn
 DOMAIN-SUFFIX,luojilab.com
@@ -3120,6 +3128,7 @@ DOMAIN-SUFFIX,miaotixing.com
 DOMAIN-SUFFIX,miaowu.baidu.com
 DOMAIN-SUFFIX,miaoyanai.com
 DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,micun.com
 DOMAIN-SUFFIX,midasbuy.com
 DOMAIN-SUFFIX,midea.cn
 DOMAIN-SUFFIX,midea.com
@@ -3243,6 +3252,7 @@ DOMAIN-SUFFIX,mysiteres.com
 DOMAIN-SUFFIX,mysqil.com
 DOMAIN-SUFFIX,myssl-uri.com
 DOMAIN-SUFFIX,myssl.com
+DOMAIN-SUFFIX,mystery0.vip
 DOMAIN-SUFFIX,mysxl.cn
 DOMAIN-SUFFIX,myypark.com
 DOMAIN-SUFFIX,myyx618.com
@@ -3810,6 +3820,7 @@ DOMAIN-SUFFIX,shangyexinzhi.com
 DOMAIN-SUFFIX,shangzhibo.tv
 DOMAIN-SUFFIX,shanshuihotel.com
 DOMAIN-SUFFIX,shanxijianzhuzizhi.com
+DOMAIN-SUFFIX,share123.top
 DOMAIN-SUFFIX,shareintelli.com
 DOMAIN-SUFFIX,sharejs.com
 DOMAIN-SUFFIX,sharesdk.cn
@@ -4098,6 +4109,7 @@ DOMAIN-SUFFIX,texasholdemcup.com
 DOMAIN-SUFFIX,texasholdemcup.net
 DOMAIN-SUFFIX,tfzq.com
 DOMAIN-SUFFIX,tgbus.com
+DOMAIN-SUFFIX,tggfl.com
 DOMAIN-SUFFIX,tgpro.top
 DOMAIN-SUFFIX,tgprocs.net
 DOMAIN-SUFFIX,th-music.com
@@ -4113,6 +4125,7 @@ DOMAIN-SUFFIX,thinkpad.com
 DOMAIN-SUFFIX,thinkprinter.cn
 DOMAIN-SUFFIX,thinkprinter.com.cn
 DOMAIN-SUFFIX,thinkprinter.net
+DOMAIN-SUFFIX,thispx.com
 DOMAIN-SUFFIX,thmnet.com
 DOMAIN-SUFFIX,threatbook.cn
 DOMAIN-SUFFIX,threatbook.com
@@ -4174,6 +4187,7 @@ DOMAIN-SUFFIX,tmjiasuqi.com
 DOMAIN-SUFFIX,tmtpost.com
 DOMAIN-SUFFIX,tmtsmartlife.com
 DOMAIN-SUFFIX,tmtsmartrun.com
+DOMAIN-SUFFIX,tmwanba.com
 DOMAIN-SUFFIX,tnettms.com
 DOMAIN-SUFFIX,to8to.com
 DOMAIN-SUFFIX,tobosu.com
@@ -4290,6 +4304,8 @@ DOMAIN-SUFFIX,udesk.cn
 DOMAIN-SUFFIX,uewaf.com
 DOMAIN-SUFFIX,ufileos.com
 DOMAIN-SUFFIX,uggame.com
+DOMAIN-SUFFIX,ugnas.cloud
+DOMAIN-SUFFIX,ugnas.com
 DOMAIN-SUFFIX,ugslb.cn
 DOMAIN-SUFFIX,ugslb.com
 DOMAIN-SUFFIX,ugslb.info

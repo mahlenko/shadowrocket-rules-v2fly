@@ -1,9 +1,9 @@
 # NAME: CATEGORY-ELECTRONIC-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-11 08:10:24
-# DOMAIN-SUFFIX: 76
-# TOTAL: 76
+# UPDATED: 2026-07-09 06:50:53
+# DOMAIN-SUFFIX: 77
+# TOTAL: 77
 DOMAIN-SUFFIX,analog.com
 DOMAIN-SUFFIX,arrow.cn
 DOMAIN-SUFFIX,avermedia.cn
@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,jlcsj.com
 DOMAIN-SUFFIX,jlcsmt.com
 DOMAIN-SUFFIX,lceda.cn
 DOMAIN-SUFFIX,lckfb.com
+DOMAIN-SUFFIX,listenai.com
 DOMAIN-SUFFIX,maixhub.com
 DOMAIN-SUFFIX,oshwhub.com
 DOMAIN-SUFFIX,quecmall.cn

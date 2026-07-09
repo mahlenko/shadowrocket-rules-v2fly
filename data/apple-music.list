@@ -1,0 +1,25 @@
+# NAME: APPLE-MUSIC
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-07-09 06:50:53
+# DOMAIN-SUFFIX: 11
+# DOMAIN: 7
+# TOTAL: 18
+DOMAIN,amp-api-edge.music.apple.com
+DOMAIN,amp-api.music.apple.com
+DOMAIN-SUFFIX,applemusic.berlin
+DOMAIN-SUFFIX,applemusic.co
+DOMAIN-SUFFIX,applemusic.com
+DOMAIN-SUFFIX,applemusic.com.au
+DOMAIN-SUFFIX,applemusic.hamburg
+DOMAIN-SUFFIX,applemusic.wang
+DOMAIN-SUFFIX,applemusicconnect.com
+DOMAIN-SUFFIX,applemusicfestival.com
+DOMAIN,js-cdn.music.apple.com
+DOMAIN-SUFFIX,music.apple.com
+DOMAIN,music.apple.com
+DOMAIN-SUFFIX,musickit.net
+DOMAIN,musicstatus.music.apple.com
+DOMAIN,play.music.apple.com
+DOMAIN,speedysub.music.apple.com
+DOMAIN-SUFFIX,wwwapplemusic.com

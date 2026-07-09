@@ -1,10 +1,10 @@
 # NAME: ITUNES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-04 06:25:37
+# UPDATED: 2026-07-09 06:50:54
 # DOMAIN-SUFFIX: 53
-# DOMAIN: 43
-# TOTAL: 96
+# DOMAIN: 45
+# TOTAL: 98
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
 DOMAIN-SUFFIX,12diasderegalosdeitunes.cl
 DOMAIN-SUFFIX,12diasderegalosdeitunes.co
@@ -88,7 +88,9 @@ DOMAIN,osxapps.itunes.apple.com
 DOMAIN,osxapps.itunes.g.aaplimg.com
 DOMAIN,pd-nk.itunes.apple.com
 DOMAIN,pd.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
 DOMAIN,play.itunes.apple.com
+DOMAIN,podcasts.itunes.apple.com
 DOMAIN,se-edge.itunes.apple.com
 DOMAIN,se2.itunes.apple.com
 DOMAIN,search.itunes.apple.com

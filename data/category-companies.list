@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-04 06:25:36
-# DOMAIN-SUFFIX: 7718
-# DOMAIN: 987
+# UPDATED: 2026-07-09 06:50:53
+# DOMAIN-SUFFIX: 7720
+# DOMAIN: 989
 # URL-REGEX: 6
-# TOTAL: 8711
+# TOTAL: 8715
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -534,6 +534,7 @@ DOMAIN,amp-api-updates.apps.apple.com
 DOMAIN,amp-api.apps.apple.com
 DOMAIN,amp-api.media.apple.com
 DOMAIN,amp-api.music.apple.com
+DOMAIN,amp-api.podcasts.apple.com
 DOMAIN-SUFFIX,amplifi.com
 DOMAIN-SUFFIX,amplifi.com.cn
 DOMAIN-SUFFIX,amplifyapp.com
@@ -1106,7 +1107,6 @@ DOMAIN-SUFFIX,auricularemonsterbeats.com
 DOMAIN-SUFFIX,auricularesbeatsbaratosshop.com
 DOMAIN-SUFFIX,auricularesbeatsmarkt.com
 DOMAIN-SUFFIX,ausbeatsbydrdre.com
-DOMAIN,auth.music.apple.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,authorxml.com
 DOMAIN-SUFFIX,autocad-schulungen.com
@@ -5941,6 +5941,7 @@ DOMAIN-SUFFIX,mtsdengi.ru
 DOMAIN-SUFFIX,mtsmedia.ru
 DOMAIN-SUFFIX,mudbox3d.com
 DOMAIN-SUFFIX,multiplydiversity.com
+DOMAIN-SUFFIX,music.apple.com
 DOMAIN,music.apple.com
 DOMAIN-SUFFIX,musickit.net
 DOMAIN,musicstatus.music.apple.com
@@ -6465,6 +6466,9 @@ DOMAIN-SUFFIX,plug.game
 DOMAIN-SUFFIX,pmem.org
 DOMAIN-SUFFIX,pmem.us
 DOMAIN-SUFFIX,pocketbiketrader.com
+DOMAIN-SUFFIX,podcasts.apple.com
+DOMAIN,podcasts.apple.com
+DOMAIN,podcasts.itunes.apple.com
 DOMAIN-SUFFIX,pointtown.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerproject.org
