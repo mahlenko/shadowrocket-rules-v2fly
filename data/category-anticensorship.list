@@ -1,9 +1,9 @@
 # NAME: CATEGORY-ANTICENSORSHIP
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 95
-# TOTAL: 95
+# UPDATED: 2026-07-10 06:51:32
+# DOMAIN-SUFFIX: 97
+# TOTAL: 97
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,ahmia.fi
 DOMAIN-SUFFIX,akasha.world
@@ -39,6 +39,8 @@ DOMAIN-SUFFIX,googlecensorship.org
 DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,greatfirevpn.com
 DOMAIN-SUFFIX,guardianproject.info
+DOMAIN-SUFFIX,happ.info
+DOMAIN-SUFFIX,happ.su
 DOMAIN-SUFFIX,haveibeenpwned.com
 DOMAIN-SUFFIX,hiddify.com
 DOMAIN-SUFFIX,ipfs-gateway.cloud

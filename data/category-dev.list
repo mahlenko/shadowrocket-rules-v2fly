@@ -1,11 +1,11 @@
 # NAME: CATEGORY-DEV
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-07 06:52:28
-# DOMAIN-SUFFIX: 553
+# UPDATED: 2026-07-10 06:51:33
+# DOMAIN-SUFFIX: 555
 # DOMAIN: 77
 # URL-REGEX: 1
-# TOTAL: 631
+# TOTAL: 633
 URL-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
@@ -95,6 +95,7 @@ DOMAIN-SUFFIX,cpan.org
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,crocoblock.com
 DOMAIN-SUFFIX,cups.org
 DOMAIN-SUFFIX,cve.org
 DOMAIN-SUFFIX,cygwin.com
@@ -358,6 +359,7 @@ DOMAIN-SUFFIX,modperl.pl
 DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,mongodb.org
 DOMAIN-SUFFIX,mono-project.com
+DOMAIN-SUFFIX,motocms.com
 DOMAIN-SUFFIX,motopress.com
 DOMAIN-SUFFIX,mpv.io
 DOMAIN-SUFFIX,msdn.com

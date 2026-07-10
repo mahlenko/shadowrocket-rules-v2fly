@@ -1,15 +1,18 @@
 # NAME: CATEGORY-CRYPTOCURRENCY
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-01 07:17:23
-# DOMAIN-SUFFIX: 215
+# UPDATED: 2026-07-10 06:51:33
+# DOMAIN-SUFFIX: 224
 # DOMAIN: 8
-# TOTAL: 223
+# TOTAL: 232
 DOMAIN-SUFFIX,1inch.io
 DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,asproex.com
 DOMAIN-SUFFIX,asproexapi.com
 DOMAIN-SUFFIX,base.org
+DOMAIN-SUFFIX,bestchange.com
+DOMAIN-SUFFIX,bestchange.net
+DOMAIN-SUFFIX,bestchange.ru
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.charity
 DOMAIN-SUFFIX,binance.cloud
@@ -105,6 +108,7 @@ DOMAIN-SUFFIX,curve.fi
 DOMAIN-SUFFIX,cyberx.com
 DOMAIN,d3r7nsslvs6aaf.cloudfront.net
 DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,delets.online
 DOMAIN,deribit.cdn.prismic.io
 DOMAIN-SUFFIX,deribit.com
 DOMAIN-SUFFIX,devcon.org
@@ -178,12 +182,17 @@ DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN-SUFFIX,onekey.so
 DOMAIN,onekey.zendesk.com
 DOMAIN-SUFFIX,onekeycn.com
+DOMAIN-SUFFIX,onemoment.cc
 DOMAIN-SUFFIX,onfinality.io
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,osl.com
 DOMAIN-SUFFIX,paxful.com
+DOMAIN-SUFFIX,payget.pro
+DOMAIN-SUFFIX,platov.co
 DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
 DOMAIN-SUFFIX,polymarket.com
+DOMAIN-SUFFIX,ramon.cash
+DOMAIN-SUFFIX,ramon.money
 DOMAIN-SUFFIX,redotpay.com
 DOMAIN-SUFFIX,redotpay.zendesk.com
 DOMAIN-SUFFIX,ripple.com
