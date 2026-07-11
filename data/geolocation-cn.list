@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-09 06:50:54
-# DOMAIN-SUFFIX: 5031
+# UPDATED: 2026-07-11 05:46:19
+# DOMAIN-SUFFIX: 5032
 # DOMAIN: 61
 # URL-REGEX: 3
-# TOTAL: 5095
+# TOTAL: 5096
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -403,6 +403,7 @@ DOMAIN-SUFFIX,acwifi.net
 DOMAIN-SUFFIX,acwing.com
 DOMAIN-SUFFIX,ad.cctv.com
 DOMAIN-SUFFIX,ad.tencentmusic.com
+DOMAIN-SUFFIX,adacpp.com
 DOMAIN-SUFFIX,adbehavior.ximalaya.com
 DOMAIN-SUFFIX,adbkwai.com
 DOMAIN-SUFFIX,adkwai.com
