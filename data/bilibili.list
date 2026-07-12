@@ -1,10 +1,10 @@
 # NAME: BILIBILI
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-04 07:57:28
-# DOMAIN-SUFFIX: 51
+# UPDATED: 2026-07-12 06:09:23
+# DOMAIN-SUFFIX: 52
 # DOMAIN: 1
-# TOTAL: 52
+# TOTAL: 53
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,animetamashi.cn
@@ -55,5 +55,6 @@ DOMAIN-SUFFIX,maoer.com
 DOMAIN-SUFFIX,maoercdn.com
 DOMAIN-SUFFIX,mincdn.com
 DOMAIN-SUFFIX,missevan.com
+DOMAIN-SUFFIX,updream.cn
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,yo9.com

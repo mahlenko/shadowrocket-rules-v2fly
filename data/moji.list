@@ -1,8 +1,13 @@
 # NAME: MOJI
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2026-07-12 06:09:24
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+DOMAIN-SUFFIX,ad.api.moji.com
+DOMAIN-SUFFIX,airnut.com
 DOMAIN-SUFFIX,moji.com
+DOMAIN-SUFFIX,moji001.com
+DOMAIN-SUFFIX,moji002.com
+DOMAIN-SUFFIX,mojicdn.com
 DOMAIN-SUFFIX,mojichina.com

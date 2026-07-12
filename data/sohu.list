@@ -1,9 +1,9 @@
 # NAME: SOHU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-07 06:52:29
-# DOMAIN-SUFFIX: 31
-# TOTAL: 31
+# UPDATED: 2026-07-12 06:09:24
+# DOMAIN-SUFFIX: 32
+# TOTAL: 32
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,17173cdn.com
 DOMAIN-SUFFIX,56.com
@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,focus.cn
 DOMAIN-SUFFIX,fpb.sohu.com
 DOMAIN-SUFFIX,imp.go.sohu.com
 DOMAIN-SUFFIX,itc.cn
+DOMAIN-SUFFIX,kuaizhan.com
 DOMAIN-SUFFIX,m.aty.sohu.com
 DOMAIN-SUFFIX,p.aty.sohu.com
 DOMAIN-SUFFIX,playcool.com

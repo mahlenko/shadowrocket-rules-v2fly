@@ -1,9 +1,9 @@
 # NAME: CATEGORY-DOCUMENTS-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-01 07:17:23
-# DOMAIN-SUFFIX: 24
-# TOTAL: 24
+# UPDATED: 2026-07-12 06:09:23
+# DOMAIN-SUFFIX: 23
+# TOTAL: 23
 DOMAIN-SUFFIX,1ppt.com
 DOMAIN-SUFFIX,360doc.com
 DOMAIN-SUFFIX,51pptmoban.com
@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,douding.cn
 DOMAIN-SUFFIX,goldhoe.com
 DOMAIN-SUFFIX,haohaodoc.com
 DOMAIN-SUFFIX,jinchutou.com
-DOMAIN-SUFFIX,keniu.com
 DOMAIN-SUFFIX,lazyer.net
 DOMAIN-SUFFIX,renrendoc.com
 DOMAIN-SUFFIX,safewk.com
