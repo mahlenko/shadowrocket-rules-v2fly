@@ -1,10 +1,10 @@
 # NAME: CATEGORY-IP-GEO-DETECT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 152
+# UPDATED: 2026-07-13 06:25:52
+# DOMAIN-SUFFIX: 153
 # DOMAIN: 7
-# TOTAL: 159
+# TOTAL: 160
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,2ip.ru
 DOMAIN-SUFFIX,2ip.ua
@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,ipapi.is
 DOMAIN-SUFFIX,ipbase.com
 DOMAIN-SUFFIX,ipbot.com
 DOMAIN-SUFFIX,ipcalf.com
+DOMAIN-SUFFIX,ipcheck.ing
 DOMAIN-SUFFIX,ipchicken.com
 DOMAIN-SUFFIX,ipdata.co
 DOMAIN-SUFFIX,ipecho.net
