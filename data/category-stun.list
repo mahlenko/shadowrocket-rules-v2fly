@@ -1,10 +1,10 @@
 # NAME: CATEGORY-STUN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-23 06:56:11
+# UPDATED: 2026-07-14 05:37:13
 # DOMAIN-SUFFIX: 1
-# DOMAIN: 360
-# TOTAL: 361
+# DOMAIN: 358
+# TOTAL: 359
 DOMAIN,iphone-stun.strato-iphone.de
 DOMAIN-SUFFIX,metered.live
 DOMAIN,numb.viagenie.ca
@@ -251,7 +251,6 @@ DOMAIN,stun.sippeer.dk
 DOMAIN,stun.sipthor.net
 DOMAIN,stun.siptraffic.com
 DOMAIN,stun.siptrunk.com
-DOMAIN,stun.sipus
 DOMAIN,stun.skydrone.aero
 DOMAIN,stun.skylink.ru
 DOMAIN,stun.sma.de
@@ -272,7 +271,6 @@ DOMAIN,stun.ssl7.net
 DOMAIN,stun.stochastix.de
 DOMAIN,stun.streamnow.ch
 DOMAIN,stun.stunprotocol.org
-DOMAIN,stun.stunprotocol.prg
 DOMAIN,stun.symform.com
 DOMAIN,stun.symplicity.com
 DOMAIN,stun.sysadminman.net

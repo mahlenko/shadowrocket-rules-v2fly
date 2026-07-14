@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-13 06:25:52
-# DOMAIN-SUFFIX: 24145
-# DOMAIN: 1415
+# UPDATED: 2026-07-14 05:37:13
+# DOMAIN-SUFFIX: 24154
+# DOMAIN: 1434
 # URL-REGEX: 158
-# TOTAL: 25718
+# TOTAL: 25746
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -1206,6 +1206,7 @@ DOMAIN-SUFFIX,afpforum.com
 DOMAIN-SUFFIX,afriboyz.com
 DOMAIN-SUFFIX,aga-expo.com
 DOMAIN-SUFFIX,agag.tw
+DOMAIN,agb9r0ad.qllfkl.com
 DOMAIN-SUFFIX,agdbank.com
 DOMAIN-SUFFIX,age.tv
 DOMAIN-SUFFIX,agedm.app
@@ -1492,7 +1493,6 @@ DOMAIN-SUFFIX,alexafund.cn
 DOMAIN-SUFFIX,alexafund.com.cn
 DOMAIN-SUFFIX,alexanderstreet.com
 DOMAIN-SUFFIX,alfa.me
-DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
@@ -4542,6 +4542,7 @@ DOMAIN,bnetproduct-a.akamaihd.net
 DOMAIN,bnetshopus.akamaized.net
 DOMAIN-SUFFIX,bnext.com.tw
 DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bnxz.net
 DOMAIN-SUFFIX,boboporn.com
 DOMAIN-SUFFIX,boboporn.net
 DOMAIN-SUFFIX,bobovip.cc
@@ -4945,6 +4946,7 @@ DOMAIN-SUFFIX,byjhd.com
 DOMAIN-SUFFIX,bymj.io
 DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,byspotify.com
+DOMAIN-SUFFIX,bystys.tech
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,bytick.com
@@ -6265,40 +6267,56 @@ DOMAIN-SUFFIX,cztv117.shop
 DOMAIN-SUFFIX,d-trust.net
 DOMAIN-SUFFIX,d-upp.com
 DOMAIN-SUFFIX,d100.net
+DOMAIN,d1d0w7op819ely.cloudfront.net
+DOMAIN,d1fijc56o1fzod.cloudfront.net
 DOMAIN,d1g1f25tn8m2e6.cloudfront.net
 DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d1m7jfoe9zdc1j.cloudfront.net
 DOMAIN,d1mhjrowxxagfy.cloudfront.net
 DOMAIN,d1ndex63qxojbr.cloudfront.net
+DOMAIN,d1nu566dreq9vj.cloudfront.net
 DOMAIN,d1oca24q5dwo6d.cloudfront.net
+DOMAIN,d1ugi9qonif2a2.cloudfront.net
 DOMAIN,d1unuk07s6td74.cloudfront.net
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d1w2poirtb3as9.cloudfront.net
 DOMAIN,d1xhnb4ptk05mw.cloudfront.net
 DOMAIN,d1ymi26ma8va5x.cloudfront.net
+DOMAIN,d20g4xwarzxagx.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d25xi40x97liuc.cloudfront.net
+DOMAIN,d26rnz3bwp7rlk.cloudfront.net
 DOMAIN,d27xxe7juh1us6.cloudfront.net
+DOMAIN,d28odxiw1asdj8.cloudfront.net
 DOMAIN,d29vzk4ow07wi7.cloudfront.net
 DOMAIN,d2aba1wr3818hz.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
+DOMAIN,d2be40xdoc0in8.cloudfront.net
 DOMAIN,d2dylwb3shzel1.cloudfront.net
 DOMAIN,d2e2de1etea730.cloudfront.net
+DOMAIN,d2fg91fzjsrcv1.cloudfront.net
+DOMAIN,d2j7e8uopcv07.cloudfront.net
 DOMAIN-SUFFIX,d2mrry2to5rg.com
 DOMAIN,d2nvs31859zcd8.cloudfront.net
 DOMAIN-SUFFIX,d2pass.com
 DOMAIN,d2um2qdswy1tb0.cloudfront.net
+DOMAIN,d2v9yioq9zuuq2.cloudfront.net
 DOMAIN,d2vjef5jvl6bfs.cloudfront.net
 DOMAIN,d2xmjdvx03ij56.cloudfront.net
+DOMAIN,d31dormfno8pk4.cloudfront.net
 DOMAIN,d33wubrfki0l68.cloudfront.net
 DOMAIN,d36nr0u3xmc4mm.cloudfront.net
 DOMAIN,d3aqoihi2n8ty8.cloudfront.net
 DOMAIN,d3c27h4odz752x.cloudfront.net
+DOMAIN,d3lh5kkip965lj.cloudfront.net
+DOMAIN,d3nwj80emtnjeo.cloudfront.net
 DOMAIN,d3r7nsslvs6aaf.cloudfront.net
+DOMAIN,d3ucl0eqgl80l5.cloudfront.net
 DOMAIN,d3vd9lfkzbru3h.cloudfront.net
 DOMAIN-SUFFIX,d4dj-pj.com
 DOMAIN,d6d4ismr40iw.cloudfront.net
 DOMAIN,d6tizftlrpuof.cloudfront.net
+DOMAIN,d96jfp62lg3kj.cloudfront.net
 DOMAIN-SUFFIX,da-files.com
 DOMAIN-SUFFIX,da3dsoul.dev
 DOMAIN-SUFFIX,daboja18.com
@@ -6411,6 +6429,7 @@ DOMAIN-SUFFIX,dcard.cc
 DOMAIN-SUFFIX,dcard.io
 DOMAIN-SUFFIX,dcard.link
 DOMAIN-SUFFIX,dcard.tw
+DOMAIN,dcb0z5ovq92mz.cloudfront.net
 DOMAIN-SUFFIX,dcg.microsoft.com
 DOMAIN-SUFFIX,dclk
 DOMAIN-SUFFIX,dcocsp.cn
@@ -6425,6 +6444,7 @@ DOMAIN-SUFFIX,ddg.gg
 DOMAIN-SUFFIX,ddh.gg
 DOMAIN-SUFFIX,dditsadn.com
 DOMAIN-SUFFIX,dditscdn.com
+DOMAIN,ddpjwstwtpszg.cloudfront.net
 DOMAIN,dds.dell.com
 DOMAIN-SUFFIX,de-rt.com
 DOMAIN-SUFFIX,de-rt.org
@@ -7346,6 +7366,7 @@ DOMAIN-SUFFIX,dsmynas.com
 DOMAIN-SUFFIX,dsmynas.net
 DOMAIN-SUFFIX,dsmynas.org
 DOMAIN-SUFFIX,dssott.com
+DOMAIN,dstnzhnatv9pz.cloudfront.net
 DOMAIN-SUFFIX,dswz88.xyz
 DOMAIN-SUFFIX,dsyiren.com
 DOMAIN-SUFFIX,dtci.co
@@ -10110,7 +10131,6 @@ DOMAIN,gongyichuangyi.net
 DOMAIN-SUFFIX,gonike.com
 DOMAIN-SUFFIX,gonzo-movies.com
 DOMAIN-SUFFIX,gonzo.com
-DOMAIN-SUFFIX,goo
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,gooblox.com
 DOMAIN-SUFFIX,good-apps.jp
@@ -10720,6 +10740,7 @@ DOMAIN-SUFFIX,hayday.com
 DOMAIN-SUFFIX,haydaygame.com
 DOMAIN-SUFFIX,hayya.ae
 DOMAIN,hb.imgix.net
+DOMAIN,hb4bbbbb.pmhcjk.com
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,hbo
@@ -12253,7 +12274,6 @@ DOMAIN-SUFFIX,intagram.com
 DOMAIN-SUFFIX,intagrm.com
 DOMAIN-SUFFIX,intc.com
 DOMAIN-SUFFIX,integral7.com
-DOMAIN-SUFFIX,intel
 DOMAIN-SUFFIX,intel-research.net
 DOMAIN-SUFFIX,intel-university-collaboration.net
 DOMAIN-SUFFIX,intel.ac
@@ -13365,6 +13385,7 @@ DOMAIN-SUFFIX,khangar.net
 DOMAIN-SUFFIX,khayannpyar.blogspot.com
 DOMAIN-SUFFIX,khotruyentranhx.com
 DOMAIN-SUFFIX,kichikuou.com
+DOMAIN-SUFFIX,kick.com
 DOMAIN-SUFFIX,kickporn.com
 DOMAIN-SUFFIX,kickshatchannel.com
 DOMAIN-SUFFIX,kicksnike1.com
@@ -13485,7 +13506,6 @@ DOMAIN-SUFFIX,kompoz2.com
 DOMAIN-SUFFIX,konachan.com
 DOMAIN-SUFFIX,konachan.net
 DOMAIN-SUFFIX,konachan.wjcodes.com
-DOMAIN-SUFFIX,konami
 DOMAIN-SUFFIX,konami-igaming.online
 DOMAIN-SUFFIX,konami.co.jp
 DOMAIN-SUFFIX,konami.com
@@ -13764,7 +13784,14 @@ DOMAIN-SUFFIX,lightxxxtube.com
 DOMAIN-SUFFIX,lih.kg
 DOMAIN-SUFFIX,lihkg.com
 DOMAIN-SUFFIX,lihksnap.com
+DOMAIN-SUFFIX,like-video.com
 DOMAIN-SUFFIX,like.com
+DOMAIN-SUFFIX,like.video
+DOMAIN-SUFFIX,likee.com
+DOMAIN-SUFFIX,likee.video
+DOMAIN-SUFFIX,likeeapp.ru
+DOMAIN-SUFFIX,likeevideo.com
+DOMAIN-SUFFIX,likeevideo.ru
 DOMAIN-SUFFIX,likeseiyu.com
 DOMAIN-SUFFIX,liketruyen.net
 DOMAIN-SUFFIX,liketwice.com
@@ -15941,6 +15968,7 @@ DOMAIN-SUFFIX,navisworks.com
 DOMAIN-SUFFIX,navisworks.net
 DOMAIN-SUFFIX,naydex.net
 DOMAIN-SUFFIX,nbabot.net
+DOMAIN,nbbb1bb7.pmhcjk.com
 DOMAIN-SUFFIX,nbc.co
 DOMAIN-SUFFIX,nbc.com
 DOMAIN-SUFFIX,nbcnews.com
@@ -17221,6 +17249,7 @@ DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,overleaf.com
 DOMAIN-SUFFIX,overthumbs.com
 DOMAIN-SUFFIX,ovid.com
+DOMAIN-SUFFIX,owxd.xyz
 DOMAIN-SUFFIX,ox.ac.uk
 DOMAIN-SUFFIX,oxfordaasc.com
 DOMAIN-SUFFIX,oxfordartonline.com
@@ -18426,11 +18455,7 @@ DOMAIN-SUFFIX,practicalmoneyskills.ca
 DOMAIN-SUFFIX,practicalmoneyskills.cn
 DOMAIN-SUFFIX,practicalmoneyskills.com.cn
 DOMAIN-SUFFIX,practicalmoneyskills.jp
-DOMAIN,practivate.adobe
 DOMAIN,practivate.adobe.com
-DOMAIN,practivate.adobe.ipp
-DOMAIN,practivate.adobe.newoa
-DOMAIN,practivate.adobe.ntp
 DOMAIN-SUFFIX,prastitutki.ru
 DOMAIN-SUFFIX,prcm.jp
 DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
@@ -18692,6 +18717,7 @@ DOMAIN-SUFFIX,pzhanfor.today
 DOMAIN-SUFFIX,q10.jp
 DOMAIN-SUFFIX,q13.com
 DOMAIN-SUFFIX,q13fox.com
+DOMAIN,q676790b.pmhcjk.com
 DOMAIN-SUFFIX,qatarescortsvip.com
 DOMAIN-SUFFIX,qattdh.cc
 DOMAIN-SUFFIX,qattdh.top
@@ -22712,6 +22738,7 @@ DOMAIN-SUFFIX,uweb.ru
 DOMAIN-SUFFIX,uwn.com
 DOMAIN-SUFFIX,uwpcommunitytoolkit.com
 DOMAIN-SUFFIX,uxthemes.com
+DOMAIN-SUFFIX,uxzw.club
 DOMAIN-SUFFIX,v-av.com
 DOMAIN-SUFFIX,v-has.com
 DOMAIN-SUFFIX,v.gd
@@ -25520,6 +25547,7 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN,yt3.googleusercontent.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,yuanming.net
+DOMAIN-SUFFIX,yucf.top
 DOMAIN-SUFFIX,yuenuge113.xyz
 DOMAIN-SUFFIX,yuenuge18.cc
 DOMAIN-SUFFIX,yugioh-card.com

@@ -1,10 +1,10 @@
 # NAME: CATEGORY-PUBLIC-TRACKER
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
+# UPDATED: 2026-07-14 05:37:13
 # DOMAIN-SUFFIX: 31
-# DOMAIN: 407
-# TOTAL: 438
+# DOMAIN: 406
+# TOTAL: 437
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,10.rarbg.com
@@ -177,7 +177,6 @@ DOMAIN,pubt.net
 DOMAIN,qg.lorzl.gq
 DOMAIN,retracker.ip.ncnet.ru
 DOMAIN,retracker.lanta.me
-DOMAIN,retracker.local
 DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,run.publictracker.xyz

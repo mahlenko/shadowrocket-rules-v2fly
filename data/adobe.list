@@ -1,10 +1,10 @@
 # NAME: ADOBE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
+# UPDATED: 2026-07-14 05:37:12
 # DOMAIN-SUFFIX: 126
-# DOMAIN: 138
-# TOTAL: 264
+# DOMAIN: 134
+# TOTAL: 260
 DOMAIN-SUFFIX,10xfotolia.com
 DOMAIN-SUFFIX,2o7.net
 DOMAIN,3dns-1.adobe.com
@@ -150,11 +150,7 @@ DOMAIN-SUFFIX,pdf.new
 DOMAIN-SUFFIX,photolia.net
 DOMAIN-SUFFIX,photoshop.com
 DOMAIN-SUFFIX,placesdocs.com
-DOMAIN,practivate.adobe
 DOMAIN,practivate.adobe.com
-DOMAIN,practivate.adobe.ipp
-DOMAIN,practivate.adobe.newoa
-DOMAIN,practivate.adobe.ntp
 DOMAIN-SUFFIX,revenue-performance-management.com
 DOMAIN-SUFFIX,s2stagehance.com
 DOMAIN-SUFFIX,scene7.com
