@@ -1,11 +1,11 @@
 # NAME: CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-14 05:37:13
-# DOMAIN-SUFFIX: 5122
+# UPDATED: 2026-07-15 05:38:16
+# DOMAIN-SUFFIX: 5130
 # DOMAIN: 61
 # URL-REGEX: 3
-# TOTAL: 5186
+# TOTAL: 5194
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -1840,6 +1840,7 @@ DOMAIN-SUFFIX,ganji.com
 DOMAIN-SUFFIX,ganjiangvpn.com
 DOMAIN-SUFFIX,ganjistatic1.com
 DOMAIN-SUFFIX,gaodun.com
+DOMAIN-SUFFIX,gaojidata.com
 DOMAIN-SUFFIX,gaokao.com
 DOMAIN-SUFFIX,gaoshouyou.com
 DOMAIN-SUFFIX,gaoxiaojob.com
@@ -2007,6 +2008,7 @@ DOMAIN-SUFFIX,gxb.io
 DOMAIN-SUFFIX,gxtv.cn
 DOMAIN-SUFFIX,gxxmt.com
 DOMAIN-SUFFIX,gyzq.com.cn
+DOMAIN-SUFFIX,gzasc.com
 DOMAIN-SUFFIX,gzcqs.com
 DOMAIN-SUFFIX,gzctyiptv.cn
 DOMAIN-SUFFIX,gzlzfm.com
@@ -3702,6 +3704,8 @@ DOMAIN-SUFFIX,quklive.com
 DOMAIN-SUFFIX,qunjielong.com
 DOMAIN-SUFFIX,qunliao.info
 DOMAIN-SUFFIX,quyaoya.com
+DOMAIN-SUFFIX,qwapp.top
+DOMAIN-SUFFIX,qwdjapp.com
 DOMAIN-SUFFIX,qweather.com
 DOMAIN-SUFFIX,qweather.net
 DOMAIN-SUFFIX,qweatherapi.com
@@ -3751,6 +3755,8 @@ DOMAIN-SUFFIX,route53.cn
 DOMAIN-SUFFIX,routewize.com
 DOMAIN-SUFFIX,rqnoj.cn
 DOMAIN-SUFFIX,rrmj.plus
+DOMAIN-SUFFIX,rrsp.app
+DOMAIN-SUFFIX,rrsp.com.cn
 DOMAIN-SUFFIX,rsscc.cn
 DOMAIN-SUFFIX,rt-mart.com.cn
 DOMAIN-SUFFIX,rtbasia.com
@@ -4489,6 +4495,7 @@ DOMAIN-SUFFIX,webank.com
 DOMAIN-SUFFIX,webankcdn.net
 DOMAIN-SUFFIX,webgame163.com
 DOMAIN-SUFFIX,webmasterhome.cn
+DOMAIN-SUFFIX,weboss.hk
 DOMAIN-SUFFIX,webportal.top
 DOMAIN-SUFFIX,webterren.com
 DOMAIN-SUFFIX,wegame.com
@@ -4837,6 +4844,7 @@ DOMAIN-SUFFIX,yh31.com
 DOMAIN-SUFFIX,yhfund.com.cn
 DOMAIN-SUFFIX,yicai.com
 DOMAIN-SUFFIX,yiche.com
+DOMAIN-SUFFIX,yichengwlkj.com
 DOMAIN-SUFFIX,yigao.com
 DOMAIN-SUFFIX,yigoonet.com
 DOMAIN-SUFFIX,yihaikerry.net.cn
