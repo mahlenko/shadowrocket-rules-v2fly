@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-14 05:37:12
-# DOMAIN-SUFFIX: 7718
+# UPDATED: 2026-07-16 05:46:04
+# DOMAIN-SUFFIX: 7722
 # DOMAIN: 985
 # URL-REGEX: 6
-# TOTAL: 8709
+# TOTAL: 8713
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -1355,6 +1355,7 @@ DOMAIN-SUFFIX,azuredns-prd.info
 DOMAIN-SUFFIX,azuredns-prd.org
 DOMAIN-SUFFIX,azureedge-test.net
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azureedge.us
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,azurehdinsight.cn
 DOMAIN-SUFFIX,azureiotcentral.com
@@ -2338,6 +2339,7 @@ DOMAIN-SUFFIX,coova.com
 DOMAIN-SUFFIX,coova.net
 DOMAIN-SUFFIX,coova.org
 DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN-SUFFIX,copilot-stg.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
@@ -3443,6 +3445,7 @@ DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,flipshare.com
 DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,flow.dev
+DOMAIN-SUFFIX,flow.google
 DOMAIN-SUFFIX,flow.org
 DOMAIN-SUFFIX,flowfront.com
 DOMAIN-SUFFIX,flowfront.net
@@ -7281,6 +7284,7 @@ DOMAIN-SUFFIX,staffhub.ms
 DOMAIN,staging-controlbe.floonet.goog
 DOMAIN,staging-databe.floonet.goog
 DOMAIN,staging.databe.floonet.goog
+DOMAIN-SUFFIX,starlink.com
 DOMAIN-SUFFIX,starship-ent.com
 DOMAIN-SUFFIX,start.com
 DOMAIN-SUFFIX,static-cisco.com

@@ -1,7 +1,8 @@
 # NAME: SPACEX
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 1
-# TOTAL: 1
+# UPDATED: 2026-07-16 05:46:05
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
 DOMAIN-SUFFIX,spacex.com
+DOMAIN-SUFFIX,starlink.com

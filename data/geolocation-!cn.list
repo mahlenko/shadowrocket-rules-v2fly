@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-14 05:37:13
-# DOMAIN-SUFFIX: 24154
-# DOMAIN: 1434
+# UPDATED: 2026-07-16 05:46:05
+# DOMAIN-SUFFIX: 24159
+# DOMAIN: 1432
 # URL-REGEX: 158
-# TOTAL: 25746
+# TOTAL: 25749
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -3117,6 +3117,7 @@ DOMAIN-SUFFIX,azuredns-prd.info
 DOMAIN-SUFFIX,azuredns-prd.org
 DOMAIN-SUFFIX,azureedge-test.net
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azureedge.us
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,azurehdinsight.cn
 DOMAIN-SUFFIX,azureiotcentral.com
@@ -5995,6 +5996,7 @@ DOMAIN-SUFFIX,coova.com
 DOMAIN-SUFFIX,coova.net
 DOMAIN-SUFFIX,coova.org
 DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN-SUFFIX,copilot-stg.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
@@ -9032,6 +9034,7 @@ DOMAIN-SUFFIX,fljmh.com
 DOMAIN-SUFFIX,floorp.app
 DOMAIN-SUFFIX,floppy-tits.com
 DOMAIN-SUFFIX,flow.dev
+DOMAIN-SUFFIX,flow.google
 DOMAIN-SUFFIX,flow.org
 DOMAIN-SUFFIX,flowfront.com
 DOMAIN-SUFFIX,flowfront.net
@@ -14711,6 +14714,7 @@ DOMAIN-SUFFIX,mgo-images.com
 DOMAIN-SUFFIX,mgo.com
 DOMAIN-SUFFIX,mhcb.ru
 DOMAIN-SUFFIX,mhcbr.ru
+DOMAIN-SUFFIX,mhgui.com
 DOMAIN-SUFFIX,mhhanman.xyz
 DOMAIN-SUFFIX,mhqwe.xyz
 DOMAIN-SUFFIX,mhradio.org
@@ -21019,6 +21023,7 @@ DOMAIN-SUFFIX,starfieldtech.com
 DOMAIN-SUFFIX,starfox.com
 DOMAIN-SUFFIX,stargazer-games.com
 DOMAIN-SUFFIX,stark-verlag.ch
+DOMAIN-SUFFIX,starlink.com
 DOMAIN-SUFFIX,starott.com
 DOMAIN-SUFFIX,starp2p.com
 DOMAIN-SUFFIX,starplus.com
@@ -21669,8 +21674,6 @@ DOMAIN-SUFFIX,termux.org
 DOMAIN-SUFFIX,terraform.io
 DOMAIN-SUFFIX,terragraph.com
 DOMAIN-SUFFIX,terrapeak.com
-DOMAIN,tesla-cdn.thron.cn
-DOMAIN,tesla-cdn.thron.com
 DOMAIN-SUFFIX,tesla.cn
 DOMAIN-SUFFIX,tesla.com
 DOMAIN-SUFFIX,tesla.com.cn

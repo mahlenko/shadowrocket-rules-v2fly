@@ -1,11 +1,11 @@
 # NAME: ALPHABET
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-14 05:37:12
-# DOMAIN-SUFFIX: 884
+# UPDATED: 2026-07-16 05:46:04
+# DOMAIN-SUFFIX: 885
 # DOMAIN: 233
 # URL-REGEX: 2
-# TOTAL: 1119
+# TOTAL: 1120
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
@@ -280,6 +280,7 @@ DOMAIN,firebaselogging.googleapis.com
 DOMAIN,firebaseperusertopics-pa.googleapis.com
 DOMAIN,firebaseremoteconfig.googleapis.com
 DOMAIN-SUFFIX,fitbit.com
+DOMAIN-SUFFIX,flow.google
 DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,flutterapp.com
 DOMAIN,fontfiles.googleapis.com

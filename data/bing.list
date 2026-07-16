@@ -1,10 +1,10 @@
 # NAME: BING
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-04 06:25:35
-# DOMAIN-SUFFIX: 37
+# UPDATED: 2026-07-16 05:46:04
+# DOMAIN-SUFFIX: 38
 # DOMAIN: 3
-# TOTAL: 40
+# TOTAL: 41
 DOMAIN-SUFFIX,bing
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.com.cn
@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,bluehatnights.com
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net
 DOMAIN-SUFFIX,cn.mm.bing.net
+DOMAIN-SUFFIX,copilot-stg.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com

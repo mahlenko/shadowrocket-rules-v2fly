@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-14 05:37:12
-# DOMAIN-SUFFIX: 1787
+# UPDATED: 2026-07-16 05:46:04
+# DOMAIN-SUFFIX: 1788
 # DOMAIN: 281
 # URL-REGEX: 10
-# TOTAL: 2078
+# TOTAL: 2079
 URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
@@ -1027,6 +1027,7 @@ DOMAIN-SUFFIX,megogo.net
 DOMAIN-SUFFIX,metacritic.com
 DOMAIN-SUFFIX,mgo-images.com
 DOMAIN-SUFFIX,mgo.com
+DOMAIN-SUFFIX,mhgui.com
 DOMAIN-SUFFIX,mickey.tv
 DOMAIN-SUFFIX,miitomo.com
 DOMAIN-SUFFIX,miitomo.com.cn

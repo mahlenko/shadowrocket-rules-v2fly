@@ -1,11 +1,11 @@
 # NAME: CATEGORY-AI-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-13 06:25:51
-# DOMAIN-SUFFIX: 136
+# UPDATED: 2026-07-16 05:46:04
+# DOMAIN-SUFFIX: 138
 # DOMAIN: 28
 # URL-REGEX: 1
-# TOTAL: 165
+# TOTAL: 167
 URL-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN,ai.google.dev
@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,comfy.org
 DOMAIN-SUFFIX,comfyci.org
 DOMAIN-SUFFIX,comfyregistry.org
 DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN-SUFFIX,copilot-stg.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
@@ -82,6 +83,7 @@ DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,envato-static.com
 DOMAIN-SUFFIX,envato.com
 DOMAIN-SUFFIX,envatousercontent.com
+DOMAIN-SUFFIX,flow.google
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,gemini.google

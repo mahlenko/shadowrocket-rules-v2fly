@@ -1,13 +1,10 @@
 # NAME: TESLA
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
+# UPDATED: 2026-07-16 05:46:05
 # DOMAIN-SUFFIX: 11
-# DOMAIN: 2
-# TOTAL: 13
+# TOTAL: 11
 DOMAIN-SUFFIX,solarcity.com
-DOMAIN,tesla-cdn.thron.cn
-DOMAIN,tesla-cdn.thron.com
 DOMAIN-SUFFIX,tesla.cn
 DOMAIN-SUFFIX,tesla.com
 DOMAIN-SUFFIX,tesla.com.cn
