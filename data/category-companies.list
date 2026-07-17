@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-16 05:46:04
-# DOMAIN-SUFFIX: 7722
+# UPDATED: 2026-07-17 05:47:16
+# DOMAIN-SUFFIX: 7724
 # DOMAIN: 985
 # URL-REGEX: 6
-# TOTAL: 8713
+# TOTAL: 8715
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -5971,6 +5971,7 @@ DOMAIN-SUFFIX,mybeatsbydreuk.com
 DOMAIN-SUFFIX,mybeatscheapbydre.com
 DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,myciscobenefits.com
+DOMAIN-SUFFIX,mycloudnas.com
 DOMAIN-SUFFIX,mydirectgroove.com
 DOMAIN-SUFFIX,mydirectvchannels.com
 DOMAIN-SUFFIX,mydirtyhobby.com
@@ -6598,6 +6599,7 @@ DOMAIN-SUFFIX,qlink.to
 DOMAIN-SUFFIX,qlinkto.cn
 DOMAIN-SUFFIX,qnap.com
 DOMAIN-SUFFIX,qnap.com.cn
+DOMAIN-SUFFIX,qnapsupport.net
 DOMAIN-SUFFIX,qprize.com
 DOMAIN,qpx.googleflights.net
 DOMAIN-SUFFIX,qualcomm-email.com

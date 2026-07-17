@@ -1,11 +1,11 @@
 # NAME: CATEGORY-PORN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-06 07:19:12
-# DOMAIN-SUFFIX: 6513
+# UPDATED: 2026-07-17 05:47:16
+# DOMAIN-SUFFIX: 6514
 # DOMAIN: 5
 # URL-REGEX: 140
-# TOTAL: 6658
+# TOTAL: 6659
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -4007,6 +4007,7 @@ DOMAIN-SUFFIX,netflav5.com
 DOMAIN-SUFFIX,netpornsex.com
 DOMAIN-SUFFIX,netpornsex.net
 DOMAIN-SUFFIX,netvideogirls.com
+DOMAIN-SUFFIX,netxh.blog
 DOMAIN-SUFFIX,neuerporno.com
 DOMAIN-SUFFIX,new-akiba.com
 DOMAIN-SUFFIX,new-jero.net

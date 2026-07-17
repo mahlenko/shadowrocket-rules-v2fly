@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-16 05:46:05
-# DOMAIN-SUFFIX: 24159
+# UPDATED: 2026-07-17 05:47:17
+# DOMAIN-SUFFIX: 24162
 # DOMAIN: 1432
 # URL-REGEX: 158
-# TOTAL: 25749
+# TOTAL: 25752
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -15751,6 +15751,7 @@ DOMAIN-SUFFIX,mycartoonsexgames.com
 DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,myciscobenefits.com
 DOMAIN-SUFFIX,myclitgames.com
+DOMAIN-SUFFIX,mycloudnas.com
 DOMAIN-SUFFIX,mycomicsxxx.com
 DOMAIN-SUFFIX,myconstructionworld.net
 DOMAIN-SUFFIX,mydirectgroove.com
@@ -16083,6 +16084,7 @@ DOMAIN-SUFFIX,nettyinternet.com
 DOMAIN-SUFFIX,netvideogirls.com
 DOMAIN-SUFFIX,netvigator.com
 DOMAIN-SUFFIX,network-auth.cn
+DOMAIN-SUFFIX,netxh.blog
 DOMAIN-SUFFIX,netzerobuildings.com
 DOMAIN-SUFFIX,netzerobuildingstudio.com
 DOMAIN-SUFFIX,neuerporno.com
@@ -18747,6 +18749,7 @@ DOMAIN-SUFFIX,qmov.net
 DOMAIN-SUFFIX,qmttqg3k.me
 DOMAIN-SUFFIX,qnap.com
 DOMAIN-SUFFIX,qnap.com.cn
+DOMAIN-SUFFIX,qnapsupport.net
 DOMAIN-SUFFIX,qobuz.com
 DOMAIN-SUFFIX,qoder.com
 DOMAIN-SUFFIX,qombol.com
