@@ -1,10 +1,10 @@
 # NAME: CATEGORY-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-14 05:37:13
-# DOMAIN-SUFFIX: 1563
+# UPDATED: 2026-07-21 05:56:25
+# DOMAIN-SUFFIX: 1570
 # DOMAIN: 234
-# TOTAL: 1797
+# TOTAL: 1804
 DOMAIN-SUFFIX,1917live.red
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
@@ -203,6 +203,7 @@ DOMAIN-SUFFIX,beget.ru
 DOMAIN,beginners-adv.ozon.ru
 DOMAIN-SUFFIX,belgorod.ru
 DOMAIN-SUFFIX,berizaryad.ru
+DOMAIN-SUFFIX,best2pay.net
 DOMAIN-SUFFIX,betboom.ru
 DOMAIN-SUFFIX,bfa.ru
 DOMAIN,bilet.nspk.ru
@@ -532,6 +533,7 @@ DOMAIN-SUFFIX,hh.ru
 DOMAIN-SUFFIX,hhcdn.ru
 DOMAIN-SUFFIX,homecredit.ru
 DOMAIN-SUFFIX,hrtek.ru
+DOMAIN-SUFFIX,hva.im
 DOMAIN-SUFFIX,i-ola.ru
 DOMAIN-SUFFIX,ibamoscow.ru
 DOMAIN-SUFFIX,icq-download.com
@@ -761,6 +763,7 @@ DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN,mc.yango.com
+DOMAIN-SUFFIX,mcc250.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcs.st
 DOMAIN,mdr.ksn.kaspersky-labs.com
 DOMAIN-SUFFIX,mediumquality.ru
@@ -1030,7 +1033,11 @@ DOMAIN-SUFFIX,raiffeisen.ru
 DOMAIN-SUFFIX,randomgodbot.com
 DOMAIN-SUFFIX,rbcollect.ru
 DOMAIN-SUFFIX,rbcredit.ru
+DOMAIN-SUFFIX,rbsgate.com
+DOMAIN-SUFFIX,rbsuat.com
 DOMAIN-SUFFIX,rbth.com
+DOMAIN-SUFFIX,reaviz.com
+DOMAIN-SUFFIX,reaviz.ru
 DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN-SUFFIX,reg.cloud
 DOMAIN-SUFFIX,reg.com

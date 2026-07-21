@@ -1,10 +1,10 @@
 # NAME: CATEGORY-BANK-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-14 05:37:12
-# DOMAIN-SUFFIX: 300
+# UPDATED: 2026-07-21 05:56:25
+# DOMAIN-SUFFIX: 304
 # DOMAIN: 8
-# TOTAL: 308
+# TOTAL: 312
 DOMAIN-SUFFIX,21-school.ru
 DOMAIN-SUFFIX,2gis.ae
 DOMAIN-SUFFIX,2gis.am
@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,bankline.ru
 DOMAIN-SUFFIX,bbr.ru
 DOMAIN-SUFFIX,bcs-bank.ru
 DOMAIN-SUFFIX,bcs.ru
+DOMAIN-SUFFIX,best2pay.net
 DOMAIN-SUFFIX,bfa.ru
 DOMAIN-SUFFIX,blanc.ru
 DOMAIN-SUFFIX,bm-bank.ru
@@ -103,6 +104,7 @@ DOMAIN-SUFFIX,gitverse.ru
 DOMAIN-SUFFIX,gosdolgi.ru
 DOMAIN-SUFFIX,gpb.ru
 DOMAIN-SUFFIX,homecredit.ru
+DOMAIN-SUFFIX,hva.im
 DOMAIN-SUFFIX,ibamoscow.ru
 DOMAIN-SUFFIX,id.ru
 DOMAIN-SUFFIX,it-katok.ru
@@ -177,6 +179,8 @@ DOMAIN-SUFFIX,raiffeisen-media.ru
 DOMAIN-SUFFIX,raiffeisen.ru
 DOMAIN-SUFFIX,rbcollect.ru
 DOMAIN-SUFFIX,rbcredit.ru
+DOMAIN-SUFFIX,rbsgate.com
+DOMAIN-SUFFIX,rbsuat.com
 DOMAIN-SUFFIX,rencapbank.ru
 DOMAIN-SUFFIX,rencredit.ru
 DOMAIN-SUFFIX,restnproducts.ru

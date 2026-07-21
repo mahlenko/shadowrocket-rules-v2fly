@@ -1,0 +1,9 @@
+# NAME: FORMULA1
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-07-21 05:56:25
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+DOMAIN-SUFFIX,f1.com
+DOMAIN-SUFFIX,f1tv.com
+DOMAIN-SUFFIX,formula1.com

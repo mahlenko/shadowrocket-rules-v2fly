@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-17 05:47:17
-# DOMAIN-SUFFIX: 24162
-# DOMAIN: 1432
+# UPDATED: 2026-07-21 05:56:26
+# DOMAIN-SUFFIX: 24168
+# DOMAIN: 1434
 # URL-REGEX: 158
-# TOTAL: 25752
+# TOTAL: 25760
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -3665,6 +3665,7 @@ DOMAIN-SUFFIX,berkanawireless.com
 DOMAIN-SUFFIX,berkeley.edu
 DOMAIN-SUFFIX,berlincompanions.com
 DOMAIN-SUFFIX,best-sex-games.com
+DOMAIN-SUFFIX,best2pay.net
 DOMAIN-SUFFIX,best4bim.com
 DOMAIN-SUFFIX,bestbeats4u.com
 DOMAIN-SUFFIX,bestbhy.com
@@ -5642,6 +5643,7 @@ DOMAIN-SUFFIX,clashmini.com
 DOMAIN-SUFFIX,clashofclans.com
 DOMAIN-SUFFIX,clashroyale.com
 DOMAIN-SUFFIX,clashroyaleapp.com
+DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,clasporno.org
 DOMAIN-SUFFIX,classicnike.com
 DOMAIN-SUFFIX,classymomsex.com
@@ -8312,6 +8314,8 @@ DOMAIN-SUFFIX,f-droid.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,f-secure.com
 DOMAIN,f.c2r.ts.cdn.office.net
+DOMAIN-SUFFIX,f1.com
+DOMAIN-SUFFIX,f1tv.com
 DOMAIN,f3b7q2p3.ssl.hwcdn.net
 DOMAIN-SUFFIX,f5pf.com
 DOMAIN-SUFFIX,f6.dev
@@ -9088,6 +9092,7 @@ DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,forhertube.com
 DOMAIN-SUFFIX,formit360.com
 DOMAIN-SUFFIX,formitfactory.com
+DOMAIN-SUFFIX,formula1.com
 DOMAIN-SUFFIX,forpojie.pics
 DOMAIN-SUFFIX,forshtadt.ru
 DOMAIN-SUFFIX,fortawesome.com
@@ -11641,6 +11646,7 @@ DOMAIN-SUFFIX,hussiepass.com
 DOMAIN-SUFFIX,hustler.com
 DOMAIN-SUFFIX,hutao.cloud
 DOMAIN-SUFFIX,hutpromos.com
+DOMAIN-SUFFIX,hva.im
 DOMAIN-SUFFIX,hwgo.com
 DOMAIN-SUFFIX,hwslabs.com
 DOMAIN-SUFFIX,hxcsxs.pro
@@ -18958,8 +18964,10 @@ DOMAIN-SUFFIX,rbmavericks.com
 DOMAIN-SUFFIX,rbnainternational.com
 DOMAIN-SUFFIX,rbplc.com
 DOMAIN-SUFFIX,rbrandlibrary.com
+DOMAIN-SUFFIX,rbsgate.com
 DOMAIN-SUFFIX,rbsgr.com
 DOMAIN-SUFFIX,rbspeakup.com
+DOMAIN-SUFFIX,rbsuat.com
 DOMAIN-SUFFIX,rbth.com
 DOMAIN-SUFFIX,rbx.com
 DOMAIN-SUFFIX,rbxcdn.com
@@ -22250,7 +22258,7 @@ DOMAIN-SUFFIX,trithucvn.org
 DOMAIN-SUFFIX,trixhentai.com
 DOMAIN-SUFFIX,trmini.com
 DOMAIN-SUFFIX,troisrivieresmini.com
-DOMAIN-SUFFIX,trojan-gfw.github.io
+DOMAIN,trojan-gfw.github.io
 DOMAIN-SUFFIX,tropictube.com
 DOMAIN-SUFFIX,trpger.us
 DOMAIN-SUFFIX,trueamateurmodels.com
@@ -24772,7 +24780,7 @@ DOMAIN-SUFFIX,xsvod.xyz
 DOMAIN-SUFFIX,xsz-av.com
 DOMAIN-SUFFIX,xtapes.to
 DOMAIN-SUFFIX,xtegvk.xyz
-DOMAIN-SUFFIX,xtls.github.io
+DOMAIN,xtls.github.io
 DOMAIN-SUFFIX,xtom.au
 DOMAIN-SUFFIX,xtom.com
 DOMAIN-SUFFIX,xtom.de
