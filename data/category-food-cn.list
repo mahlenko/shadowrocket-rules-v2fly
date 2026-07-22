@@ -1,9 +1,9 @@
 # NAME: CATEGORY-FOOD-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-09 06:50:53
-# DOMAIN-SUFFIX: 61
-# TOTAL: 61
+# UPDATED: 2026-07-22 05:55:35
+# DOMAIN-SUFFIX: 62
+# TOTAL: 62
 DOMAIN-SUFFIX,3songshu.com
 DOMAIN-SUFFIX,4008-517-517.cn
 DOMAIN-SUFFIX,4008117117.com
@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,qmimg.cn
 DOMAIN-SUFFIX,shuanghui.net
 DOMAIN-SUFFIX,shuxinyc.com
 DOMAIN-SUFFIX,starbucks.com.cn
+DOMAIN-SUFFIX,telunsu.net
 DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
 DOMAIN-SUFFIX,trackingprd.hwwt8.com
 DOMAIN-SUFFIX,trackserver.shuxinyc.com

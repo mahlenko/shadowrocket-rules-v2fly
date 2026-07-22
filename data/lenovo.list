@@ -1,7 +1,7 @@
 # NAME: LENOVO
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
+# UPDATED: 2026-07-22 05:55:36
 # DOMAIN-SUFFIX: 58
 # TOTAL: 58
 DOMAIN-SUFFIX,baiying.cn
@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,bestrhy.com
 DOMAIN-SUFFIX,blurdev.com
 DOMAIN-SUFFIX,cftsupport.com
 DOMAIN-SUFFIX,chainedbox.com
-DOMAIN-SUFFIX,con-c-hybris.lenovo.com
 DOMAIN-SUFFIX,cunchuhulian-ln.cn
 DOMAIN-SUFFIX,dayin8.com
 DOMAIN-SUFFIX,filez.com
@@ -22,6 +21,7 @@ DOMAIN-SUFFIX,jhwan.com.cn
 DOMAIN-SUFFIX,juhuiwan.com
 DOMAIN-SUFFIX,juhuiwan.com.cn
 DOMAIN-SUFFIX,juhuiwan.net
+DOMAIN-SUFFIX,lecoo.com
 DOMAIN-SUFFIX,lenauth.com
 DOMAIN-SUFFIX,lenovo.cn
 DOMAIN-SUFFIX,lenovo.com

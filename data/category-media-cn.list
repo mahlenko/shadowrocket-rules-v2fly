@@ -1,10 +1,10 @@
 # NAME: CATEGORY-MEDIA-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-12 06:09:23
-# DOMAIN-SUFFIX: 378
+# UPDATED: 2026-07-22 05:55:35
+# DOMAIN-SUFFIX: 387
 # DOMAIN: 1
-# TOTAL: 379
+# TOTAL: 388
 DOMAIN-SUFFIX,0033.cn
 DOMAIN-SUFFIX,10jqka.com.cn
 DOMAIN-SUFFIX,17173.com
@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,bandao.cn
 DOMAIN-SUFFIX,bbtnews.com.cn
 DOMAIN-SUFFIX,bdu.focus.cn
 DOMAIN-SUFFIX,bianews.com
+DOMAIN-SUFFIX,bjd.com.cn
 DOMAIN-SUFFIX,bjnews.com.cn
 DOMAIN-SUFFIX,bkeconomy.com
 DOMAIN-SUFFIX,btime.com
@@ -74,6 +75,7 @@ DOMAIN-SUFFIX,chinalive.com
 DOMAIN-SUFFIX,chinanews.com
 DOMAIN-SUFFIX,chinanews.com.cn
 DOMAIN-SUFFIX,chinaott.com
+DOMAIN-SUFFIX,chinapp.com
 DOMAIN-SUFFIX,chinaqw.com
 DOMAIN-SUFFIX,chinastarmarket.cn
 DOMAIN-SUFFIX,chuanbaoguancha.cn
@@ -118,6 +120,7 @@ DOMAIN-SUFFIX,danjuanfunds.com
 DOMAIN-SUFFIX,dayoo.com
 DOMAIN-SUFFIX,dgtle.com
 DOMAIN-SUFFIX,dianzhenkeji.com
+DOMAIN-SUFFIX,dingxinwen.cn
 DOMAIN-SUFFIX,donews.com
 DOMAIN-SUFFIX,dutenews.com
 DOMAIN-SUFFIX,dzh.com.cn
@@ -163,8 +166,10 @@ DOMAIN-SUFFIX,hexun.com
 DOMAIN-SUFFIX,hndt.com
 DOMAIN-SUFFIX,hnol.net
 DOMAIN-SUFFIX,hntv.tv
+DOMAIN-SUFFIX,hsw.cn
 DOMAIN-SUFFIX,huanqiu.com
 DOMAIN-SUFFIX,huanqiucdn.cn
+DOMAIN-SUFFIX,huashangtop.com
 DOMAIN-SUFFIX,hubeidaily.net
 DOMAIN-SUFFIX,huxiu.com
 DOMAIN-SUFFIX,huxiucdn.com
@@ -193,6 +198,7 @@ DOMAIN-SUFFIX,ipanda.cn
 DOMAIN-SUFFIX,ipanda.com
 DOMAIN-SUFFIX,ipanda.com.cn
 DOMAIN-SUFFIX,ipanda.net
+DOMAIN-SUFFIX,iqilu.com
 DOMAIN-SUFFIX,iresearch.cn
 DOMAIN-SUFFIX,istv.cn
 DOMAIN-SUFFIX,it168.com
@@ -216,6 +222,7 @@ DOMAIN-SUFFIX,jxpp.com
 DOMAIN-SUFFIX,jztvnews.com
 DOMAIN-SUFFIX,kankanews.com
 DOMAIN-SUFFIX,kankannews.com
+DOMAIN-SUFFIX,kf.cn
 DOMAIN-SUFFIX,kjrb.com.cn
 DOMAIN-SUFFIX,kksmg.com
 DOMAIN-SUFFIX,knewsmart.com
@@ -239,6 +246,7 @@ DOMAIN-SUFFIX,minapp.com
 DOMAIN-SUFFIX,mnw.cn
 DOMAIN-SUFFIX,moer.cn
 DOMAIN-SUFFIX,mydrivers.com
+DOMAIN-SUFFIX,myhsw.cn
 DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,nanyuenews.com
 DOMAIN-SUFFIX,nbd.com.cn
@@ -328,6 +336,7 @@ DOMAIN-SUFFIX,tivitv.com
 DOMAIN-SUFFIX,tmtpost.com
 DOMAIN-SUFFIX,tmtsmartlife.com
 DOMAIN-SUFFIX,tmtsmartrun.com
+DOMAIN-SUFFIX,topnews.cn
 DOMAIN-SUFFIX,track.sohu.com
 DOMAIN-SUFFIX,tvcc.cn
 DOMAIN-SUFFIX,tvcc.com.cn

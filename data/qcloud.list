@@ -1,9 +1,9 @@
 # NAME: QCLOUD
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 354
-# TOTAL: 354
+# UPDATED: 2026-07-22 05:55:36
+# DOMAIN-SUFFIX: 355
+# TOTAL: 355
 DOMAIN-SUFFIX,acctdns.com
 DOMAIN-SUFFIX,acctdns.net
 DOMAIN-SUFFIX,aegis.qq.com
@@ -153,6 +153,7 @@ DOMAIN-SUFFIX,m1.run
 DOMAIN-SUFFIX,m6.run
 DOMAIN-SUFFIX,m9.run
 DOMAIN-SUFFIX,ma.run
+DOMAIN-SUFFIX,my-imcloud.com
 DOMAIN-SUFFIX,my-qcloud.com
 DOMAIN-SUFFIX,myelasticsearch.com
 DOMAIN-SUFFIX,myqcloud.com

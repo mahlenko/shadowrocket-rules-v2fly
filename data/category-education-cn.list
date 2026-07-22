@@ -1,10 +1,10 @@
 # NAME: CATEGORY-EDUCATION-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-15 05:38:15
-# DOMAIN-SUFFIX: 169
+# UPDATED: 2026-07-22 05:55:34
+# DOMAIN-SUFFIX: 176
 # DOMAIN: 3
-# TOTAL: 172
+# TOTAL: 179
 DOMAIN-SUFFIX,100tal.com
 DOMAIN-SUFFIX,17zuoye.cn
 DOMAIN-SUFFIX,17zuoye.com
@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,cctalk.com
 DOMAIN-SUFFIX,cedf.cn
 DOMAIN-SUFFIX,cedf.org.cn
 DOMAIN-SUFFIX,centuryenglish.com
+DOMAIN-SUFFIX,cepsp.cn
 DOMAIN-SUFFIX,chdi.com.cn
 DOMAIN-SUFFIX,chei.com.cn
 DOMAIN-SUFFIX,chesicc.cn
@@ -55,7 +56,9 @@ DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,eduei.com
 DOMAIN-SUFFIX,eduu.com
 DOMAIN-SUFFIX,eduuu.com
+DOMAIN-SUFFIX,eduyun.cn
 DOMAIN-SUFFIX,eoffcn.com
+DOMAIN-SUFFIX,eol.cn
 DOMAIN-SUFFIX,fbstatic.cn
 DOMAIN-SUFFIX,fenbi.com
 DOMAIN-SUFFIX,fenbike.cn
@@ -124,7 +127,10 @@ DOMAIN-SUFFIX,qgzb.com.cn
 DOMAIN-SUFFIX,qgzb.gov.cn
 DOMAIN-SUFFIX,qgzb.net
 DOMAIN-SUFFIX,qingtingai.net
+DOMAIN-SUFFIX,quyixian.com
 DOMAIN-SUFFIX,rainclassroom.com
+DOMAIN-SUFFIX,rongdeji.cn
+DOMAIN-SUFFIX,rudder.com.cn
 DOMAIN-SUFFIX,saduck.top
 DOMAIN-SUFFIX,schoopia.com
 DOMAIN-SUFFIX,shanbay.com
@@ -134,6 +140,7 @@ DOMAIN-SUFFIX,speiyou.com
 DOMAIN,study.163.com
 DOMAIN-SUFFIX,sydw8.com
 DOMAIN-SUFFIX,tal.com
+DOMAIN-SUFFIX,tesoon.com
 DOMAIN-SUFFIX,tongxuepie.com
 DOMAIN-SUFFIX,unipus.cn
 DOMAIN-SUFFIX,weilaiyunxiao.com

@@ -1,10 +1,10 @@
 # NAME: ALIBABA
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-07 06:52:28
-# DOMAIN-SUFFIX: 441
+# UPDATED: 2026-07-22 05:55:34
+# DOMAIN-SUFFIX: 442
 # DOMAIN: 4
-# TOTAL: 445
+# TOTAL: 446
 DOMAIN-SUFFIX,11222.cn
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,25pp.com
@@ -142,6 +142,7 @@ DOMAIN-SUFFIX,alogs.umeng.com
 DOMAIN-SUFFIX,alogus.umeng.com
 DOMAIN-SUFFIX,alyms.cn
 DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,amap.net
 DOMAIN-SUFFIX,amapauto.com
 DOMAIN-SUFFIX,anav.com
 DOMAIN-SUFFIX,antfin.com

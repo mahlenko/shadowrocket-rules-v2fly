@@ -1,9 +1,9 @@
 # NAME: AMAP
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 15
-# TOTAL: 15
+# UPDATED: 2026-07-22 05:55:34
+# DOMAIN-SUFFIX: 16
+# TOTAL: 16
 DOMAIN-SUFFIX,a-map.cn
 DOMAIN-SUFFIX,a-map.co
 DOMAIN-SUFFIX,a-map.link
@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,a-map.vip
 DOMAIN-SUFFIX,acloudrender.com
 DOMAIN-SUFFIX,adashx.ut.amap.com
 DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,amap.net
 DOMAIN-SUFFIX,amapauto.com
 DOMAIN-SUFFIX,anav.com
 DOMAIN-SUFFIX,autonavi.com
