@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-21 05:56:26
-# DOMAIN-SUFFIX: 24168
+# UPDATED: 2026-07-24 05:54:45
+# DOMAIN-SUFFIX: 24171
 # DOMAIN: 1434
 # URL-REGEX: 158
-# TOTAL: 25760
+# TOTAL: 25763
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -7148,6 +7148,7 @@ DOMAIN-SUFFIX,doclercdn.com
 DOMAIN-SUFFIX,docs.com
 DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,docs.rs
+DOMAIN-SUFFIX,docs.rw
 DOMAIN-SUFFIX,doctor-videos.com
 DOMAIN-SUFFIX,documentforce.com
 DOMAIN-SUFFIX,dodgersexcartoons.com
@@ -13939,6 +13940,7 @@ DOMAIN-SUFFIX,localxlist.org
 DOMAIN,location.microsoft.com
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,log.dzen.ru
+DOMAIN-SUFFIX,log.rw
 DOMAIN,log.strm.yandex.ru
 DOMAIN-SUFFIX,logi.com
 DOMAIN-SUFFIX,logicool.co.jp
@@ -22299,6 +22301,7 @@ DOMAIN-SUFFIX,truyenhentai.xyz
 DOMAIN-SUFFIX,truyenkk1.com
 DOMAIN-SUFFIX,truyentranh86.com
 DOMAIN-SUFFIX,truyenwk.com
+DOMAIN-SUFFIX,try.rw
 DOMAIN-SUFFIX,tryalias.com
 DOMAIN-SUFFIX,tryboobs.com
 DOMAIN-SUFFIX,trycloudflare.com

@@ -1,10 +1,10 @@
 # NAME: CATEGORY-ANTICENSORSHIP
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-21 05:56:25
-# DOMAIN-SUFFIX: 96
+# UPDATED: 2026-07-24 05:54:44
+# DOMAIN-SUFFIX: 99
 # DOMAIN: 2
-# TOTAL: 98
+# TOTAL: 101
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,ahmia.fi
 DOMAIN-SUFFIX,akasha.world
@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,crustwebsites.net
 DOMAIN-SUFFIX,dat.foundation
 DOMAIN-SUFFIX,democracy.earth
+DOMAIN-SUFFIX,docs.rw
 DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,eff.org
 DOMAIN-SUFFIX,epicbrowser.com
@@ -59,6 +60,7 @@ DOMAIN-SUFFIX,ipns.co
 DOMAIN-SUFFIX,jitsi.org
 DOMAIN-SUFFIX,jorropo.net
 DOMAIN-SUFFIX,lantern.io
+DOMAIN-SUFFIX,log.rw
 DOMAIN-SUFFIX,lokinet.org
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,nftstorage.link
@@ -85,6 +87,7 @@ DOMAIN-SUFFIX,telex.cc
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,tribler.org
 DOMAIN,trojan-gfw.github.io
+DOMAIN-SUFFIX,try.rw
 DOMAIN-SUFFIX,tunsafe.com
 DOMAIN-SUFFIX,turkeyblocks.org
 DOMAIN-SUFFIX,twister.net.co
