@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-20 03:51:53
-# DOMAIN-SUFFIX: 24326
+# UPDATED: 2026-08-26 03:57:36
+# DOMAIN-SUFFIX: 24330
 # DOMAIN: 1411
 # URL-REGEX: 158
-# TOTAL: 25895
+# TOTAL: 25899
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -913,6 +913,7 @@ DOMAIN-SUFFIX,adguard.info
 DOMAIN-SUFFIX,adguard.io
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,adguardaccount.com
+DOMAIN-SUFFIX,adguardaccount.net
 DOMAIN-SUFFIX,adguardcdn.com
 DOMAIN-SUFFIX,adguardvpn.com
 DOMAIN-SUFFIX,adhelpnews.com
@@ -2036,6 +2037,7 @@ DOMAIN,aod-ssl.itunes.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN-SUFFIX,aodahl.com
 DOMAIN-SUFFIX,aokwholesale.net
+DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,aorus.com
 DOMAIN-SUFFIX,aoruszone.cn
@@ -17341,6 +17343,7 @@ DOMAIN-SUFFIX,ouroath.com
 DOMAIN-SUFFIX,oursexgames.com
 DOMAIN-SUFFIX,ourshdtv.com
 DOMAIN-SUFFIX,ourshemales.com
+DOMAIN-SUFFIX,ouryahoo.com
 DOMAIN-SUFFIX,out-app-purchase.com
 DOMAIN-SUFFIX,outbound.io
 DOMAIN-SUFFIX,outdoorpublicsex.com
@@ -25282,6 +25285,7 @@ DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yahoodns.net
 DOMAIN-SUFFIX,yahoofinance.com
 DOMAIN-SUFFIX,yahoohealth.com
+DOMAIN-SUFFIX,yahooinc.com
 DOMAIN-SUFFIX,yahoomusic.com
 DOMAIN-SUFFIX,yahoosandbox.com
 DOMAIN-SUFFIX,yahoosportsbook.com

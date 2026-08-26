@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-20 03:51:52
-# DOMAIN-SUFFIX: 7743
+# UPDATED: 2026-08-26 03:57:35
+# DOMAIN-SUFFIX: 7746
 # DOMAIN: 959
 # URL-REGEX: 6
-# TOTAL: 8708
+# TOTAL: 8711
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -585,6 +585,7 @@ DOMAIN,aod-ssl.itunes.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN-SUFFIX,aodahl.com
 DOMAIN-SUFFIX,aokwholesale.net
+DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,aorus.com
 DOMAIN-SUFFIX,aoruszone.cn
 DOMAIN-SUFFIX,ap0le.com
@@ -6327,6 +6328,7 @@ DOMAIN,osrelease.download.prss.microsoft.com
 DOMAIN,osxapps.itunes.apple.com
 DOMAIN,osxapps.itunes.g.aaplimg.com
 DOMAIN-SUFFIX,ouroath.com
+DOMAIN-SUFFIX,ouryahoo.com
 DOMAIN-SUFFIX,out-app-purchase.com
 DOMAIN-SUFFIX,outingsapp.com
 DOMAIN-SUFFIX,outletbeatsshop.com
@@ -8416,6 +8418,7 @@ DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yahoodns.net
 DOMAIN-SUFFIX,yahoofinance.com
 DOMAIN-SUFFIX,yahoohealth.com
+DOMAIN-SUFFIX,yahooinc.com
 DOMAIN-SUFFIX,yahoomusic.com
 DOMAIN-SUFFIX,yahoosandbox.com
 DOMAIN-SUFFIX,yahoosportsbook.com
