@@ -1,0 +1,8 @@
+# NAME: NEWGROUNDS
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-08-27 14:02:25
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,newgrounds.com
+DOMAIN-SUFFIX,ngfiles.com
