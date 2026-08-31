@@ -1,10 +1,10 @@
 # NAME: CATEGORY-EMBY
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 30
+# UPDATED: 2026-08-31 09:35:17
+# DOMAIN-SUFFIX: 31
 # DOMAIN: 52
-# TOTAL: 82
+# TOTAL: 83
 DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,404.sb
 DOMAIN-SUFFIX,4545.cf
@@ -86,4 +86,5 @@ DOMAIN-SUFFIX,sptv.ii00.cc
 DOMAIN-SUFFIX,stream.ntrrr.top
 DOMAIN-SUFFIX,stream.synn.cc
 DOMAIN-SUFFIX,texon.fans
+DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,yunti.online

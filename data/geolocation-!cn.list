@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-28 15:13:35
-# DOMAIN-SUFFIX: 24333
+# UPDATED: 2026-08-31 09:35:18
+# DOMAIN-SUFFIX: 24332
 # DOMAIN: 1411
 # URL-REGEX: 158
-# TOTAL: 25902
+# TOTAL: 25901
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -2074,7 +2074,6 @@ DOMAIN,api.mindbox.cloud
 DOMAIN,api.mindbox.ru
 DOMAIN-SUFFIX,api.news
 DOMAIN,api.viu.now.com
-DOMAIN-SUFFIX,api2.amplitude.com
 DOMAIN-SUFFIX,apiauto.ru
 DOMAIN-SUFFIX,apibay.org
 DOMAIN-SUFFIX,apigee.com

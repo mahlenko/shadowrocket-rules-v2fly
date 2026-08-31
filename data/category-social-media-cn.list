@@ -1,9 +1,9 @@
 # NAME: CATEGORY-SOCIAL-MEDIA-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-16 08:51:28
-# DOMAIN-SUFFIX: 37
-# TOTAL: 37
+# UPDATED: 2026-08-31 09:35:17
+# DOMAIN-SUFFIX: 39
+# TOTAL: 39
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coolapkmarket.com
 DOMAIN-SUFFIX,coolapkmarket.net
@@ -35,6 +35,8 @@ DOMAIN-SUFFIX,shihuo.cn
 DOMAIN-SUFFIX,taou.com
 DOMAIN-SUFFIX,tieba.baidu.com
 DOMAIN-SUFFIX,tieba.com
+DOMAIN-SUFFIX,uneed.com
+DOMAIN-SUFFIX,uneedx.com
 DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,xiaochuankeji.cn
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
