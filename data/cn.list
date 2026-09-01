@@ -1,11 +1,11 @@
 # NAME: CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-31 09:35:17
-# DOMAIN-SUFFIX: 5484
+# UPDATED: 2026-09-01 08:31:11
+# DOMAIN-SUFFIX: 5489
 # DOMAIN: 62
 # URL-REGEX: 3
-# TOTAL: 5549
+# TOTAL: 5554
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -160,6 +160,7 @@ DOMAIN-SUFFIX,360panyun.cn
 DOMAIN-SUFFIX,360pay.cn
 DOMAIN-SUFFIX,360qhcdn.com
 DOMAIN-SUFFIX,360safe.com
+DOMAIN-SUFFIX,360scdn.com
 DOMAIN-SUFFIX,360shouji.com
 DOMAIN-SUFFIX,360sjyh.cn
 DOMAIN-SUFFIX,360so.com
@@ -1437,6 +1438,7 @@ DOMAIN-SUFFIX,dedecms.com
 DOMAIN-SUFFIX,deepepg.com
 DOMAIN-SUFFIX,deepinos.org
 DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseeksvc.com
 DOMAIN-SUFFIX,dengguobi.com
 DOMAIN-SUFFIX,deppon.com
 DOMAIN-SUFFIX,deppon.com.cn
@@ -4396,6 +4398,7 @@ DOMAIN-SUFFIX,tcl.com.cn
 DOMAIN-SUFFIX,tclai.top
 DOMAIN-SUFFIX,tcltech.com
 DOMAIN-SUFFIX,tcp5.com
+DOMAIN-SUFFIX,tctpwebankcdn.net
 DOMAIN-SUFFIX,tcwqqdy.guru
 DOMAIN-SUFFIX,tdsdk.cpatrk.net
 DOMAIN-SUFFIX,te5.com
@@ -4780,6 +4783,7 @@ DOMAIN-SUFFIX,warsaga.cn
 DOMAIN-SUFFIX,wasu.cn
 DOMAIN-SUFFIX,wasu.tv
 DOMAIN-SUFFIX,wasumedia.cn
+DOMAIN-SUFFIX,wbweilicai.com
 DOMAIN-SUFFIX,wcbygame.com
 DOMAIN-SUFFIX,wch-ic.com
 DOMAIN-SUFFIX,wch.cn
@@ -4885,6 +4889,7 @@ DOMAIN-SUFFIX,wonnder.com
 DOMAIN-SUFFIX,woodo.cn
 DOMAIN-SUFFIX,wooyun.org
 DOMAIN-SUFFIX,woozooo.com
+DOMAIN-SUFFIX,workbuddy.cn
 DOMAIN-SUFFIX,workercn.cn
 DOMAIN-SUFFIX,worktile.com
 DOMAIN-SUFFIX,worldofship.cn

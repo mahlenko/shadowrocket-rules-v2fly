@@ -1,10 +1,10 @@
 # NAME: TENCENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-12 04:53:25
-# DOMAIN-SUFFIX: 694
+# UPDATED: 2026-09-01 08:31:12
+# DOMAIN-SUFFIX: 698
 # DOMAIN: 1
-# TOTAL: 695
+# TOTAL: 699
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,97ting.com
 DOMAIN-SUFFIX,acctdns.com
@@ -561,7 +561,9 @@ DOMAIN-SUFFIX,tencentbyod.com
 DOMAIN-SUFFIX,tencentcdb.cn
 DOMAIN-SUFFIX,tencentcdb.com
 DOMAIN-SUFFIX,tencentcdb.com.cn
+DOMAIN-SUFFIX,tencentclb.cn
 DOMAIN-SUFFIX,tencentclb.com
+DOMAIN-SUFFIX,tencentclb.com.cn
 DOMAIN-SUFFIX,tencentcloud-aiot.com
 DOMAIN-SUFFIX,tencentcloud.com
 DOMAIN-SUFFIX,tencentcloudapi.com
@@ -585,6 +587,7 @@ DOMAIN-SUFFIX,tencenteiam.com
 DOMAIN-SUFFIX,tencentelasticsearch.com
 DOMAIN-SUFFIX,tencentid.com
 DOMAIN-SUFFIX,tencentidentity.com
+DOMAIN-SUFFIX,tencentmiying.com
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tencentproxy.com
 DOMAIN-SUFFIX,tencentrio.com
@@ -595,6 +598,7 @@ DOMAIN-SUFFIX,tencentwepark.com
 DOMAIN-SUFFIX,tencentyun.com
 DOMAIN-SUFFIX,tendbcluster.com
 DOMAIN-SUFFIX,tendis.net
+DOMAIN-SUFFIX,tengmed.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,testjrzk.net.cn
 DOMAIN-SUFFIX,testmeet.cn

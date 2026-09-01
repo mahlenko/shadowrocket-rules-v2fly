@@ -1,9 +1,9 @@
 # NAME: CATEGORY-BANK-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-10 15:25:58
-# DOMAIN-SUFFIX: 53
-# TOTAL: 53
+# UPDATED: 2026-09-01 08:31:11
+# DOMAIN-SUFFIX: 55
+# TOTAL: 55
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,95516.net
 DOMAIN-SUFFIX,abchina.com
@@ -41,11 +41,13 @@ DOMAIN-SUFFIX,psbc.com
 DOMAIN-SUFFIX,shrbank.com
 DOMAIN-SUFFIX,spdb.com.cn
 DOMAIN-SUFFIX,suningbank.com
+DOMAIN-SUFFIX,tctpwebankcdn.net
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,unionpay.net
 DOMAIN-SUFFIX,unionpayintl.cn
 DOMAIN-SUFFIX,unionpayintl.com
 DOMAIN-SUFFIX,unionpaysecure.com
+DOMAIN-SUFFIX,wbweilicai.com
 DOMAIN-SUFFIX,webank.com
 DOMAIN-SUFFIX,webankcdn.net
 DOMAIN-SUFFIX,wegobank.cn
