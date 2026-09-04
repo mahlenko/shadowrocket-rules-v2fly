@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-26 03:57:35
-# DOMAIN-SUFFIX: 7746
+# UPDATED: 2026-09-04 07:53:12
+# DOMAIN-SUFFIX: 7749
 # DOMAIN: 959
 # URL-REGEX: 6
-# TOTAL: 8711
+# TOTAL: 8714
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -4187,6 +4187,8 @@ DOMAIN-SUFFIX,hewlettpackard.enterprises
 DOMAIN-SUFFIX,hey.boo
 DOMAIN-SUFFIX,heywire.com
 DOMAIN-SUFFIX,hf-iphone.com
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,hh.by
 DOMAIN-SUFFIX,hh.kz
 DOMAIN-SUFFIX,hh.ru
@@ -4382,6 +4384,7 @@ DOMAIN-SUFFIX,httpsfacebook.com
 DOMAIN-SUFFIX,httpwwwfacebook.com
 DOMAIN-SUFFIX,htznr.li
 DOMAIN-SUFFIX,hubblephone.com
+DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hummingbird.ms
 DOMAIN-SUFFIX,hwgo.com
 DOMAIN-SUFFIX,hwslabs.com
