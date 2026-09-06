@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-27 14:02:24
+# UPDATED: 2026-09-06 07:48:14
 # DOMAIN-SUFFIX: 1852
-# DOMAIN: 281
+# DOMAIN: 282
 # URL-REGEX: 10
-# TOTAL: 2143
+# TOTAL: 2144
 URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
@@ -971,6 +971,7 @@ DOMAIN-SUFFIX,kraftonde.com
 DOMAIN-SUFFIX,kyurem.com
 DOMAIN-SUFFIX,lapriere.jp
 DOMAIN-SUFFIX,last.fm
+DOMAIN,lastfm-img.freetls.fastly.net
 DOMAIN,lastfm.freetls.fastly.net
 DOMAIN,lazer.ppy.sh
 DOMAIN-SUFFIX,lcsmerch.com

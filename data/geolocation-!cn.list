@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-09-01 08:31:12
+# UPDATED: 2026-09-06 07:48:14
 # DOMAIN-SUFFIX: 24340
-# DOMAIN: 1411
+# DOMAIN: 1412
 # URL-REGEX: 158
-# TOTAL: 25909
+# TOTAL: 25910
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -13719,6 +13719,7 @@ DOMAIN-SUFFIX,largecamtube.com
 DOMAIN-SUFFIX,largeporntube.com
 DOMAIN-SUFFIX,lasersawapp.com
 DOMAIN-SUFFIX,last.fm
+DOMAIN,lastfm-img.freetls.fastly.net
 DOMAIN,lastfm.freetls.fastly.net
 DOMAIN-SUFFIX,lastpass.com
 DOMAIN-SUFFIX,lastpass.eu
