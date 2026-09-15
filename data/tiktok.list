@@ -1,14 +1,15 @@
 # NAME: TIKTOK
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-06 05:55:16
+# UPDATED: 2026-09-15 08:33:55
 # DOMAIN-SUFFIX: 31
-# DOMAIN: 5
-# TOTAL: 36
+# DOMAIN: 6
+# TOTAL: 37
 DOMAIN-SUFFIX,analytics.tiktok.com
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
+DOMAIN,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com

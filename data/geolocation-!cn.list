@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-09-09 08:02:03
-# DOMAIN-SUFFIX: 24341
-# DOMAIN: 1412
+# UPDATED: 2026-09-15 08:33:55
+# DOMAIN-SUFFIX: 24344
+# DOMAIN: 1413
 # URL-REGEX: 158
-# TOTAL: 25911
+# TOTAL: 25915
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -17443,6 +17443,7 @@ DOMAIN,p12.upd.kaspersky.com
 DOMAIN,p13.upd.kaspersky.com
 DOMAIN,p14.upd.kaspersky.com
 DOMAIN,p15.upd.kaspersky.com
+DOMAIN,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,p16.upd.kaspersky.com
 DOMAIN,p17.upd.kaspersky.com
@@ -21353,6 +21354,9 @@ DOMAIN-SUFFIX,stripcamfun.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,stripe-terminal-local-reader.net
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.dev
+DOMAIN-SUFFIX,stripe.events
+DOMAIN-SUFFIX,stripe.global
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,stripparadise.com

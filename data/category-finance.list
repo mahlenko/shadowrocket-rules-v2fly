@@ -1,10 +1,10 @@
 # NAME: CATEGORY-FINANCE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-29 06:03:52
-# DOMAIN-SUFFIX: 602
+# UPDATED: 2026-09-15 08:33:54
+# DOMAIN-SUFFIX: 605
 # DOMAIN: 10
-# TOTAL: 612
+# TOTAL: 615
 DOMAIN-SUFFIX,114bank.co.jp
 DOMAIN-SUFFIX,21-school.ru
 DOMAIN-SUFFIX,2gis.ae
@@ -512,6 +512,9 @@ DOMAIN,standchartbank.sc.omtrdc.net
 DOMAIN,standchartbank.tt.omtrdc.net
 DOMAIN-SUFFIX,stripe-terminal-local-reader.net
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.dev
+DOMAIN-SUFFIX,stripe.events
+DOMAIN-SUFFIX,stripe.global
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,surugabank.co.jp
