@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-09-15 08:33:55
-# DOMAIN-SUFFIX: 24344
-# DOMAIN: 1413
+# UPDATED: 2026-09-21 08:48:04
+# DOMAIN-SUFFIX: 24352
+# DOMAIN: 1414
 # URL-REGEX: 158
-# TOTAL: 25915
+# TOTAL: 25924
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -5887,6 +5887,7 @@ DOMAIN-SUFFIX,code-class.ru
 DOMAIN-SUFFIX,code.org
 DOMAIN-SUFFIX,codeberg.org
 DOMAIN-SUFFIX,codeberg.page
+DOMAIN-SUFFIX,codebuff.com
 DOMAIN-SUFFIX,codecademy.com
 DOMAIN-SUFFIX,codeforaliving.io
 DOMAIN-SUFFIX,codeforces.com
@@ -8998,11 +8999,14 @@ DOMAIN-SUFFIX,fiotolia.com
 DOMAIN-SUFFIX,fire-emblem-heroes.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,firebase.com
-DOMAIN,firebase.google.com
+DOMAIN-SUFFIX,firebase.dev
+DOMAIN-SUFFIX,firebase.google.com
 DOMAIN,firebase.googleapis.com
 DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN,firebaseappcheck.googleapis.com
+DOMAIN,firebaseappdistribution.googleapis.com
+DOMAIN,firebaseapptesters.googleapis.com
 DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
 DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
 DOMAIN,firebasedynamiclinks.googleapis.com
@@ -9014,6 +9018,7 @@ DOMAIN,firebaselogging.googleapis.com
 DOMAIN,firebaseperusertopics-pa.googleapis.com
 DOMAIN,firebaseremoteconfig.googleapis.com
 DOMAIN-SUFFIX,fireemblemawakening.com
+DOMAIN-SUFFIX,firefox-portal-detection.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefox.hu
 DOMAIN-SUFFIX,firefoxtweetmachine.com
@@ -9092,6 +9097,7 @@ DOMAIN-SUFFIX,floorp.app
 DOMAIN-SUFFIX,floppy-tits.com
 DOMAIN-SUFFIX,flow.dev
 DOMAIN-SUFFIX,flow.google
+DOMAIN-SUFFIX,flow.google.com
 DOMAIN-SUFFIX,flow.org
 DOMAIN-SUFFIX,flowfront.com
 DOMAIN-SUFFIX,flowfront.net
@@ -9396,6 +9402,7 @@ DOMAIN-SUFFIX,freebigmovies.com
 DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,freebs.com
 DOMAIN-SUFFIX,freebsd.org
+DOMAIN-SUFFIX,freebuff.com
 DOMAIN-SUFFIX,freecamsfan.com
 DOMAIN-SUFFIX,freecartoons.biz
 DOMAIN-SUFFIX,freechatnow.com
@@ -16636,6 +16643,7 @@ DOMAIN-SUFFIX,norsk.mobi
 DOMAIN-SUFFIX,norton.com
 DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
 DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,notebook.google
 DOMAIN-SUFFIX,notebook.google.com
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN-SUFFIX,notebooklm.google
@@ -21863,6 +21871,7 @@ DOMAIN-SUFFIX,tex-talk.net
 DOMAIN-SUFFIX,texttobuy.org
 DOMAIN-SUFFIX,texture.com
 DOMAIN,tf-feedback.itunes.apple.com
+DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,tferwq.com
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,tfsallin.net

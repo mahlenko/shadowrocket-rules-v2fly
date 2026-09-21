@@ -1,10 +1,10 @@
 # NAME: CONNECTIVITY-CHECK
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-09 06:55:28
-# DOMAIN-SUFFIX: 10
+# UPDATED: 2026-09-21 08:48:03
+# DOMAIN-SUFFIX: 11
 # DOMAIN: 17
-# TOTAL: 27
+# TOTAL: 28
 DOMAIN-SUFFIX,captive.apple.com
 DOMAIN,conn1.oppomobile.com
 DOMAIN,conn2.oppomobile.com
@@ -17,6 +17,7 @@ DOMAIN,connectivitycheck.platform.hihonorcloud.com
 DOMAIN-SUFFIX,cp.cloudflare.com
 DOMAIN-SUFFIX,detectportal.firefox.com
 DOMAIN,edge-http.microsoft.com
+DOMAIN-SUFFIX,firefox-portal-detection.com
 DOMAIN-SUFFIX,ipv6check-http.steamserver.net
 DOMAIN-SUFFIX,ipv6check-udp.steamserver.net
 DOMAIN-SUFFIX,kuketz.de

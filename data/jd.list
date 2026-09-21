@@ -1,9 +1,9 @@
 # NAME: JD
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-22 05:55:36
-# DOMAIN-SUFFIX: 243
-# TOTAL: 243
+# UPDATED: 2026-09-21 08:48:04
+# DOMAIN-SUFFIX: 255
+# TOTAL: 255
 DOMAIN-SUFFIX,1huizhan.com
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,300hu.com
@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,360buy.com.cn
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,360buyinternational.com
 DOMAIN-SUFFIX,360top.com
+DOMAIN-SUFFIX,51epei.com
+DOMAIN-SUFFIX,51yipei.com
 DOMAIN-SUFFIX,7fresh.com
 DOMAIN-SUFFIX,ads-union.jd.com
 DOMAIN-SUFFIX,ads.union.jd.com
@@ -100,6 +102,7 @@ DOMAIN-SUFFIX,cloudzhongshan.com
 DOMAIN-SUFFIX,cloudzhuhai.com
 DOMAIN-SUFFIX,cps.360buy.com
 DOMAIN-SUFFIX,dao123.com
+DOMAIN-SUFFIX,dd-advisor.com
 DOMAIN-SUFFIX,duiou.com.cn
 DOMAIN-SUFFIX,duolabao.com
 DOMAIN-SUFFIX,gia.jd.com
@@ -154,6 +157,7 @@ DOMAIN-SUFFIX,jd.hk
 DOMAIN-SUFFIX,jd.id
 DOMAIN-SUFFIX,jd.ru
 DOMAIN-SUFFIX,jd.shop
+DOMAIN-SUFFIX,jdallianz.com
 DOMAIN-SUFFIX,jdbusiness.com
 DOMAIN-SUFFIX,jdcache.com
 DOMAIN-SUFFIX,jdcdn.com
@@ -199,6 +203,7 @@ DOMAIN-SUFFIX,jdfw1.com
 DOMAIN-SUFFIX,jdgslb.com
 DOMAIN-SUFFIX,jdgslb.net
 DOMAIN-SUFFIX,jdh.com
+DOMAIN-SUFFIX,jdindustry.com
 DOMAIN-SUFFIX,jdjinrong.com
 DOMAIN-SUFFIX,jdl.cn
 DOMAIN-SUFFIX,jdl.com
@@ -209,12 +214,15 @@ DOMAIN-SUFFIX,jdpaydns.com
 DOMAIN-SUFFIX,jdwl.com
 DOMAIN-SUFFIX,jdx.com
 DOMAIN-SUFFIX,jhscm.com
+DOMAIN-SUFFIX,jingbantong.com
 DOMAIN-SUFFIX,jingdong.com
 DOMAIN-SUFFIX,jingdonghealth.cn
 DOMAIN-SUFFIX,jingdongjinrong.com
 DOMAIN-SUFFIX,jingpinhui.com
 DOMAIN-SUFFIX,jingxi.com
+DOMAIN-SUFFIX,jingxiaoling.com
 DOMAIN-SUFFIX,jkcsjd.com
+DOMAIN-SUFFIX,joyai.com
 DOMAIN-SUFFIX,joybuy.com
 DOMAIN-SUFFIX,joybuy.es
 DOMAIN-SUFFIX,jzt.jd.com
@@ -242,8 +250,12 @@ DOMAIN-SUFFIX,wuliujie.cn
 DOMAIN-SUFFIX,wuliujie.com
 DOMAIN-SUFFIX,xianjiqun.com
 DOMAIN-SUFFIX,xjoycity.com
+DOMAIN-SUFFIX,ybscjp.com
 DOMAIN-SUFFIX,yhd.com
 DOMAIN-SUFFIX,yihaodian.com
 DOMAIN-SUFFIX,yihaodianimg.com
 DOMAIN-SUFFIX,yiyaojd.com
 DOMAIN-SUFFIX,yizhitou.com
+DOMAIN-SUFFIX,yunpei.com
+DOMAIN-SUFFIX,yunxiu.com
+DOMAIN-SUFFIX,zhongyouex.com

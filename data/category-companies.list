@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-09-04 07:53:12
-# DOMAIN-SUFFIX: 7749
-# DOMAIN: 959
+# UPDATED: 2026-09-21 08:48:03
+# DOMAIN-SUFFIX: 7755
+# DOMAIN: 960
 # URL-REGEX: 6
-# TOTAL: 8714
+# TOTAL: 8721
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -3408,11 +3408,14 @@ DOMAIN-SUFFIX,findmyipad.com
 DOMAIN-SUFFIX,fiotolia.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,firebase.com
-DOMAIN,firebase.google.com
+DOMAIN-SUFFIX,firebase.dev
+DOMAIN-SUFFIX,firebase.google.com
 DOMAIN,firebase.googleapis.com
 DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN,firebaseappcheck.googleapis.com
+DOMAIN,firebaseappdistribution.googleapis.com
+DOMAIN,firebaseapptesters.googleapis.com
 DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
 DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
 DOMAIN,firebasedynamiclinks.googleapis.com
@@ -3423,6 +3426,7 @@ DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebaselogging.googleapis.com
 DOMAIN,firebaseperusertopics-pa.googleapis.com
 DOMAIN,firebaseremoteconfig.googleapis.com
+DOMAIN-SUFFIX,firefox-portal-detection.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefox.hu
 DOMAIN-SUFFIX,firefoxtweetmachine.com
@@ -3445,6 +3449,7 @@ DOMAIN-SUFFIX,flipshare.com
 DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,flow.dev
 DOMAIN-SUFFIX,flow.google
+DOMAIN-SUFFIX,flow.google.com
 DOMAIN-SUFFIX,flow.org
 DOMAIN-SUFFIX,flowfront.com
 DOMAIN-SUFFIX,flowfront.net
@@ -6094,6 +6099,7 @@ DOMAIN-SUFFIX,nomyne.com
 DOMAIN-SUFFIX,nonlinearnastran.com
 DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
 DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,notebook.google
 DOMAIN-SUFFIX,notebook.google.com
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN-SUFFIX,notebooklm.google
@@ -7454,6 +7460,7 @@ DOMAIN-SUFFIX,terragraph.com
 DOMAIN-SUFFIX,tetrika-school.ru
 DOMAIN-SUFFIX,texture.com
 DOMAIN,tf-feedback.itunes.apple.com
+DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,tfsallin.net
 DOMAIN-SUFFIX,th.bing.com
