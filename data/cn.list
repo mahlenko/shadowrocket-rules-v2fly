@@ -1,11 +1,11 @@
 # NAME: CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-09-21 08:48:03
-# DOMAIN-SUFFIX: 5578
+# UPDATED: 2026-09-22 08:25:41
+# DOMAIN-SUFFIX: 5579
 # DOMAIN: 62
 # URL-REGEX: 3
-# TOTAL: 5643
+# TOTAL: 5644
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -4253,6 +4253,7 @@ DOMAIN-SUFFIX,sinopecgroup.com
 DOMAIN-SUFFIX,sinopecnews.com.cn
 DOMAIN-SUFFIX,sinopecsales.com
 DOMAIN-SUFFIX,sipeed.com
+DOMAIN-SUFFIX,sjfls6.com
 DOMAIN-SUFFIX,sjwyx.com
 DOMAIN-SUFFIX,skillhub.cn
 DOMAIN-SUFFIX,skimit.net
