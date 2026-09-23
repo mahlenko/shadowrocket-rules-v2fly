@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-09-21 08:48:03
+# UPDATED: 2026-09-23 08:27:37
 # DOMAIN-SUFFIX: 7755
-# DOMAIN: 960
+# DOMAIN: 961
 # URL-REGEX: 6
-# TOTAL: 8721
+# TOTAL: 8722
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -2908,6 +2908,7 @@ DOMAIN-SUFFIX,dremonsterbeatsoutlets.com
 DOMAIN-SUFFIX,dreprobeats.com
 DOMAIN-SUFFIX,dreprofy.com
 DOMAIN-SUFFIX,driveawaytaxi.org
+DOMAIN,drivers.amd.com
 DOMAIN-SUFFIX,drnastran.com
 DOMAIN-SUFFIX,drweb-av.de
 DOMAIN-SUFFIX,drweb-av.es

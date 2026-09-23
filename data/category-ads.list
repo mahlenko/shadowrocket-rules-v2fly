@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ADS
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-09-21 08:48:02
-# DOMAIN-SUFFIX: 581
+# UPDATED: 2026-09-23 08:27:37
+# DOMAIN-SUFFIX: 580
 # DOMAIN: 135
 # URL-REGEX: 1
-# TOTAL: 717
+# TOTAL: 716
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN-SUFFIX,2mdn-cn.net
@@ -121,7 +121,6 @@ DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adsensecustomsearchads.com
 DOMAIN-SUFFIX,adsenseformobileapps.com
 DOMAIN-SUFFIX,adservice.google.com
-DOMAIN-SUFFIX,adservice.sigmob.cn
 DOMAIN-SUFFIX,adsfile.qq.com
 DOMAIN-SUFFIX,adsgram.ai
 DOMAIN-SUFFIX,adsh.m.taobao.com
