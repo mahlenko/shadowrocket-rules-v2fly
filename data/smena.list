@@ -1,0 +1,7 @@
+# NAME: SMENA
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-09-26 08:29:25
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
+DOMAIN-SUFFIX,smena.cafe
