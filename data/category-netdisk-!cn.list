@@ -1,10 +1,10 @@
 # NAME: CATEGORY-NETDISK-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 44
+# UPDATED: 2026-10-07 10:05:43
+# DOMAIN-SUFFIX: 48
 # DOMAIN: 2
-# TOTAL: 46
+# TOTAL: 50
 DOMAIN-SUFFIX,1024terabox.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,megaad.nz
+DOMAIN-SUFFIX,megapay.nz
+DOMAIN-SUFFIX,megas4.com
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,mypikpak.net
 DOMAIN-SUFFIX,nephobox.com
@@ -49,5 +52,6 @@ DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,terabox1024.com
 DOMAIN-SUFFIX,teraboxcdn.com
+DOMAIN-SUFFIX,transfer.it
 DOMAIN-SUFFIX,userdrive.org
 DOMAIN-SUFFIX,usersdrive.com
