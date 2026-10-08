@@ -1,11 +1,9 @@
 # NAME: WHATSAPP
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 13
-# TOTAL: 13
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
+# UPDATED: 2026-10-08 10:19:59
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,whatsapp-plus.info
 DOMAIN-SUFFIX,whatsapp-plus.me

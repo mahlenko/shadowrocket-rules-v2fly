@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-07 10:05:44
-# DOMAIN-SUFFIX: 24363
+# UPDATED: 2026-10-08 10:19:58
+# DOMAIN-SUFFIX: 24362
 # DOMAIN: 1417
 # URL-REGEX: 158
-# TOTAL: 25938
+# TOTAL: 25937
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -5000,6 +5000,7 @@ DOMAIN-SUFFIX,cadduct.com
 DOMAIN-SUFFIX,cadmep.com
 DOMAIN-SUFFIX,cadoverlay.com
 DOMAIN-SUFFIX,cadren.com
+DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,cafr.ca
 DOMAIN-SUFFIX,cai21.xyz
 DOMAIN-SUFFIX,caice.com
@@ -10564,8 +10565,6 @@ DOMAIN-SUFFIX,granulate.io
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph.org
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,grapheneos.app
 DOMAIN-SUFFIX,grapheneos.ca
 DOMAIN-SUFFIX,grapheneos.com

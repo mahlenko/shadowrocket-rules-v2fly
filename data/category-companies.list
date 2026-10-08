@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-09-30 09:32:47
-# DOMAIN-SUFFIX: 7758
+# UPDATED: 2026-10-08 10:19:57
+# DOMAIN-SUFFIX: 7757
 # DOMAIN: 963
 # URL-REGEX: 6
-# TOTAL: 8727
+# TOTAL: 8726
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -1929,6 +1929,7 @@ DOMAIN-SUFFIX,cadduct.com
 DOMAIN-SUFFIX,cadmep.com
 DOMAIN-SUFFIX,cadoverlay.com
 DOMAIN-SUFFIX,cadren.com
+DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,caice.com
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,calicolabs.com
@@ -4066,8 +4067,6 @@ DOMAIN-SUFFIX,grafolio.com
 DOMAIN-SUFFIX,granulate.io
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,graphengine.io
 DOMAIN-SUFFIX,gravitytank.com
 DOMAIN-SUFFIX,greenbuildingstudio.com
