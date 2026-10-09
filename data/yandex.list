@@ -1,10 +1,10 @@
 # NAME: YANDEX
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-13 04:57:57
-# DOMAIN-SUFFIX: 117
+# UPDATED: 2026-10-09 10:20:29
+# DOMAIN-SUFFIX: 138
 # DOMAIN: 16
-# TOTAL: 133
+# TOTAL: 154
 DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,adfox.yandex.ru
 DOMAIN,adfstat.yandex.ru
@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
 DOMAIN-SUFFIX,appmetrica.yango.com
 DOMAIN-SUFFIX,berizaryad.ru
+DOMAIN-SUFFIX,beru.ru
+DOMAIN-SUFFIX,bookmate.ru
 DOMAIN-SUFFIX,bs.yandex.ru
 DOMAIN-SUFFIX,cabconnect.org
 DOMAIN-SUFFIX,clck.ru
@@ -33,8 +35,11 @@ DOMAIN-SUFFIX,clck.yandex.ru
 DOMAIN,clck.yango.com
 DOMAIN-SUFFIX,clstorage.net
 DOMAIN-SUFFIX,counter.yandex.ru
+DOMAIN-SUFFIX,delivery-club.ru
 DOMAIN-SUFFIX,driveawaytaxi.org
+DOMAIN-SUFFIX,edadeal.ru
 DOMAIN-SUFFIX,elama.ru
+DOMAIN-SUFFIX,foodfox.ru
 DOMAIN-SUFFIX,gogettaxi.org
 DOMAIN-SUFFIX,goup.ai
 DOMAIN-SUFFIX,hayya.ae
@@ -42,6 +47,7 @@ DOMAIN,informer.yandex.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN,log.strm.yandex.ru
+DOMAIN-SUFFIX,market.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN-SUFFIX,mc.yandex.ru
@@ -56,24 +62,31 @@ DOMAIN,pixel.yandex.com
 DOMAIN-SUFFIX,realtyverif.ru
 DOMAIN,report.ap.yandex-net.ru
 DOMAIN-SUFFIX,rostaxi.org
+DOMAIN-SUFFIX,rutaxi.ru
 DOMAIN-SUFFIX,shedevrum.ai
+DOMAIN-SUFFIX,shedevrum.com
+DOMAIN-SUFFIX,shedevrum.ru
 DOMAIN-SUFFIX,sourcecraft.dev
 DOMAIN-SUFFIX,static-storage.net
 DOMAIN-SUFFIX,support-uber.com
 DOMAIN-SUFFIX,taxiaid.org
 DOMAIN-SUFFIX,taxiguru.org
 DOMAIN-SUFFIX,taxitax.org
+DOMAIN-SUFFIX,thequestion.ru
 DOMAIN-SUFFIX,turbopages.org
+DOMAIN-SUFFIX,vezet.ru
 DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,webvisor.org
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,ya.cc
 DOMAIN-SUFFIX,ya.ru
-DOMAIN-SUFFIX,yabs.yandex.ru
+DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yandex
+DOMAIN-SUFFIX,yandex-ad.cn
 DOMAIN-SUFFIX,yandex-bank.net
 DOMAIN-SUFFIX,yandex-metrica.ru
+DOMAIN-SUFFIX,yandex-team.com
 DOMAIN-SUFFIX,yandex-team.ru
 DOMAIN-SUFFIX,yandex.aero
 DOMAIN-SUFFIX,yandex.asia
@@ -98,22 +111,29 @@ DOMAIN-SUFFIX,yandex.kg
 DOMAIN-SUFFIX,yandex.kz
 DOMAIN-SUFFIX,yandex.lt
 DOMAIN-SUFFIX,yandex.lv
+DOMAIN-SUFFIX,yandex.market
 DOMAIN-SUFFIX,yandex.md
 DOMAIN-SUFFIX,yandex.mobi
 DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,yandex.net.ru
 DOMAIN-SUFFIX,yandex.org
 DOMAIN-SUFFIX,yandex.pl
+DOMAIN-SUFFIX,yandex.pro
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yandex.st
 DOMAIN-SUFFIX,yandex.sx
+DOMAIN-SUFFIX,yandex.taxi
 DOMAIN-SUFFIX,yandex.tj
 DOMAIN-SUFFIX,yandex.tm
 DOMAIN-SUFFIX,yandex.tr
+DOMAIN-SUFFIX,yandex.travel
 DOMAIN-SUFFIX,yandex.ua
 DOMAIN-SUFFIX,yandex.uz
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
+DOMAIN-SUFFIX,yandexdataschool.com
+DOMAIN-SUFFIX,yandexdataschool.ru
 DOMAIN-SUFFIX,yandexgo.com
 DOMAIN-SUFFIX,yandexlyceum.ru
 DOMAIN-SUFFIX,yandexmetrica.com
@@ -137,4 +157,5 @@ DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yastatic-net.ru
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,yccdn.ru
+DOMAIN-SUFFIX,ydb.tech
 DOMAIN-SUFFIX,yndx.net
