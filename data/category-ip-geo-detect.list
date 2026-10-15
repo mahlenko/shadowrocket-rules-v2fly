@@ -1,10 +1,10 @@
 # NAME: CATEGORY-IP-GEO-DETECT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-09-21 08:48:03
-# DOMAIN-SUFFIX: 227
+# UPDATED: 2026-10-15 08:09:38
+# DOMAIN-SUFFIX: 228
 # DOMAIN: 11
-# TOTAL: 238
+# TOTAL: 239
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,2ip.ru
 DOMAIN-SUFFIX,2ip.ua
@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,bgp.he.net
 DOMAIN-SUFFIX,bgp.tools
 DOMAIN-SUFFIX,bigdatacloud.net
 DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,bulkgeoip.com
 DOMAIN-SUFFIX,check-host.net
 DOMAIN,checkip.amazonaws.com
 DOMAIN-SUFFIX,checkip.com.vn

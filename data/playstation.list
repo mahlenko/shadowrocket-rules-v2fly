@@ -1,10 +1,11 @@
 # NAME: PLAYSTATION
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# UPDATED: 2026-10-15 08:09:39
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
 DOMAIN-SUFFIX,playstation
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com

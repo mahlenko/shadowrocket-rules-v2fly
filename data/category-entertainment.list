@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-09-15 08:33:54
-# DOMAIN-SUFFIX: 1852
+# UPDATED: 2026-10-15 08:09:38
+# DOMAIN-SUFFIX: 1853
 # DOMAIN: 283
 # URL-REGEX: 10
-# TOTAL: 2145
+# TOTAL: 2146
 URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
@@ -1343,6 +1343,7 @@ DOMAIN-SUFFIX,playshowtv.com
 DOMAIN-SUFFIX,playstation
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,playvalorant.com
 DOMAIN-SUFFIX,playwarcraft3.com
 DOMAIN-SUFFIX,pluto.tv
