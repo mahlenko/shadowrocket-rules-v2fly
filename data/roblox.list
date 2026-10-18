@@ -1,12 +1,15 @@
 # NAME: ROBLOX
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
+# UPDATED: 2026-10-18 07:55:35
 # DOMAIN-SUFFIX: 44
-# DOMAIN: 4
-# TOTAL: 48
+# DOMAIN: 7
+# TOTAL: 51
 DOMAIN-SUFFIX,blox.com
 DOMAIN,d1unuk07s6td74.cloudfront.net
+DOMAIN,d348twzf7a8p5.cloudfront.net
+DOMAIN,devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
+DOMAIN,doy2mn9upadnk.cloudfront.net
 DOMAIN-SUFFIX,goblocks.com
 DOMAIN-SUFFIX,goblox.com
 DOMAIN-SUFFIX,gooblox.com

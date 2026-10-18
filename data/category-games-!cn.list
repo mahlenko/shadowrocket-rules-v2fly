@@ -1,11 +1,11 @@
 # NAME: CATEGORY-GAMES-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-15 08:09:38
+# UPDATED: 2026-10-18 07:55:34
 # DOMAIN-SUFFIX: 768
-# DOMAIN: 95
+# DOMAIN: 98
 # URL-REGEX: 3
-# TOTAL: 866
+# TOTAL: 869
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,2k.com
 DOMAIN-SUFFIX,2kcoretech.online
@@ -128,6 +128,7 @@ DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,cygames.co.jp
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN,d1unuk07s6td74.cloudfront.net
+DOMAIN,d348twzf7a8p5.cloudfront.net
 DOMAIN-SUFFIX,daoc.net
 DOMAIN-SUFFIX,darkageofcamelot.com
 DOMAIN-SUFFIX,darkness-risen.com
@@ -137,6 +138,7 @@ DOMAIN-SUFFIX,dawngatechronicles.com
 DOMAIN-SUFFIX,dayz.com
 DOMAIN-SUFFIX,deadspacegame.com
 DOMAIN-SUFFIX,demonware.net
+DOMAIN,devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 DOMAIN-SUFFIX,diablo.com
 DOMAIN-SUFFIX,diablo3.com
 DOMAIN-SUFFIX,diablo4.com
@@ -158,6 +160,7 @@ DOMAIN-SUFFIX,doom.com
 DOMAIN-SUFFIX,dota2.com
 DOMAIN-SUFFIX,dota2.com.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
+DOMAIN,doy2mn9upadnk.cloudfront.net
 DOMAIN-SUFFIX,dragonage.com
 DOMAIN-SUFFIX,dragonagekeep.com
 DOMAIN-SUFFIX,dragonagemovie.com

@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-15 08:09:38
+# UPDATED: 2026-10-18 07:55:34
 # DOMAIN-SUFFIX: 1853
-# DOMAIN: 283
+# DOMAIN: 286
 # URL-REGEX: 10
-# TOTAL: 2146
+# TOTAL: 2149
 URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
@@ -349,6 +349,7 @@ DOMAIN,d2v9yioq9zuuq2.cloudfront.net
 DOMAIN,d2vjef5jvl6bfs.cloudfront.net
 DOMAIN,d2xmjdvx03ij56.cloudfront.net
 DOMAIN,d31dormfno8pk4.cloudfront.net
+DOMAIN,d348twzf7a8p5.cloudfront.net
 DOMAIN,d36nr0u3xmc4mm.cloudfront.net
 DOMAIN,d3aqoihi2n8ty8.cloudfront.net
 DOMAIN,d3c27h4odz752x.cloudfront.net
@@ -387,6 +388,7 @@ DOMAIN-SUFFIX,demonware.net
 DOMAIN-SUFFIX,denfaminicogamer.jp
 DOMAIN-SUFFIX,dengekionline.com
 DOMAIN-SUFFIX,detpress.com
+DOMAIN,devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,deviantart.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
@@ -525,6 +527,7 @@ DOMAIN-SUFFIX,dota2.com
 DOMAIN-SUFFIX,dota2.com.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN,downloaddispatch.itunes.apple.com
+DOMAIN,doy2mn9upadnk.cloudfront.net
 DOMAIN,dqd0jw5gvbchn.cloudfront.net
 DOMAIN,dqrpb9wgowsf5.cloudfront.net
 DOMAIN-SUFFIX,dragonage.com

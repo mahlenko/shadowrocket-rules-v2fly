@@ -1,11 +1,11 @@
 # NAME: PRIVATE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
+# UPDATED: 2026-10-18 07:55:35
 # DOMAIN-SUFFIX: 118
-# DOMAIN: 12
+# DOMAIN: 14
 # URL-REGEX: 1
-# TOTAL: 131
+# TOTAL: 133
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,10.in-addr.arpa
 DOMAIN-SUFFIX,100.100.in-addr.arpa
@@ -118,6 +118,8 @@ DOMAIN-SUFFIX,localdomain
 DOMAIN-SUFFIX,localhost
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 DOMAIN-SUFFIX,localhost.sec.qq.com
+DOMAIN,localhost.weixin.qq.com
+DOMAIN,localhost.work.weixin.qq.com
 DOMAIN,miwifi.com
 DOMAIN-SUFFIX,my.router
 DOMAIN,oasisauth.h3c.com

@@ -1,10 +1,10 @@
 # NAME: CATEGORY-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-15 08:09:39
-# DOMAIN-SUFFIX: 1851
+# UPDATED: 2026-10-18 07:55:34
+# DOMAIN-SUFFIX: 1864
 # DOMAIN: 234
-# TOTAL: 2085
+# TOTAL: 2098
 DOMAIN-SUFFIX,1917live.red
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
@@ -226,15 +226,24 @@ DOMAIN-SUFFIX,beeline.ru
 DOMAIN-SUFFIX,beeline.tv
 DOMAIN-SUFFIX,beesbfl.ru
 DOMAIN-SUFFIX,beescrm.ru
+DOMAIN-SUFFIX,beget.app
+DOMAIN-SUFFIX,beget.cloud
 DOMAIN-SUFFIX,beget.com
+DOMAIN-SUFFIX,beget.de
+DOMAIN-SUFFIX,beget.hosting
+DOMAIN-SUFFIX,beget.pro
 DOMAIN-SUFFIX,beget.ru
+DOMAIN-SUFFIX,beget.tech
+DOMAIN-SUFFIX,begetcdn.cloud
 DOMAIN,beginners-adv.ozon.ru
 DOMAIN-SUFFIX,belgorod.ru
 DOMAIN-SUFFIX,berizaryad.ru
 DOMAIN-SUFFIX,beru.ru
+DOMAIN-SUFFIX,beserver.ru
 DOMAIN-SUFFIX,best2pay.net
 DOMAIN-SUFFIX,betboom.ru
 DOMAIN-SUFFIX,bfa.ru
+DOMAIN-SUFFIX,bget.ru
 DOMAIN,bilet.nspk.ru
 DOMAIN-SUFFIX,bimsaas.ru
 DOMAIN-SUFFIX,bir.ru
@@ -1508,6 +1517,7 @@ DOMAIN-SUFFIX,spb.ru
 DOMAIN-SUFFIX,spbexchange.ru
 DOMAIN-SUFFIX,spboms.ru
 DOMAIN-SUFFIX,sportmail.ru
+DOMAIN-SUFFIX,sprut.io
 DOMAIN-SUFFIX,sputnikglobe.com
 DOMAIN-SUFFIX,sputnikimages.com
 DOMAIN-SUFFIX,sputnikmediabank.com
@@ -1610,6 +1620,8 @@ DOMAIN-SUFFIX,time-messenger.ru
 DOMAIN-SUFFIX,timerbank.ru
 DOMAIN-SUFFIX,timeweb.cloud
 DOMAIN-SUFFIX,timeweb.com
+DOMAIN-SUFFIX,timeweb.tech
+DOMAIN-SUFFIX,timewebcloud.kz
 DOMAIN-SUFFIX,tinkoff-edu.ru
 DOMAIN-SUFFIX,tinkoff-group.com
 DOMAIN-SUFFIX,tinkoff.ai
@@ -1960,6 +1972,7 @@ DOMAIN-SUFFIX,xn--80aswg
 DOMAIN-SUFFIX,xn--90ab.com
 DOMAIN-SUFFIX,xn--90ab2c.xn--p1ai
 DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai
+DOMAIN-SUFFIX,xn--90aefb9d.xn--p1ai
 DOMAIN-SUFFIX,xn--90aifd0az.shop
 DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
 DOMAIN-SUFFIX,xn--90aivcdt6dxbc.xn--p1ai

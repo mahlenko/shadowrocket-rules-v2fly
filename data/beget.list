@@ -1,8 +1,19 @@
 # NAME: BEGET
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2026-10-18 07:55:34
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
+DOMAIN-SUFFIX,beget.app
+DOMAIN-SUFFIX,beget.cloud
 DOMAIN-SUFFIX,beget.com
+DOMAIN-SUFFIX,beget.de
+DOMAIN-SUFFIX,beget.hosting
+DOMAIN-SUFFIX,beget.pro
 DOMAIN-SUFFIX,beget.ru
+DOMAIN-SUFFIX,beget.tech
+DOMAIN-SUFFIX,begetcdn.cloud
+DOMAIN-SUFFIX,beserver.ru
+DOMAIN-SUFFIX,bget.ru
+DOMAIN-SUFFIX,sprut.io
+DOMAIN-SUFFIX,xn--90aefb9d.xn--p1ai

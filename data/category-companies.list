@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-15 08:09:38
-# DOMAIN-SUFFIX: 7783
+# UPDATED: 2026-10-18 07:55:34
+# DOMAIN-SUFFIX: 7796
 # DOMAIN: 963
 # URL-REGEX: 6
-# TOTAL: 8752
+# TOTAL: 8765
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -1685,8 +1685,15 @@ DOMAIN-SUFFIX,beatthatquote.com
 DOMAIN-SUFFIX,beddit.tv
 DOMAIN-SUFFIX,beesbfl.ru
 DOMAIN-SUFFIX,beescrm.ru
+DOMAIN-SUFFIX,beget.app
+DOMAIN-SUFFIX,beget.cloud
 DOMAIN-SUFFIX,beget.com
+DOMAIN-SUFFIX,beget.de
+DOMAIN-SUFFIX,beget.hosting
+DOMAIN-SUFFIX,beget.pro
 DOMAIN-SUFFIX,beget.ru
+DOMAIN-SUFFIX,beget.tech
+DOMAIN-SUFFIX,begetcdn.cloud
 DOMAIN-SUFFIX,begin-trade.com
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,behindthescreenz.com
@@ -1694,6 +1701,7 @@ DOMAIN-SUFFIX,bellsouth.net
 DOMAIN-SUFFIX,berizaryad.ru
 DOMAIN-SUFFIX,berkanawireless.com
 DOMAIN-SUFFIX,beru.ru
+DOMAIN-SUFFIX,beserver.ru
 DOMAIN-SUFFIX,best4bim.com
 DOMAIN-SUFFIX,bestbeats4u.com
 DOMAIN-SUFFIX,bestbim.com
@@ -1707,6 +1715,7 @@ DOMAIN-SUFFIX,bethsoft.com
 DOMAIN-SUFFIX,betterbim.com
 DOMAIN-SUFFIX,betterwithautodesk.com
 DOMAIN-SUFFIX,beyondcore.com
+DOMAIN-SUFFIX,bget.ru
 DOMAIN-SUFFIX,bhent.co.kr
 DOMAIN-SUFFIX,biitii.com
 DOMAIN-SUFFIX,bim-360.com
@@ -7287,6 +7296,7 @@ DOMAIN-SUFFIX,sportmail.ru
 DOMAIN-SUFFIX,sportsfacebook.com
 DOMAIN-SUFFIX,sportstream.com
 DOMAIN-SUFFIX,sprinklesapp.com
+DOMAIN-SUFFIX,sprut.io
 DOMAIN-SUFFIX,sptvbroadcast.com
 DOMAIN-SUFFIX,sqlserveronlinux.com
 DOMAIN-SUFFIX,squ1.com
@@ -7526,6 +7536,8 @@ DOMAIN-SUFFIX,timelinestoryteller.com
 DOMAIN-SUFFIX,timestamp.apple.com
 DOMAIN-SUFFIX,timeweb.cloud
 DOMAIN-SUFFIX,timeweb.com
+DOMAIN-SUFFIX,timeweb.tech
+DOMAIN-SUFFIX,timewebcloud.kz
 DOMAIN-SUFFIX,tinkerboxapp.com
 DOMAIN-SUFFIX,tinkercad.com
 DOMAIN-SUFFIX,tinkerentertainment.com
@@ -8244,6 +8256,7 @@ DOMAIN-SUFFIX,xn--80aqcf7a6do.com
 DOMAIN-SUFFIX,xn--80arpq.xn--p1ai
 DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
 DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai
+DOMAIN-SUFFIX,xn--90aefb9d.xn--p1ai
 DOMAIN-SUFFIX,xn--9kr7l.com
 DOMAIN-SUFFIX,xn--9trs65b.com
 DOMAIN-SUFFIX,xn--cckwcxetd
