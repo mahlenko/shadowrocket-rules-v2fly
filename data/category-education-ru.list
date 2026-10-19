@@ -1,12 +1,13 @@
 # NAME: CATEGORY-EDUCATION-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-30 05:49:44
-# DOMAIN-SUFFIX: 19
-# TOTAL: 19
+# UPDATED: 2026-10-19 08:42:22
+# DOMAIN-SUFFIX: 20
+# TOTAL: 20
 DOMAIN-SUFFIX,altaiobr04.ru
 DOMAIN-SUFFIX,chelyabinsk-sgo-edu-74.ru
 DOMAIN-SUFFIX,gramotei.online
+DOMAIN-SUFFIX,hse.ru
 DOMAIN-SUFFIX,kakpishem.ru
 DOMAIN-SUFFIX,kartaslov.ru
 DOMAIN-SUFFIX,mel.fm

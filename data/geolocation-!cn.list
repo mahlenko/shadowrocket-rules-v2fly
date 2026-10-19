@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-18 07:55:35
-# DOMAIN-SUFFIX: 24471
-# DOMAIN: 1415
+# UPDATED: 2026-10-19 08:42:22
+# DOMAIN-SUFFIX: 24474
+# DOMAIN: 1416
 # URL-REGEX: 158
-# TOTAL: 26044
+# TOTAL: 26048
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -2643,7 +2643,6 @@ DOMAIN-SUFFIX,asminternational.org
 DOMAIN-SUFFIX,asmr.gay
 DOMAIN-SUFFIX,asmrbuluo.com
 DOMAIN-SUFFIX,asn-online.org
-DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,asp-cc.com
 DOMAIN-SUFFIX,asp.net
 DOMAIN-SUFFIX,aspbjournals.org
@@ -9135,8 +9134,6 @@ DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickr.net
-DOMAIN,flightsimulator.azureedge.net
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,flipfap.com
 DOMAIN-SUFFIX,flipnotestudio.com
 DOMAIN-SUFFIX,flipshare.com
@@ -13668,6 +13665,9 @@ DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,koubaibu.jp
 DOMAIN-SUFFIX,koukoku.jp
 DOMAIN-SUFFIX,kouwobb.com
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,kp.yandex.net
 DOMAIN-SUFFIX,kpacg.com
 DOMAIN-SUFFIX,kphimsex.net
 DOMAIN-SUFFIX,kpht85.com
@@ -14338,6 +14338,7 @@ DOMAIN-SUFFIX,magentomobile.com
 DOMAIN-SUFFIX,magestic.com
 DOMAIN-SUFFIX,magicalmirai.com
 DOMAIN-SUFFIX,magicmovies.com
+DOMAIN-SUFFIX,magnific.com
 DOMAIN-SUFFIX,magnoliaav.com.cn
 DOMAIN-SUFFIX,mahajantech.com
 DOMAIN-SUFFIX,maidonanews.jp
@@ -15787,6 +15788,7 @@ DOMAIN,mtalk-staging.google.com
 DOMAIN,mtalk.google.com
 DOMAIN,mtalk4.google.com
 DOMAIN-SUFFIX,mtao.fun
+DOMAIN-SUFFIX,mts-link.ru
 DOMAIN-SUFFIX,mts-ws.net
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mtsbank.ru
@@ -18616,6 +18618,7 @@ DOMAIN-SUFFIX,postgresql.org
 DOMAIN-SUFFIX,postimages.org
 DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,postini.com
+DOMAIN-SUFFIX,postman.com
 DOMAIN-SUFFIX,posty.kr
 DOMAIN-SUFFIX,postyourgirls.ws
 DOMAIN-SUFFIX,potenza.jp
@@ -18899,6 +18902,7 @@ DOMAIN-SUFFIX,pussyspace.com
 DOMAIN-SUFFIX,pussyspace.net
 DOMAIN-SUFFIX,putinho.net
 DOMAIN-SUFFIX,putty.org
+DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,pvp.net
 DOMAIN-SUFFIX,pvp.tv
 DOMAIN,pvr-hamivideo.cdn.hinet.net

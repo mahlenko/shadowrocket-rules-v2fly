@@ -1,11 +1,11 @@
 # NAME: CATEGORY-GAMES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-18 07:55:34
-# DOMAIN-SUFFIX: 1030
-# DOMAIN: 100
+# UPDATED: 2026-10-19 08:42:22
+# DOMAIN-SUFFIX: 1028
+# DOMAIN: 99
 # URL-REGEX: 4
-# TOTAL: 1134
+# TOTAL: 1131
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,17173cdn.com
@@ -91,7 +91,6 @@ DOMAIN-SUFFIX,armaplatform.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,artstationmedia.com
 DOMAIN-SUFFIX,artstorm.com
-DOMAIN-SUFFIX,asobostudio.com
 DOMAIN,assets.ppy.sh
 DOMAIN-SUFFIX,astral-vector.com
 DOMAIN,avatargarenanow-a.akamaihd.net
@@ -308,8 +307,6 @@ DOMAIN-SUFFIX,fire-emblem-heroes.com
 DOMAIN-SUFFIX,fireemblemawakening.com
 DOMAIN-SUFFIX,firesidegatherings.com
 DOMAIN-SUFFIX,fitgirl-repacks.site
-DOMAIN,flightsimulator.azureedge.net
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,flipnotestudio.com
 DOMAIN-SUFFIX,forevernine.com
 DOMAIN-SUFFIX,forgecdn.net

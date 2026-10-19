@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-18 07:55:34
-# DOMAIN-SUFFIX: 7796
-# DOMAIN: 963
+# UPDATED: 2026-10-19 08:42:22
+# DOMAIN-SUFFIX: 7797
+# DOMAIN: 964
 # URL-REGEX: 6
-# TOTAL: 8765
+# TOTAL: 8767
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -1027,7 +1027,6 @@ DOMAIN-SUFFIX,as-hp.ca
 DOMAIN-SUFFIX,asfiovnxocqpcry.com.cn
 DOMAIN-SUFFIX,askfacebook.net
 DOMAIN-SUFFIX,askfacebook.org
-DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,asp-cc.com
 DOMAIN-SUFFIX,asp.net
 DOMAIN-SUFFIX,aspnetcdn.com
@@ -3458,8 +3457,6 @@ DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickr.net
-DOMAIN,flightsimulator.azureedge.net
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,flipshare.com
 DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,flow.dev
@@ -5240,6 +5237,9 @@ DOMAIN-SUFFIX,kobbeatssbydredk.com
 DOMAIN-SUFFIX,koddobra.ru
 DOMAIN-SUFFIX,kopfhorergunstigshop.com
 DOMAIN-SUFFIX,koukoku.jp
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,kp.yandex.net
 DOMAIN-SUFFIX,kpinsurances.com
 DOMAIN-SUFFIX,krosspictures.com
 DOMAIN-SUFFIX,krux.com
@@ -5956,6 +5956,7 @@ DOMAIN,mtalk-dev.google.com
 DOMAIN,mtalk-staging.google.com
 DOMAIN,mtalk.google.com
 DOMAIN,mtalk4.google.com
+DOMAIN-SUFFIX,mts-link.ru
 DOMAIN-SUFFIX,mts-ws.net
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mtsbank.ru
@@ -6614,6 +6615,7 @@ DOMAIN-SUFFIX,publishproxy.com
 DOMAIN-SUFFIX,pullstring.net
 DOMAIN,push-apple.com.akadns.net
 DOMAIN-SUFFIX,pushgrow.io
+DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,pwabuilder.com
 DOMAIN-SUFFIX,pxt.io
 DOMAIN-SUFFIX,pyrobot.org

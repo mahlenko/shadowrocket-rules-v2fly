@@ -1,9 +1,10 @@
 # NAME: CATEGORY-ENTERTAINMENT-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-04 05:54:20
-# DOMAIN-SUFFIX: 31
-# TOTAL: 31
+# UPDATED: 2026-10-19 08:42:22
+# DOMAIN-SUFFIX: 32
+# DOMAIN: 2
+# TOTAL: 34
 DOMAIN-SUFFIX,24h.tv
 DOMAIN-SUFFIX,amediateka.ru
 DOMAIN-SUFFIX,beeline.tv
@@ -15,6 +16,9 @@ DOMAIN-SUFFIX,kinescopecdn.net
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinorium.com
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,kp.yandex.net
 DOMAIN-SUFFIX,more.tv
 DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,okko.tv

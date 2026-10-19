@@ -1,11 +1,10 @@
 # NAME: XBOX
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 43
-# DOMAIN: 2
-# TOTAL: 45
-DOMAIN-SUFFIX,asobostudio.com
+# UPDATED: 2026-10-19 08:42:22
+# DOMAIN-SUFFIX: 41
+# DOMAIN: 1
+# TOTAL: 42
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,bethesdagamestudios.com
@@ -13,8 +12,6 @@ DOMAIN-SUFFIX,bethsoft.com
 DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,doom.com
 DOMAIN-SUFFIX,elderscrolls.com
-DOMAIN,flightsimulator.azureedge.net
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,forza.net
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com

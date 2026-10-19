@@ -1,10 +1,11 @@
 # NAME: CATEGORY-FORUMS-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-30 05:49:44
-# DOMAIN-SUFFIX: 10
-# TOTAL: 10
+# UPDATED: 2026-10-19 08:42:22
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
 DOMAIN-SUFFIX,dtf.ru
+DOMAIN-SUFFIX,joyreactor.cc
 DOMAIN-SUFFIX,opennet.dev
 DOMAIN-SUFFIX,opennet.ru
 DOMAIN-SUFFIX,pikabu.ru

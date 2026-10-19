@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-18 07:55:34
+# UPDATED: 2026-10-19 08:42:22
 # DOMAIN-SUFFIX: 1853
-# DOMAIN: 286
+# DOMAIN: 287
 # URL-REGEX: 10
-# TOTAL: 2149
+# TOTAL: 2150
 URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
@@ -148,7 +148,6 @@ DOMAIN-SUFFIX,armaplatform.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,artstationmedia.com
 DOMAIN-SUFFIX,artstorm.com
-DOMAIN-SUFFIX,asobostudio.com
 DOMAIN,assets.ppy.sh
 DOMAIN-SUFFIX,att.tv
 DOMAIN-SUFFIX,atttvnow.com
@@ -636,8 +635,6 @@ DOMAIN-SUFFIX,fireemblemawakening.com
 DOMAIN-SUFFIX,fireside.fm
 DOMAIN-SUFFIX,firesidegatherings.com
 DOMAIN-SUFFIX,fitgirl-repacks.site
-DOMAIN,flightsimulator.azureedge.net
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,flipnotestudio.com
 DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,formula1.com
@@ -969,6 +966,9 @@ DOMAIN-SUFFIX,konamiopen.jp
 DOMAIN-SUFFIX,konamisportsclub.jp
 DOMAIN-SUFFIX,konamistyle.jp
 DOMAIN-SUFFIX,koubaibu.jp
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,kp.yandex.net
 DOMAIN-SUFFIX,kpacg.com
 DOMAIN-SUFFIX,kraftonde.com
 DOMAIN-SUFFIX,kyurem.com
@@ -1402,6 +1402,7 @@ DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,ptzwx.com
 DOMAIN-SUFFIX,pubg.com
 DOMAIN,pubg1.battleye.com
+DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,pvp.net
 DOMAIN-SUFFIX,pvp.tv
 DOMAIN,pvr-hamivideo.cdn.hinet.net

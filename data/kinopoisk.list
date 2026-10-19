@@ -1,8 +1,12 @@
 # NAME: KINOPOISK
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2026-10-19 08:42:22
+# DOMAIN-SUFFIX: 3
+# DOMAIN: 2
+# TOTAL: 5
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,kp.yandex.net

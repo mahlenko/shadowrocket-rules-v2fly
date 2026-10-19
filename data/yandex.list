@@ -1,10 +1,10 @@
 # NAME: YANDEX
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-09 10:20:29
-# DOMAIN-SUFFIX: 138
-# DOMAIN: 16
-# TOTAL: 154
+# UPDATED: 2026-10-19 08:42:22
+# DOMAIN-SUFFIX: 139
+# DOMAIN: 18
+# TOTAL: 157
 DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,adfox.yandex.ru
 DOMAIN,adfstat.yandex.ru
@@ -46,6 +46,9 @@ DOMAIN-SUFFIX,hayya.ae
 DOMAIN,informer.yandex.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,kp.yandex.net
 DOMAIN,log.strm.yandex.ru
 DOMAIN-SUFFIX,market.ru
 DOMAIN,mc.yandex.com

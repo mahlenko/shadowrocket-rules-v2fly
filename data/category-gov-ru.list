@@ -1,9 +1,9 @@
 # NAME: CATEGORY-GOV-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-30 05:49:44
-# DOMAIN-SUFFIX: 142
-# TOTAL: 142
+# UPDATED: 2026-10-19 08:42:22
+# DOMAIN-SUFFIX: 145
+# TOTAL: 145
 DOMAIN-SUFFIX,adygeya.ru
 DOMAIN-SUFFIX,altai.ru
 DOMAIN-SUFFIX,amur.ru
@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,mgfoms.ru
 DOMAIN-SUFFIX,mil.ru
 DOMAIN-SUFFIX,mordovia.ru
 DOMAIN-SUFFIX,mos.ru
+DOMAIN-SUFFIX,mospat.ru
 DOMAIN-SUFFIX,mosreg.ru
 DOMAIN-SUFFIX,murmansk.ru
 DOMAIN-SUFFIX,nalchik.ru
@@ -89,12 +90,14 @@ DOMAIN-SUFFIX,omsk.ru
 DOMAIN-SUFFIX,ooc-school.ru
 DOMAIN-SUFFIX,orb.ru
 DOMAIN-SUFFIX,oryol.ru
+DOMAIN-SUFFIX,patriarchia.ru
 DOMAIN-SUFFIX,penza.ru
 DOMAIN-SUFFIX,perm.ru
 DOMAIN-SUFFIX,prim-edu.ru
 DOMAIN-SUFFIX,psk.ru
 DOMAIN-SUFFIX,pskov.ru
 DOMAIN-SUFFIX,ptz.ru
+DOMAIN-SUFFIX,regionvideo.ru
 DOMAIN-SUFFIX,rkomi.ru
 DOMAIN-SUFFIX,rnd.ru
 DOMAIN-SUFFIX,ro-edu.ru
