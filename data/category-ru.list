@@ -1,10 +1,10 @@
 # NAME: CATEGORY-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-19 08:42:22
-# DOMAIN-SUFFIX: 1897
+# UPDATED: 2026-10-20 08:23:06
+# DOMAIN-SUFFIX: 1910
 # DOMAIN: 236
-# TOTAL: 2133
+# TOTAL: 2146
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1c-bitrix.ru
 DOMAIN,1l-hit.mail.ru
@@ -644,6 +644,9 @@ DOMAIN-SUFFIX,haicomgroup.ru
 DOMAIN-SUFFIX,halvacard.ru
 DOMAIN-SUFFIX,hardware.ru
 DOMAIN-SUFFIX,hayya.ae
+DOMAIN-SUFFIX,hello-doc.ru
+DOMAIN-SUFFIX,hellodoc.app
+DOMAIN-SUFFIX,hellodoc.ru
 DOMAIN-SUFFIX,hh.by
 DOMAIN-SUFFIX,hh.kz
 DOMAIN-SUFFIX,hh.ru
@@ -924,11 +927,16 @@ DOMAIN-SUFFIX,mcbank.ru
 DOMAIN-SUFFIX,mcc250.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcs.st
 DOMAIN,mdr.ksn.kaspersky-labs.com
+DOMAIN-SUFFIX,medflex.ru
 DOMAIN-SUFFIX,mediumquality.ru
+DOMAIN-SUFFIX,medlock.ru
+DOMAIN-SUFFIX,medrocket.me
+DOMAIN-SUFFIX,medrocket.ru
 DOMAIN-SUFFIX,medsi-premium.ru
 DOMAIN-SUFFIX,medsi.com
 DOMAIN-SUFFIX,medsi.pro
 DOMAIN-SUFFIX,medsi.ru
+DOMAIN-SUFFIX,medtochka.ru
 DOMAIN-SUFFIX,megafon.com
 DOMAIN-SUFFIX,megafon.ru
 DOMAIN-SUFFIX,megafonpro.ru
@@ -1215,11 +1223,14 @@ DOMAIN-SUFFIX,primbank.ru
 DOMAIN-SUFFIX,priobye.ru
 DOMAIN-SUFFIX,priovtb.com
 DOMAIN-SUFFIX,private-banking.ru
+DOMAIN-SUFFIX,probolezny.ru
 DOMAIN-SUFFIX,prod-my.games
 DOMAIN-SUFFIX,prodcontest.com
+DOMAIN-SUFFIX,prodoctorov.ru
 DOMAIN-SUFFIX,prodota.ru
 DOMAIN,prodvizhenie-adv.ozon.ru
 DOMAIN-SUFFIX,promodj.com
+DOMAIN-SUFFIX,protabletky.ru
 DOMAIN-SUFFIX,prvbank.ru
 DOMAIN-SUFFIX,psb-ocenka.ru
 DOMAIN-SUFFIX,psb.ru
@@ -1640,6 +1651,8 @@ DOMAIN-SUFFIX,tehnodom.com
 DOMAIN-SUFFIX,tele2.ru
 DOMAIN-SUFFIX,telega.info
 DOMAIN-SUFFIX,telega.me
+DOMAIN-SUFFIX,terratraf.com
+DOMAIN-SUFFIX,terratraf.io
 DOMAIN-SUFFIX,tetrika-school.ru
 DOMAIN-SUFFIX,thbank.ru
 DOMAIN-SUFFIX,thequestion.ru
