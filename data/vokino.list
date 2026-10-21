@@ -1,9 +1,9 @@
 # NAME: VOKINO
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-19 08:42:22
-# DOMAIN-SUFFIX: 23
-# TOTAL: 23
+# UPDATED: 2026-10-21 08:26:38
+# DOMAIN-SUFFIX: 24
+# TOTAL: 24
 DOMAIN-SUFFIX,85b6b2.ws
 DOMAIN-SUFFIX,ashdi.vip
 DOMAIN-SUFFIX,cdn2cdn.com
@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,showvid.ws
 DOMAIN-SUFFIX,srvkp.com
 DOMAIN-SUFFIX,stream-balancer-allo-1.live
 DOMAIN-SUFFIX,stream-balancer-allo-1.site
+DOMAIN-SUFFIX,ukrtelcdn.net
 DOMAIN-SUFFIX,videobase.biz
 DOMAIN-SUFFIX,vkvideo.cloud
 DOMAIN-SUFFIX,voidboost.one

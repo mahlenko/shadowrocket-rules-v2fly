@@ -1,10 +1,10 @@
 # NAME: CATEGORY-ECOMMERCE-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-04 05:54:20
-# DOMAIN-SUFFIX: 165
+# UPDATED: 2026-10-21 08:26:37
+# DOMAIN-SUFFIX: 167
 # DOMAIN: 34
-# TOTAL: 199
+# TOTAL: 201
 DOMAIN,ad.ozone.ru
 DOMAIN,ads-gate.wildberries.ru
 DOMAIN,ads-media.wildberries.ru
@@ -23,8 +23,10 @@ DOMAIN,analytics.wildberries.ru
 DOMAIN-SUFFIX,apiauto.ru
 DOMAIN-SUFFIX,auto.ru
 DOMAIN-SUFFIX,autoru.me
+DOMAIN-SUFFIX,avito.com
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,avito.tech
 DOMAIN-SUFFIX,avto.ru
 DOMAIN,beginners-adv.ozon.ru
 DOMAIN-SUFFIX,cian.ru

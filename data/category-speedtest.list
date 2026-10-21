@@ -1,11 +1,11 @@
 # NAME: CATEGORY-SPEEDTEST
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-08 10:19:58
-# DOMAIN-SUFFIX: 75
+# UPDATED: 2026-10-21 08:26:37
+# DOMAIN-SUFFIX: 77
 # DOMAIN: 2
 # URL-REGEX: 1
-# TOTAL: 78
+# TOTAL: 80
 URL-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,cellmaps.com
@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,ekahau.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,fastspeedtest.com
 DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
+DOMAIN-SUFFIX,internet.yandex.com
+DOMAIN-SUFFIX,internet.yandex.ru
 DOMAIN-SUFFIX,librespeed.org
 DOMAIN-SUFFIX,linkmeter.net
 DOMAIN-SUFFIX,measurementlab.net
