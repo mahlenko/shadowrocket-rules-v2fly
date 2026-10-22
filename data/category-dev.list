@@ -1,11 +1,11 @@
 # NAME: CATEGORY-DEV
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-19 08:42:22
-# DOMAIN-SUFFIX: 581
+# UPDATED: 2026-10-22 08:28:58
+# DOMAIN-SUFFIX: 586
 # DOMAIN: 89
 # URL-REGEX: 1
-# TOTAL: 671
+# TOTAL: 676
 URL-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
@@ -228,6 +228,7 @@ DOMAIN-SUFFIX,getbootstrap.com
 DOMAIN-SUFFIX,getcomposer.org
 DOMAIN-SUFFIX,getfedora.org
 DOMAIN-SUFFIX,getpaint.net
+DOMAIN-SUFFIX,getsafety.com
 DOMAIN-SUFFIX,getsentry.com
 DOMAIN-SUFFIX,getzola.org
 DOMAIN-SUFFIX,gh.io
@@ -501,6 +502,7 @@ DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pyrobot.org
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,pyup.io
 DOMAIN-SUFFIX,qt-project.org
 DOMAIN-SUFFIX,qt.io
 DOMAIN-SUFFIX,quay.io
@@ -543,6 +545,7 @@ DOMAIN-SUFFIX,ruby-lang.org
 DOMAIN-SUFFIX,rubygems.org
 DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,rustup.rs
+DOMAIN-SUFFIX,safetycli.com
 DOMAIN-SUFFIX,sankie.net
 DOMAIN-SUFFIX,scala-lang.org
 DOMAIN-SUFFIX,scala-sbt.org
@@ -592,6 +595,7 @@ DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,system76.com
 DOMAIN-SUFFIX,talkingkotlin.com
 DOMAIN-SUFFIX,tampermonkey.net
+DOMAIN-SUFFIX,templatemonster.com
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,termux.com
 DOMAIN-SUFFIX,termux.dev
@@ -608,6 +612,7 @@ DOMAIN-SUFFIX,tildacdn.com
 DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,timelinestoryteller.com
 DOMAIN-SUFFIX,timestamp.apple.com
+DOMAIN-SUFFIX,tmimgcdn.com
 DOMAIN-SUFFIX,topcoder.com
 DOMAIN-SUFFIX,ubuntu-touch.io
 DOMAIN-SUFFIX,ubuntu.com

@@ -1,11 +1,12 @@
 # NAME: CATEGORY-ECOMMERCE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-21 08:26:37
-# DOMAIN-SUFFIX: 1283
-# DOMAIN: 38
-# TOTAL: 1321
+# UPDATED: 2026-10-22 08:28:58
+# DOMAIN-SUFFIX: 1291
+# DOMAIN: 39
+# TOTAL: 1330
 DOMAIN-SUFFIX,21centuryaccess.com
+DOMAIN-SUFFIX,24.place
 DOMAIN-SUFFIX,4ebaytraders.com
 DOMAIN-SUFFIX,abb.travel
 DOMAIN-SUFFIX,accomable.com
@@ -312,6 +313,7 @@ DOMAIN-SUFFIX,costcobusinessdelivery.com
 DOMAIN-SUFFIX,coupang.com
 DOMAIN-SUFFIX,coupangcdn.com
 DOMAIN-SUFFIX,cowboom.com
+DOMAIN-SUFFIX,craftifyx.com
 DOMAIN-SUFFIX,craigslist.org
 DOMAIN-SUFFIX,crececonebay.com
 DOMAIN-SUFFIX,creditcardsbay.com
@@ -571,6 +573,8 @@ DOMAIN-SUFFIX,foampositeshoes.com
 DOMAIN-SUFFIX,fout.jp
 DOMAIN-SUFFIX,fragrancebay.com
 DOMAIN-SUFFIX,francemail.com
+DOMAIN-SUFFIX,funko.com
+DOMAIN,funko.my.site.com
 DOMAIN-SUFFIX,funpay.com
 DOMAIN-SUFFIX,funpay.ru
 DOMAIN-SUFFIX,futureshop.ca
@@ -597,6 +601,8 @@ DOMAIN-SUFFIX,ggsel.com
 DOMAIN-SUFFIX,ggsel.net
 DOMAIN-SUFFIX,gittigidiyor.net
 DOMAIN-SUFFIX,gittigidiyorsikayet.com
+DOMAIN-SUFFIX,glitchprod.com
+DOMAIN-SUFFIX,glitchproductions.store
 DOMAIN-SUFFIX,gmossp-sp.jp
 DOMAIN-SUFFIX,goldnikeclub.com
 DOMAIN-SUFFIX,gonike.com
@@ -755,6 +761,7 @@ DOMAIN-SUFFIX,liveauction.com
 DOMAIN-SUFFIX,loveminiso.com.br
 DOMAIN,loyalnost-adv.ozon.ru
 DOMAIN-SUFFIX,magnoliaav.com.cn
+DOMAIN-SUFFIX,makeship.com
 DOMAIN-SUFFIX,marketexecutive.net
 DOMAIN,marketing-info.wildberries.ru
 DOMAIN,marketplace-sentry.wb.ru
@@ -997,6 +1004,7 @@ DOMAIN-SUFFIX,ocourier.ru
 DOMAIN-SUFFIX,onlinegeeksquad.com
 DOMAIN-SUFFIX,onlyjobs.ru
 DOMAIN-SUFFIX,outletnike.com
+DOMAIN-SUFFIX,ownaj.com
 DOMAIN-SUFFIX,ozon-credit.ru
 DOMAIN-SUFFIX,ozon-dostavka.ru
 DOMAIN-SUFFIX,ozon-tech.ru
@@ -1156,7 +1164,6 @@ DOMAIN-SUFFIX,technogym.ru
 DOMAIN-SUFFIX,technogym.su
 DOMAIN-SUFFIX,telebay.com
 DOMAIN-SUFFIX,telesell.com
-DOMAIN-SUFFIX,templatemonster.com
 DOMAIN-SUFFIX,terapeack.com
 DOMAIN-SUFFIX,terapeak.ca
 DOMAIN-SUFFIX,terapeak.cn
@@ -1167,6 +1174,7 @@ DOMAIN-SUFFIX,terapeak.info
 DOMAIN-SUFFIX,teraperk.com
 DOMAIN-SUFFIX,terrapeak.com
 DOMAIN-SUFFIX,texttobuy.org
+DOMAIN-SUFFIX,tgtime.store
 DOMAIN-SUFFIX,thebayuk.com
 DOMAIN-SUFFIX,thedailysnkr.com
 DOMAIN-SUFFIX,theebayshop.com
@@ -1326,3 +1334,4 @@ DOMAIN-SUFFIX,xn--xsq959n.com
 DOMAIN-SUFFIX,xn--yf1at58a.com
 DOMAIN-SUFFIX,xxbay.com
 DOMAIN-SUFFIX,yibei.org
+DOMAIN-SUFFIX,youtooz.com

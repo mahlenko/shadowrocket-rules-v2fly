@@ -1,9 +1,9 @@
 # NAME: CATEGORY-MEDIA-RU-BLOCKED
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 131
-# TOTAL: 131
+# UPDATED: 2026-10-22 08:28:58
+# DOMAIN-SUFFIX: 132
+# TOTAL: 132
 DOMAIN-SUFFIX,24.kg
 DOMAIN-SUFFIX,9tv.co.il
 DOMAIN-SUFFIX,activatica.org
@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,mediazona.ca
 DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,metla.press
 DOMAIN-SUFFIX,mignews.com
+DOMAIN-SUFFIX,navalny.com
 DOMAIN-SUFFIX,newizv.ru
 DOMAIN-SUFFIX,newtimes.ru
 DOMAIN-SUFFIX,novaya.media
