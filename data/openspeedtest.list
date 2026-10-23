@@ -1,8 +1,10 @@
 # NAME: OPENSPEEDTEST
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2026-10-23 08:25:08
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
 DOMAIN-SUFFIX,open.cachefly.net
 DOMAIN-SUFFIX,openspeedtest.com
+DOMAIN-SUFFIX,openspeedtest.in
+DOMAIN-SUFFIX,openspeedtest.org
