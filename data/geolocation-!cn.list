@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-22 08:28:59
-# DOMAIN-SUFFIX: 24523
+# UPDATED: 2026-10-24 08:00:48
+# DOMAIN-SUFFIX: 24531
 # DOMAIN: 1419
 # URL-REGEX: 158
-# TOTAL: 26100
+# TOTAL: 26108
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -319,6 +319,7 @@ DOMAIN-SUFFIX,1password.ca
 DOMAIN-SUFFIX,1password.co
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,1password.community
+DOMAIN-SUFFIX,1password.dev
 DOMAIN,1password.drift.click
 DOMAIN-SUFFIX,1password.eu
 DOMAIN-SUFFIX,1password.io
@@ -5360,6 +5361,10 @@ DOMAIN-SUFFIX,cdnvideohub.com
 DOMAIN-SUFFIX,cdnxxx-proxy.co
 DOMAIN-SUFFIX,cdnxxx-proxy.xyz
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+DOMAIN-SUFFIX,cdpred.services
+DOMAIN-SUFFIX,cdprojekt.com
+DOMAIN-SUFFIX,cdprojekt.red
+DOMAIN-SUFFIX,cdprojektred.com
 DOMAIN,cds-cdn.v.aaplimg.com
 DOMAIN,cds.apple.com
 DOMAIN,cds.apple.com.akadns.net
@@ -6342,6 +6347,7 @@ DOMAIN-SUFFIX,cyber-bay.info
 DOMAIN-SUFFIX,cyber-bay.org
 DOMAIN-SUFFIX,cybercrimecon.com
 DOMAIN-SUFFIX,cybermondaybeats4sale.com
+DOMAIN-SUFFIX,cyberpunk.net
 DOMAIN-SUFFIX,cybersport.ru
 DOMAIN-SUFFIX,cybertrust.co.jp
 DOMAIN-SUFFIX,cybertrust.ne.jp
@@ -18198,6 +18204,7 @@ DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,playforceone.com
 DOMAIN-SUFFIX,playgrounds-cdn.apple.com
+DOMAIN-SUFFIX,playgwent.com
 DOMAIN-SUFFIX,playhearthstone.com
 DOMAIN-SUFFIX,playmation.com
 DOMAIN-SUFFIX,playmeow.com
@@ -22165,6 +22172,7 @@ DOMAIN-SUFFIX,theverge.com
 DOMAIN-SUFFIX,thevirtualsexreview.com
 DOMAIN-SUFFIX,thewaltdisneycompany.com
 DOMAIN-SUFFIX,theweek.in
+DOMAIN-SUFFIX,thewitcher.com
 DOMAIN-SUFFIX,thewonderful101.com
 DOMAIN-SUFFIX,theyxxx.com
 DOMAIN-SUFFIX,thieme-connect.com

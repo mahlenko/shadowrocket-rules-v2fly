@@ -1,0 +1,13 @@
+# NAME: CDPROJEKT
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-10-24 08:00:47
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+DOMAIN-SUFFIX,cdpred.services
+DOMAIN-SUFFIX,cdprojekt.com
+DOMAIN-SUFFIX,cdprojekt.red
+DOMAIN-SUFFIX,cdprojektred.com
+DOMAIN-SUFFIX,cyberpunk.net
+DOMAIN-SUFFIX,playgwent.com
+DOMAIN-SUFFIX,thewitcher.com
