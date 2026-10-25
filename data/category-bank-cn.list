@@ -1,17 +1,20 @@
 # NAME: CATEGORY-BANK-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-09-01 08:31:11
-# DOMAIN-SUFFIX: 55
-# TOTAL: 55
+# UPDATED: 2026-10-25 08:17:10
+# DOMAIN-SUFFIX: 59
+# TOTAL: 59
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,95516.net
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,bankcomm.cn
 DOMAIN-SUFFIX,bankcomm.com
 DOMAIN-SUFFIX,bankofbeijing.com.cn
+DOMAIN-SUFFIX,bocd.com.cn
 DOMAIN-SUFFIX,bosc.cn
 DOMAIN-SUFFIX,bsb.com.cn
+DOMAIN-SUFFIX,cdrcb.com
+DOMAIN-SUFFIX,cdrcbank.com
 DOMAIN-SUFFIX,cebbank.com
 DOMAIN-SUFFIX,cgbchina.com.cn
 DOMAIN-SUFFIX,chinapay.com
@@ -30,6 +33,7 @@ DOMAIN-SUFFIX,hsbc.com.cn
 DOMAIN-SUFFIX,hsbcinsurance.com.cn
 DOMAIN-SUFFIX,hsbcqh.com.cn
 DOMAIN-SUFFIX,hxb.com.cn
+DOMAIN-SUFFIX,ibangbank.com
 DOMAIN-SUFFIX,kcbebank.com
 DOMAIN-SUFFIX,kshbank.cn
 DOMAIN-SUFFIX,ms-bank.cn

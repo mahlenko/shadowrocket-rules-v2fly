@@ -1,9 +1,9 @@
 # NAME: HDREZKA
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 11
-# TOTAL: 11
+# UPDATED: 2026-10-25 08:17:12
+# DOMAIN-SUFFIX: 16
+# TOTAL: 16
 DOMAIN-SUFFIX,hdrezka-home.tv
 DOMAIN-SUFFIX,hdrezka.ac
 DOMAIN-SUFFIX,hdrezka.ag
@@ -14,4 +14,9 @@ DOMAIN-SUFFIX,hdrezka.org
 DOMAIN-SUFFIX,hdrezka.site
 DOMAIN-SUFFIX,hdrzk.org
 DOMAIN-SUFFIX,rezka.ag
+DOMAIN-SUFFIX,rezka.fi
+DOMAIN-SUFFIX,static.voidboost.com
+DOMAIN-SUFFIX,statichdrezka.ac
 DOMAIN-SUFFIX,stream.voidboost.cc
+DOMAIN-SUFFIX,stream.voidboost.one
+DOMAIN-SUFFIX,voidslam.org

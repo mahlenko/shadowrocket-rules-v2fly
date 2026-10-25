@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-24 08:00:48
-# DOMAIN-SUFFIX: 24531
-# DOMAIN: 1419
+# UPDATED: 2026-10-25 08:17:12
+# DOMAIN-SUFFIX: 24528
+# DOMAIN: 1420
 # URL-REGEX: 158
-# TOTAL: 26108
+# TOTAL: 26106
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -896,6 +896,7 @@ DOMAIN-SUFFIX,addthis.com
 DOMAIN-SUFFIX,addthiscdn.com
 DOMAIN-SUFFIX,addthisedge.com
 DOMAIN-SUFFIX,addtoany.com
+DOMAIN-SUFFIX,addtodropbox.com
 DOMAIN-SUFFIX,adelaidenow.com.au
 DOMAIN,adeventtracker.spotify.com
 DOMAIN-SUFFIX,adfox.ru
@@ -6483,6 +6484,7 @@ DOMAIN-SUFFIX,darwinsource.com
 DOMAIN-SUFFIX,darwinsource.org
 DOMAIN-SUFFIX,darwinsourcecode.com
 DOMAIN-SUFFIX,dasaob.online
+DOMAIN-SUFFIX,dash.ai
 DOMAIN-SUFFIX,dashlane.com
 DOMAIN-SUFFIX,dashly.app
 DOMAIN-SUFFIX,dashly.help
@@ -7268,6 +7270,7 @@ DOMAIN-SUFFIX,docs.com
 DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,docs.rs
 DOMAIN-SUFFIX,docs.rw
+DOMAIN-SUFFIX,docsend.com
 DOMAIN-SUFFIX,doctor-videos.com
 DOMAIN-SUFFIX,documentforce.com
 DOMAIN-SUFFIX,dodgersexcartoons.com
@@ -7454,15 +7457,19 @@ DOMAIN-SUFFIX,dronedj.com
 DOMAIN-SUFFIX,dropbox-dns.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropbox.tech
+DOMAIN,dropbox.zendesk.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxbusiness.com
 DOMAIN-SUFFIX,dropboxcaptcha.com
+DOMAIN-SUFFIX,dropboxexperiment.com
 DOMAIN-SUFFIX,dropboxforum.com
 DOMAIN-SUFFIX,dropboxforums.com
 DOMAIN-SUFFIX,dropboxinsiders.com
+DOMAIN-SUFFIX,dropboxlegal.com
 DOMAIN-SUFFIX,dropboxmail.com
 DOMAIN-SUFFIX,dropboxpartners.com
 DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,dropboxteam.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,drpc.org
 DOMAIN-SUFFIX,drtuber.com
@@ -11045,8 +11052,10 @@ DOMAIN-SUFFIX,heise360181.buzz
 DOMAIN-SUFFIX,heise360182.buzz
 DOMAIN-SUFFIX,helixstudios.net
 DOMAIN-SUFFIX,helloavgirls.com
+DOMAIN-SUFFIX,hellofax.com
 DOMAIN-SUFFIX,hellokittybeats.com
 DOMAIN-SUFFIX,hellomoto.com
+DOMAIN-SUFFIX,hellosign.com
 DOMAIN-SUFFIX,hellosmartbook.com
 DOMAIN-SUFFIX,hellporno.com
 DOMAIN-SUFFIX,hellven.net
@@ -11902,7 +11911,6 @@ DOMAIN-SUFFIX,icloud-content.com.cn
 DOMAIN-SUFFIX,icloud-isupport.com
 DOMAIN-SUFFIX,icloud-sandbox.com
 DOMAIN-SUFFIX,icloud.ch
-DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.de
@@ -24967,16 +24975,16 @@ DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com
 DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
 DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
-DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.hk
-DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.xn--j6w193g
-DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.hk
-DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.xn--j6w193g
+DOMAIN-SUFFIX,xn--fiq80y.hk
+DOMAIN-SUFFIX,xn--fiq80y.xn--j6w193g
+DOMAIN-SUFFIX,xn--fiq80y3xbiwr.hk
+DOMAIN-SUFFIX,xn--fiq80y3xbiwr.xn--j6w193g
+DOMAIN-SUFFIX,xn--fiq80y3xbiwrs0kiu9d.hk
+DOMAIN-SUFFIX,xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
 DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn
 DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e
 DOMAIN-SUFFIX,xn--flw351e
 DOMAIN-SUFFIX,xn--flw351e.com
-DOMAIN-SUFFIX,xn--gdt08a.hk
-DOMAIN-SUFFIX,xn--gdt08a.xn--j6w193g
 DOMAIN-SUFFIX,xn--ggle-55da.com
 DOMAIN-SUFFIX,xn--gmq348bujlxrb.com
 DOMAIN-SUFFIX,xn--gmq92kd2rm1kx34a.com
@@ -24995,22 +25003,16 @@ DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,xn--mtswd61ejxq.com
-DOMAIN-SUFFIX,xn--mxtq18a.hk
-DOMAIN-SUFFIX,xn--mxtq18a.xn--j6w193g
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
 DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
 DOMAIN-SUFFIX,xn--pearsonenespaol-brb.com
 DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.hk
 DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.xn--j6w193g
-DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.hk
-DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+DOMAIN-SUFFIX,xn--pssu7ci3q5oge0ai91q.xn--j6w193g
 DOMAIN-SUFFIX,xn--pssu7cv61af44b.hk
 DOMAIN-SUFFIX,xn--pssu7cv61af44b.xn--j6w193g
-DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.hk
-DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
-DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.hk
-DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
+DOMAIN-SUFFIX,xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
 DOMAIN-SUFFIX,xn--q41am8x.com
 DOMAIN-SUFFIX,xn--qcka1pmc
 DOMAIN-SUFFIX,xn--qoq462m.com
@@ -25024,11 +25026,7 @@ DOMAIN-SUFFIX,xn--ubt498knmf.com
 DOMAIN-SUFFIX,xn--uis17aj9kmuf.com
 DOMAIN-SUFFIX,xn--uis44a.xn--j6w193g
 DOMAIN-SUFFIX,xn--urs05q.jp
-DOMAIN-SUFFIX,xn--wcv22d.hk
-DOMAIN-SUFFIX,xn--wcv22d.xn--j6w193g
 DOMAIN-SUFFIX,xn--wcvs22d.xn--j6w193g
-DOMAIN-SUFFIX,xn--wcvs22d1m.hk
-DOMAIN-SUFFIX,xn--wcvs22d1m.xn--j6w193g
 DOMAIN-SUFFIX,xn--x-qeu1ji09tzlg.biz
 DOMAIN-SUFFIX,xn--x-qeu1ji09tzlg.net
 DOMAIN-SUFFIX,xn--xsq421m.com

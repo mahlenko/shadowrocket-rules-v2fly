@@ -1,9 +1,9 @@
 # NAME: CATEGORY-SCHOLAR-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-09-21 08:48:03
-# DOMAIN-SUFFIX: 94
-# TOTAL: 94
+# UPDATED: 2026-10-25 08:17:11
+# DOMAIN-SUFFIX: 96
+# TOTAL: 96
 DOMAIN-SUFFIX,16q.cn
 DOMAIN-SUFFIX,51ccd.com
 DOMAIN-SUFFIX,5read.com
@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,chinabooktrading.com
 DOMAIN-SUFFIX,chinaxiv.org
 DOMAIN-SUFFIX,chndoi.org
 DOMAIN-SUFFIX,cidp.com.cn
+DOMAIN-SUFFIX,cldisk.com
 DOMAIN-SUFFIX,cnbksy.com
 DOMAIN-SUFFIX,cnki.com.cn
 DOMAIN-SUFFIX,cnki.net
@@ -91,6 +92,7 @@ DOMAIN-SUFFIX,wind.com.cn
 DOMAIN-SUFFIX,xuexi365.com
 DOMAIN-SUFFIX,xuexi365.com.cn
 DOMAIN-SUFFIX,xuexi365.net
+DOMAIN-SUFFIX,xuexitong.com
 DOMAIN-SUFFIX,xxtmail.com
 DOMAIN-SUFFIX,yiigle.com
 DOMAIN-SUFFIX,ylike.net

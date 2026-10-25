@@ -1,11 +1,11 @@
 # NAME: CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-21 08:26:37
-# DOMAIN-SUFFIX: 5582
-# DOMAIN: 62
+# UPDATED: 2026-10-25 08:17:11
+# DOMAIN-SUFFIX: 5598
+# DOMAIN: 64
 # URL-REGEX: 3
-# TOTAL: 5647
+# TOTAL: 5665
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -403,6 +403,7 @@ DOMAIN-SUFFIX,9xu.com
 URL-REGEX,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,a9vg.com
+DOMAIN-SUFFIX,aaej.cn
 DOMAIN-SUFFIX,aaic.com.cn
 DOMAIN-SUFFIX,aamgame.com
 DOMAIN-SUFFIX,aamgame.mobi
@@ -596,6 +597,7 @@ DOMAIN-SUFFIX,apk3.com
 DOMAIN-SUFFIX,apk8.com
 DOMAIN-SUFFIX,aplaybox.com
 DOMAIN-SUFFIX,apollo.auto
+DOMAIN,app.moegirl.org.cn
 DOMAIN-SUFFIX,appchina.com
 DOMAIN-SUFFIX,appeeres.com
 DOMAIN-SUFFIX,appinn.com
@@ -782,6 +784,7 @@ DOMAIN-SUFFIX,biaoda.me
 DOMAIN-SUFFIX,bibaodao.com
 DOMAIN-SUFFIX,bidchance.com
 DOMAIN-SUFFIX,biddingx.com
+DOMAIN-SUFFIX,bigdatacq.com
 DOMAIN-SUFFIX,bigmodel.cn
 DOMAIN-SUFFIX,bihu.com
 DOMAIN-SUFFIX,biji.com
@@ -821,6 +824,7 @@ DOMAIN-SUFFIX,blyun.com
 DOMAIN-SUFFIX,bmac.com.cn
 DOMAIN-SUFFIX,bobbns.com
 DOMAIN-SUFFIX,bobo.com
+DOMAIN-SUFFIX,bocd.com.cn
 DOMAIN-SUFFIX,boce.com
 DOMAIN-SUFFIX,bochaai.com
 DOMAIN-SUFFIX,boe.com
@@ -938,6 +942,8 @@ DOMAIN-SUFFIX,cdndm5.com
 DOMAIN-SUFFIX,cdndo.com
 DOMAIN-SUFFIX,cdnmama.com
 DOMAIN-SUFFIX,cdnmg.com
+DOMAIN-SUFFIX,cdrcb.com
+DOMAIN-SUFFIX,cdrcbank.com
 DOMAIN-SUFFIX,cdut.top
 DOMAIN-SUFFIX,ce.cn
 DOMAIN-SUFFIX,ceair.com
@@ -1132,6 +1138,7 @@ DOMAIN-SUFFIX,ckd.im
 DOMAIN-SUFFIX,ckxx.net
 DOMAIN-SUFFIX,clangcn.com
 DOMAIN-SUFFIX,clawhub-mirror.com
+DOMAIN-SUFFIX,cldisk.com
 DOMAIN-SUFFIX,cleargrass.com
 DOMAIN-SUFFIX,clewm.net
 DOMAIN-SUFFIX,cli.im
@@ -1266,13 +1273,17 @@ DOMAIN-SUFFIX,cpu.baidu.com
 DOMAIN-SUFFIX,cqcb.com
 DOMAIN-SUFFIX,cqccn.com
 DOMAIN-SUFFIX,cqctyiptv.cn
+DOMAIN-SUFFIX,cqdcg.com
+DOMAIN-SUFFIX,cqge.com.cn
 DOMAIN-SUFFIX,cqhlw.cn
 DOMAIN-SUFFIX,cqliving.com
 DOMAIN-SUFFIX,cqn.com.cn
 DOMAIN-SUFFIX,cqnews.net
+DOMAIN-SUFFIX,cqsdlys.cn
 DOMAIN-SUFFIX,cqsjb.com
 DOMAIN-SUFFIX,cqtk.com.cn
 DOMAIN-SUFFIX,cqvip.com
+DOMAIN-SUFFIX,cqyyxc.com
 DOMAIN-SUFFIX,cr-cts.com
 DOMAIN-SUFFIX,cr173.com
 DOMAIN-SUFFIX,crash2.zhihu.com
@@ -1490,6 +1501,7 @@ DOMAIN-SUFFIX,dict.cn
 DOMAIN-SUFFIX,dida365.com
 DOMAIN-SUFFIX,didachuxing.com
 DOMAIN-SUFFIX,didapinche.com
+DOMAIN-SUFFIX,digitalcnzz.com
 DOMAIN-SUFFIX,digitaling.com
 DOMAIN-SUFFIX,diiing.cn
 DOMAIN-SUFFIX,dili360.com
@@ -1659,6 +1671,7 @@ DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN-SUFFIX,e0n.cn
 DOMAIN-SUFFIX,eagsen.com
 DOMAIN-SUFFIX,easec.com.cn
+DOMAIN-SUFFIX,easemob.com
 DOMAIN-SUFFIX,easesale.com
 DOMAIN-SUFFIX,easiu.com
 DOMAIN-SUFFIX,eastday.com
@@ -1998,7 +2011,6 @@ DOMAIN-SUFFIX,gdctyiptv.cn
 DOMAIN-SUFFIX,gdjdxy.com
 DOMAIN-SUFFIX,gdliontech.com
 DOMAIN-SUFFIX,gdrc.com
-DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,geekbang.org
 DOMAIN-SUFFIX,geekpark.net
 DOMAIN-SUFFIX,geektool.top
@@ -2101,6 +2113,7 @@ DOMAIN-SUFFIX,govwza.cn
 DOMAIN-SUFFIX,gowinamc.com
 DOMAIN-SUFFIX,gpall.cn
 DOMAIN-SUFFIX,gpall.net
+DOMAIN-SUFFIX,gpzshq.cn
 DOMAIN-SUFFIX,gracg.com
 DOMAIN-SUFFIX,greatwallwine.com.cn
 DOMAIN-SUFFIX,gree.cn
@@ -2491,6 +2504,7 @@ DOMAIN-SUFFIX,i618.com.cn
 DOMAIN-SUFFIX,i8tq.com
 DOMAIN-SUFFIX,iachina.cn
 DOMAIN-SUFFIX,iask.com
+DOMAIN-SUFFIX,ibangbank.com
 DOMAIN-SUFFIX,ibaotu.com
 DOMAIN-SUFFIX,ibcet.org
 DOMAIN-SUFFIX,ibidian.com
@@ -2602,6 +2616,7 @@ DOMAIN-SUFFIX,intime.com.cn
 DOMAIN-SUFFIX,intsig.com
 DOMAIN-SUFFIX,intsig.net
 DOMAIN-SUFFIX,iotronic.tech
+DOMAIN-SUFFIX,ip.cn
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ipanda.cn
 DOMAIN-SUFFIX,ipanda.com
@@ -2629,6 +2644,8 @@ DOMAIN-SUFFIX,iscas.ac.cn
 DOMAIN-SUFFIX,ishijue.com
 DOMAIN-SUFFIX,ishumei.com
 DOMAIN-SUFFIX,ishuqi.com
+DOMAIN-SUFFIX,isigning.cn
+DOMAIN-SUFFIX,isigning.com
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,istv.cn
 DOMAIN-SUFFIX,isxtv.com
@@ -3454,8 +3471,6 @@ DOMAIN-SUFFIX,modaiyun.com
 DOMAIN-SUFFIX,modelers.cn
 DOMAIN-SUFFIX,modex.com.cn
 DOMAIN-SUFFIX,moedu.com
-DOMAIN-SUFFIX,moegirl.org
-DOMAIN-SUFFIX,moegirl.org.cn
 DOMAIN-SUFFIX,moer.cn
 DOMAIN-SUFFIX,mofang.com
 DOMAIN-SUFFIX,mofazhu.com
@@ -3557,6 +3572,7 @@ DOMAIN-SUFFIX,naixuecha.com
 DOMAIN-SUFFIX,nalrer.cn
 DOMAIN-SUFFIX,namiso.com
 DOMAIN-SUFFIX,nanhaicorp.com
+DOMAIN-SUFFIX,nanocorechip.com
 DOMAIN-SUFFIX,nanyuenews.com
 DOMAIN-SUFFIX,narwal.com
 DOMAIN-SUFFIX,narwaltech.com
@@ -4361,6 +4377,7 @@ DOMAIN-SUFFIX,sto.cn
 DOMAIN-SUFFIX,stocke.com.cn
 DOMAIN-SUFFIX,stockstar.com
 DOMAIN-SUFFIX,stointl.com
+DOMAIN,storage.moegirl.org.cn
 DOMAIN-SUFFIX,stosolution.com
 DOMAIN,study.163.com
 DOMAIN-SUFFIX,study360.com.cn
@@ -5197,6 +5214,7 @@ DOMAIN-SUFFIX,xuexi365.com
 DOMAIN-SUFFIX,xuexi365.com.cn
 DOMAIN-SUFFIX,xuexi365.net
 DOMAIN-SUFFIX,xuexicha.com
+DOMAIN-SUFFIX,xuexitong.com
 DOMAIN-SUFFIX,xundupdf.com
 DOMAIN-SUFFIX,xunfei.cn
 DOMAIN-SUFFIX,xunfeixxj.com

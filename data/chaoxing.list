@@ -1,15 +1,16 @@
 # NAME: CHAOXING
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 33
-# TOTAL: 33
+# UPDATED: 2026-10-25 08:17:11
+# DOMAIN-SUFFIX: 35
+# TOTAL: 35
 DOMAIN-SUFFIX,16q.cn
 DOMAIN-SUFFIX,5read.com
 DOMAIN-SUFFIX,aichaoxing.com
 DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,chaoxing.com
 DOMAIN-SUFFIX,chaoxingv.com
+DOMAIN-SUFFIX,cldisk.com
 DOMAIN-SUFFIX,cxbiji.com
 DOMAIN-SUFFIX,dayainfo.com
 DOMAIN-SUFFIX,hongbo100.com
@@ -32,6 +33,7 @@ DOMAIN-SUFFIX,uonline-sh.net
 DOMAIN-SUFFIX,xuexi365.com
 DOMAIN-SUFFIX,xuexi365.com.cn
 DOMAIN-SUFFIX,xuexi365.net
+DOMAIN-SUFFIX,xuexitong.com
 DOMAIN-SUFFIX,xxtmail.com
 DOMAIN-SUFFIX,ylike.net
 DOMAIN-SUFFIX,zaifan.com
