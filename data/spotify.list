@@ -1,9 +1,9 @@
 # NAME: SPOTIFY
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-23 06:56:12
-# DOMAIN-SUFFIX: 17
-# DOMAIN: 11
+# UPDATED: 2026-10-26 08:44:35
+# DOMAIN-SUFFIX: 18
+# DOMAIN: 10
 # TOTAL: 28
 DOMAIN,adeventtracker.spotify.com
 DOMAIN,adstudio-assets.scdn.co
@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify-everywhere.com
 DOMAIN-SUFFIX,spotify.com
-DOMAIN,spotify.com.edgesuite.net
+DOMAIN-SUFFIX,spotify.com.edgesuite.net
 DOMAIN-SUFFIX,spotify.design
 DOMAIN-SUFFIX,spotify.link
 DOMAIN,spotify.map.fastly.net

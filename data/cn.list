@@ -1,11 +1,11 @@
 # NAME: CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-25 08:17:11
-# DOMAIN-SUFFIX: 5598
+# UPDATED: 2026-10-26 08:44:34
+# DOMAIN-SUFFIX: 5600
 # DOMAIN: 64
 # URL-REGEX: 3
-# TOTAL: 5665
+# TOTAL: 5667
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -1842,6 +1842,7 @@ DOMAIN-SUFFIX,fgo.wiki
 DOMAIN-SUFFIX,fhldns.com
 DOMAIN-SUFFIX,fhyx.com
 DOMAIN-SUFFIX,filez.com
+DOMAIN-SUFFIX,filmorigin.com
 DOMAIN-SUFFIX,fimmu.com
 DOMAIN-SUFFIX,finchina.com
 DOMAIN-SUFFIX,finclip.com
@@ -2728,7 +2729,6 @@ DOMAIN-SUFFIX,jike.city
 DOMAIN-SUFFIX,jikecdn.com
 DOMAIN-SUFFIX,jikeiot.cloud
 DOMAIN-SUFFIX,jikexueyuan.com
-DOMAIN-SUFFIX,jikipedia.com
 DOMAIN-SUFFIX,jin10.com
 DOMAIN-SUFFIX,jinantimes.com.cn
 DOMAIN-SUFFIX,jinchutou.com
@@ -2896,6 +2896,7 @@ DOMAIN-SUFFIX,kaipuyun.com.cn
 DOMAIN-SUFFIX,kaipuyun.net
 DOMAIN-SUFFIX,kaixin001.com
 DOMAIN-SUFFIX,kajicam.com
+DOMAIN-SUFFIX,kakaxing.com
 DOMAIN-SUFFIX,kameng98.com
 DOMAIN-SUFFIX,kancloud.cn
 DOMAIN-SUFFIX,kanimg.com
@@ -5094,6 +5095,7 @@ DOMAIN-SUFFIX,xiaolianhb.com
 DOMAIN-SUFFIX,xiaoluyouxuan.com
 DOMAIN-SUFFIX,xiaoluzhidian.com
 DOMAIN-SUFFIX,xiaomaicn.com
+DOMAIN-SUFFIX,xiaomaigui.com
 DOMAIN-SUFFIX,xiaomengai.com
 DOMAIN-SUFFIX,xiaomimimo.com
 DOMAIN-SUFFIX,xiaomingtaiji.com

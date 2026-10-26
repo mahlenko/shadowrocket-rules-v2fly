@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-25 08:17:12
-# DOMAIN-SUFFIX: 24528
-# DOMAIN: 1420
+# UPDATED: 2026-10-26 08:44:34
+# DOMAIN-SUFFIX: 24504
+# DOMAIN: 1418
 # URL-REGEX: 158
-# TOTAL: 26106
+# TOTAL: 26080
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -1890,7 +1890,6 @@ DOMAIN-SUFFIX,ampproject.net
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,ams.org
 DOMAIN-SUFFIX,ams02.space
-DOMAIN-SUFFIX,ams2.test-ipv6.com
 DOMAIN-SUFFIX,amsterdamhotescort.com
 DOMAIN-SUFFIX,amsterdamluxescort.com
 DOMAIN-SUFFIX,amytele.com
@@ -9458,7 +9457,6 @@ DOMAIN-SUFFIX,fpo.xxx
 DOMAIN-SUFFIX,fptolia.com
 DOMAIN-SUFFIX,fqcebook.com
 DOMAIN-SUFFIX,fr-beatsbydrestore.com
-DOMAIN-SUFFIX,fra.test-ipv6.com
 DOMAIN-SUFFIX,fracebook.com
 DOMAIN-SUFFIX,fragment.com
 DOMAIN-SUFFIX,fragrancebay.com
@@ -13959,6 +13957,7 @@ DOMAIN-SUFFIX,liboggirls.net
 DOMAIN-SUFFIX,library.lol
 DOMAIN-SUFFIX,librarylovefest.com
 DOMAIN-SUFFIX,libraryofthumbs.com
+DOMAIN-SUFFIX,librewolf.dev
 DOMAIN-SUFFIX,librewolf.net
 DOMAIN-SUFFIX,libsolutions.app
 DOMAIN-SUFFIX,libsolutions.domains
@@ -16271,7 +16270,7 @@ DOMAIN-SUFFIX,netflav1.com
 DOMAIN-SUFFIX,netflav5.com
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
-DOMAIN,netflix.com.edgesuite.net
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,netflixdnstest0.com
 DOMAIN-SUFFIX,netflixdnstest1.com
@@ -20720,7 +20719,6 @@ DOMAIN-SUFFIX,siteripz.com
 DOMAIN-SUFFIX,siteripz.net
 DOMAIN-SUFFIX,situero.com
 DOMAIN-SUFFIX,six9dy.pw
-DOMAIN-SUFFIX,sixte.st
 DOMAIN-SUFFIX,sjcollect.com
 DOMAIN-SUFFIX,sjhsp1.buzz
 DOMAIN-SUFFIX,skate2.com
@@ -21130,7 +21128,7 @@ DOMAIN-SUFFIX,sportswomenoftheyear.co.uk
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify-everywhere.com
 DOMAIN-SUFFIX,spotify.com
-DOMAIN,spotify.com.edgesuite.net
+DOMAIN-SUFFIX,spotify.com.edgesuite.net
 DOMAIN-SUFFIX,spotify.design
 DOMAIN-SUFFIX,spotify.link
 DOMAIN,spotify.map.fastly.net
@@ -21989,30 +21987,6 @@ DOMAIN-SUFFIX,teslamotors.cn
 DOMAIN-SUFFIX,teslamotors.com
 DOMAIN-SUFFIX,teslamotors.com.cn
 DOMAIN-SUFFIX,teslazta.net
-DOMAIN-SUFFIX,test-ipv6.alpinedc.ch
-DOMAIN-SUFFIX,test-ipv6.arauc.br
-DOMAIN-SUFFIX,test-ipv6.belwue.net
-DOMAIN-SUFFIX,test-ipv6.carnet.hr
-DOMAIN-SUFFIX,test-ipv6.cl
-DOMAIN-SUFFIX,test-ipv6.com
-DOMAIN-SUFFIX,test-ipv6.cs.umd.edu
-DOMAIN-SUFFIX,test-ipv6.csclub.uwaterloo.ca
-DOMAIN-SUFFIX,test-ipv6.cz
-DOMAIN-SUFFIX,test-ipv6.epic.network
-DOMAIN-SUFFIX,test-ipv6.fratec.net
-DOMAIN-SUFFIX,test-ipv6.freerangecloud.com
-DOMAIN-SUFFIX,test-ipv6.go6.si
-DOMAIN-SUFFIX,test-ipv6.hu
-DOMAIN-SUFFIX,test-ipv6.is
-DOMAIN-SUFFIX,test-ipv6.iu13.net
-DOMAIN-SUFFIX,test-ipv6.ke.liquidtelecom.net
-DOMAIN-SUFFIX,test-ipv6.noroutetohost.net
-DOMAIN-SUFFIX,test-ipv6.roedu.net
-DOMAIN-SUFFIX,test-ipv6.se
-DOMAIN-SUFFIX,test-ipv6.sin.vr.org
-DOMAIN-SUFFIX,test-ipv6.ttk.ru
-DOMAIN-SUFFIX,testipv6.cn
-DOMAIN-SUFFIX,testipv6.de
 DOMAIN-SUFFIX,testonfox.com
 DOMAIN-SUFFIX,tetrika-school.ru
 DOMAIN-SUFFIX,tettediferro.it

@@ -1,7 +1,7 @@
 # NAME: CATEGORY-IR
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-29 06:03:53
+# UPDATED: 2026-10-26 08:44:34
 # DOMAIN-SUFFIX: 384
 # TOTAL: 384
 DOMAIN-SUFFIX,7sobh.com
@@ -356,7 +356,7 @@ DOMAIN-SUFFIX,tebyan.net
 DOMAIN-SUFFIX,tehrantimes.com
 DOMAIN-SUFFIX,tejaratbank.ir
 DOMAIN-SUFFIX,tejaratnews.com
-DOMAIN-SUFFIX,telewebion.com
+DOMAIN-SUFFIX,telewebion.net
 DOMAIN-SUFFIX,tetherland.com
 DOMAIN-SUFFIX,tgju.org
 DOMAIN-SUFFIX,time.ir

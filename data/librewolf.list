@@ -1,0 +1,8 @@
+# NAME: LIBREWOLF
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-10-26 08:44:34
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,librewolf.dev
+DOMAIN-SUFFIX,librewolf.net

@@ -1,17 +1,16 @@
 # NAME: CATEGORY-WIKI-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-25 08:17:11
-# DOMAIN-SUFFIX: 14
+# UPDATED: 2026-10-26 08:44:34
+# DOMAIN-SUFFIX: 13
 # DOMAIN: 2
-# TOTAL: 16
+# TOTAL: 15
 DOMAIN-SUFFIX,allhistory.com
 DOMAIN,app.moegirl.org.cn
 DOMAIN-SUFFIX,chaz.fun
 DOMAIN-SUFFIX,fgo.wiki
 DOMAIN-SUFFIX,huijistatic.com
 DOMAIN-SUFFIX,huijiwiki.com
-DOMAIN-SUFFIX,jikipedia.com
 DOMAIN-SUFFIX,mbalib.com
 DOMAIN-SUFFIX,mcmod.cn
 DOMAIN-SUFFIX,pwsannong.com

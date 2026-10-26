@@ -1,7 +1,7 @@
 # NAME: CATEGORY-MEDIA-IR
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-16 08:51:28
+# UPDATED: 2026-10-26 08:44:34
 # DOMAIN-SUFFIX: 28
 # TOTAL: 28
 DOMAIN-SUFFIX,aparat.com
@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,radiopayam.ir
 DOMAIN-SUFFIX,radioquran.ir
 DOMAIN-SUFFIX,radiotehran.ir
 DOMAIN-SUFFIX,radiovarzesh.ir
-DOMAIN-SUFFIX,telewebion.com
+DOMAIN-SUFFIX,telewebion.net
 DOMAIN-SUFFIX,tmk.ir
 DOMAIN-SUFFIX,tv3.ir
 DOMAIN-SUFFIX,tv5.ir
