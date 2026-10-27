@@ -1,10 +1,10 @@
 # NAME: CATEGORY-FINANCE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-18 07:55:34
-# DOMAIN-SUFFIX: 654
+# UPDATED: 2026-10-27 08:50:23
+# DOMAIN-SUFFIX: 656
 # DOMAIN: 5
-# TOTAL: 659
+# TOTAL: 661
 DOMAIN-SUFFIX,114bank.co.jp
 DOMAIN-SUFFIX,2w.ru
 DOMAIN-SUFFIX,4c.ru
@@ -150,6 +150,7 @@ DOMAIN-SUFFIX,finambank.ru
 DOMAIN-SUFFIX,finance.ozon.ru
 DOMAIN-SUFFIX,finstarbank.ru
 DOMAIN-SUFFIX,firstprivatebank.com.mm
+DOMAIN-SUFFIX,firstrade.com
 DOMAIN-SUFFIX,forabank.ru
 DOMAIN-SUFFIX,forshtadt.ru
 DOMAIN-SUFFIX,fsmone.com
@@ -578,6 +579,7 @@ DOMAIN-SUFFIX,tdev.by
 DOMAIN-SUFFIX,tech26.de
 DOMAIN-SUFFIX,tejaratbank.ir
 DOMAIN-SUFFIX,thbank.ru
+DOMAIN-SUFFIX,thinkorswim.com
 DOMAIN-SUFFIX,tigerbbs.cn
 DOMAIN-SUFFIX,tigerbbs.com
 DOMAIN-SUFFIX,time-messenger.ru

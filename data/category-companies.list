@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-25 08:17:11
-# DOMAIN-SUFFIX: 7796
-# DOMAIN: 964
+# UPDATED: 2026-10-27 08:50:23
+# DOMAIN-SUFFIX: 7800
+# DOMAIN: 973
 # URL-REGEX: 6
-# TOTAL: 8766
+# TOTAL: 8779
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -998,6 +998,9 @@ DOMAIN-SUFFIX,appmetrica.yango.com
 DOMAIN,apps.mzstatic.com
 DOMAIN,apps5.oingo.com
 DOMAIN-SUFFIX,appserviceenvironment.cn
+DOMAIN,appsgenaiserver-pa.clients.google.com
+DOMAIN,appsgenaiserver-pa.clients6.google.com
+DOMAIN,appsgenaiserver-pa.googleapis.com
 DOMAIN-SUFFIX,appsmail.ru
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,appsto.re
@@ -2470,6 +2473,7 @@ DOMAIN-SUFFIX,dashly.me
 DOMAIN-SUFFIX,dashlytrack.app
 DOMAIN-SUFFIX,dashwood360.com
 DOMAIN-SUFFIX,data.com
+DOMAIN-SUFFIX,data.microsoft.com
 DOMAIN-SUFFIX,datacloudmy.com
 DOMAIN-SUFFIX,dataframeworks.com
 DOMAIN-SUFFIX,dataliberation.org
@@ -2479,6 +2483,8 @@ DOMAIN-SUFFIX,daumkakao.io
 DOMAIN-SUFFIX,daumpcbang.com
 DOMAIN-SUFFIX,david-laserscanner.com
 DOMAIN-SUFFIX,dbo-dengi.online
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,dc.services.visualstudio.com
 DOMAIN,dc1-cert.ksn.kaspersky-labs.com
 DOMAIN,dc1-file.ksn.kaspersky-labs.com
 DOMAIN,dc1-pp.ksn.kaspersky-labs.com
@@ -4595,6 +4601,7 @@ DOMAIN,impala-media-production.s3.amazonaws.com
 DOMAIN-SUFFIX,impermium.com
 DOMAIN-SUFFIX,imstagram.com
 DOMAIN-SUFFIX,imtagram.com
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
 DOMAIN,inappcheck-cn.itunes-apple.com.akadns.net
 DOMAIN,inappcheck-lb.itunes-apple.com.akadns.net
 DOMAIN,inappcheck.itunes.apple.com
@@ -5325,6 +5332,7 @@ DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,lionhearts.co.kr
 DOMAIN-SUFFIX,list.ru
+DOMAIN,live.applicationinsights.azure.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.com.au
 DOMAIN-SUFFIX,live.eu
@@ -5568,6 +5576,7 @@ DOMAIN-SUFFIX,mesu.apple.com
 DOMAIN,mesu.apple.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,metaaiusercontent.com
 DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,metabora.io
 DOMAIN-SUFFIX,metacloud.com
@@ -6790,6 +6799,7 @@ DOMAIN-SUFFIX,routerboard.com
 DOMAIN,rs.mail.ru
 DOMAIN,rsm.download.prss.microsoft.com
 DOMAIN-SUFFIX,rt.ru
+DOMAIN,rt.services.visualstudio.com
 DOMAIN-SUFFIX,ruhub.tv
 DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,russiandesigncup.ru
@@ -7051,7 +7061,9 @@ DOMAIN-SUFFIX,sferum-dev.ru
 DOMAIN-SUFFIX,sferum.ru
 DOMAIN-SUFFIX,sforce.com
 DOMAIN-SUFFIX,sfx.ms
+DOMAIN,sh-pod1-smp-device.apple.com
 DOMAIN,sh-pod2-smp-device.apple.com
+DOMAIN,sh-pod3-smp-device.apple.com
 DOMAIN-SUFFIX,sharefile.com
 DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,sharepoint.com
@@ -7478,6 +7490,7 @@ DOMAIN-SUFFIX,tehnodom.com
 DOMAIN-SUFFIX,tele2.ru
 DOMAIN-SUFFIX,telega.info
 DOMAIN-SUFFIX,telega.me
+DOMAIN-SUFFIX,telemetry.microsoft.com
 DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,tellmewhygame.com
 DOMAIN-SUFFIX,tenbin.ai

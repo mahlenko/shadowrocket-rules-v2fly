@@ -1,11 +1,11 @@
 # NAME: CATEGORY-DEV
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-22 08:28:58
+# UPDATED: 2026-10-27 08:50:23
 # DOMAIN-SUFFIX: 586
-# DOMAIN: 89
+# DOMAIN: 91
 # URL-REGEX: 1
-# TOTAL: 676
+# TOTAL: 678
 URL-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
@@ -117,6 +117,7 @@ DOMAIN-SUFFIX,dart.dev
 DOMAIN-SUFFIX,dartlang.org
 DOMAIN-SUFFIX,dartpad.dev
 DOMAIN-SUFFIX,datalore.io
+DOMAIN,dc.services.visualstudio.com
 DOMAIN-SUFFIX,debian.org
 DOMAIN,default.exp-tas.com
 DOMAIN-SUFFIX,deno.com
@@ -541,6 +542,7 @@ DOMAIN-SUFFIX,rocksdb.net
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,rockylinux.org
 DOMAIN-SUFFIX,rpmfusion.org
+DOMAIN,rt.services.visualstudio.com
 DOMAIN-SUFFIX,ruby-lang.org
 DOMAIN-SUFFIX,rubygems.org
 DOMAIN-SUFFIX,rust-lang.org

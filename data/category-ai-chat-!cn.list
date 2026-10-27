@@ -1,11 +1,11 @@
 # NAME: CATEGORY-AI-CHAT-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-21 08:26:36
-# DOMAIN-SUFFIX: 173
-# DOMAIN: 31
+# UPDATED: 2026-10-27 08:50:22
+# DOMAIN-SUFFIX: 179
+# DOMAIN: 34
 # URL-REGEX: 1
-# TOTAL: 205
+# TOTAL: 214
 URL-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN,ai.google.dev
@@ -25,7 +25,11 @@ DOMAIN-SUFFIX,antigravity.google
 DOMAIN,antigravity.googleapis.com
 DOMAIN-SUFFIX,antspace.dev
 DOMAIN-SUFFIX,anythingllm.com
+DOMAIN,appsgenaiserver-pa.clients.google.com
+DOMAIN,appsgenaiserver-pa.clients6.google.com
+DOMAIN,appsgenaiserver-pa.googleapis.com
 DOMAIN-SUFFIX,arena.ai
+DOMAIN-SUFFIX,artificialanalysis.ai
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,cerebras.ai
@@ -52,6 +56,7 @@ DOMAIN-SUFFIX,claudepages.dev
 DOMAIN-SUFFIX,claudestudio.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,clawhub.ai
+DOMAIN-SUFFIX,cline.bot
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN,cloudaicompanion.googleapis.com
 DOMAIN,cloudcode-pa.googleapis.com
@@ -64,6 +69,8 @@ DOMAIN-SUFFIX,cohere.com
 DOMAIN-SUFFIX,comfy.org
 DOMAIN-SUFFIX,comfyci.org
 DOMAIN-SUFFIX,comfyregistry.org
+DOMAIN-SUFFIX,commandcode.ai
+DOMAIN-SUFFIX,context7.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN-SUFFIX,copilot-stg.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
@@ -141,6 +148,7 @@ DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metaaiusercontent.com
 DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,minimax.io
@@ -155,6 +163,7 @@ DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN,notebooklm.googleapis.com
 DOMAIN-SUFFIX,notegpt.io
+DOMAIN-SUFFIX,nousresearch.com
 DOMAIN-SUFFIX,novelai.net
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,o33249.ingest.us.sentry.io

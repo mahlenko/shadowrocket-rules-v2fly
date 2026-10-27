@@ -1,10 +1,10 @@
 # NAME: MICROSOFT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-19 08:42:22
-# DOMAIN-SUFFIX: 639
-# DOMAIN: 112
-# TOTAL: 751
+# UPDATED: 2026-10-27 08:50:24
+# DOMAIN-SUFFIX: 642
+# DOMAIN: 116
+# TOTAL: 758
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com
@@ -203,6 +203,9 @@ DOMAIN-SUFFIX,crmdynint-gcc.com
 DOMAIN-SUFFIX,crmdynint.com
 DOMAIN-SUFFIX,crossborderexpansion.com
 DOMAIN,ctldl.windowsupdate.com
+DOMAIN-SUFFIX,data.microsoft.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,dc.services.visualstudio.com
 DOMAIN-SUFFIX,dcg.microsoft.com
 DOMAIN,default.exp-tas.com
 DOMAIN-SUFFIX,dependabot.com
@@ -291,6 +294,7 @@ DOMAIN-SUFFIX,ie9.com
 DOMAIN-SUFFIX,imaginecup.pl
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,img-s-msn-com.akamaized.net
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
 DOMAIN-SUFFIX,ingads.com
 DOMAIN-SUFFIX,insiderdevtour.com
 DOMAIN-SUFFIX,internetexplorer.co
@@ -306,6 +310,7 @@ DOMAIN-SUFFIX,l-msedge.net
 DOMAIN-SUFFIX,latampartneruniversity.com
 DOMAIN,lex.download.prss.microsoft.com
 DOMAIN,lexuat.download.prss.microsoft.com
+DOMAIN,live.applicationinsights.azure.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.com.au
 DOMAIN-SUFFIX,live.eu
@@ -619,6 +624,7 @@ DOMAIN-SUFFIX,renovacionxboxlive.com
 DOMAIN-SUFFIX,repo.new
 DOMAIN,rink.hockeyapp.net
 DOMAIN,rsm.download.prss.microsoft.com
+DOMAIN,rt.services.visualstudio.com
 DOMAIN-SUFFIX,s-dc-msedge.net
 DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,s-msedge.net
@@ -671,6 +677,7 @@ DOMAIN-SUFFIX,sysinternals.com
 DOMAIN-SUFFIX,t-msedge.net
 DOMAIN-SUFFIX,tailwindtraders.com
 DOMAIN-SUFFIX,techhub.ms
+DOMAIN-SUFFIX,telemetry.microsoft.com
 DOMAIN-SUFFIX,tellmewhygame.com
 DOMAIN-SUFFIX,tfsallin.net
 DOMAIN-SUFFIX,th.bing.com
