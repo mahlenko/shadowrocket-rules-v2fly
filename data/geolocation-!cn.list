@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-27 08:50:24
-# DOMAIN-SUFFIX: 24515
+# UPDATED: 2026-10-29 09:44:09
+# DOMAIN-SUFFIX: 24516
 # DOMAIN: 1427
 # URL-REGEX: 158
-# TOTAL: 26100
+# TOTAL: 26101
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -12976,6 +12976,7 @@ DOMAIN-SUFFIX,itunesu.net
 DOMAIN-SUFFIX,ius.io
 DOMAIN-SUFFIX,iutunes.com
 DOMAIN-SUFFIX,ivi.ru
+DOMAIN-SUFFIX,ivi.tv
 DOMAIN-SUFFIX,ivicdn.tv
 DOMAIN-SUFFIX,ivintageporn.com
 DOMAIN-SUFFIX,iwank.tv
