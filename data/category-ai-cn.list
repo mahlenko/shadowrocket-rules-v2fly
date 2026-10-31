@@ -1,10 +1,10 @@
 # NAME: CATEGORY-AI-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-26 08:44:34
-# DOMAIN-SUFFIX: 114
+# UPDATED: 2026-10-31 09:28:57
+# DOMAIN-SUFFIX: 117
 # DOMAIN: 2
-# TOTAL: 116
+# TOTAL: 119
 DOMAIN,ai.zhaomi.cn
 DOMAIN-SUFFIX,aispeech.com
 DOMAIN-SUFFIX,antafu.com
@@ -48,6 +48,9 @@ DOMAIN-SUFFIX,doudou.com
 DOMAIN-SUFFIX,dui.ai
 DOMAIN-SUFFIX,duiopen.com
 DOMAIN-SUFFIX,dumate.cn
+DOMAIN-SUFFIX,favonis.cloud
+DOMAIN-SUFFIX,favonis.com
+DOMAIN-SUFFIX,favonis.space
 DOMAIN-SUFFIX,faxingbao.com
 DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,happyhorse.cn

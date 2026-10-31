@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-27 08:50:23
-# DOMAIN-SUFFIX: 7800
+# UPDATED: 2026-10-31 09:28:58
+# DOMAIN-SUFFIX: 7802
 # DOMAIN: 973
 # URL-REGEX: 6
-# TOTAL: 8779
+# TOTAL: 8781
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -1747,6 +1747,7 @@ DOMAIN-SUFFIX,bingapistatistics.com
 DOMAIN-SUFFIX,bingparachute.com
 DOMAIN-SUFFIX,bingsandbox.com
 DOMAIN,bingsettingssearch.trafficmanager.net
+DOMAIN-SUFFIX,bingstatic.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,binoculus.com
@@ -5931,6 +5932,7 @@ DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msfteducation.ca
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msftnet.org
+DOMAIN-SUFFIX,msftstatic.com
 DOMAIN-SUFFIX,msgamesresearch.com
 DOMAIN-SUFFIX,msgamestudios.com
 DOMAIN,msh.amazon.co.uk
