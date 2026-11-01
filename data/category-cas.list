@@ -1,10 +1,10 @@
 # NAME: CATEGORY-CAS
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-18 08:14:28
-# DOMAIN-SUFFIX: 230
+# UPDATED: 2026-11-01 10:18:19
+# DOMAIN-SUFFIX: 232
 # DOMAIN: 27
-# TOTAL: 257
+# TOTAL: 259
 DOMAIN-SUFFIX,accv.es
 DOMAIN-SUFFIX,actalis.com
 DOMAIN-SUFFIX,actalis.it
@@ -252,6 +252,7 @@ DOMAIN-SUFFIX,vodafone.com.tr
 DOMAIN-SUFFIX,vodafone.de
 DOMAIN-SUFFIX,vodafone.it
 DOMAIN-SUFFIX,vodafone.nl
+DOMAIN-SUFFIX,vodafoneziggo.nl
 DOMAIN-SUFFIX,wisecoin.com
 DOMAIN-SUFFIX,wiseid.com
 DOMAIN-SUFFIX,wisekey.com
@@ -262,3 +263,4 @@ DOMAIN,www.entrust.cn
 DOMAIN,www.microsoft.com
 DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,zert.ch
+DOMAIN-SUFFIX,ziggo.nl

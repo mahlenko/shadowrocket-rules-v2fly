@@ -1,0 +1,10 @@
+# NAME: WEBFLOW
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-11-01 10:18:20
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,webflow-ext.com
+DOMAIN-SUFFIX,webflow.com
+DOMAIN-SUFFIX,webflow.io
+DOMAIN-SUFFIX,website-files.com

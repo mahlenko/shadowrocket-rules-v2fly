@@ -1,10 +1,10 @@
 # NAME: ALIBABA
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-08 04:14:58
-# DOMAIN-SUFFIX: 459
+# UPDATED: 2026-11-01 10:18:18
+# DOMAIN-SUFFIX: 462
 # DOMAIN: 5
-# TOTAL: 464
+# TOTAL: 467
 DOMAIN-SUFFIX,11222.cn
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,25pp.com
@@ -122,6 +122,7 @@ DOMAIN-SUFFIX,alisports.com
 DOMAIN-SUFFIX,alitianji.com
 DOMAIN-SUFFIX,alitrip.com
 DOMAIN-SUFFIX,aliunicorn.com
+DOMAIN-SUFFIX,alivecdn.com
 DOMAIN-SUFFIX,aliway.com
 DOMAIN-SUFFIX,aliwork.com
 DOMAIN-SUFFIX,aliwx.com.cn
@@ -246,6 +247,7 @@ DOMAIN-SUFFIX,hemamax.com
 DOMAIN-SUFFIX,hemaos.com
 DOMAIN-SUFFIX,hemashare.cn
 DOMAIN-SUFFIX,hichina.com
+DOMAIN-SUFFIX,hmxs.cn
 DOMAIN-SUFFIX,hotfix-api.aliyuncs.com
 DOMAIN-SUFFIX,hupan.com
 DOMAIN-SUFFIX,hzchengdun.com
@@ -310,6 +312,7 @@ DOMAIN-SUFFIX,maitix.com
 DOMAIN-SUFFIX,mappcloud.com
 DOMAIN-SUFFIX,marketing.alibaba.com
 DOMAIN-SUFFIX,mashort.cn
+DOMAIN-SUFFIX,mayibao.cn
 DOMAIN-SUFFIX,mdeer.com
 DOMAIN-SUFFIX,mei.com
 DOMAIN-SUFFIX,miaostreet.com
