@@ -1,10 +1,10 @@
 # NAME: CATEGORY-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-29 09:44:08
-# DOMAIN-SUFFIX: 1917
+# UPDATED: 2026-11-03 10:41:22
+# DOMAIN-SUFFIX: 1919
 # DOMAIN: 236
-# TOTAL: 2153
+# TOTAL: 2155
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1c-bitrix.ru
 DOMAIN,1l-hit.mail.ru
@@ -235,6 +235,7 @@ DOMAIN-SUFFIX,beget.app
 DOMAIN-SUFFIX,beget.cloud
 DOMAIN-SUFFIX,beget.com
 DOMAIN-SUFFIX,beget.de
+DOMAIN-SUFFIX,beget.email
 DOMAIN-SUFFIX,beget.hosting
 DOMAIN-SUFFIX,beget.pro
 DOMAIN-SUFFIX,beget.ru
@@ -2149,6 +2150,7 @@ DOMAIN-SUFFIX,youla.ru
 DOMAIN-SUFFIX,yourgood.app
 DOMAIN-SUFFIX,yuzhno-sakhalinsk.ru
 DOMAIN-SUFFIX,zabedu.ru
+DOMAIN-SUFFIX,zapishu.me
 DOMAIN-SUFFIX,zarplata.ru
 DOMAIN-SUFFIX,zdrav10.ru
 DOMAIN-SUFFIX,zdravcity.ru
