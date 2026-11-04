@@ -1,7 +1,7 @@
 # NAME: OVERCLOCKERS-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-30 05:49:45
+# UPDATED: 2026-11-04 10:43:55
 # DOMAIN-SUFFIX: 12
 # TOTAL: 12
 DOMAIN-SUFFIX,ovcl.ru
@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,overclocker.ru
 DOMAIN-SUFFIX,overclockers.ru
 DOMAIN-SUFFIX,overclocking.ru
 DOMAIN-SUFFIX,overi.ru
-DOMAIN-SUFFIX,xn--80AGLFYFK.xn--p1ai
+DOMAIN-SUFFIX,xn--80aglfyfk.xn--p1ai
 DOMAIN-SUFFIX,xn--80aglzei.xn--p1ai
 DOMAIN-SUFFIX,xn--b1agatafrepfl.xn--p1ai
 DOMAIN-SUFFIX,xn--b1agpaeoen.xn--p1ai

@@ -1,7 +1,7 @@
 # NAME: CATEGORY-PORN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-31 09:28:58
+# UPDATED: 2026-11-04 10:43:54
 # DOMAIN-SUFFIX: 6520
 # DOMAIN: 5
 # URL-REGEX: 140
@@ -18,7 +18,7 @@ URL-REGEX,(^|\.)69bag[0-1][1-9]?\.com$
 URL-REGEX,(^|\.)783([a-z][a-z]?)?\.tv$
 URL-REGEX,(^|\.)7mm0([0-1][0-9]?)?\.com$
 URL-REGEX,(^|\.)8dgo[1-57-9]\.com$
-URL-REGEX,(^|\.)91cg([1-9]|[0-9][1-9])?.com$
+URL-REGEX,(^|\.)91cg([1-9]|[0-9][1-9])?\.com$
 URL-REGEX,(^|\.)91p[0-9][0-9]?\.com$
 URL-REGEX,(^|\.)91porn[0-9]?\.store$
 URL-REGEX,(^|\.)91porn[0-9]{3}\.me$
@@ -73,6 +73,7 @@ URL-REGEX,(^|\.)hhmen[1-3]\.xyz$
 URL-REGEX,(^|\.)hkfg[1-7]\.xyz$
 URL-REGEX,(^|\.)hs[1-9]{2}\.vip$
 URL-REGEX,(^|\.)jav777\.(cc|tv|work)$
+URL-REGEX,(^|\.)javdb\d+\.com$
 URL-REGEX,(^|\.)jb[1-9][0-9]\.lol$
 URL-REGEX,(^|\.)jbk0([0-1][0-9]?)?\.com$
 URL-REGEX,(^|\.)jdyy[1-9]?\.me$
@@ -3061,7 +3062,6 @@ DOMAIN-SUFFIX,javcup.com
 DOMAIN-SUFFIX,javdatabase.com
 DOMAIN-SUFFIX,javday.tv
 DOMAIN-SUFFIX,javdb.com
-URL-REGEX,javdb\d+\.com$
 DOMAIN-SUFFIX,javdisk.com
 DOMAIN-SUFFIX,javdock.com
 DOMAIN-SUFFIX,javdoe.to
