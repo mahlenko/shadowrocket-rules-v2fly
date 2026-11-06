@@ -1,10 +1,10 @@
 # NAME: TENCENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-01 10:18:20
-# DOMAIN-SUFFIX: 702
+# UPDATED: 2026-11-06 10:40:00
+# DOMAIN-SUFFIX: 704
 # DOMAIN: 1
-# TOTAL: 703
+# TOTAL: 705
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,97ting.com
 DOMAIN-SUFFIX,acctdns.com
@@ -267,7 +267,6 @@ DOMAIN-SUFFIX,ihappystudio.cn
 DOMAIN-SUFFIX,ihappystudio.com
 DOMAIN-SUFFIX,imqq.com
 DOMAIN-SUFFIX,imweb.io
-DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,inte.sogou.com
 DOMAIN-SUFFIX,inte.sogoucdn.com
 DOMAIN-SUFFIX,intltencentcos.com
@@ -298,6 +297,7 @@ DOMAIN-SUFFIX,kugouvoice.com
 DOMAIN-SUFFIX,kugouyouth.com
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,labycore.cn
+DOMAIN-SUFFIX,levelinfinite.com
 DOMAIN-SUFFIX,log.tbs.qq.com
 DOMAIN-SUFFIX,lrts.me
 DOMAIN-SUFFIX,lu.sogou.com
@@ -345,6 +345,7 @@ DOMAIN-SUFFIX,na-toronto.tencentcos.com.cn
 DOMAIN-SUFFIX,nagcloudcs.com
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextworkshop.net
+DOMAIN-SUFFIX,nikke-en.com
 DOMAIN-SUFFIX,onexmail.com
 DOMAIN-SUFFIX,openapp.run
 DOMAIN-SUFFIX,openmidas.com
@@ -586,6 +587,7 @@ DOMAIN-SUFFIX,tencentdigitalassistant.com
 DOMAIN-SUFFIX,tencentdms.com
 DOMAIN-SUFFIX,tencenteiam.com
 DOMAIN-SUFFIX,tencentelasticsearch.com
+DOMAIN-SUFFIX,tencentgames.com
 DOMAIN-SUFFIX,tencentid.com
 DOMAIN-SUFFIX,tencentidentity.com
 DOMAIN-SUFFIX,tencentmiying.com

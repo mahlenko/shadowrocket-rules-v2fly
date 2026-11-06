@@ -1,9 +1,9 @@
 # NAME: TENCENT-GAMES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-25 08:17:12
-# DOMAIN-SUFFIX: 85
-# TOTAL: 85
+# UPDATED: 2026-11-06 10:40:00
+# DOMAIN-SUFFIX: 87
+# TOTAL: 87
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,battlecare.net
@@ -33,8 +33,8 @@ DOMAIN-SUFFIX,hdyxgame.com
 DOMAIN-SUFFIX,hkgcloudcs.com
 DOMAIN-SUFFIX,ihappystudio.cn
 DOMAIN-SUFFIX,ihappystudio.com
-DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,labycore.cn
+DOMAIN-SUFFIX,levelinfinite.com
 DOMAIN-SUFFIX,ludosuperstar.cn
 DOMAIN-SUFFIX,ludoworld.net
 DOMAIN-SUFFIX,mahjongai.net
@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,mszdld.net
 DOMAIN-SUFFIX,nagcloudcs.com
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextworkshop.net
+DOMAIN-SUFFIX,nikke-en.com
 DOMAIN-SUFFIX,proximabeta.com
 DOMAIN-SUFFIX,pubghelper.com
 DOMAIN-SUFFIX,pubgno1.cn
@@ -71,6 +72,7 @@ DOMAIN-SUFFIX,supercellsupport.cn
 DOMAIN-SUFFIX,syxlgame.com
 DOMAIN-SUFFIX,tcfmglobal.com
 DOMAIN-SUFFIX,tencent-gcloud.com
+DOMAIN-SUFFIX,tencentgames.com
 DOMAIN-SUFFIX,tencentstart.com
 DOMAIN-SUFFIX,texasholdemcup.cn
 DOMAIN-SUFFIX,texasholdemcup.com
