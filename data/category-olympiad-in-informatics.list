@@ -1,9 +1,9 @@
 # NAME: CATEGORY-OLYMPIAD-IN-INFORMATICS
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-29 06:03:53
-# DOMAIN-SUFFIX: 18
-# TOTAL: 18
+# UPDATED: 2026-11-07 09:51:53
+# DOMAIN-SUFFIX: 19
+# TOTAL: 19
 DOMAIN-SUFFIX,51nod.com
 DOMAIN-SUFFIX,acwing.com
 DOMAIN-SUFFIX,adacpp.com
@@ -22,3 +22,4 @@ DOMAIN-SUFFIX,rqnoj.cn
 DOMAIN-SUFFIX,uoj.ac
 DOMAIN-SUFFIX,vijos.org
 DOMAIN-SUFFIX,xmoj.tech
+DOMAIN-SUFFIX,yundouxueyuan.com
