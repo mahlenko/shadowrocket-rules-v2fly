@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-08 10:05:42
-# DOMAIN-SUFFIX: 24539
+# UPDATED: 2026-11-10 10:56:40
+# DOMAIN-SUFFIX: 24544
 # DOMAIN: 1431
 # URL-REGEX: 158
-# TOTAL: 26128
+# TOTAL: 26133
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -10664,6 +10664,8 @@ DOMAIN-SUFFIX,gr-assets.com
 DOMAIN-SUFFIX,grabhentai.com
 DOMAIN-SUFFIX,grabpussy.com
 DOMAIN-SUFFIX,gradeuptube.com
+DOMAIN-SUFFIX,grafana.com
+DOMAIN-SUFFIX,grafana.net
 DOMAIN-SUFFIX,grafolio.com
 DOMAIN-SUFFIX,graias.com
 DOMAIN-SUFFIX,graiasmovies.com
@@ -19093,6 +19095,7 @@ DOMAIN-SUFFIX,quantil.com
 DOMAIN-SUFFIX,quatrowireless.com
 DOMAIN-SUFFIX,quatrum.com.br
 DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,questionablequesting.com
 DOMAIN,questions-adv.ozon.ru
 DOMAIN-SUFFIX,questvisual.com
 DOMAIN-SUFFIX,quicinc.com
@@ -21103,6 +21106,7 @@ DOMAIN-SUFFIX,soyjak.party
 DOMAIN-SUFFIX,soyjak.st
 DOMAIN-SUFFIX,sp.cool
 DOMAIN,sp.itunes.apple.com
+DOMAIN-SUFFIX,spacebattles.com
 DOMAIN-SUFFIX,spaceexplored.com
 DOMAIN-SUFFIX,spacely.com.au
 DOMAIN-SUFFIX,spacemail.com
@@ -23100,6 +23104,7 @@ DOMAIN-SUFFIX,v-av.com
 DOMAIN-SUFFIX,v-has.com
 DOMAIN-SUFFIX,v.gd
 DOMAIN-SUFFIX,v.ps
+DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,v2ph.com

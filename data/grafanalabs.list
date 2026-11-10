@@ -1,0 +1,8 @@
+# NAME: GRAFANALABS
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-11-10 10:56:40
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,grafana.com
+DOMAIN-SUFFIX,grafana.net

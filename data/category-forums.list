@@ -1,10 +1,10 @@
 # NAME: CATEGORY-FORUMS
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-22 08:28:58
-# DOMAIN-SUFFIX: 109
+# UPDATED: 2026-11-10 10:56:39
+# DOMAIN-SUFFIX: 112
 # DOMAIN: 2
-# TOTAL: 111
+# TOTAL: 114
 DOMAIN-SUFFIX,18p2p.com
 DOMAIN-SUFFIX,22112211.xyz
 DOMAIN-SUFFIX,2ch.hk
@@ -83,6 +83,7 @@ DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,ptt2.cc
 DOMAIN-SUFFIX,ptt3.cc
 DOMAIN-SUFFIX,qr.ae
+DOMAIN-SUFFIX,questionablequesting.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,redd.it
@@ -109,6 +110,8 @@ DOMAIN-SUFFIX,safechat.com
 DOMAIN-SUFFIX,sis001.com
 DOMAIN-SUFFIX,soyjak.party
 DOMAIN-SUFFIX,soyjak.st
+DOMAIN-SUFFIX,spacebattles.com
+DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN,www.quora.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,xda-cdn.com
