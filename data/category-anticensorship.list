@@ -1,10 +1,10 @@
 # NAME: CATEGORY-ANTICENSORSHIP
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-04 09:34:35
-# DOMAIN-SUFFIX: 120
+# UPDATED: 2026-11-13 10:47:20
+# DOMAIN-SUFFIX: 121
 # DOMAIN: 6
-# TOTAL: 126
+# TOTAL: 127
 DOMAIN-SUFFIX,2dust.link
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,ahmia.fi
@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,karing.app
 DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,log.rw
 DOMAIN-SUFFIX,lokinet.org
+DOMAIN-SUFFIX,manyvoices.news
 DOMAIN,matsuridayo.github.io
 DOMAIN,metacubex.github.io
 DOMAIN-SUFFIX,metacubex.one

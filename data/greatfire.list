@@ -1,9 +1,9 @@
 # NAME: GREATFIRE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-04 09:34:36
-# DOMAIN-SUFFIX: 11
-# TOTAL: 11
+# UPDATED: 2026-11-13 10:47:21
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,freewechat.com
@@ -13,5 +13,6 @@ DOMAIN-SUFFIX,googlecensorship.org
 DOMAIN-SUFFIX,googleplaycensorship.com
 DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,greatfirevpn.com
+DOMAIN-SUFFIX,manyvoices.news
 DOMAIN-SUFFIX,pao-pao.net
 DOMAIN-SUFFIX,wikiunblocked.org
