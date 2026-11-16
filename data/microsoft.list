@@ -1,10 +1,10 @@
 # NAME: MICROSOFT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-08 10:05:43
+# UPDATED: 2026-11-16 10:54:41
 # DOMAIN-SUFFIX: 644
-# DOMAIN: 117
-# TOTAL: 761
+# DOMAIN: 120
+# TOTAL: 764
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com
@@ -163,6 +163,7 @@ DOMAIN-SUFFIX,brazilpartneruniversity.com
 DOMAIN-SUFFIX,breakdown.me
 DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN-SUFFIX,c-msedge.net
 DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,callersbane.com
@@ -219,6 +220,7 @@ DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,docs.com
 DOMAIN-SUFFIX,doom.com
 DOMAIN-SUFFIX,dot.net
+DOMAIN,dotnetcli.trafficmanager.net
 DOMAIN,download.microsoft.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
@@ -670,6 +672,7 @@ DOMAIN,storecorefulfillment.download.prss.microsoft.com
 DOMAIN,storeedge.microsoft.com
 DOMAIN,storeedgefd.dsx.mp.microsoft.com
 DOMAIN-SUFFIX,successwithteams.com
+DOMAIN,sundry-star-net-geo.trafficmanager.net
 DOMAIN-SUFFIX,surface.com
 DOMAIN,surface.download.prss.microsoft.com
 DOMAIN,surface.downloads.prss.microsoft.com

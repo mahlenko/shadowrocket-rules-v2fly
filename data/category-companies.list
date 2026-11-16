@@ -1,11 +1,11 @@
 # NAME: CATEGORY-COMPANIES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-08 10:05:42
-# DOMAIN-SUFFIX: 7803
-# DOMAIN: 975
+# UPDATED: 2026-11-16 10:54:40
+# DOMAIN-SUFFIX: 7805
+# DOMAIN: 981
 # URL-REGEX: 6
-# TOTAL: 8784
+# TOTAL: 8792
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -1893,6 +1893,7 @@ DOMAIN-SUFFIX,budatt.com
 DOMAIN-SUFFIX,buddymedia.com
 DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,building3dcontent.com
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN-SUFFIX,bumpshare.com
 DOMAIN-SUFFIX,bumptop.ca
 DOMAIN-SUFFIX,bumptop.com
@@ -2030,6 +2031,7 @@ DOMAIN-SUFFIX,canonproprinters.com
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,canvastatus.com
 DOMAIN-SUFFIX,capitalg.com
+DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,carbon.com
 DOMAIN-SUFFIX,careersatfb.com
 DOMAIN-SUFFIX,carekit.org
@@ -2345,6 +2347,7 @@ DOMAIN,configuration-lb.ls-apple.com.akadns.net
 DOMAIN-SUFFIX,configuration.apple.com
 DOMAIN,configuration.apple.com
 DOMAIN,configuration.apple.com.akadns.net
+DOMAIN,configuration.ls.apple.com
 DOMAIN-SUFFIX,connect-in-canada.com
 DOMAIN,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,conoha.jp
@@ -2855,6 +2858,7 @@ DOMAIN-SUFFIX,dot.net
 DOMAIN-SUFFIX,dotfacebook.com
 DOMAIN-SUFFIX,dotfacebook.net
 DOMAIN-SUFFIX,dotmac.de
+DOMAIN,dotnetcli.trafficmanager.net
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.cn
@@ -5979,6 +5983,7 @@ DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN,music.apple.com
 DOMAIN-SUFFIX,musickit.net
+DOMAIN,musicstatus.itunes.apple.com
 DOMAIN,musicstatus.music.apple.com
 DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,muumuu-domain.com
@@ -6036,6 +6041,7 @@ DOMAIN-SUFFIX,mytrk.link
 DOMAIN,myvs.download.prss.microsoft.com
 DOMAIN-SUFFIX,mzl.la
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,mzstorekit.itunes.apple.com
 DOMAIN-SUFFIX,na-att-idns.net
 DOMAIN,na1r.services.adobe.com
 DOMAIN-SUFFIX,namemybeats.com
@@ -7400,6 +7406,7 @@ DOMAIN-SUFFIX,summitceo.ru
 DOMAIN-SUFFIX,sun.com
 DOMAIN-SUFFIX,sundanceignite2016.com
 DOMAIN-SUFFIX,sundayready.com
+DOMAIN,sundry-star-net-geo.trafficmanager.net
 DOMAIN-SUFFIX,sunglassessale2014.com
 DOMAIN-SUFFIX,superearsenjoy.com
 DOMAIN-SUFFIX,supersrv.de
@@ -8564,6 +8571,7 @@ DOMAIN-SUFFIX,yangofellowship.com
 DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yastatic-net.ru
 DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,yccdn.ru
 DOMAIN-SUFFIX,yclients.com
 DOMAIN-SUFFIX,ydb.tech

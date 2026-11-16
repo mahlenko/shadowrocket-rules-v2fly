@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-13 10:47:21
-# DOMAIN-SUFFIX: 24545
-# DOMAIN: 1431
+# UPDATED: 2026-11-16 10:54:41
+# DOMAIN-SUFFIX: 24550
+# DOMAIN: 1437
 # URL-REGEX: 158
-# TOTAL: 26134
+# TOTAL: 26145
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -4888,6 +4888,7 @@ DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,buhidoh.net
 DOMAIN-SUFFIX,buicha.social
 DOMAIN-SUFFIX,building3dcontent.com
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN-SUFFIX,builtfromebay.com
 DOMAIN-SUFFIX,builtwithnix.org
 DOMAIN-SUFFIX,bukkake-jav.com
@@ -5214,6 +5215,7 @@ DOMAIN-SUFFIX,capitalg.com
 DOMAIN-SUFFIX,capitalgames.com
 DOMAIN-SUFFIX,capitaliq.com
 DOMAIN-SUFFIX,capitalt.ru
+DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,capturingreality.com
 DOMAIN-SUFFIX,carbon.com
 DOMAIN-SUFFIX,carcare-and-tireshop.jp
@@ -6055,6 +6057,7 @@ DOMAIN,configuration-lb.ls-apple.com.akadns.net
 DOMAIN-SUFFIX,configuration.apple.com
 DOMAIN,configuration.apple.com
 DOMAIN,configuration.apple.com.akadns.net
+DOMAIN,configuration.ls.apple.com
 DOMAIN-SUFFIX,connaissancesfinancierespratiques.ca
 DOMAIN-SUFFIX,connect-in-canada.com
 DOMAIN-SUFFIX,connectcommerce.cn
@@ -6367,6 +6370,7 @@ DOMAIN-SUFFIX,cybertrust.co.jp
 DOMAIN-SUFFIX,cybertrust.ne.jp
 DOMAIN-SUFFIX,cyberx.com
 DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,cygames.com
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,cygwin.com
 DOMAIN-SUFFIX,cylink.pro
@@ -6585,6 +6589,7 @@ DOMAIN-SUFFIX,dealtree.org
 DOMAIN-SUFFIX,deasians.com
 DOMAIN-SUFFIX,debank.com
 DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,debot.ai
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,debugproject.com
 DOMAIN-SUFFIX,decentr.net
@@ -7348,6 +7353,7 @@ DOMAIN-SUFFIX,dotfreesex.com
 DOMAIN-SUFFIX,dotherex.com
 DOMAIN-SUFFIX,dothq.org
 DOMAIN-SUFFIX,dotmac.de
+DOMAIN,dotnetcli.trafficmanager.net
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.cn
@@ -15925,6 +15931,7 @@ DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,musicbay.net
 DOMAIN-SUFFIX,musicbrainz.org
 DOMAIN-SUFFIX,musickit.net
+DOMAIN,musicstatus.itunes.apple.com
 DOMAIN,musicstatus.music.apple.com
 DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,mut.ch
@@ -16140,6 +16147,7 @@ DOMAIN-SUFFIX,myyoungwifeisnude.com
 DOMAIN-SUFFIX,mzed.com
 DOMAIN-SUFFIX,mzl.la
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,mzstorekit.itunes.apple.com
 DOMAIN-SUFFIX,n0vadesktop.com
 DOMAIN-SUFFIX,n26.com
 DOMAIN-SUFFIX,n3ro.lol
@@ -19446,6 +19454,7 @@ DOMAIN,reklama.mail.ru
 DOMAIN-SUFFIX,relap.mail.ru
 DOMAIN-SUFFIX,relateiq.com
 DOMAIN-SUFFIX,remirepo.net
+DOMAIN-SUFFIX,remna.dev
 DOMAIN-SUFFIX,remna.st
 DOMAIN-SUFFIX,rencapbank.ru
 DOMAIN-SUFFIX,renchead.com
@@ -21598,6 +21607,7 @@ DOMAIN-SUFFIX,sun.com
 DOMAIN-SUFFIX,sunbingo.co.uk
 DOMAIN-SUFFIX,sundanceignite2016.com
 DOMAIN-SUFFIX,sundayready.com
+DOMAIN,sundry-star-net-geo.trafficmanager.net
 DOMAIN-SUFFIX,sunglassessale2014.com
 DOMAIN-SUFFIX,sunporno.com
 DOMAIN-SUFFIX,supadou.blogism.jp
@@ -25613,6 +25623,7 @@ DOMAIN-SUFFIX,yavtube.com
 DOMAIN-SUFFIX,yaya.cyou
 DOMAIN-SUFFIX,yayadizhi.xyz
 DOMAIN-SUFFIX,yazhouse8.com
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,yccdn.ru
 DOMAIN-SUFFIX,yclients.com
 DOMAIN-SUFFIX,ycombinator.com

@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-07 09:51:52
-# DOMAIN-SUFFIX: 1881
-# DOMAIN: 287
+# UPDATED: 2026-11-16 10:54:40
+# DOMAIN-SUFFIX: 1882
+# DOMAIN: 289
 # URL-REGEX: 10
-# TOTAL: 2178
+# TOTAL: 2181
 URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
@@ -319,6 +319,7 @@ DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,cxacg.com
 DOMAIN-SUFFIX,cyberpunk.net
 DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,cygames.com
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN,d1d0w7op819ely.cloudfront.net
 DOMAIN,d1fijc56o1fzod.cloudfront.net
@@ -1129,6 +1130,7 @@ DOMAIN-SUFFIX,music.apple.com
 DOMAIN,music.apple.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,musickit.net
+DOMAIN,musicstatus.itunes.apple.com
 DOMAIN,musicstatus.music.apple.com
 DOMAIN-SUFFIX,muvluv-girls-garden.com
 DOMAIN,mvod.itunes.apple.com
@@ -1141,6 +1143,7 @@ DOMAIN-SUFFIX,mythicentertainment.com
 DOMAIN-SUFFIX,mythicentertainment.net
 DOMAIN-SUFFIX,mythicgames.com
 DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN,mzstorekit.itunes.apple.com
 DOMAIN-SUFFIX,n0vadesktop.com
 DOMAIN-SUFFIX,namemc.com
 DOMAIN-SUFFIX,natgeomaps.com

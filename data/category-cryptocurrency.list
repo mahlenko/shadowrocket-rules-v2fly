@@ -1,10 +1,10 @@
 # NAME: CATEGORY-CRYPTOCURRENCY
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-22 08:28:58
-# DOMAIN-SUFFIX: 232
+# UPDATED: 2026-11-16 10:54:40
+# DOMAIN-SUFFIX: 233
 # DOMAIN: 8
-# TOTAL: 240
+# TOTAL: 241
 DOMAIN-SUFFIX,1inch.io
 DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,asproex.com
@@ -111,6 +111,7 @@ DOMAIN-SUFFIX,curve.fi
 DOMAIN-SUFFIX,cyberx.com
 DOMAIN,d3r7nsslvs6aaf.cloudfront.net
 DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,debot.ai
 DOMAIN-SUFFIX,delets.cash
 DOMAIN-SUFFIX,delets.online
 DOMAIN,deribit.cdn.prismic.io

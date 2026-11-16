@@ -1,10 +1,10 @@
 # NAME: CATEGORY-BANK-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-09 10:20:28
-# DOMAIN-SUFFIX: 353
+# UPDATED: 2026-11-16 10:54:40
+# DOMAIN-SUFFIX: 355
 # DOMAIN: 3
-# TOTAL: 356
+# TOTAL: 358
 DOMAIN-SUFFIX,2w.ru
 DOMAIN-SUFFIX,4c.ru
 DOMAIN-SUFFIX,4epenaxa.com
@@ -355,6 +355,8 @@ DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
 DOMAIN-SUFFIX,xn--b1aechhj6bof8g5a.site
 DOMAIN-SUFFIX,xn--d1abkf4ap.fun
 DOMAIN-SUFFIX,xn--h1ao.site
+DOMAIN-SUFFIX,yandex-bank.net
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,yoobusiness.ru
 DOMAIN-SUFFIX,yookassa.ru
 DOMAIN-SUFFIX,yoomoney.ru

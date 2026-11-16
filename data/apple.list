@@ -1,10 +1,10 @@
 # NAME: APPLE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-07 09:51:52
-# DOMAIN-SUFFIX: 1575
-# DOMAIN: 252
-# TOTAL: 1827
+# UPDATED: 2026-11-16 10:54:40
+# DOMAIN-SUFFIX: 1576
+# DOMAIN: 255
+# TOTAL: 1831
 DOMAIN-SUFFIX,100beatscheap.com
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
 DOMAIN-SUFFIX,12diasderegalosdeitunes.cl
@@ -770,6 +770,7 @@ DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,camelphat.com
 DOMAIN-SUFFIX,camelspaceeffect.com
 DOMAIN-SUFFIX,canada-beatsbydre.com
+DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,carbon.com
 DOMAIN-SUFFIX,carekit.org
 DOMAIN-SUFFIX,casque-fr.com
@@ -886,6 +887,7 @@ DOMAIN,configuration-lb.ls-apple.com.akadns.net
 DOMAIN-SUFFIX,configuration.apple.com
 DOMAIN,configuration.apple.com
 DOMAIN,configuration.apple.com.akadns.net
+DOMAIN,configuration.ls.apple.com
 DOMAIN-SUFFIX,cooliphonecasesstore.com
 DOMAIN-SUFFIX,coolmonster.net
 DOMAIN-SUFFIX,coreml.net
@@ -1542,6 +1544,7 @@ DOMAIN-SUFFIX,ms4dre.com
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN,music.apple.com
 DOMAIN-SUFFIX,musickit.net
+DOMAIN,musicstatus.itunes.apple.com
 DOMAIN,musicstatus.music.apple.com
 DOMAIN,mvod.itunes.apple.com
 DOMAIN,myapp.itunes.apple.com
@@ -1554,6 +1557,7 @@ DOMAIN-SUFFIX,myicloud.net
 DOMAIN-SUFFIX,myipod.net
 DOMAIN-SUFFIX,mylcloud.net
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,mzstorekit.itunes.apple.com
 DOMAIN-SUFFIX,namemybeats.com
 DOMAIN-SUFFIX,neborder.com
 DOMAIN-SUFFIX,negozimonsterbeats.com
