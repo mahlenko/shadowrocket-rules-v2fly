@@ -1,9 +1,9 @@
 # NAME: XIAOMI
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-28 06:59:58
-# DOMAIN-SUFFIX: 76
-# TOTAL: 76
+# UPDATED: 2026-11-19 11:24:16
+# DOMAIN-SUFFIX: 75
+# TOTAL: 75
 DOMAIN-SUFFIX,a.market.xiaomi.com
 DOMAIN-SUFFIX,account.xiaomi.com
 DOMAIN-SUFFIX,ad.intl.xiaomi.com
@@ -43,7 +43,6 @@ DOMAIN-SUFFIX,misc.in.duokanbox.com
 DOMAIN-SUFFIX,mitvos.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
-DOMAIN-SUFFIX,saxyit.com
 DOMAIN-SUFFIX,sentry.d.mi.com
 DOMAIN-SUFFIX,sentry.d.xiaomi.net
 DOMAIN-SUFFIX,stats.music.xiaomi.com

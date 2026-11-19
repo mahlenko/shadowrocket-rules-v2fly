@@ -1,10 +1,10 @@
 # NAME: TENCENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-06 10:40:00
-# DOMAIN-SUFFIX: 704
+# UPDATED: 2026-11-19 11:24:16
+# DOMAIN-SUFFIX: 705
 # DOMAIN: 1
-# TOTAL: 705
+# TOTAL: 706
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,97ting.com
 DOMAIN-SUFFIX,acctdns.com
@@ -558,6 +558,7 @@ DOMAIN-SUFFIX,tencent.com.hk
 DOMAIN-SUFFIX,tencent.design
 DOMAIN-SUFFIX,tencent.net
 DOMAIN-SUFFIX,tencent.net.cn
+DOMAIN-SUFFIX,tencentads.com
 DOMAIN-SUFFIX,tencentapps.com
 DOMAIN-SUFFIX,tencentbyod.com
 DOMAIN-SUFFIX,tencentcdb.cn

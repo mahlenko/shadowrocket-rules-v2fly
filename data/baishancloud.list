@@ -1,9 +1,15 @@
 # NAME: BAISHANCLOUD
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# UPDATED: 2026-11-19 11:24:14
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
+DOMAIN-SUFFIX,baishan.com
+DOMAIN-SUFFIX,baishancdnx.cn
+DOMAIN-SUFFIX,baishancloud.com
 DOMAIN-SUFFIX,bsclink.cn
 DOMAIN-SUFFIX,qingcdn.com
+DOMAIN-SUFFIX,saxyit.com
+DOMAIN-SUFFIX,trpcdn.com
 DOMAIN-SUFFIX,trpcdn.net
+DOMAIN-SUFFIX,yundun.com
