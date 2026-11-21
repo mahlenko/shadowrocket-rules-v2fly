@@ -1,11 +1,11 @@
 # NAME: PCCW
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 24
+# UPDATED: 2026-11-21 10:50:55
+# DOMAIN-SUFFIX: 26
 # DOMAIN: 4
 # URL-REGEX: 1
-# TOTAL: 29
+# TOTAL: 31
 DOMAIN-SUFFIX,1010.com.hk
 URL-REGEX,^ewcdn[0-9]+\.nowe\.com$
 DOMAIN,api.viu.now.com
@@ -14,6 +14,7 @@ DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 DOMAIN-SUFFIX,esmarthealth.com
 DOMAIN-SUFFIX,hkcsl.com
+DOMAIN-SUFFIX,hkt
 DOMAIN-SUFFIX,hkt-enterprise.com
 DOMAIN-SUFFIX,hkt-eye.com
 DOMAIN-SUFFIX,hkt.com
@@ -28,6 +29,7 @@ DOMAIN-SUFFIX,now.com
 DOMAIN-SUFFIX,now.com.hk
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowe.hk
+DOMAIN-SUFFIX,pccw
 DOMAIN-SUFFIX,pccw.com
 DOMAIN-SUFFIX,pccwglobal.com
 DOMAIN-SUFFIX,pccwsolutions.com

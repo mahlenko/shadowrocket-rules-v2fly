@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-19 11:24:15
-# DOMAIN-SUFFIX: 5603
+# UPDATED: 2026-11-21 10:50:55
+# DOMAIN-SUFFIX: 5607
 # DOMAIN: 64
 # URL-REGEX: 3
-# TOTAL: 5670
+# TOTAL: 5674
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -1730,6 +1730,7 @@ DOMAIN-SUFFIX,ebscn.com
 DOMAIN-SUFFIX,ebtrust.com
 DOMAIN-SUFFIX,eceshi.com
 DOMAIN-SUFFIX,echargenet.com
+DOMAIN-SUFFIX,echooai.com
 DOMAIN-SUFFIX,ecjobhome.com
 DOMAIN-SUFFIX,eckwai.com
 DOMAIN-SUFFIX,eclick.baidu.com
@@ -1840,8 +1841,10 @@ DOMAIN-SUFFIX,fastcom.com.cn
 DOMAIN-SUFFIX,favonis.cloud
 DOMAIN-SUFFIX,favonis.com
 DOMAIN-SUFFIX,favonis.space
+DOMAIN-SUFFIX,faw-vw.com
 DOMAIN-SUFFIX,faw.cn
 DOMAIN-SUFFIX,faxingbao.com
+DOMAIN-SUFFIX,fazhipro.com
 DOMAIN-SUFFIX,fbank.com
 DOMAIN-SUFFIX,fbstatic.cn
 DOMAIN-SUFFIX,fcbox.com
@@ -4132,6 +4135,7 @@ DOMAIN-SUFFIX,s.360.cn
 DOMAIN-SUFFIX,s.so.360.cn
 DOMAIN-SUFFIX,s.union.360.cn
 DOMAIN-SUFFIX,s0n.cn
+DOMAIN-SUFFIX,saasfz.com
 DOMAIN-SUFFIX,saasops.tech
 DOMAIN-SUFFIX,saayaa.com
 DOMAIN-SUFFIX,saduck.top

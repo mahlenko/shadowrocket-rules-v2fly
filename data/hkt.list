@@ -1,12 +1,13 @@
 # NAME: HKT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 12
-# TOTAL: 12
+# UPDATED: 2026-11-21 10:50:55
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
 DOMAIN-SUFFIX,1010.com.hk
 DOMAIN-SUFFIX,esmarthealth.com
 DOMAIN-SUFFIX,hkcsl.com
+DOMAIN-SUFFIX,hkt
 DOMAIN-SUFFIX,hkt-enterprise.com
 DOMAIN-SUFFIX,hkt-eye.com
 DOMAIN-SUFFIX,hkt.com
