@@ -1,10 +1,10 @@
 # NAME: DMM
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 16
+# UPDATED: 2026-11-22 10:59:13
+# DOMAIN-SUFFIX: 17
 # DOMAIN: 1
-# TOTAL: 17
+# TOTAL: 18
 DOMAIN-SUFFIX,ad.games.dmm.com
 DOMAIN,api-p.videomarket.jp
 DOMAIN-SUFFIX,bluekai.com
@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmmapis.com
 DOMAIN-SUFFIX,dmmrex.com
+DOMAIN-SUFFIX,fanza.jp
 DOMAIN-SUFFIX,fout.jp
 DOMAIN-SUFFIX,gmossp-sp.jp
 DOMAIN-SUFFIX,i-mobile.co.jp

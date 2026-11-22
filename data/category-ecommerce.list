@@ -1,10 +1,10 @@
 # NAME: CATEGORY-ECOMMERCE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-22 08:28:58
-# DOMAIN-SUFFIX: 1291
+# UPDATED: 2026-11-22 10:59:12
+# DOMAIN-SUFFIX: 1292
 # DOMAIN: 39
-# TOTAL: 1330
+# TOTAL: 1331
 DOMAIN-SUFFIX,21centuryaccess.com
 DOMAIN-SUFFIX,24.place
 DOMAIN-SUFFIX,4ebaytraders.com
@@ -556,6 +556,7 @@ DOMAIN-SUFFIX,eu-consumer-empowerment.com
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,expertmaker.com
 DOMAIN-SUFFIX,fairmarket.com
+DOMAIN-SUFFIX,fanza.jp
 DOMAIN-SUFFIX,farfetch-apps.com
 DOMAIN-SUFFIX,farfetch-contents.com
 DOMAIN-SUFFIX,farfetch.cn
