@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-19 11:24:14
-# DOMAIN-SUFFIX: 691
+# UPDATED: 2026-11-23 12:07:50
+# DOMAIN-SUFFIX: 695
 # DOMAIN: 22
 # URL-REGEX: 1
-# TOTAL: 714
+# TOTAL: 718
 DOMAIN-SUFFIX,11222.cn
 DOMAIN-SUFFIX,13a.com
 DOMAIN-SUFFIX,17173.com
@@ -162,6 +162,7 @@ DOMAIN-SUFFIX,changdunovel.com
 DOMAIN-SUFFIX,changyou.com
 DOMAIN-SUFFIX,chat.top
 DOMAIN-SUFFIX,chuapp.com
+DOMAIN-SUFFIX,chunithm.wahlap.com
 DOMAIN-SUFFIX,cibn.cc
 DOMAIN-SUFFIX,cibntv.net
 DOMAIN-SUFFIX,ciweimao.com
@@ -485,6 +486,7 @@ DOMAIN-SUFFIX,lzpipi.com
 DOMAIN-SUFFIX,m1905.cn
 DOMAIN-SUFFIX,m1905.com
 DOMAIN-SUFFIX,mail4399.com
+DOMAIN-SUFFIX,maimai.wahlap.com
 DOMAIN-SUFFIX,maindown4399.com
 DOMAIN-SUFFIX,mamecn.com
 DOMAIN-SUFFIX,manben.com
@@ -618,6 +620,7 @@ DOMAIN-SUFFIX,taomee.com
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,testplus.cn
 DOMAIN-SUFFIX,tgbus.com
+DOMAIN-SUFFIX,tgk-wcaime.wahlap.com
 DOMAIN-SUFFIX,tgpro.top
 DOMAIN-SUFFIX,tgprocs.net
 DOMAIN-SUFFIX,th-music.com
@@ -646,6 +649,7 @@ DOMAIN-SUFFIX,vrzwk.com
 DOMAIN-SUFFIX,vrzwk.net
 DOMAIN-SUFFIX,vrzwk.top
 DOMAIN-SUFFIX,vsread.com
+DOMAIN-SUFFIX,wahlap.net
 DOMAIN-SUFFIX,wanmei.com
 DOMAIN-SUFFIX,wanwan4399.com
 DOMAIN-SUFFIX,wasu.cn

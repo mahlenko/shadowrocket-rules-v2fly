@@ -1,11 +1,11 @@
 # NAME: CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-22 10:59:13
-# DOMAIN-SUFFIX: 5651
+# UPDATED: 2026-11-23 12:07:50
+# DOMAIN-SUFFIX: 5655
 # DOMAIN: 64
 # URL-REGEX: 3
-# TOTAL: 5718
+# TOTAL: 5722
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -1134,6 +1134,7 @@ DOMAIN-SUFFIX,chuapp.com
 DOMAIN-SUFFIX,chugou360.com
 DOMAIN-SUFFIX,chuimg.com
 DOMAIN-SUFFIX,chujingapp.com
+DOMAIN-SUFFIX,chunithm.wahlap.com
 DOMAIN-SUFFIX,chunyu.mobi
 DOMAIN-SUFFIX,chunyuyisheng.com
 DOMAIN-SUFFIX,chushi.cool
@@ -3349,6 +3350,7 @@ DOMAIN-SUFFIX,magedu.com
 DOMAIN-SUFFIX,maiche.com
 DOMAIN-SUFFIX,mail4399.com
 DOMAIN-SUFFIX,maimai.cn
+DOMAIN-SUFFIX,maimai.wahlap.com
 DOMAIN-SUFFIX,maimemo.com
 DOMAIN-SUFFIX,maimemostatus.com
 DOMAIN-SUFFIX,maindown4399.com
@@ -4561,6 +4563,7 @@ DOMAIN-SUFFIX,tfcaijing.com
 DOMAIN-SUFFIX,tfzq.com
 DOMAIN-SUFFIX,tgbus.com
 DOMAIN-SUFFIX,tggfl.com
+DOMAIN-SUFFIX,tgk-wcaime.wahlap.com
 DOMAIN-SUFFIX,tgpro.top
 DOMAIN-SUFFIX,tgprocs.net
 DOMAIN-SUFFIX,th-music.com
@@ -4899,6 +4902,7 @@ DOMAIN-SUFFIX,vtdd.vip
 DOMAIN-SUFFIX,vxhcm.com
 DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,wahaha.com.cn
+DOMAIN-SUFFIX,wahlap.net
 DOMAIN-SUFFIX,waifushangcheng.com
 DOMAIN-SUFFIX,wallstcn.com
 DOMAIN-SUFFIX,wallstreetcn.com

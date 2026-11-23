@@ -1,11 +1,11 @@
 # NAME: CATEGORY-GAMES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-19 11:24:14
-# DOMAIN-SUFFIX: 966
+# UPDATED: 2026-11-23 12:07:50
+# DOMAIN-SUFFIX: 970
 # DOMAIN: 99
 # URL-REGEX: 4
-# TOTAL: 1069
+# TOTAL: 1073
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,17173cdn.com
@@ -177,6 +177,7 @@ DOMAIN-SUFFIX,cgyouxi.com
 DOMAIN-SUFFIX,championshipseriesleague.com
 DOMAIN-SUFFIX,changyou.com
 DOMAIN-SUFFIX,chillingo.com
+DOMAIN-SUFFIX,chunithm.wahlap.com
 DOMAIN-SUFFIX,chunkbase.com
 DOMAIN-SUFFIX,clash.com
 DOMAIN-SUFFIX,clashmini.com
@@ -471,6 +472,7 @@ DOMAIN-SUFFIX,maddenseason.info
 DOMAIN-SUFFIX,maddenseason.net
 DOMAIN-SUFFIX,maddenseason.org
 DOMAIN-SUFFIX,mail4399.com
+DOMAIN-SUFFIX,maimai.wahlap.com
 DOMAIN-SUFFIX,maindown4399.com
 DOMAIN-SUFFIX,makearmanotwar.com
 DOMAIN-SUFFIX,marioandluigidreamteam.com
@@ -890,6 +892,7 @@ DOMAIN-SUFFIX,tarkov.com
 DOMAIN-SUFFIX,teamneedforspeed.com
 DOMAIN-SUFFIX,tellmewhygame.com
 DOMAIN-SUFFIX,testplus.cn
+DOMAIN-SUFFIX,tgk-wcaime.wahlap.com
 DOMAIN-SUFFIX,tgpro.top
 DOMAIN-SUFFIX,tgprocs.net
 DOMAIN-SUFFIX,thedreadwolfrises.com
@@ -971,6 +974,7 @@ DOMAIN-SUFFIX,vrzwk.cn
 DOMAIN-SUFFIX,vrzwk.com
 DOMAIN-SUFFIX,vrzwk.net
 DOMAIN-SUFFIX,vrzwk.top
+DOMAIN-SUFFIX,wahlap.net
 DOMAIN-SUFFIX,wanmei.com
 DOMAIN-SUFFIX,wanwan4399.com
 DOMAIN-SUFFIX,wargaming.com
