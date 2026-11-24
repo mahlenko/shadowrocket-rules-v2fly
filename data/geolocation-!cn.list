@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-22 10:59:13
-# DOMAIN-SUFFIX: 24444
-# DOMAIN: 1437
+# UPDATED: 2026-11-24 13:29:24
+# DOMAIN-SUFFIX: 24450
+# DOMAIN: 1438
 # URL-REGEX: 158
-# TOTAL: 26039
+# TOTAL: 26046
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -5018,6 +5018,7 @@ DOMAIN-SUFFIX,cabletv.com.hk
 DOMAIN-SUFFIX,cabletvdirectv.com
 DOMAIN,cache-management-prod.google.com
 DOMAIN,cache.pack.google.com
+DOMAIN-SUFFIX,cachix.org
 DOMAIN-SUFFIX,cad-mep.com
 DOMAIN-SUFFIX,cadcamsystemsinc.com
 DOMAIN-SUFFIX,cadduct.com
@@ -6133,6 +6134,7 @@ DOMAIN-SUFFIX,coursera-for-business.org
 DOMAIN-SUFFIX,coursera.community
 DOMAIN-SUFFIX,coursera.help
 DOMAIN-SUFFIX,coursera.org
+DOMAIN,courses.myecnu.org
 DOMAIN-SUFFIX,coverartarchive.org
 DOMAIN-SUFFIX,covid19-rx.org
 DOMAIN-SUFFIX,covid19rx.org
@@ -6554,6 +6556,7 @@ DOMAIN-SUFFIX,dealtime.com
 DOMAIN-SUFFIX,dealtree.org
 DOMAIN-SUFFIX,deasians.com
 DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,debian.map.fastlydns.net
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,debot.ai
 DOMAIN-SUFFIX,debug.com
@@ -8834,10 +8837,12 @@ DOMAIN-SUFFIX,fastindianporn.com
 DOMAIN-SUFFIX,fastlane.ci
 DOMAIN-SUFFIX,fastlane.tools
 DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,fastly-insights.com
 DOMAIN-SUFFIX,fastly-terrarium.com
 DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,fastly.io
 DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlydns.net
 DOMAIN-SUFFIX,fastlylabs.com
 DOMAIN-SUFFIX,fastlylb.net
 DOMAIN-SUFFIX,faststone.org
@@ -9911,6 +9916,7 @@ DOMAIN-SUFFIX,gemini.gstatic.com
 DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN,geminiweb-pa.clients.google.com
 DOMAIN,geminiweb-pa.clients6.google.com
+DOMAIN-SUFFIX,gemma.ai
 DOMAIN-SUFFIX,gen.lib.rus.ec
 DOMAIN-SUFFIX,genbank.ru
 DOMAIN-SUFFIX,gendai.net
@@ -23561,6 +23567,7 @@ DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.tv
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,vivaxnxx.com
+DOMAIN-SUFFIX,vivox.com
 DOMAIN-SUFFIX,vixen.com
 DOMAIN-SUFFIX,vixengroup.com
 DOMAIN-SUFFIX,vixvids.to

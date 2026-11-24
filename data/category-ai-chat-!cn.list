@@ -1,11 +1,11 @@
 # NAME: CATEGORY-AI-CHAT-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-18 11:26:23
-# DOMAIN-SUFFIX: 181
+# UPDATED: 2026-11-24 13:29:23
+# DOMAIN-SUFFIX: 182
 # DOMAIN: 37
 # URL-REGEX: 1
-# TOTAL: 219
+# TOTAL: 220
 URL-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN,ai.google.dev
@@ -115,6 +115,7 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,gemini.gstatic.com
 DOMAIN,geminiweb-pa.clients.google.com
 DOMAIN,geminiweb-pa.clients6.google.com
+DOMAIN-SUFFIX,gemma.ai
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,githubcopilot.com

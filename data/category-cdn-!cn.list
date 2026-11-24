@@ -1,9 +1,9 @@
 # NAME: CATEGORY-CDN-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-06 05:55:14
-# DOMAIN-SUFFIX: 195
-# TOTAL: 195
+# UPDATED: 2026-11-24 13:29:23
+# DOMAIN-SUFFIX: 197
+# TOTAL: 197
 DOMAIN-SUFFIX,accdn.com.cn
 DOMAIN-SUFFIX,ak1.net
 DOMAIN-SUFFIX,aka-ai.com
@@ -150,10 +150,12 @@ DOMAIN-SUFFIX,esm.run
 DOMAIN-SUFFIX,esm.sh
 DOMAIN-SUFFIX,every1dns.net
 DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,fastly-insights.com
 DOMAIN-SUFFIX,fastly-terrarium.com
 DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,fastly.io
 DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlydns.net
 DOMAIN-SUFFIX,fastlylabs.com
 DOMAIN-SUFFIX,fastlylb.net
 DOMAIN-SUFFIX,foundationdns.com

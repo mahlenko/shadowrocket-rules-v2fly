@@ -1,9 +1,9 @@
 # NAME: UNITY
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-31 09:35:18
-# DOMAIN-SUFFIX: 10
-# TOTAL: 10
+# UPDATED: 2026-11-24 13:29:24
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
 DOMAIN-SUFFIX,analytics.cloud.unity3d.com
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
@@ -14,3 +14,4 @@ DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-SUFFIX,vivox.com

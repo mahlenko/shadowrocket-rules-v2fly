@@ -1,11 +1,11 @@
 # NAME: ALPHABET
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-27 08:50:22
-# DOMAIN-SUFFIX: 894
+# UPDATED: 2026-11-24 13:29:23
+# DOMAIN-SUFFIX: 895
 # DOMAIN: 239
 # URL-REGEX: 2
-# TOTAL: 1135
+# TOTAL: 1136
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
@@ -316,6 +316,7 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,gemini.gstatic.com
 DOMAIN,geminiweb-pa.clients.google.com
 DOMAIN,geminiweb-pa.clients6.google.com
+DOMAIN-SUFFIX,gemma.ai
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,gerritcodereview.com
