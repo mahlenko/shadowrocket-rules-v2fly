@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-24 13:29:24
-# DOMAIN-SUFFIX: 24450
+# UPDATED: 2026-11-25 12:29:35
+# DOMAIN-SUFFIX: 24461
 # DOMAIN: 1438
 # URL-REGEX: 158
-# TOTAL: 26046
+# TOTAL: 26057
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -14799,18 +14799,21 @@ DOMAIN-SUFFIX,megaad.nz
 DOMAIN-SUFFIX,megacamz.com
 DOMAIN-SUFFIX,megaeth.com
 DOMAIN-SUFFIX,megafilmporno.com
+DOMAIN-SUFFIX,megafon.cloud
 DOMAIN-SUFFIX,megafon.com
 DOMAIN-SUFFIX,megafon.ru
 DOMAIN-SUFFIX,megafonpro.ru
 DOMAIN-SUFFIX,megalodon.jp
 DOMAIN-SUFFIX,megamon.co.kr
 DOMAIN-SUFFIX,megapay.nz
+DOMAIN-SUFFIX,megapbx.ru
 DOMAIN-SUFFIX,megaphone.fm
 DOMAIN-SUFFIX,megapornfreehd.com
 DOMAIN-SUFFIX,megaporno.com.br
 DOMAIN-SUFFIX,megapornpics.com
 DOMAIN-SUFFIX,megas4.com
 DOMAIN-SUFFIX,megasrv.de
+DOMAIN-SUFFIX,megatech-it.ru
 DOMAIN-SUFFIX,megatitsminka.com
 DOMAIN-SUFFIX,megogo.net
 DOMAIN-SUFFIX,meguso.com
@@ -14893,6 +14896,7 @@ DOMAIN-SUFFIX,mgfn.ru
 DOMAIN-SUFFIX,mgmt-azure-api.cn
 DOMAIN-SUFFIX,mgo-images.com
 DOMAIN-SUFFIX,mgo.com
+DOMAIN-SUFFIX,mgts.ru
 DOMAIN-SUFFIX,mhcb.ru
 DOMAIN-SUFFIX,mhcbr.ru
 DOMAIN-SUFFIX,mhgui.com
@@ -15454,6 +15458,7 @@ DOMAIN-SUFFIX,mobile01.com
 DOMAIN-SUFFIX,mobileads.google.com
 DOMAIN-SUFFIX,mobilefacebook.com
 DOMAIN-SUFFIX,mobileicq.com
+DOMAIN-SUFFIX,mobileid.ru
 DOMAIN-SUFFIX,mobileinternational.com
 DOMAIN-SUFFIX,mobileinternational.com.cn
 DOMAIN,mobilelive-hamivideo.cdn.hinet.net
@@ -15847,6 +15852,7 @@ DOMAIN-SUFFIX,mujikorea.net
 DOMAIN-SUFFIX,mulheresafoder.com
 DOMAIN-SUFFIX,mult34.com
 DOMAIN-SUFFIX,multicurrencycashpassport.com
+DOMAIN-SUFFIX,multifon.ru
 DOMAIN-SUFFIX,multiplydiversity.com
 DOMAIN-SUFFIX,multporn.net
 DOMAIN-SUFFIX,muncloud.dog
@@ -17076,6 +17082,7 @@ DOMAIN-SUFFIX,o365weve.com
 DOMAIN-SUFFIX,o3t.ru
 DOMAIN-SUFFIX,o3team.ru
 DOMAIN,o4504926511693824.ingest.sentry.io
+DOMAIN-SUFFIX,o7.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,oaiusercontent.com
@@ -17278,6 +17285,7 @@ DOMAIN-SUFFIX,onindiansex.com
 DOMAIN-SUFFIX,oninstagram.com
 DOMAIN-SUFFIX,onionshare.org
 DOMAIN-SUFFIX,onkakao.net
+DOMAIN-SUFFIX,onlime.ru
 DOMAIN-SUFFIX,online-deals.net
 DOMAIN-SUFFIX,online-instagram.com
 DOMAIN-SUFFIX,onlineapplestore.com
@@ -19561,6 +19569,7 @@ DOMAIN-SUFFIX,rosemarydoll.com
 DOMAIN-SUFFIX,roshy.tv
 DOMAIN-SUFFIX,rossiyasegodnya.com
 DOMAIN-SUFFIX,rostaxi.org
+DOMAIN-SUFFIX,rostelecom-rb.ru
 DOMAIN-SUFFIX,rostelecom.ru
 DOMAIN-SUFFIX,rou.video
 DOMAIN-SUFFIX,roudao6.buzz
@@ -21050,6 +21059,7 @@ DOMAIN-SUFFIX,spasibosb.ru
 DOMAIN-SUFFIX,spasibosberbank.ru
 DOMAIN-SUFFIX,spbexchange.ru
 DOMAIN-SUFFIX,spcc-sp.com
+DOMAIN-SUFFIX,spd-mgts.ru
 DOMAIN-SUFFIX,spearhead.kr
 DOMAIN,spectator.ppy.sh
 DOMAIN-SUFFIX,spectraltube.com
@@ -24912,6 +24922,7 @@ DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn
 DOMAIN-SUFFIX,xn--d1abkf4ap.fun
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com
+DOMAIN-SUFFIX,xn--e1aapchhekkk.xn--p1ai
 DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
 DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
 DOMAIN-SUFFIX,xn--fiq80y.hk

@@ -1,0 +1,14 @@
+# NAME: TRANSTELECOM
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-11-25 12:29:36
+# DOMAIN-SUFFIX: 8
+# TOTAL: 8
+DOMAIN-SUFFIX,baikal-ttk.ru
+DOMAIN-SUFFIX,kttk.ru
+DOMAIN-SUFFIX,myttk.ru
+DOMAIN-SUFFIX,sakhttk.ru
+DOMAIN-SUFFIX,ttc-net.ru
+DOMAIN-SUFFIX,ttk.ru
+DOMAIN-SUFFIX,ttkdv.ru
+DOMAIN-SUFFIX,zsttk.net

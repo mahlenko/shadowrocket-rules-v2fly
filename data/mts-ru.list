@@ -1,12 +1,13 @@
 # NAME: MTS-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-10-19 08:42:22
-# DOMAIN-SUFFIX: 13
-# TOTAL: 13
+# UPDATED: 2026-11-25 12:29:36
+# DOMAIN-SUFFIX: 15
+# TOTAL: 15
 DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,dbo-dengi.online
 DOMAIN-SUFFIX,kion.ru
+DOMAIN-SUFFIX,mgts.ru
 DOMAIN-SUFFIX,mts-link.ru
 DOMAIN-SUFFIX,mts-ws.net
 DOMAIN-SUFFIX,mts.ru
@@ -16,4 +17,5 @@ DOMAIN-SUFFIX,mtsmedia.ru
 DOMAIN-SUFFIX,mymts.ru
 DOMAIN-SUFFIX,obs.mts.ru
 DOMAIN-SUFFIX,on-media.ru
+DOMAIN-SUFFIX,spd-mgts.ru
 DOMAIN-SUFFIX,tvoyodbo.online
