@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-25 12:29:35
+# UPDATED: 2026-11-27 11:57:51
 # DOMAIN-SUFFIX: 24461
-# DOMAIN: 1438
+# DOMAIN: 1439
 # URL-REGEX: 158
-# TOTAL: 26057
+# TOTAL: 26058
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -2760,6 +2760,7 @@ DOMAIN-SUFFIX,auntymaza.com
 DOMAIN-SUFFIX,auricularemonsterbeats.com
 DOMAIN-SUFFIX,auricularesbeatsbaratosshop.com
 DOMAIN-SUFFIX,auricularesbeatsmarkt.com
+DOMAIN,aurora-customization-usw2.lithium.com
 DOMAIN-SUFFIX,auroraoss.com
 DOMAIN-SUFFIX,ausbeatsbydrdre.com
 DOMAIN-SUFFIX,auth0.com

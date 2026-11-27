@@ -1,10 +1,10 @@
 # NAME: MICROSOFT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-16 10:54:41
+# UPDATED: 2026-11-27 11:57:51
 # DOMAIN-SUFFIX: 644
-# DOMAIN: 120
-# TOTAL: 764
+# DOMAIN: 121
+# TOTAL: 765
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com
@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,aria.ms
 DOMAIN-SUFFIX,asp.net
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,atom.io
+DOMAIN,aurora-customization-usw2.lithium.com
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN-SUFFIX,azchcdna.com
 DOMAIN-SUFFIX,azchcdnb.com

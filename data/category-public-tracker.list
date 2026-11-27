@@ -1,10 +1,10 @@
 # NAME: CATEGORY-PUBLIC-TRACKER
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-14 05:37:13
-# DOMAIN-SUFFIX: 31
-# DOMAIN: 406
-# TOTAL: 437
+# UPDATED: 2026-11-27 11:57:50
+# DOMAIN-SUFFIX: 34
+# DOMAIN: 404
+# TOTAL: 438
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,10.rarbg.com
@@ -160,7 +160,8 @@ DOMAIN,opentor.org
 DOMAIN,opentracker.acgnx.com
 DOMAIN,opentracker.acgnx.se
 DOMAIN,opentracker.io
-DOMAIN,opentrackr.org
+DOMAIN-SUFFIX,opentracker.xyz
+DOMAIN-SUFFIX,opentrackr.org
 DOMAIN,oscar.reyesleon.xyz
 DOMAIN,p2p.0g.cx
 DOMAIN,p2p.publictracker.xyz
@@ -344,7 +345,6 @@ DOMAIN,tracker.netmap.top
 DOMAIN,tracker.nighthawk.pw
 DOMAIN,tracker.open-internet.nl
 DOMAIN,tracker.openbittorrent.com
-DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.picotorrent.one
 DOMAIN,tracker.pirateparty.gr
 DOMAIN,tracker.plx.im
@@ -440,5 +440,6 @@ DOMAIN,y.t-1.org
 DOMAIN,yolo.liberbear.com
 DOMAIN-SUFFIX,yuwabits.net
 DOMAIN,z.paranoid.agency
+DOMAIN-SUFFIX,zer0day.ch
 DOMAIN-SUFFIX,zone-torrent.net
 DOMAIN,zupix.online
