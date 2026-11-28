@@ -1,11 +1,11 @@
 # NAME: CATEGORY-GAMES-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-11-16 10:54:40
-# DOMAIN-SUFFIX: 788
+# UPDATED: 2026-11-28 11:34:13
+# DOMAIN-SUFFIX: 789
 # DOMAIN: 97
 # URL-REGEX: 3
-# TOTAL: 888
+# TOTAL: 889
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,2k.com
 DOMAIN-SUFFIX,2kcoretech.online
@@ -223,6 +223,7 @@ DOMAIN-SUFFIX,fabricmc.net
 DOMAIN-SUFFIX,faceit-cdn.net
 DOMAIN-SUFFIX,faceit.com
 DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,fce.gg
 DOMAIN-SUFFIX,ficgs.com
 DOMAIN-SUFFIX,fifastreet.com
 DOMAIN-SUFFIX,fifastreet3.com
